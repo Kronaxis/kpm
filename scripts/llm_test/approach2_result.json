@@ -1,0 +1,21 @@
+{
+  "councils_tested": [
+    "Lewisham",
+    "Sunderland",
+    "Bradford",
+    "Wolverhampton",
+    "St Albans"
+  ],
+  "predictions": {
+    "Lewisham": "Labour",
+    "Sunderland": "No overall control",
+    "Bradford": "No overall control",
+    "Wolverhampton": "Labour",
+    "St Albans": "No overall control"
+  },
+  "raw": "Lewisham | Labour | KPM-1 predicts Labour with a 15.5pp lead. Labour has held a majority since 2010 and has a directly elected mayor since 2002, indicating strong incumbency.\nSunderland | No overall control | KPM-1 predicts Reform UK with a narrow 3.0pp lead over Labour. Labour has held a majority since 1974. Such a tight, fragmented vote makes an outright majority for any party highly unlikely.\nBradford | No overall control | Wikipedia explicitly states \"The council has been under No Overall Control since 2026.\" This direct future-dated information overrides the KPM-1 vote share lead.\nWolverhampton | Labour | KPM-1 predicts Labour with a solid 13.0pp lead over Reform UK. Labour has held a majority since 2011, suggesting strong local support.\nSt Albans | No overall control | KPM-1 predicts Lib Dems with a narrow 4.0pp lead. With four parties above 10% and no party near 50%, an outright majority for any party is highly improbable.",
+  "hits_rag": 1,
+  "hits_kpm1": 2,
+  "hits_v15": 2,
+  "total": 5
+}

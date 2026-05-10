@@ -1,0 +1,40 @@
+{
+  "rules": [
+    {
+      "desc": "RULE_1: Strong Liberal Democrat incumbent holds seat",
+      "cond": "r['incumbent'] == 'Liberal Democrat' and share(r, 'Liberal Democrat') > 20",
+      "pred": "Liberal Democrat"
+    },
+    {
+      "desc": "RULE_2: Labour wins with clear lead",
+      "cond": "top1(r)[0] == 'Labour' and margin12(r) > 10",
+      "pred": "Labour"
+    },
+    {
+      "desc": "RULE_3: Reform UK upsets Labour incumbent",
+      "cond": "r['incumbent'] == 'Labour' and share(r, 'Reform UK') > 20 and (top1(r)[0] == 'Reform UK' or (top1(r)[0] == 'Labour' and top2(r)[0] == 'Reform UK' and margin12(r) <= 15))",
+      "pred": "Reform UK"
+    },
+    {
+      "desc": "RULE_4: Conservative incumbent holds in close race",
+      "cond": "r['incumbent'] == 'Conservative' and share(r, 'Conservative') > 20 and (top1(r)[0] == 'Conservative' or (top2(r)[0] == 'Conservative' and margin12(r) < 1))",
+      "pred": "Conservative"
+    }
+  ],
+  "raw": "RULE_1: Strong Liberal Democrat incumbent holds seat\nCONDITION: r['incumbent'] == 'Liberal Democrat' and share(r, 'Liberal Democrat') > 20\nPREDICT: Liberal Democrat\n\nRULE_2: Labour wins with clear lead\nCONDITION: top1(r)[0] == 'Labour' and margin12(r) > 10\nPREDICT: Labour\n\nRULE_3: Reform UK upsets Labour incumbent\nCONDITION: r['incumbent'] == 'Labour' and share(r, 'Reform UK') > 20 and (top1(r)[0] == 'Reform UK' or (top1(r)[0] == 'Labour' and top2(r)[0] == 'Reform UK' and margin12(r) <= 15))\nPREDICT: Reform UK\n\nRULE_4: Conservative incumbent holds in close race\nCONDITION: r['incumbent'] == 'Conservative' and share(r, 'Conservative') > 20 and (top1(r)[0] == 'Conservative' or (top2(r)[0] == 'Conservative' and margin12(r) < 1))\nPREDICT: Conservative\n\nRULE_5: Green Party wins in specific London boroughs or with strong lead\nCONDITION: (r['council'] in ['Waltham Forest', 'Hackney', 'Norwich'] and share(r, 'Green') > 15) or (top1(r)[0] == 'Green' and margin12(r) > 5",
+  "holdout": {
+    "hits": 6,
+    "total": 20,
+    "pct": 30.0
+  },
+  "train": {
+    "hits": 43,
+    "total": 110,
+    "pct": 39.1
+  },
+  "combined": {
+    "hits": 49,
+    "total": 130,
+    "pct": 37.7
+  }
+}

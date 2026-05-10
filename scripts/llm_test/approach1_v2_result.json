@@ -1,0 +1,29 @@
+{
+  "model": "gemini-2.5-flash",
+  "predictions": {
+    "Southwark": "Labour",
+    "Colchester": "No overall control",
+    "Lewisham": "Labour",
+    "Sheffield": "No overall control",
+    "Basingstoke and Deane": "No overall control",
+    "Sunderland": "No overall control",
+    "Bradford": "Labour",
+    "Cannock Chase": "Reform UK",
+    "Southampton": "No overall control",
+    "Salford": "Labour",
+    "Wolverhampton": "Labour",
+    "North Tyneside": "No overall control",
+    "Enfield": "No overall control",
+    "Welwyn Hatfield": "No overall control",
+    "Crawley": "No overall control",
+    "Hounslow": "No overall control",
+    "St Albans": "Liberal Democrat",
+    "Plymouth": "No overall control",
+    "Blackburn with Darwen": "Labour",
+    "Oxford": "No overall control"
+  },
+  "raw": "Southwark [Greater London] | Labour\nColchester [East of England] | No overall control\nLewisham [Greater London] | Labour\nSheffield [Yorkshire and The Humber] | No overall control\nBasingstoke and Deane [South East] | No overall control\nSunderland [North East] | No overall control\nBradford [Yorkshire and The Humber] | Labour\nCannock Chase [West Midlands] | Reform UK\nSouthampton [South East] | No overall control\nSalford [North West] | Labour\nWolverhampton [West Midlands] | Labour\nNorth Tyneside [North East] | No overall control\nEnfield [Greater London] | No overall control\nWelwyn Hatfield [East of England] | No overall control\nCrawley [South East] | No overall control\nHounslow [Greater London] | No overall control\nSt Albans [East of England] | Liberal Democrat\nPlymouth [South West] | No overall control\nBlackburn with Darwen [North West] | Labour\nOxford [South East] | No overall control",
+  "hits": 10,
+  "total": 20,
+  "pct": 50.0
+}

@@ -1,0 +1,21 @@
+name: Verify methodology hash and reproduce headline numbers
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  schedule:
+    # Daily at 02:00 UTC — drift detection
+    - cron: '0 2 * * *'
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Run reproducibility test
+        run: python3 -m tests.test_backtest

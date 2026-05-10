@@ -1,0 +1,212 @@
+{
+  "schema_version": "kronaxis-scorecard-metrics-v1",
+  "computed_at": "2026-05-10T19:31:02Z",
+  "totals": {
+    "n_scored": 260,
+    "n_predictions": 272
+  },
+  "by_methodology": {
+    "KPM-1 v1.0": {
+      "n": 130,
+      "hits": 37,
+      "pct": 28.5,
+      "is_backtest": false
+    },
+    "KPM-2.2 v15.1": {
+      "n": 130,
+      "hits": 77,
+      "pct": 59.2,
+      "is_backtest": true
+    }
+  },
+  "by_tier_kpm1": {
+    "Toss-up": {
+      "n": 120,
+      "hits": 36,
+      "pct": 30.0
+    },
+    "Lean": {
+      "n": 10,
+      "hits": 1,
+      "pct": 10.0
+    }
+  },
+  "by_region": {
+    "East Midlands": {
+      "n": 1,
+      "hits_kpm1": 0,
+      "hits_v151": 0,
+      "pct_kpm1": 0.0,
+      "pct_v151": 0.0
+    },
+    "East of England": {
+      "n": 23,
+      "hits_kpm1": 3,
+      "hits_v151": 11,
+      "pct_kpm1": 13.0,
+      "pct_v151": 47.8
+    },
+    "Greater London": {
+      "n": 31,
+      "hits_kpm1": 13,
+      "hits_v151": 17,
+      "pct_kpm1": 41.9,
+      "pct_v151": 54.8
+    },
+    "North East": {
+      "n": 6,
+      "hits_kpm1": 2,
+      "hits_v151": 3,
+      "pct_kpm1": 33.3,
+      "pct_v151": 50.0
+    },
+    "North West": {
+      "n": 21,
+      "hits_kpm1": 11,
+      "hits_v151": 13,
+      "pct_kpm1": 52.4,
+      "pct_v151": 61.9
+    },
+    "South East": {
+      "n": 23,
+      "hits_kpm1": 4,
+      "hits_v151": 15,
+      "pct_kpm1": 17.4,
+      "pct_v151": 65.2
+    },
+    "South West": {
+      "n": 3,
+      "hits_kpm1": 1,
+      "hits_v151": 3,
+      "pct_kpm1": 33.3,
+      "pct_v151": 100.0
+    },
+    "West Midlands": {
+      "n": 13,
+      "hits_kpm1": 2,
+      "hits_v151": 9,
+      "pct_kpm1": 15.4,
+      "pct_v151": 69.2
+    },
+    "Yorkshire and The Humber": {
+      "n": 9,
+      "hits_kpm1": 1,
+      "hits_v151": 6,
+      "pct_kpm1": 11.1,
+      "pct_v151": 66.7
+    }
+  },
+  "by_kind": {
+    "uk_council_election": {
+      "n_subjects": 130,
+      "methodologies": [
+        "KPM-1 v1.0",
+        "KPM-2.2 v15.1"
+      ]
+    }
+  },
+  "baselines": {
+    "always_noc": {
+      "hits": 63,
+      "n": 130,
+      "pct": 48.5
+    },
+    "always_labour": {
+      "hits": 27,
+      "n": 130,
+      "pct": 20.8
+    }
+  },
+  "notable_misses": [
+    {
+      "council": "Norwich",
+      "predicted": "No overall control",
+      "actual": "Green",
+      "category": "Green breakthrough (model did not anticipate)"
+    },
+    {
+      "council": "Hackney",
+      "predicted": "No overall control",
+      "actual": "Green",
+      "category": "Green breakthrough (model did not anticipate)"
+    },
+    {
+      "council": "Lewisham",
+      "predicted": "No overall control",
+      "actual": "Green",
+      "category": "Green breakthrough (model did not anticipate)"
+    },
+    {
+      "council": "Waltham Forest",
+      "predicted": "No overall control",
+      "actual": "Green",
+      "category": "Green breakthrough (model did not anticipate)"
+    },
+    {
+      "council": "Hastings",
+      "predicted": "No overall control",
+      "actual": "Green",
+      "category": "Green breakthrough (model did not anticipate)"
+    },
+    {
+      "council": "Essex",
+      "predicted": "No overall control",
+      "actual": "Reform UK",
+      "category": "Reform breakthrough"
+    },
+    {
+      "council": "Suffolk",
+      "predicted": "No overall control",
+      "actual": "Reform UK",
+      "category": "Reform breakthrough"
+    },
+    {
+      "council": "South Tyneside",
+      "predicted": "No overall control",
+      "actual": "Reform UK",
+      "category": "Reform breakthrough"
+    },
+    {
+      "council": "St Helens",
+      "predicted": "Labour",
+      "actual": "Reform UK",
+      "category": "Reform breakthrough"
+    },
+    {
+      "council": "Sandwell",
+      "predicted": "Labour",
+      "actual": "Reform UK",
+      "category": "Reform breakthrough"
+    },
+    {
+      "council": "Walsall",
+      "predicted": "No overall control",
+      "actual": "Reform UK",
+      "category": "Reform breakthrough"
+    },
+    {
+      "council": "Barnsley",
+      "predicted": "No overall control",
+      "actual": "Reform UK",
+      "category": "Reform breakthrough"
+    },
+    {
+      "council": "Watford",
+      "predicted": "No overall control",
+      "actual": "Liberal Democrat",
+      "category": "Lib Dem hold/pickup"
+    },
+    {
+      "council": "Stockport",
+      "predicted": "No overall control",
+      "actual": "Liberal Democrat",
+      "category": "Lib Dem hold/pickup"
+    },
+    {
+      "council": "Tunbridge Wells",
+      "predicted": "No overall control",
+      "actual": "Liberal Democrat",
+      "category": "Lib Dem hold/pickup"
+    }
+  ]
+}

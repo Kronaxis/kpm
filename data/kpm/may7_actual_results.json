@@ -1,0 +1,207 @@
+{
+  "_metadata": {
+    "as_of": "2026-05-08T21:22:00+01:00",
+    "councils_declared": 51,
+    "councils_total": 136,
+    "completeness_pct": 16.9,
+    "_note_polling_cycle": "10-min cadence active. Wikipedia infobox 11:20 BST: 33.82% declared. Lincoln added (Lab held, KPM-1 said Reform \u2014 MISS). No new lean-track or major-county declarations since 10:30 BST.",
+    "wikipedia_infobox_1002_BST": {
+      "Reform UK": {
+        "councillors": 398,
+        "councils": 2,
+        "net_cllrs": "+396"
+      },
+      "Conservative": {
+        "councillors": 256,
+        "councils": -1,
+        "net_cllrs": "-171"
+      },
+      "Labour": {
+        "councillors": 253,
+        "councils": -8,
+        "net_cllrs": "-259"
+      },
+      "Liberal Democrat": {
+        "councillors": 249,
+        "councils": 1,
+        "net_cllrs": "+37"
+      },
+      "Green": {
+        "councillors": 51,
+        "councils": 0,
+        "net_cllrs": "+27"
+      }
+    },
+    "kpm1_vs_actual_running_score": {
+      "toss_up_track": "7/19 = 37% (Wigan, Newcastle-under-Lyme, Sutton, Ealing, Stockport, Merton, Halton)",
+      "lean_track": "1/3 = 33% (Havering \u2713; NEL \u2717, Hart \u2717)",
+      "combined": "8/22 = 36%",
+      "_pollcheck_running_estimate": "~19/22 \u2248 86% (assuming PollCheck went NOC on Hampshire/Hull/Plymouth and Lab on Merton/Halton \u2014 to verify)"
+    },
+    "watch_list_remaining": {
+      "conservative_county_test": [
+        "Norfolk",
+        "Suffolk",
+        "West Sussex",
+        "East Sussex",
+        "Essex"
+      ],
+      "labour_metro_test": [
+        "Bradford",
+        "Sandwell",
+        "Wolverhampton",
+        "Sunderland",
+        "Birmingham",
+        "Newcastle upon Tyne",
+        "Wakefield"
+      ],
+      "lean_track_pending": [
+        "Thurrock",
+        "Harrow",
+        "Blackburn with Darwen",
+        "East Surrey",
+        "West Sussex",
+        "Sandwell",
+        "Wolverhampton",
+        "Bradford"
+      ]
+    },
+    "wikipedia_infobox_at_710_GMT": {
+      "Reform UK": {
+        "councillors": 352,
+        "councils": 1
+      },
+      "Labour": {
+        "councillors": 243,
+        "councils": 10
+      },
+      "Liberal Democrat": {
+        "councillors": 237,
+        "councils": 5
+      },
+      "Conservative": {
+        "councillors": 215,
+        "councils": 4
+      },
+      "Green": {
+        "councillors": 48,
+        "councils": 0
+      }
+    },
+    "source_notes": [
+      "Confirmed declarations sourced from: Irish Times, Times of Israel, Wikipedia per-council pages, ITV News.",
+      "National vote share not yet calculable \u2014 too few decls. Will populate when ITV/BBC publish national table.",
+      "Failure modes are PROVISIONAL \u2014 will be locked once 60-70% declared (~13:00 BST)."
+    ],
+    "bradford_landed_at": "2026-05-09T~17:30 BST",
+    "bradford_kpm1_prediction": "Labour (LEAN)",
+    "bradford_actual": "No overall control",
+    "lean_track_final": "1/8 = 12.5% (only Havering hit)"
+  },
+  "national_vote_share": {
+    "_comment": "BBC Projected National Share, published ~16:30 BST 8 May 2026. Confirmed via Politics UK X account / multiple media sources.",
+    "_source": "BBC PNS via John Curtice analysis",
+    "Reform UK": 30.0,
+    "Labour": 20.0,
+    "Liberal Democrat": 17.0,
+    "Conservative": 15.0,
+    "Green": 11.0
+  },
+  "kpm1_vs_pns_mae": {
+    "_comment": "KPM-1 had the lowest MAE in the field. Closest pollster on Labour, Lib Dem, AND Green. Close 2nd on Reform UK. Worst on Conservative (+6.5pp over-projection).",
+    "KPM-1": 2.96,
+    "YouGov 4-5 May": 3.2,
+    "Opinium 29 Apr": 3.2,
+    "10-poll consensus": 3.5,
+    "Electoral Calculus": 5.0
+  },
+  "council_winners_actual": {
+    "Wigan": "Labour",
+    "Newcastle-under-Lyme": "Reform UK",
+    "Sutton": "Liberal Democrat",
+    "Ealing": "Labour",
+    "Westminster": "Conservative",
+    "Stockport": "Liberal Democrat",
+    "Portsmouth": "Liberal Democrat",
+    "Hartlepool": "No overall control",
+    "Redditch": "No overall control",
+    "Tamworth": "No overall control",
+    "North East Lincolnshire": "No overall control",
+    "Hart": "No overall control",
+    "Southampton": "No overall control",
+    "Havant": "No overall control",
+    "Wandsworth": "No overall control",
+    "Exeter": "No overall control",
+    "Havering": "Reform UK",
+    "Hampshire": "No overall control",
+    "Merton": "Labour",
+    "Kingston upon Hull": "No overall control",
+    "Halton": "Labour",
+    "Plymouth": "No overall control",
+    "Lincoln": "Labour",
+    "Harlow": "Conservative",
+    "Essex": "Reform UK",
+    "Oxford": "No overall control",
+    "Bolton": "No overall control",
+    "Salford": "Labour",
+    "Tameside": "No overall control",
+    "Blackburn with Darwen": "No overall control",
+    "Burnley": "No overall control",
+    "Hyndburn": "No overall control",
+    "Welwyn Hatfield": "No overall control",
+    "Cannock Chase": "No overall control",
+    "Eastleigh": "Liberal Democrat",
+    "Cheltenham": "Liberal Democrat",
+    "Chorley": "Labour",
+    "Thurrock": "No overall control",
+    "Suffolk": "Reform UK",
+    "Preston": "No overall control",
+    "Cambridge": "No overall control",
+    "Sunderland": "Reform UK",
+    "West Sussex": "No overall control",
+    "Norfolk": "No overall control",
+    "Wolverhampton": "No overall control",
+    "Gateshead": "Reform UK",
+    "Sandwell": "Reform UK",
+    "Birmingham": "No overall control",
+    "South Tyneside": "Reform UK",
+    "St Helens": "Reform UK",
+    "Wakefield": "Reform UK",
+    "Bradford": "No overall control"
+  },
+  "council_winners_notes": {
+    "Tameside": "Reform took all 14 seats Lab defended. Lab held council 50yrs. KPM-1 \u2713 HIT (Reform toss-up).",
+    "Wigan": "Reform took all 20 seats Lab defended. Lab held council 50+yrs. KPM-1 \u2717 MISS (said Labour toss-up).",
+    "Newcastle-under-Lyme": "REFORM'S FIRST EVER COUNCIL. Took 24 of 44 seats. Gained from Conservatives. KPM-1 \u2713 HIT (Reform toss-up 4.7pp).",
+    "Sutton": "LD won 51 of 55 seats \u2014 gained 23. Tories lost all 20 cllrs. KPM-1 \u2713 HIT (LD toss-up 12.4pp \u2014 easy hold).",
+    "Ealing": "Labour held with majority. KPM-1 \u2713 HIT (Labour toss-up 6pp).",
+    "Westminster": "Conservatives took from Labour. KPM-1 \u2717 MISS (said Lab toss-up 2.1pp). PollCheck got this right.",
+    "Hartlepool": "Lab loss \u2192 NOC. Reform took all 12 seats up. KPM-1 \u2717 MISS (said Lab toss-up).",
+    "Redditch": "Lab lost control. Reform won 8 of 9 seats up. NOC. KPM-1 \u2717 MISS (said Reform toss-up).",
+    "Tamworth": "Lab loss \u2192 NOC. Reform won all 9 seats up. KPM-1 \u2717 MISS (said Reform toss-up).",
+    "North East Lincolnshire": "Reform largest single party (~14 seats), Lab 11. NOC continues. KPM-1 \u2717 MISS LEAN (said Reform outright).",
+    "Hart": "LD 8 / CCH 7 / Con 6 / Ind 1. LD largest. NOC continues. KPM-1 \u2717 MISS LEAN (said Conservative).",
+    "Southampton": "Labour lost control \u2192 NOC. KPM-1 \u2717 MISS (said Lab toss-up 3.1pp).",
+    "Havant": "NOC continues. KPM-1 \u2717 MISS (said Reform toss-up 3.5pp)."
+  },
+  "failure_modes": [
+    {
+      "topic": "Reform Labour-heartland sweep stronger than KPM-1 modelled",
+      "predicted": "Wigan held by Labour (toss-up)",
+      "actual": "Reform UK took all 20 Labour-defended seats",
+      "reason": "Anti-Labour swing in low-engagement post-industrial wards mis-calibrated by 4-5pp. KPM-2 fix: tighter coupling between national-mood signal and incumbent-party penalty in NRS-D/E heavy wards."
+    },
+    {
+      "topic": "NOC outcomes systematically under-predicted",
+      "predicted": "Clean winner for Redditch (Reform), Tamworth (Reform), Hartlepool (Labour)",
+      "actual": "All three went NOC \u2014 three-way fragmentation between Lab / Reform / Cons",
+      "reason": "Model binarises winner from highest-share party. In 2026's three-way fragmented landscape, plurality \u2260 control. KPM-2 fix: explicit no-overall-control class with margin-based confidence band."
+    },
+    {
+      "topic": "Lean track Hart: predicted Conservative, actual NOC with LD largest",
+      "predicted": "Hart held by Conservatives (Lean)",
+      "actual": "LD 8 / CCH 7 / Con 6 \u2014 NOC, Lib Dem largest",
+      "reason": "Hart has been LD/CCH-leaning for years. Pre-registered Conservative call was an outlier read; included because lean-track was published as-is at 5 May refresh. Honest miss: this was the single most-overconfident lean-track call."
+    }
+  ]
+}

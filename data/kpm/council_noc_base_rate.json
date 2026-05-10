@@ -1,0 +1,5254 @@
+{
+  "4 councils": {
+    "history": {
+      "2022": "4 councils"
+    },
+    "long_held_by": "4 councils",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Aberdeen": {
+    "history": {
+      "2022": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Aberdeenshire": {
+    "history": {
+      "2022": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Adur": {
+    "history": {
+      "2022": "Conservative",
+      "2024": "Labour"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 2,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "All 14 councils": {
+    "history": {
+      "2024": "All 14 councils"
+    },
+    "long_held_by": "All 14 councils",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "All 16 councils": {
+    "history": {
+      "2022": "All 16 councils"
+    },
+    "long_held_by": "All 16 councils",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "All 17 councils": {
+    "history": {
+      "2019": "All 17 councils"
+    },
+    "long_held_by": "All 17 councils",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "All 20 councils": {
+    "history": {
+      "2024": "All 20 councils"
+    },
+    "long_held_by": "All 20 councils",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "All 21 councils": {
+    "history": {
+      "2021": "All 21 councils"
+    },
+    "long_held_by": "All 21 councils",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "All 22 councils": {
+    "history": {
+      "2022": "All 22 councils"
+    },
+    "long_held_by": "All 22 councils",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "All 28 councils": {
+    "history": {
+      "2024": "All 28 councils"
+    },
+    "long_held_by": "All 28 councils",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "All 29 councils": {
+    "history": {
+      "2022": "All 29 councils"
+    },
+    "long_held_by": "All 29 councils",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "All 3 councils": {
+    "history": {
+      "2024": "All 3 councils"
+    },
+    "long_held_by": "All 3 councils",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "All 32 councils": {
+    "history": {
+      "2021": "All 32 councils",
+      "2022": "All 32 councils"
+    },
+    "long_held_by": "All 32 councils",
+    "n_appearances": 2,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 2
+  },
+  "All 33 councils": {
+    "history": {
+      "2019": "All 33 councils"
+    },
+    "long_held_by": "All 33 councils",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "All 34 councils": {
+    "history": {
+      "2024": "All 34 councils"
+    },
+    "long_held_by": "All 34 councils",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "All 4 councils": {
+    "history": {
+      "2024": "All 4 councils"
+    },
+    "long_held_by": "All 4 councils",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "All 47 councils": {
+    "history": {
+      "2019": "All 47 councils"
+    },
+    "long_held_by": "All 47 councils",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "All 49 councils": {
+    "history": {
+      "2022": "All 49 councils"
+    },
+    "long_held_by": "All 49 councils",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "All 5 councils": {
+    "history": {
+      "2022": "All 5 councils"
+    },
+    "long_held_by": "All 5 councils",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "All 6 councils": {
+    "history": {
+      "2022": "All 6 councils"
+    },
+    "long_held_by": "All 6 councils",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "All councils": {
+    "history": {
+      "2023": "All councils"
+    },
+    "long_held_by": "All councils",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "All fifteen councils": {
+    "history": {
+      "2021": "All fifteen councils"
+    },
+    "long_held_by": "All fifteen councils",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "All thirteen councils": {
+    "history": {
+      "2021": "All thirteen councils"
+    },
+    "long_held_by": "All thirteen councils",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "All three councils": {
+    "history": {
+      "2021": "All three councils"
+    },
+    "long_held_by": "All three councils",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Amber Valley": {
+    "history": {
+      "2019": "Labour",
+      "2022": "Conservative",
+      "2023": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 3,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 2
+  },
+  "Anglesey": {
+    "history": {
+      "2022": "Plaid Cymru"
+    },
+    "long_held_by": "Plaid Cymru",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Angus": {
+    "history": {
+      "2022": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Argyll and Bute": {
+    "history": {
+      "2022": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Arun": {
+    "history": {
+      "2019": "No overall control",
+      "2023": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 2,
+    "n_noc": 2,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Ashfield": {
+    "history": {
+      "2019": "Ashfield Ind.",
+      "2023": "Ashfield Ind."
+    },
+    "long_held_by": "Ashfield Ind.",
+    "n_appearances": 2,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 2
+  },
+  "Ashford": {
+    "history": {
+      "2023": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Ashford  \u2021": {
+    "history": {
+      "2019": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Babergh": {
+    "history": {
+      "2023": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Babergh  \u2021": {
+    "history": {
+      "2019": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Barking and Dagenham": {
+    "history": {
+      "2022": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Barnet": {
+    "history": {
+      "2018": "Conservative",
+      "2022": "Labour"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 2,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Barnsley": {
+    "history": {
+      "2019": "Labour",
+      "2021": "Labour",
+      "2022": "Labour",
+      "2023": "Labour",
+      "2024": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 5,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 5
+  },
+  "Barrow-in-Furness": {
+    "history": {
+      "2019": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Basildon": {
+    "history": {
+      "2018": "Conservative",
+      "2019": "No overall control",
+      "2021": "Conservative",
+      "2022": "Conservative",
+      "2023": "Conservative",
+      "2024": "No overall control"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 6,
+    "n_noc": 2,
+    "noc_rate": 0.333,
+    "tenure_cycles": 4
+  },
+  "Basingstoke and Deane": {
+    "history": {
+      "2018": "Conservative",
+      "2019": "Conservative",
+      "2022": "Conservative",
+      "2023": "No overall control",
+      "2024": "No overall control"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 5,
+    "n_noc": 2,
+    "noc_rate": 0.4,
+    "tenure_cycles": 3
+  },
+  "Bassetlaw": {
+    "history": {
+      "2019": "Labour",
+      "2023": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 2,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 2
+  },
+  "Bath and North East Somerset": {
+    "history": {
+      "2023": "Liberal Democrat"
+    },
+    "long_held_by": "Liberal Democrat",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Bedford": {
+    "history": {
+      "2019": "No overall control",
+      "2023": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 2,
+    "n_noc": 2,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Bexley": {
+    "history": {
+      "2018": "Conservative",
+      "2022": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 2,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 2
+  },
+  "Birmingham": {
+    "history": {
+      "2022": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Blaby": {
+    "history": {
+      "2019": "Conservative",
+      "2023": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 2,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 2
+  },
+  "Blackburn with Darwen": {
+    "history": {
+      "2019": "Labour",
+      "2021": "Labour",
+      "2022": "Labour",
+      "2023": "Labour",
+      "2024": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 5,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 5
+  },
+  "Blackpool": {
+    "history": {
+      "2019": "Labour",
+      "2023": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 2,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 2
+  },
+  "Blaenau Gwent": {
+    "history": {
+      "2022": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Bolsover": {
+    "history": {
+      "2023": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Bolsover  \u2021": {
+    "history": {
+      "2019": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Bolton": {
+    "history": {
+      "2018": "Labour",
+      "2019": "No overall control",
+      "2021": "No overall control",
+      "2022": "No overall control",
+      "2023": "No overall control",
+      "2024": "No overall control"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 6,
+    "n_noc": 5,
+    "noc_rate": 0.833,
+    "tenure_cycles": 1
+  },
+  "Boston": {
+    "history": {
+      "2019": "Conservative",
+      "2023": "Boston District Independents"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 2,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Bournemouth, Christchurch and Poole": {
+    "history": {
+      "2023": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Bournemouth, Christchurch and Poole *": {
+    "history": {
+      "2019": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Bracknell Forest": {
+    "history": {
+      "2019": "Conservative",
+      "2023": "Labour"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 2,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Bradford": {
+    "history": {
+      "2018": "Labour",
+      "2019": "Labour",
+      "2021": "Labour",
+      "2022": "Labour",
+      "2023": "Labour",
+      "2024": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 6,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 6
+  },
+  "Braintree": {
+    "history": {
+      "2019": "Conservative",
+      "2023": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 2,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 2
+  },
+  "Breckland": {
+    "history": {
+      "2019": "Conservative",
+      "2023": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 2,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 2
+  },
+  "Brent": {
+    "history": {
+      "2018": "Labour",
+      "2022": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 2,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 2
+  },
+  "Brentwood": {
+    "history": {
+      "2018": "Conservative",
+      "2019": "Conservative",
+      "2021": "Conservative",
+      "2022": "Conservative",
+      "2023": "No overall control",
+      "2024": "No overall control"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 6,
+    "n_noc": 2,
+    "noc_rate": 0.333,
+    "tenure_cycles": 4
+  },
+  "Bridgend": {
+    "history": {
+      "2022": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Brighton and Hove": {
+    "history": {
+      "2019": "No overall control",
+      "2023": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 2,
+    "n_noc": 1,
+    "noc_rate": 0.5,
+    "tenure_cycles": 1
+  },
+  "Bristol": {
+    "history": {
+      "2024": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Broadland": {
+    "history": {
+      "2019": "Conservative",
+      "2023": "No overall control"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 2,
+    "n_noc": 1,
+    "noc_rate": 0.5,
+    "tenure_cycles": 1
+  },
+  "Bromley": {
+    "history": {
+      "2018": "Conservative",
+      "2022": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 2,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 2
+  },
+  "Bromsgrove": {
+    "history": {
+      "2019": "Conservative",
+      "2023": "No overall control"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 2,
+    "n_noc": 1,
+    "noc_rate": 0.5,
+    "tenure_cycles": 1
+  },
+  "Broxbourne": {
+    "history": {
+      "2018": "Conservative",
+      "2019": "Conservative",
+      "2021": "Conservative",
+      "2022": "Conservative",
+      "2023": "Conservative",
+      "2024": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 6,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 6
+  },
+  "Broxtowe": {
+    "history": {
+      "2019": "No overall control",
+      "2023": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 2,
+    "n_noc": 1,
+    "noc_rate": 0.5,
+    "tenure_cycles": 1
+  },
+  "Buckinghamshire": {
+    "history": {
+      "2021": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Burnley": {
+    "history": {
+      "2018": "Labour",
+      "2019": "No overall control",
+      "2021": "No overall control",
+      "2022": "No overall control",
+      "2023": "No overall control",
+      "2024": "No overall control"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 6,
+    "n_noc": 5,
+    "noc_rate": 0.833,
+    "tenure_cycles": 1
+  },
+  "Bury": {
+    "history": {
+      "2018": "Labour",
+      "2019": "Labour",
+      "2021": "Labour",
+      "2022": "Labour",
+      "2023": "Labour",
+      "2024": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 6,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 6
+  },
+  "Caerphilly": {
+    "history": {
+      "2022": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Calderdale": {
+    "history": {
+      "2018": "No overall control",
+      "2019": "Labour",
+      "2021": "Labour",
+      "2022": "Labour",
+      "2023": "Labour",
+      "2024": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 6,
+    "n_noc": 1,
+    "noc_rate": 0.167,
+    "tenure_cycles": 5
+  },
+  "Cambridge": {
+    "history": {
+      "2018": "Labour",
+      "2019": "Labour",
+      "2021": "Labour",
+      "2022": "Labour",
+      "2023": "Labour",
+      "2024": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 6,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 6
+  },
+  "Camden": {
+    "history": {
+      "2018": "Labour",
+      "2022": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 2,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 2
+  },
+  "Cannock Chase": {
+    "history": {
+      "2018": "Labour",
+      "2019": "No overall control",
+      "2021": "Conservative",
+      "2022": "Conservative",
+      "2023": "No overall control",
+      "2024": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 6,
+    "n_noc": 2,
+    "noc_rate": 0.333,
+    "tenure_cycles": 2
+  },
+  "Canterbury": {
+    "history": {
+      "2019": "Conservative",
+      "2023": "No overall control"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 2,
+    "n_noc": 1,
+    "noc_rate": 0.5,
+    "tenure_cycles": 1
+  },
+  "Cardiff": {
+    "history": {
+      "2022": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Carlisle": {
+    "history": {
+      "2018": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Carlisle  \u2021!": {
+    "history": {
+      "2019": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Carmarthenshire": {
+    "history": {
+      "2022": "Plaid Cymru"
+    },
+    "long_held_by": "Plaid Cymru",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Castle Point": {
+    "history": {
+      "2018": "Conservative",
+      "2019": "Conservative",
+      "2021": "Conservative",
+      "2022": "No overall control",
+      "2023": "No overall control",
+      "2024": "PIP"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 6,
+    "n_noc": 2,
+    "noc_rate": 0.333,
+    "tenure_cycles": 3
+  },
+  "Central Bedfordshire": {
+    "history": {
+      "2019": "Conservative",
+      "2023": "No overall control"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 2,
+    "n_noc": 1,
+    "noc_rate": 0.5,
+    "tenure_cycles": 1
+  },
+  "Ceredigion": {
+    "history": {
+      "2022": "Plaid Cymru"
+    },
+    "long_held_by": "Plaid Cymru",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Charnwood": {
+    "history": {
+      "2019": "Conservative",
+      "2023": "No overall control"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 2,
+    "n_noc": 1,
+    "noc_rate": 0.5,
+    "tenure_cycles": 1
+  },
+  "Chelmsford": {
+    "history": {
+      "2019": "Liberal Democrat",
+      "2023": "Liberal Democrat"
+    },
+    "long_held_by": "Liberal Democrat",
+    "n_appearances": 2,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 2
+  },
+  "Cheltenham": {
+    "history": {
+      "2018": "Liberal Democrat",
+      "2021": "Liberal Democrat",
+      "2022": "Liberal Democrat",
+      "2024": "Liberal Democrat"
+    },
+    "long_held_by": "Liberal Democrat",
+    "n_appearances": 4,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 4
+  },
+  "Cherwell": {
+    "history": {
+      "2018": "Conservative",
+      "2019": "Conservative",
+      "2021": "Conservative",
+      "2022": "Conservative",
+      "2023": "No overall control",
+      "2024": "No overall control"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 6,
+    "n_noc": 2,
+    "noc_rate": 0.333,
+    "tenure_cycles": 4
+  },
+  "Cheshire East": {
+    "history": {
+      "2019": "No overall control",
+      "2023": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 2,
+    "n_noc": 2,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Cheshire West and Chester": {
+    "history": {
+      "2023": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Cheshire West and Chester \u2021": {
+    "history": {
+      "2019": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Chesterfield": {
+    "history": {
+      "2019": "Labour",
+      "2023": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 2,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 2
+  },
+  "Chichester": {
+    "history": {
+      "2023": "Liberal Democrat"
+    },
+    "long_held_by": "Liberal Democrat",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Chichester  \u2021": {
+    "history": {
+      "2019": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Chorley": {
+    "history": {
+      "2018": "Labour",
+      "2019": "Labour",
+      "2021": "Labour",
+      "2022": "Labour",
+      "2023": "Labour",
+      "2024": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 6,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 6
+  },
+  "Clackmannanshire": {
+    "history": {
+      "2022": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Colchester": {
+    "history": {
+      "2018": "No overall control",
+      "2019": "No overall control",
+      "2021": "No overall control",
+      "2022": "No overall control",
+      "2023": "No overall control",
+      "2024": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 6,
+    "n_noc": 6,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Conwy": {
+    "history": {
+      "2022": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Copeland  \u2021": {
+    "history": {
+      "2019": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Cornwall": {
+    "history": {
+      "2021": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Cotswold": {
+    "history": {
+      "2019": "Liberal Democrat",
+      "2023": "Liberal Democrat"
+    },
+    "long_held_by": "Liberal Democrat",
+    "n_appearances": 2,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 2
+  },
+  "County Durham": {
+    "history": {
+      "2021": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Coventry": {
+    "history": {
+      "2018": "Labour",
+      "2019": "Labour",
+      "2021": "Labour",
+      "2022": "Labour",
+      "2023": "Labour",
+      "2024": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 6,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 6
+  },
+  "Craven": {
+    "history": {
+      "2018": "Conservative",
+      "2019": "No overall control"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 2,
+    "n_noc": 1,
+    "noc_rate": 0.5,
+    "tenure_cycles": 1
+  },
+  "Crawley": {
+    "history": {
+      "2018": "Labour",
+      "2021": "No overall control",
+      "2022": "Labour",
+      "2023": "Labour",
+      "2024": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 5,
+    "n_noc": 1,
+    "noc_rate": 0.2,
+    "tenure_cycles": 4
+  },
+  "Crawley  \u2021!": {
+    "history": {
+      "2019": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Croydon": {
+    "history": {
+      "2018": "Labour",
+      "2022": "No overall control"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 2,
+    "n_noc": 1,
+    "noc_rate": 0.5,
+    "tenure_cycles": 1
+  },
+  "Cumberland": {
+    "history": {
+      "2022": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Dacorum": {
+    "history": {
+      "2019": "Conservative",
+      "2023": "Liberal Democrat"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 2,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Darlington": {
+    "history": {
+      "2019": "No overall control",
+      "2023": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 2,
+    "n_noc": 2,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Dartford": {
+    "history": {
+      "2023": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Dartford  \u2021": {
+    "history": {
+      "2019": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Daventry": {
+    "history": {
+      "2018": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Denbighshire": {
+    "history": {
+      "2022": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Derby": {
+    "history": {
+      "2018": "No overall control",
+      "2019": "No overall control",
+      "2021": "No overall control",
+      "2022": "No overall control",
+      "2023": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 5,
+    "n_noc": 5,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Derbyshire": {
+    "history": {
+      "2021": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Derbyshire Dales": {
+    "history": {
+      "2019": "Conservative",
+      "2023": "No overall control"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 2,
+    "n_noc": 1,
+    "noc_rate": 0.5,
+    "tenure_cycles": 1
+  },
+  "Devon": {
+    "history": {
+      "2021": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Dorset": {
+    "history": {
+      "2024": "Liberal Democrat"
+    },
+    "long_held_by": "Liberal Democrat",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Dorset *": {
+    "history": {
+      "2019": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Dover": {
+    "history": {
+      "2023": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Dover  \u2021": {
+    "history": {
+      "2019": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Dudley": {
+    "history": {
+      "2018": "No overall control",
+      "2019": "No overall control",
+      "2021": "Conservative",
+      "2022": "Conservative",
+      "2023": "Conservative",
+      "2024": "No overall control"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 6,
+    "n_noc": 3,
+    "noc_rate": 0.5,
+    "tenure_cycles": 3
+  },
+  "Dumfries and Galloway": {
+    "history": {
+      "2022": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Dundee": {
+    "history": {
+      "2022": "SNP"
+    },
+    "long_held_by": "SNP",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Ealing": {
+    "history": {
+      "2018": "Labour",
+      "2022": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 2,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 2
+  },
+  "East Ayrshire": {
+    "history": {
+      "2022": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "East Cambridgeshire": {
+    "history": {
+      "2023": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "East Cambridgeshire  \u2021": {
+    "history": {
+      "2019": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "East Devon": {
+    "history": {
+      "2023": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "East Devon  \u2021": {
+    "history": {
+      "2019": "Independent"
+    },
+    "long_held_by": "Independent",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "East Dunbartonshire": {
+    "history": {
+      "2022": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "East Hampshire": {
+    "history": {
+      "2023": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "East Hampshire  \u2021": {
+    "history": {
+      "2019": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "East Hertfordshire": {
+    "history": {
+      "2019": "Conservative",
+      "2023": "No overall control"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 2,
+    "n_noc": 1,
+    "noc_rate": 0.5,
+    "tenure_cycles": 1
+  },
+  "East Lindsey": {
+    "history": {
+      "2019": "Conservative",
+      "2023": "No overall control"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 2,
+    "n_noc": 1,
+    "noc_rate": 0.5,
+    "tenure_cycles": 1
+  },
+  "East Lothian": {
+    "history": {
+      "2022": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "East Renfrewshire": {
+    "history": {
+      "2022": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "East Riding of Yorkshire": {
+    "history": {
+      "2019": "Conservative",
+      "2023": "No overall control"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 2,
+    "n_noc": 1,
+    "noc_rate": 0.5,
+    "tenure_cycles": 1
+  },
+  "East Staffordshire": {
+    "history": {
+      "2019": "Conservative",
+      "2023": "Labour"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 2,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "East Suffolk": {
+    "history": {
+      "2023": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "East Suffolk  *": {
+    "history": {
+      "2019": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "East Sussex": {
+    "history": {
+      "2021": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Eastbourne": {
+    "history": {
+      "2023": "Liberal Democrat"
+    },
+    "long_held_by": "Liberal Democrat",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Eastbourne  \u2021": {
+    "history": {
+      "2019": "Liberal Democrat"
+    },
+    "long_held_by": "Liberal Democrat",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Eastleigh": {
+    "history": {
+      "2019": "Liberal Democrat",
+      "2021": "Liberal Democrat",
+      "2022": "Liberal Democrat",
+      "2023": "Liberal Democrat",
+      "2024": "Liberal Democrat"
+    },
+    "long_held_by": "Liberal Democrat",
+    "n_appearances": 5,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 5
+  },
+  "Eden": {
+    "history": {
+      "2019": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Edinburgh": {
+    "history": {
+      "2022": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Elmbridge": {
+    "history": {
+      "2018": "No overall control",
+      "2019": "No overall control",
+      "2021": "No overall control",
+      "2022": "No overall control",
+      "2023": "No overall control",
+      "2024": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 6,
+    "n_noc": 6,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Enfield": {
+    "history": {
+      "2018": "Labour",
+      "2022": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 2,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 2
+  },
+  "Epping Forest": {
+    "history": {
+      "2018": "Conservative",
+      "2019": "Conservative",
+      "2021": "Conservative",
+      "2022": "Conservative",
+      "2023": "Conservative",
+      "2024": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 6,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 6
+  },
+  "Epsom and Ewell": {
+    "history": {
+      "2019": "Residents Association",
+      "2023": "Residents Association"
+    },
+    "long_held_by": "Residents Association",
+    "n_appearances": 2,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 2
+  },
+  "Erewash": {
+    "history": {
+      "2019": "Conservative",
+      "2023": "Labour"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 2,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Essex": {
+    "history": {
+      "2021": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Exeter": {
+    "history": {
+      "2018": "Labour",
+      "2019": "Labour",
+      "2021": "Labour",
+      "2022": "Labour",
+      "2023": "Labour",
+      "2024": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 6,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 6
+  },
+  "Falkirk": {
+    "history": {
+      "2022": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Fareham": {
+    "history": {
+      "2018": "Conservative",
+      "2021": "Conservative",
+      "2022": "Conservative",
+      "2024": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 4,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 4
+  },
+  "Fenland": {
+    "history": {
+      "2019": "Conservative",
+      "2023": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 2,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 2
+  },
+  "Fife": {
+    "history": {
+      "2022": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Flintshire": {
+    "history": {
+      "2022": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Folkestone & Hythe": {
+    "history": {
+      "2019": "No overall control",
+      "2023": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 2,
+    "n_noc": 2,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Forest of Dean": {
+    "history": {
+      "2023": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Forest of Dean  \u2021": {
+    "history": {
+      "2019": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Fylde": {
+    "history": {
+      "2019": "Conservative",
+      "2023": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 2,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 2
+  },
+  "Gateshead": {
+    "history": {
+      "2018": "Labour",
+      "2019": "Labour",
+      "2021": "Labour",
+      "2022": "Labour",
+      "2023": "Labour",
+      "2024": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 6,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 6
+  },
+  "Gedling": {
+    "history": {
+      "2019": "Labour",
+      "2023": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 2,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 2
+  },
+  "Glasgow": {
+    "history": {
+      "2022": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Gloucester": {
+    "history": {
+      "2021": "Conservative",
+      "2024": "No overall control"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 2,
+    "n_noc": 1,
+    "noc_rate": 0.5,
+    "tenure_cycles": 1
+  },
+  "Gloucestershire": {
+    "history": {
+      "2021": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Gosport": {
+    "history": {
+      "2018": "Conservative",
+      "2021": "Conservative",
+      "2022": "Liberal Democrat",
+      "2024": "Liberal Democrat"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 4,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 2
+  },
+  "Gravesham": {
+    "history": {
+      "2019": "Labour",
+      "2023": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 2,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 2
+  },
+  "Great Yarmouth": {
+    "history": {
+      "2018": "Conservative",
+      "2023": "No overall control"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 2,
+    "n_noc": 1,
+    "noc_rate": 0.5,
+    "tenure_cycles": 1
+  },
+  "Great Yarmouth  \u2022": {
+    "history": {
+      "2019": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Greenwich": {
+    "history": {
+      "2018": "Labour",
+      "2022": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 2,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 2
+  },
+  "Guildford": {
+    "history": {
+      "2019": "No overall control",
+      "2023": "Liberal Democrat"
+    },
+    "long_held_by": "Liberal Democrat",
+    "n_appearances": 2,
+    "n_noc": 1,
+    "noc_rate": 0.5,
+    "tenure_cycles": 1
+  },
+  "Gwynedd": {
+    "history": {
+      "2022": "Plaid Cymru"
+    },
+    "long_held_by": "Plaid Cymru",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Hackney": {
+    "history": {
+      "2018": "Labour",
+      "2022": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 2,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 2
+  },
+  "Halton": {
+    "history": {
+      "2018": "Labour",
+      "2019": "Labour",
+      "2021": "Labour",
+      "2022": "Labour",
+      "2023": "Labour",
+      "2024": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 6,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 6
+  },
+  "Hambleton": {
+    "history": {
+      "2019": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Hammersmith and Fulham": {
+    "history": {
+      "2018": "Labour",
+      "2022": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 2,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 2
+  },
+  "Hampshire": {
+    "history": {
+      "2021": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Harborough": {
+    "history": {
+      "2023": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Harborough  \u2021": {
+    "history": {
+      "2019": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Haringey": {
+    "history": {
+      "2018": "Labour",
+      "2022": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 2,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 2
+  },
+  "Harlow": {
+    "history": {
+      "2018": "Labour",
+      "2019": "Labour",
+      "2021": "Conservative",
+      "2022": "Conservative",
+      "2023": "Conservative",
+      "2024": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 6,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 4
+  },
+  "Harrogate": {
+    "history": {
+      "2018": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Harrow": {
+    "history": {
+      "2018": "Labour",
+      "2022": "Conservative"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 2,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Hart": {
+    "history": {
+      "2018": "No overall control",
+      "2019": "No overall control",
+      "2021": "No overall control",
+      "2022": "No overall control",
+      "2023": "No overall control",
+      "2024": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 6,
+    "n_noc": 6,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Hartlepool": {
+    "history": {
+      "2018": "Labour",
+      "2019": "No overall control",
+      "2021": "No overall control",
+      "2022": "No overall control",
+      "2023": "No overall control",
+      "2024": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 6,
+    "n_noc": 4,
+    "noc_rate": 0.667,
+    "tenure_cycles": 2
+  },
+  "Hastings": {
+    "history": {
+      "2018": "Labour",
+      "2021": "Labour",
+      "2022": "No overall control",
+      "2024": "No overall control"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 4,
+    "n_noc": 2,
+    "noc_rate": 0.5,
+    "tenure_cycles": 2
+  },
+  "Havant": {
+    "history": {
+      "2018": "Conservative",
+      "2019": "Conservative",
+      "2021": "Conservative",
+      "2022": "Conservative",
+      "2023": "Conservative",
+      "2024": "No overall control"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 6,
+    "n_noc": 1,
+    "noc_rate": 0.167,
+    "tenure_cycles": 5
+  },
+  "Havering": {
+    "history": {
+      "2018": "No overall control",
+      "2022": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 2,
+    "n_noc": 2,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Herefordshire": {
+    "history": {
+      "2019": "No overall control",
+      "2023": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 2,
+    "n_noc": 2,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Hertfordshire": {
+    "history": {
+      "2021": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Hertsmere": {
+    "history": {
+      "2023": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Hertsmere  \u2021": {
+    "history": {
+      "2019": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "High Peak": {
+    "history": {
+      "2019": "Labour",
+      "2023": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 2,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 2
+  },
+  "Highland": {
+    "history": {
+      "2022": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Hillingdon": {
+    "history": {
+      "2018": "Conservative",
+      "2022": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 2,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 2
+  },
+  "Hinckley and Bosworth": {
+    "history": {
+      "2019": "Liberal Democrat",
+      "2023": "Liberal Democrat"
+    },
+    "long_held_by": "Liberal Democrat",
+    "n_appearances": 2,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 2
+  },
+  "Horsham": {
+    "history": {
+      "2023": "Liberal Democrat"
+    },
+    "long_held_by": "Liberal Democrat",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Horsham  \u2021": {
+    "history": {
+      "2019": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Hounslow": {
+    "history": {
+      "2018": "Labour",
+      "2022": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 2,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 2
+  },
+  "Hull": {
+    "history": {
+      "2019": "Labour",
+      "2021": "Labour",
+      "2022": "Liberal Democrat",
+      "2023": "Liberal Democrat",
+      "2024": "Liberal Democrat"
+    },
+    "long_held_by": "Liberal Democrat",
+    "n_appearances": 5,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 3
+  },
+  "Huntingdonshire": {
+    "history": {
+      "2018": "Conservative",
+      "2022": "No overall control"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 2,
+    "n_noc": 1,
+    "noc_rate": 0.5,
+    "tenure_cycles": 1
+  },
+  "Hyndburn": {
+    "history": {
+      "2018": "Labour",
+      "2019": "Labour",
+      "2021": "Labour",
+      "2022": "No overall control",
+      "2023": "No overall control",
+      "2024": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 6,
+    "n_noc": 2,
+    "noc_rate": 0.333,
+    "tenure_cycles": 4
+  },
+  "Inverclyde": {
+    "history": {
+      "2022": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Ipswich": {
+    "history": {
+      "2018": "Labour",
+      "2019": "Labour",
+      "2021": "Labour",
+      "2022": "Labour",
+      "2023": "Labour",
+      "2024": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 6,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 6
+  },
+  "Isle of Wight": {
+    "history": {
+      "2021": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Islington": {
+    "history": {
+      "2018": "Labour",
+      "2022": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 2,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 2
+  },
+  "Kensington and Chelsea": {
+    "history": {
+      "2018": "Conservative",
+      "2022": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 2,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 2
+  },
+  "Kent": {
+    "history": {
+      "2021": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "King's Lynn and West Norfolk": {
+    "history": {
+      "2023": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "King's Lynn and West Norfolk  \u2021": {
+    "history": {
+      "2019": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Kingston upon Thames": {
+    "history": {
+      "2018": "Liberal Democrat",
+      "2022": "Liberal Democrat"
+    },
+    "long_held_by": "Liberal Democrat",
+    "n_appearances": 2,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 2
+  },
+  "Kirklees": {
+    "history": {
+      "2018": "Labour",
+      "2019": "Labour",
+      "2021": "No overall control",
+      "2022": "Labour",
+      "2023": "Labour",
+      "2024": "No overall control"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 6,
+    "n_noc": 2,
+    "noc_rate": 0.333,
+    "tenure_cycles": 4
+  },
+  "Knowsley": {
+    "history": {
+      "2018": "Labour",
+      "2019": "Labour",
+      "2021": "Labour",
+      "2022": "Labour",
+      "2023": "Labour",
+      "2024": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 6,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 6
+  },
+  "Lambeth": {
+    "history": {
+      "2018": "Labour",
+      "2022": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 2,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 2
+  },
+  "Lancashire": {
+    "history": {
+      "2021": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Lancaster": {
+    "history": {
+      "2019": "No overall control",
+      "2023": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 2,
+    "n_noc": 2,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Leeds": {
+    "history": {
+      "2018": "Labour",
+      "2019": "Labour",
+      "2021": "Labour",
+      "2022": "Labour",
+      "2023": "Labour",
+      "2024": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 6,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 6
+  },
+  "Leicester": {
+    "history": {
+      "2019": "Labour",
+      "2023": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 2,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 2
+  },
+  "Leicestershire": {
+    "history": {
+      "2021": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Lewes": {
+    "history": {
+      "2023": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Lewes  \u2021": {
+    "history": {
+      "2019": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Lewisham": {
+    "history": {
+      "2018": "Labour",
+      "2022": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 2,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 2
+  },
+  "Lichfield": {
+    "history": {
+      "2019": "Conservative",
+      "2023": "No overall control"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 2,
+    "n_noc": 1,
+    "noc_rate": 0.5,
+    "tenure_cycles": 1
+  },
+  "Lincoln": {
+    "history": {
+      "2018": "Labour",
+      "2019": "Labour",
+      "2021": "Labour",
+      "2022": "Labour",
+      "2023": "Labour",
+      "2024": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 6,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 6
+  },
+  "Lincolnshire": {
+    "history": {
+      "2021": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Liverpool": {
+    "history": {
+      "2018": "Labour",
+      "2019": "Labour",
+      "2021": "Labour",
+      "2023": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 4,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 4
+  },
+  "Luton": {
+    "history": {
+      "2019": "Labour",
+      "2023": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 2,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 2
+  },
+  "Maidstone": {
+    "history": {
+      "2018": "No overall control",
+      "2019": "No overall control",
+      "2021": "Conservative",
+      "2022": "Conservative",
+      "2023": "No overall control",
+      "2024": "No overall control"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 6,
+    "n_noc": 4,
+    "noc_rate": 0.667,
+    "tenure_cycles": 2
+  },
+  "Maldon": {
+    "history": {
+      "2019": "Conservative",
+      "2023": "No overall control"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 2,
+    "n_noc": 1,
+    "noc_rate": 0.5,
+    "tenure_cycles": 1
+  },
+  "Malvern Hills": {
+    "history": {
+      "2019": "No overall control",
+      "2023": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 2,
+    "n_noc": 2,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Manchester": {
+    "history": {
+      "2018": "Labour",
+      "2019": "Labour",
+      "2021": "Labour",
+      "2022": "Labour",
+      "2023": "Labour",
+      "2024": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 6,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 6
+  },
+  "Mansfield": {
+    "history": {
+      "2019": "Mansfield Independent",
+      "2023": "Labour"
+    },
+    "long_held_by": "Mansfield Independent",
+    "n_appearances": 2,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Medway": {
+    "history": {
+      "2019": "Conservative",
+      "2023": "Labour"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 2,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Melton": {
+    "history": {
+      "2019": "Conservative",
+      "2023": "No overall control"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 2,
+    "n_noc": 1,
+    "noc_rate": 0.5,
+    "tenure_cycles": 1
+  },
+  "Mendip": {
+    "history": {
+      "2019": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Merthyr Tydfil": {
+    "history": {
+      "2022": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Merton": {
+    "history": {
+      "2018": "Labour",
+      "2022": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 2,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 2
+  },
+  "Mid Devon": {
+    "history": {
+      "2019": "No overall control",
+      "2023": "Liberal Democrat"
+    },
+    "long_held_by": "Liberal Democrat",
+    "n_appearances": 2,
+    "n_noc": 1,
+    "noc_rate": 0.5,
+    "tenure_cycles": 1
+  },
+  "Mid Suffolk": {
+    "history": {
+      "2023": "Green"
+    },
+    "long_held_by": "Green",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Mid Suffolk  \u2021": {
+    "history": {
+      "2019": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Mid Sussex": {
+    "history": {
+      "2019": "Conservative",
+      "2023": "No overall control"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 2,
+    "n_noc": 1,
+    "noc_rate": 0.5,
+    "tenure_cycles": 1
+  },
+  "Middlesbrough": {
+    "history": {
+      "2019": "No overall control",
+      "2023": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 2,
+    "n_noc": 1,
+    "noc_rate": 0.5,
+    "tenure_cycles": 1
+  },
+  "Midlothian": {
+    "history": {
+      "2022": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Milton Keynes": {
+    "history": {
+      "2018": "No overall control",
+      "2019": "No overall control",
+      "2021": "No overall control",
+      "2022": "No overall control",
+      "2023": "No overall control",
+      "2024": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 6,
+    "n_noc": 5,
+    "noc_rate": 0.833,
+    "tenure_cycles": 1
+  },
+  "Mole Valley": {
+    "history": {
+      "2018": "No overall control",
+      "2019": "Liberal Democrat",
+      "2021": "Liberal Democrat",
+      "2022": "Liberal Democrat",
+      "2023": "Liberal Democrat",
+      "2024": "Liberal Democrat"
+    },
+    "long_held_by": "Liberal Democrat",
+    "n_appearances": 6,
+    "n_noc": 1,
+    "noc_rate": 0.167,
+    "tenure_cycles": 5
+  },
+  "Monmouthshire": {
+    "history": {
+      "2022": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Moray": {
+    "history": {
+      "2022": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Na h-Eileanan Siar": {
+    "history": {
+      "2022": "Independent"
+    },
+    "long_held_by": "Independent",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Neath Port Talbot": {
+    "history": {
+      "2022": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "New Forest": {
+    "history": {
+      "2019": "Conservative",
+      "2023": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 2,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 2
+  },
+  "Newark and Sherwood": {
+    "history": {
+      "2023": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Newark and Sherwood  \u2020": {
+    "history": {
+      "2019": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Newcastle upon Tyne": {
+    "history": {
+      "2018": "Labour",
+      "2019": "Labour",
+      "2021": "Labour",
+      "2022": "Labour",
+      "2023": "Labour",
+      "2024": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 6,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 6
+  },
+  "Newcastle-under-Lyme": {
+    "history": {
+      "2018": "No overall control",
+      "2022": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 2,
+    "n_noc": 1,
+    "noc_rate": 0.5,
+    "tenure_cycles": 1
+  },
+  "Newham": {
+    "history": {
+      "2018": "Labour",
+      "2022": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 2,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 2
+  },
+  "Newport": {
+    "history": {
+      "2022": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Norfolk": {
+    "history": {
+      "2021": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "North Ayrshire": {
+    "history": {
+      "2022": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "North Devon": {
+    "history": {
+      "2023": "Liberal Democrat"
+    },
+    "long_held_by": "Liberal Democrat",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "North Devon  \u2021": {
+    "history": {
+      "2019": "Liberal Democrat"
+    },
+    "long_held_by": "Liberal Democrat",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "North East Derbyshire": {
+    "history": {
+      "2023": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "North East Derbyshire  \u2021": {
+    "history": {
+      "2019": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "North East Lincolnshire": {
+    "history": {
+      "2018": "No overall control",
+      "2019": "Conservative",
+      "2021": "Conservative",
+      "2022": "Conservative",
+      "2023": "Conservative",
+      "2024": "No overall control"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 6,
+    "n_noc": 2,
+    "noc_rate": 0.333,
+    "tenure_cycles": 4
+  },
+  "North Hertfordshire": {
+    "history": {
+      "2018": "Conservative",
+      "2019": "No overall control",
+      "2021": "No overall control",
+      "2022": "No overall control",
+      "2023": "No overall control",
+      "2024": "No overall control"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 6,
+    "n_noc": 5,
+    "noc_rate": 0.833,
+    "tenure_cycles": 1
+  },
+  "North Kesteven": {
+    "history": {
+      "2019": "No overall control",
+      "2023": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 2,
+    "n_noc": 1,
+    "noc_rate": 0.5,
+    "tenure_cycles": 1
+  },
+  "North Lanarkshire": {
+    "history": {
+      "2022": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "North Lincolnshire": {
+    "history": {
+      "2019": "Conservative",
+      "2023": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 2,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 2
+  },
+  "North Norfolk": {
+    "history": {
+      "2023": "Liberal Democrat"
+    },
+    "long_held_by": "Liberal Democrat",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "North Norfolk  \u2021": {
+    "history": {
+      "2019": "Liberal Democrat"
+    },
+    "long_held_by": "Liberal Democrat",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "North Northamptonshire": {
+    "history": {
+      "2021": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "North Somerset": {
+    "history": {
+      "2019": "No overall control",
+      "2023": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 2,
+    "n_noc": 2,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "North Tyneside": {
+    "history": {
+      "2018": "Labour",
+      "2019": "Labour",
+      "2021": "Labour",
+      "2022": "Labour",
+      "2023": "Labour",
+      "2024": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 6,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 6
+  },
+  "North Warwickshire": {
+    "history": {
+      "2019": "Conservative",
+      "2023": "No overall control"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 2,
+    "n_noc": 1,
+    "noc_rate": 0.5,
+    "tenure_cycles": 1
+  },
+  "North West Leicestershire": {
+    "history": {
+      "2019": "Conservative",
+      "2023": "No overall control"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 2,
+    "n_noc": 1,
+    "noc_rate": 0.5,
+    "tenure_cycles": 1
+  },
+  "North Yorkshire": {
+    "history": {
+      "2022": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Northumberland": {
+    "history": {
+      "2021": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Norwich": {
+    "history": {
+      "2018": "Labour",
+      "2021": "Labour",
+      "2022": "Labour",
+      "2023": "Labour",
+      "2024": "No overall control"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 5,
+    "n_noc": 1,
+    "noc_rate": 0.2,
+    "tenure_cycles": 4
+  },
+  "Norwich  \u2021!": {
+    "history": {
+      "2019": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Nottingham": {
+    "history": {
+      "2023": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Nottingham \u2021": {
+    "history": {
+      "2019": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Nottinghamshire": {
+    "history": {
+      "2021": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Nuneaton and Bedworth": {
+    "history": {
+      "2018": "No overall control",
+      "2021": "Conservative",
+      "2022": "Conservative",
+      "2024": "Labour"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 4,
+    "n_noc": 1,
+    "noc_rate": 0.25,
+    "tenure_cycles": 2
+  },
+  "Oadby and Wigston": {
+    "history": {
+      "2019": "Liberal Democrat",
+      "2023": "Liberal Democrat"
+    },
+    "long_held_by": "Liberal Democrat",
+    "n_appearances": 2,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 2
+  },
+  "Oldham": {
+    "history": {
+      "2018": "Labour",
+      "2019": "Labour",
+      "2021": "Labour",
+      "2022": "Labour",
+      "2023": "Labour",
+      "2024": "No overall control"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 6,
+    "n_noc": 1,
+    "noc_rate": 0.167,
+    "tenure_cycles": 5
+  },
+  "Orkney": {
+    "history": {
+      "2022": "Independent"
+    },
+    "long_held_by": "Independent",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Oxford": {
+    "history": {
+      "2018": "Labour",
+      "2021": "Labour",
+      "2022": "Labour",
+      "2024": "No overall control"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 4,
+    "n_noc": 1,
+    "noc_rate": 0.25,
+    "tenure_cycles": 3
+  },
+  "Oxfordshire": {
+    "history": {
+      "2021": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Pembrokeshire": {
+    "history": {
+      "2022": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Pendle": {
+    "history": {
+      "2018": "No overall control",
+      "2019": "No overall control",
+      "2021": "Conservative",
+      "2022": "Conservative",
+      "2023": "No overall control",
+      "2024": "No overall control"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 6,
+    "n_noc": 4,
+    "noc_rate": 0.667,
+    "tenure_cycles": 2
+  },
+  "Perth and Kinross": {
+    "history": {
+      "2022": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Peterborough": {
+    "history": {
+      "2018": "Conservative",
+      "2019": "No overall control",
+      "2021": "No overall control",
+      "2022": "No overall control",
+      "2023": "No overall control",
+      "2024": "No overall control"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 6,
+    "n_noc": 5,
+    "noc_rate": 0.833,
+    "tenure_cycles": 1
+  },
+  "Plymouth": {
+    "history": {
+      "2018": "Labour",
+      "2019": "Labour",
+      "2021": "No overall control",
+      "2022": "No overall control",
+      "2023": "Labour",
+      "2024": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 6,
+    "n_noc": 2,
+    "noc_rate": 0.333,
+    "tenure_cycles": 4
+  },
+  "Portsmouth": {
+    "history": {
+      "2018": "No overall control",
+      "2019": "No overall control",
+      "2021": "No overall control",
+      "2022": "No overall control",
+      "2023": "No overall control",
+      "2024": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 6,
+    "n_noc": 6,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Powys": {
+    "history": {
+      "2022": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Preston": {
+    "history": {
+      "2018": "Labour",
+      "2021": "Labour",
+      "2022": "Labour",
+      "2023": "Labour",
+      "2024": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 5,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 5
+  },
+  "Preston  \u2021!": {
+    "history": {
+      "2019": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Reading": {
+    "history": {
+      "2018": "Labour",
+      "2019": "Labour",
+      "2021": "Labour",
+      "2022": "Labour",
+      "2023": "Labour",
+      "2024": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 6,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 6
+  },
+  "Redbridge": {
+    "history": {
+      "2018": "Labour",
+      "2022": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 2,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 2
+  },
+  "Redcar and Cleveland": {
+    "history": {
+      "2023": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Redcar and Cleveland \u2021": {
+    "history": {
+      "2019": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Redditch": {
+    "history": {
+      "2018": "Conservative",
+      "2019": "Conservative",
+      "2021": "Conservative",
+      "2022": "Conservative",
+      "2023": "Conservative",
+      "2024": "Labour"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 6,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 5
+  },
+  "Reigate and Banstead": {
+    "history": {
+      "2018": "Conservative",
+      "2021": "Conservative",
+      "2022": "Conservative",
+      "2023": "Conservative",
+      "2024": "No overall control"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 5,
+    "n_noc": 1,
+    "noc_rate": 0.2,
+    "tenure_cycles": 4
+  },
+  "Reigate and Banstead  \u2021!": {
+    "history": {
+      "2019": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Renfrewshire": {
+    "history": {
+      "2022": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Rhondda Cynon Taf": {
+    "history": {
+      "2022": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Ribble Valley": {
+    "history": {
+      "2023": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Ribble Valley  \u2021": {
+    "history": {
+      "2019": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Richmond upon Thames": {
+    "history": {
+      "2018": "Liberal Democrat",
+      "2022": "Liberal Democrat"
+    },
+    "long_held_by": "Liberal Democrat",
+    "n_appearances": 2,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 2
+  },
+  "Richmondshire  \u2021": {
+    "history": {
+      "2019": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Rochdale": {
+    "history": {
+      "2018": "Labour",
+      "2019": "Labour",
+      "2021": "Labour",
+      "2022": "Labour",
+      "2023": "Labour",
+      "2024": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 6,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 6
+  },
+  "Rochford": {
+    "history": {
+      "2018": "Conservative",
+      "2019": "Conservative",
+      "2021": "Conservative",
+      "2022": "Conservative",
+      "2023": "No overall control",
+      "2024": "No overall control"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 6,
+    "n_noc": 2,
+    "noc_rate": 0.333,
+    "tenure_cycles": 4
+  },
+  "Rossendale": {
+    "history": {
+      "2018": "Labour",
+      "2019": "Labour",
+      "2021": "No overall control",
+      "2022": "Labour",
+      "2023": "Labour",
+      "2024": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 6,
+    "n_noc": 1,
+    "noc_rate": 0.167,
+    "tenure_cycles": 5
+  },
+  "Rother": {
+    "history": {
+      "2023": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Rother  \u2021": {
+    "history": {
+      "2019": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Rotherham": {
+    "history": {
+      "2021": "Labour",
+      "2024": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 2,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 2
+  },
+  "Rugby": {
+    "history": {
+      "2018": "Conservative",
+      "2019": "Conservative",
+      "2021": "Conservative",
+      "2022": "Conservative",
+      "2023": "No overall control",
+      "2024": "No overall control"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 6,
+    "n_noc": 2,
+    "noc_rate": 0.333,
+    "tenure_cycles": 4
+  },
+  "Runnymede": {
+    "history": {
+      "2018": "Conservative",
+      "2021": "Conservative",
+      "2022": "Conservative",
+      "2023": "No overall control",
+      "2024": "No overall control"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 5,
+    "n_noc": 2,
+    "noc_rate": 0.4,
+    "tenure_cycles": 3
+  },
+  "Runnymede  \u2021!": {
+    "history": {
+      "2019": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Rushcliffe": {
+    "history": {
+      "2019": "Conservative",
+      "2023": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 2,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 2
+  },
+  "Rushmoor": {
+    "history": {
+      "2018": "Conservative",
+      "2019": "Conservative",
+      "2021": "Conservative",
+      "2022": "Conservative",
+      "2023": "Conservative",
+      "2024": "Labour"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 6,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 5
+  },
+  "Rutland": {
+    "history": {
+      "2023": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Rutland \u2021": {
+    "history": {
+      "2019": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Ryedale": {
+    "history": {
+      "2019": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Salford": {
+    "history": {
+      "2018": "Labour",
+      "2021": "Labour",
+      "2022": "Labour",
+      "2023": "Labour",
+      "2024": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 5,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 5
+  },
+  "Salford *": {
+    "history": {
+      "2019": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Sandwell": {
+    "history": {
+      "2018": "Labour",
+      "2019": "Labour",
+      "2021": "Labour",
+      "2022": "Labour",
+      "2023": "Labour",
+      "2024": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 6,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 6
+  },
+  "Scarborough  \u2021": {
+    "history": {
+      "2019": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Scottish Borders": {
+    "history": {
+      "2022": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Sedgemoor": {
+    "history": {
+      "2019": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Sefton": {
+    "history": {
+      "2018": "Labour",
+      "2019": "Labour",
+      "2021": "Labour",
+      "2022": "Labour",
+      "2023": "Labour",
+      "2024": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 6,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 6
+  },
+  "Selby": {
+    "history": {
+      "2019": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Sevenoaks": {
+    "history": {
+      "2023": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Sevenoaks  \u2020": {
+    "history": {
+      "2019": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Sheffield": {
+    "history": {
+      "2018": "Labour",
+      "2019": "Labour",
+      "2021": "No overall control",
+      "2022": "No overall control",
+      "2023": "No overall control",
+      "2024": "No overall control"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 6,
+    "n_noc": 4,
+    "noc_rate": 0.667,
+    "tenure_cycles": 2
+  },
+  "Shetland": {
+    "history": {
+      "2022": "Independent"
+    },
+    "long_held_by": "Independent",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Shropshire": {
+    "history": {
+      "2021": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Slough": {
+    "history": {
+      "2018": "Labour",
+      "2019": "Labour",
+      "2021": "Labour",
+      "2022": "Labour",
+      "2023": "No overall control"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 5,
+    "n_noc": 1,
+    "noc_rate": 0.2,
+    "tenure_cycles": 4
+  },
+  "Solihull": {
+    "history": {
+      "2018": "Conservative",
+      "2019": "Conservative",
+      "2021": "Conservative",
+      "2022": "Conservative",
+      "2023": "Conservative",
+      "2024": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 6,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 6
+  },
+  "Somerset": {
+    "history": {
+      "2022": "Liberal Democrat"
+    },
+    "long_held_by": "Liberal Democrat",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Somerset West and Taunton  *": {
+    "history": {
+      "2019": "Liberal Democrat"
+    },
+    "long_held_by": "Liberal Democrat",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "South Ayrshire": {
+    "history": {
+      "2022": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "South Cambridgeshire": {
+    "history": {
+      "2018": "Liberal Democrat",
+      "2022": "Liberal Democrat"
+    },
+    "long_held_by": "Liberal Democrat",
+    "n_appearances": 2,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 2
+  },
+  "South Derbyshire": {
+    "history": {
+      "2019": "Conservative",
+      "2023": "Labour"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 2,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "South Gloucestershire": {
+    "history": {
+      "2023": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "South Gloucestershire \u2021": {
+    "history": {
+      "2019": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "South Hams": {
+    "history": {
+      "2019": "Conservative",
+      "2023": "Liberal Democrat"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 2,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "South Holland": {
+    "history": {
+      "2019": "Conservative",
+      "2023": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 2,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 2
+  },
+  "South Kesteven": {
+    "history": {
+      "2019": "Conservative",
+      "2023": "No overall control"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 2,
+    "n_noc": 1,
+    "noc_rate": 0.5,
+    "tenure_cycles": 1
+  },
+  "South Lakeland": {
+    "history": {
+      "2018": "Liberal Democrat",
+      "2019": "Liberal Democrat"
+    },
+    "long_held_by": "Liberal Democrat",
+    "n_appearances": 2,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 2
+  },
+  "South Lanarkshire": {
+    "history": {
+      "2022": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "South Norfolk": {
+    "history": {
+      "2023": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "South Norfolk  \u2021": {
+    "history": {
+      "2019": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "South Oxfordshire": {
+    "history": {
+      "2023": "Liberal Democrat"
+    },
+    "long_held_by": "Liberal Democrat",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "South Oxfordshire  \u2020": {
+    "history": {
+      "2019": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "South Ribble": {
+    "history": {
+      "2019": "No overall control",
+      "2023": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 2,
+    "n_noc": 1,
+    "noc_rate": 0.5,
+    "tenure_cycles": 1
+  },
+  "South Somerset  \u2021": {
+    "history": {
+      "2019": "Liberal Democrat"
+    },
+    "long_held_by": "Liberal Democrat",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "South Staffordshire": {
+    "history": {
+      "2019": "Conservative",
+      "2023": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 2,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 2
+  },
+  "South Tyneside": {
+    "history": {
+      "2018": "Labour",
+      "2019": "Labour",
+      "2021": "Labour",
+      "2022": "Labour",
+      "2023": "Labour",
+      "2024": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 6,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 6
+  },
+  "Southampton": {
+    "history": {
+      "2018": "Labour",
+      "2019": "Labour",
+      "2021": "Conservative",
+      "2022": "Labour",
+      "2023": "Labour",
+      "2024": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 6,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 5
+  },
+  "Southend": {
+    "history": {
+      "2021": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Southend-on-Sea": {
+    "history": {
+      "2018": "Conservative",
+      "2019": "No overall control",
+      "2022": "No overall control",
+      "2023": "No overall control",
+      "2024": "No overall control"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 5,
+    "n_noc": 4,
+    "noc_rate": 0.8,
+    "tenure_cycles": 1
+  },
+  "Southwark": {
+    "history": {
+      "2018": "Labour",
+      "2022": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 2,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 2
+  },
+  "Spelthorne": {
+    "history": {
+      "2019": "Conservative",
+      "2023": "No overall control"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 2,
+    "n_noc": 1,
+    "noc_rate": 0.5,
+    "tenure_cycles": 1
+  },
+  "St Albans": {
+    "history": {
+      "2018": "Conservative",
+      "2019": "No overall control",
+      "2021": "Liberal Democrat",
+      "2022": "Liberal Democrat",
+      "2023": "Liberal Democrat",
+      "2024": "Liberal Democrat"
+    },
+    "long_held_by": "Liberal Democrat",
+    "n_appearances": 6,
+    "n_noc": 1,
+    "noc_rate": 0.167,
+    "tenure_cycles": 4
+  },
+  "St Helens": {
+    "history": {
+      "2018": "Labour",
+      "2019": "Labour",
+      "2021": "Labour",
+      "2022": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 4,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 4
+  },
+  "Stafford": {
+    "history": {
+      "2019": "Conservative",
+      "2023": "No overall control"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 2,
+    "n_noc": 1,
+    "noc_rate": 0.5,
+    "tenure_cycles": 1
+  },
+  "Staffordshire": {
+    "history": {
+      "2021": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Staffordshire Moorlands": {
+    "history": {
+      "2019": "No overall control",
+      "2023": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 2,
+    "n_noc": 2,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Stevenage": {
+    "history": {
+      "2018": "Labour",
+      "2019": "Labour",
+      "2021": "Labour",
+      "2022": "Labour",
+      "2023": "Labour",
+      "2024": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 6,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 6
+  },
+  "Stirling": {
+    "history": {
+      "2022": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Stockport": {
+    "history": {
+      "2018": "No overall control",
+      "2019": "No overall control",
+      "2021": "No overall control",
+      "2022": "No overall control",
+      "2023": "No overall control",
+      "2024": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 6,
+    "n_noc": 6,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Stockton-on-Tees": {
+    "history": {
+      "2019": "No overall control",
+      "2023": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 2,
+    "n_noc": 2,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Stoke-on-Trent": {
+    "history": {
+      "2019": "No overall control",
+      "2023": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 2,
+    "n_noc": 1,
+    "noc_rate": 0.5,
+    "tenure_cycles": 1
+  },
+  "Stratford-on-Avon": {
+    "history": {
+      "2019": "Conservative",
+      "2023": "Liberal Democrat"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 2,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Stroud": {
+    "history": {
+      "2021": "No overall control",
+      "2024": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 2,
+    "n_noc": 2,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Suffolk": {
+    "history": {
+      "2021": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Sunderland": {
+    "history": {
+      "2018": "Labour",
+      "2019": "Labour",
+      "2021": "Labour",
+      "2022": "Labour",
+      "2023": "Labour",
+      "2024": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 6,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 6
+  },
+  "Surrey": {
+    "history": {
+      "2021": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Surrey Heath": {
+    "history": {
+      "2023": "Liberal Democrat"
+    },
+    "long_held_by": "Liberal Democrat",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Surrey Heath  \u2021": {
+    "history": {
+      "2019": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Sutton": {
+    "history": {
+      "2018": "Liberal Democrat",
+      "2022": "Liberal Democrat"
+    },
+    "long_held_by": "Liberal Democrat",
+    "n_appearances": 2,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 2
+  },
+  "Swale": {
+    "history": {
+      "2019": "No overall control",
+      "2023": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 2,
+    "n_noc": 2,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Swansea": {
+    "history": {
+      "2022": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Swindon": {
+    "history": {
+      "2018": "Conservative",
+      "2019": "Conservative",
+      "2021": "Conservative",
+      "2022": "Conservative",
+      "2023": "Labour",
+      "2024": "Labour"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 6,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 4
+  },
+  "Tameside": {
+    "history": {
+      "2018": "Labour",
+      "2019": "Labour",
+      "2021": "Labour",
+      "2022": "Labour",
+      "2023": "Labour",
+      "2024": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 6,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 6
+  },
+  "Tamworth": {
+    "history": {
+      "2018": "Conservative",
+      "2019": "Conservative",
+      "2021": "Conservative",
+      "2022": "Conservative",
+      "2023": "No overall control",
+      "2024": "Labour"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 6,
+    "n_noc": 1,
+    "noc_rate": 0.167,
+    "tenure_cycles": 4
+  },
+  "Tandridge": {
+    "history": {
+      "2018": "Conservative",
+      "2019": "No overall control",
+      "2021": "No overall control",
+      "2022": "No overall control",
+      "2023": "No overall control",
+      "2024": "No overall control"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 6,
+    "n_noc": 5,
+    "noc_rate": 0.833,
+    "tenure_cycles": 1
+  },
+  "Teignbridge": {
+    "history": {
+      "2023": "Liberal Democrat"
+    },
+    "long_held_by": "Liberal Democrat",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Teignbridge  \u2021": {
+    "history": {
+      "2019": "Liberal Democrat"
+    },
+    "long_held_by": "Liberal Democrat",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Telford and Wrekin": {
+    "history": {
+      "2019": "Labour",
+      "2023": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 2,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 2
+  },
+  "Tendring": {
+    "history": {
+      "2023": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Tendring  \u2021": {
+    "history": {
+      "2019": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Test Valley": {
+    "history": {
+      "2023": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Test Valley  \u2021": {
+    "history": {
+      "2019": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Tewkesbury": {
+    "history": {
+      "2023": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Tewkesbury  \u2021": {
+    "history": {
+      "2019": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Thanet": {
+    "history": {
+      "2019": "No overall control",
+      "2023": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 2,
+    "n_noc": 1,
+    "noc_rate": 0.5,
+    "tenure_cycles": 1
+  },
+  "Three Rivers": {
+    "history": {
+      "2018": "Liberal Democrat",
+      "2019": "Liberal Democrat",
+      "2021": "Liberal Democrat",
+      "2022": "Liberal Democrat",
+      "2023": "Liberal Democrat",
+      "2024": "Liberal Democrat"
+    },
+    "long_held_by": "Liberal Democrat",
+    "n_appearances": 6,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 6
+  },
+  "Thurrock": {
+    "history": {
+      "2018": "No overall control",
+      "2019": "No overall control",
+      "2021": "Conservative",
+      "2022": "Conservative",
+      "2023": "Conservative",
+      "2024": "Labour"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 6,
+    "n_noc": 2,
+    "noc_rate": 0.333,
+    "tenure_cycles": 3
+  },
+  "Tonbridge and Malling": {
+    "history": {
+      "2019": "Conservative",
+      "2023": "No overall control"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 2,
+    "n_noc": 1,
+    "noc_rate": 0.5,
+    "tenure_cycles": 1
+  },
+  "Torbay": {
+    "history": {
+      "2023": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Torbay \u2021": {
+    "history": {
+      "2019": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Torfaen": {
+    "history": {
+      "2022": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Torridge": {
+    "history": {
+      "2023": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Torridge  \u2021": {
+    "history": {
+      "2019": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Tower Hamlets": {
+    "history": {
+      "2018": "Labour",
+      "2022": "Aspire"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 2,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Trafford": {
+    "history": {
+      "2018": "No overall control",
+      "2019": "Labour",
+      "2021": "Labour",
+      "2022": "Labour",
+      "2023": "Labour",
+      "2024": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 6,
+    "n_noc": 1,
+    "noc_rate": 0.167,
+    "tenure_cycles": 5
+  },
+  "Tunbridge Wells": {
+    "history": {
+      "2018": "Conservative",
+      "2019": "Conservative",
+      "2021": "No overall control",
+      "2022": "No overall control",
+      "2023": "No overall control",
+      "2024": "Liberal Democrat"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 6,
+    "n_noc": 3,
+    "noc_rate": 0.5,
+    "tenure_cycles": 2
+  },
+  "Uttlesford": {
+    "history": {
+      "2019": "R4U",
+      "2023": "R4U"
+    },
+    "long_held_by": "R4U",
+    "n_appearances": 2,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 2
+  },
+  "Vale of Glamorgan": {
+    "history": {
+      "2022": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Vale of White Horse": {
+    "history": {
+      "2023": "Liberal Democrat"
+    },
+    "long_held_by": "Liberal Democrat",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Vale of White Horse  \u2020": {
+    "history": {
+      "2019": "Liberal Democrat"
+    },
+    "long_held_by": "Liberal Democrat",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Wakefield": {
+    "history": {
+      "2018": "Labour",
+      "2019": "Labour",
+      "2021": "Labour",
+      "2022": "Labour",
+      "2023": "Labour",
+      "2024": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 6,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 6
+  },
+  "Walsall": {
+    "history": {
+      "2018": "No overall control",
+      "2019": "Conservative",
+      "2021": "Conservative",
+      "2022": "Conservative",
+      "2023": "Conservative",
+      "2024": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 6,
+    "n_noc": 1,
+    "noc_rate": 0.167,
+    "tenure_cycles": 5
+  },
+  "Waltham Forest": {
+    "history": {
+      "2018": "Labour",
+      "2022": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 2,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 2
+  },
+  "Wandsworth": {
+    "history": {
+      "2018": "Conservative",
+      "2022": "Labour"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 2,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Warrington": {
+    "history": {
+      "2021": "Labour",
+      "2024": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 2,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 2
+  },
+  "Warwick": {
+    "history": {
+      "2023": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Warwick  \u2021": {
+    "history": {
+      "2019": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Warwickshire": {
+    "history": {
+      "2021": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Watford": {
+    "history": {
+      "2018": "Liberal Democrat",
+      "2019": "Liberal Democrat",
+      "2021": "Liberal Democrat",
+      "2022": "Liberal Democrat",
+      "2023": "Liberal Democrat",
+      "2024": "Liberal Democrat"
+    },
+    "long_held_by": "Liberal Democrat",
+    "n_appearances": 6,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 6
+  },
+  "Waverley": {
+    "history": {
+      "2019": "No overall control",
+      "2023": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 2,
+    "n_noc": 2,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Wealden": {
+    "history": {
+      "2023": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Wealden  \u2021": {
+    "history": {
+      "2019": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Welwyn Hatfield": {
+    "history": {
+      "2018": "Conservative",
+      "2019": "No overall control",
+      "2021": "Conservative",
+      "2022": "Conservative",
+      "2023": "No overall control",
+      "2024": "No overall control"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 6,
+    "n_noc": 3,
+    "noc_rate": 0.5,
+    "tenure_cycles": 3
+  },
+  "West Berkshire": {
+    "history": {
+      "2023": "Liberal Democrat"
+    },
+    "long_held_by": "Liberal Democrat",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "West Berkshire \u2021": {
+    "history": {
+      "2019": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "West Devon": {
+    "history": {
+      "2019": "Conservative",
+      "2023": "No overall control"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 2,
+    "n_noc": 1,
+    "noc_rate": 0.5,
+    "tenure_cycles": 1
+  },
+  "West Dunbartonshire": {
+    "history": {
+      "2022": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "West Lancashire": {
+    "history": {
+      "2018": "Labour",
+      "2019": "Labour",
+      "2021": "No overall control",
+      "2022": "No overall control",
+      "2023": "Labour",
+      "2024": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 6,
+    "n_noc": 2,
+    "noc_rate": 0.333,
+    "tenure_cycles": 4
+  },
+  "West Lindsey": {
+    "history": {
+      "2019": "Conservative",
+      "2023": "No overall control"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 2,
+    "n_noc": 1,
+    "noc_rate": 0.5,
+    "tenure_cycles": 1
+  },
+  "West Lothian": {
+    "history": {
+      "2022": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "West Northamptonshire": {
+    "history": {
+      "2021": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "West Oxfordshire": {
+    "history": {
+      "2018": "Conservative",
+      "2019": "Conservative",
+      "2021": "Conservative",
+      "2022": "No overall control",
+      "2023": "No overall control",
+      "2024": "No overall control"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 6,
+    "n_noc": 3,
+    "noc_rate": 0.5,
+    "tenure_cycles": 3
+  },
+  "West Suffolk": {
+    "history": {
+      "2023": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "West Suffolk  *": {
+    "history": {
+      "2019": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "West Sussex": {
+    "history": {
+      "2021": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Westminster": {
+    "history": {
+      "2018": "Conservative",
+      "2022": "Labour"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 2,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Westmorland and Furness": {
+    "history": {
+      "2022": "Liberal Democrat"
+    },
+    "long_held_by": "Liberal Democrat",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Wigan": {
+    "history": {
+      "2018": "Labour",
+      "2019": "Labour",
+      "2021": "Labour",
+      "2022": "Labour",
+      "2023": "Labour",
+      "2024": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 6,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 6
+  },
+  "Wiltshire": {
+    "history": {
+      "2021": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Winchester": {
+    "history": {
+      "2018": "Conservative",
+      "2019": "Liberal Democrat",
+      "2021": "Liberal Democrat",
+      "2022": "Liberal Democrat",
+      "2023": "Liberal Democrat",
+      "2024": "Liberal Democrat"
+    },
+    "long_held_by": "Liberal Democrat",
+    "n_appearances": 6,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 5
+  },
+  "Windsor & Maidenhead": {
+    "history": {
+      "2023": "Liberal Democrat"
+    },
+    "long_held_by": "Liberal Democrat",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Windsor & Maidenhead \u2021": {
+    "history": {
+      "2019": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Wirral": {
+    "history": {
+      "2018": "Labour",
+      "2019": "No overall control",
+      "2021": "No overall control",
+      "2022": "No overall control",
+      "2023": "No overall control"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 5,
+    "n_noc": 4,
+    "noc_rate": 0.8,
+    "tenure_cycles": 1
+  },
+  "Woking": {
+    "history": {
+      "2018": "Conservative",
+      "2019": "No overall control",
+      "2021": "No overall control",
+      "2022": "Liberal Democrat",
+      "2023": "Liberal Democrat",
+      "2024": "Liberal Democrat"
+    },
+    "long_held_by": "Liberal Democrat",
+    "n_appearances": 6,
+    "n_noc": 2,
+    "noc_rate": 0.333,
+    "tenure_cycles": 3
+  },
+  "Wokingham": {
+    "history": {
+      "2018": "Conservative",
+      "2019": "Conservative",
+      "2021": "Conservative",
+      "2022": "No overall control",
+      "2023": "No overall control",
+      "2024": "No overall control"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 6,
+    "n_noc": 3,
+    "noc_rate": 0.5,
+    "tenure_cycles": 3
+  },
+  "Wolverhampton": {
+    "history": {
+      "2018": "Labour",
+      "2019": "Labour",
+      "2021": "Labour",
+      "2022": "Labour",
+      "2023": "Labour",
+      "2024": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 6,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 6
+  },
+  "Worcester": {
+    "history": {
+      "2018": "No overall control",
+      "2019": "No overall control",
+      "2021": "Conservative",
+      "2022": "No overall control",
+      "2023": "No overall control",
+      "2024": "No overall control"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 6,
+    "n_noc": 5,
+    "noc_rate": 0.833,
+    "tenure_cycles": 1
+  },
+  "Worcestershire": {
+    "history": {
+      "2021": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 1,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 1
+  },
+  "Worthing": {
+    "history": {
+      "2018": "Conservative",
+      "2019": "Conservative",
+      "2021": "Conservative",
+      "2022": "Labour",
+      "2023": "Labour",
+      "2024": "Labour"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 6,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 3
+  },
+  "Wrexham": {
+    "history": {
+      "2022": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "Wychavon": {
+    "history": {
+      "2019": "Conservative",
+      "2023": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 2,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 2
+  },
+  "Wyre": {
+    "history": {
+      "2019": "Conservative",
+      "2023": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 2,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 2
+  },
+  "Wyre Forest": {
+    "history": {
+      "2018": "Conservative",
+      "2023": "Conservative"
+    },
+    "long_held_by": "Conservative",
+    "n_appearances": 2,
+    "n_noc": 0,
+    "noc_rate": 0.0,
+    "tenure_cycles": 2
+  },
+  "Wyre Forest  \u2022": {
+    "history": {
+      "2019": "No overall control"
+    },
+    "long_held_by": null,
+    "n_appearances": 1,
+    "n_noc": 1,
+    "noc_rate": 1.0,
+    "tenure_cycles": 0
+  },
+  "York": {
+    "history": {
+      "2019": "No overall control",
+      "2023": "Labour"
+    },
+    "long_held_by": "Labour",
+    "n_appearances": 2,
+    "n_noc": 1,
+    "noc_rate": 0.5,
+    "tenure_cycles": 1
+  }
+}

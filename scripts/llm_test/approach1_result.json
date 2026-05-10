@@ -1,0 +1,20 @@
+{
+  "predictions": {
+    "Southwark": "Labour",
+    "Colchester": "No overall control",
+    "Lewisham": "Labour",
+    "Sheffield": "No overall control",
+    "Basingstoke and Deane": "No overall control",
+    "Sunderland": "Reform UK",
+    "Bradford": "Labour",
+    "Cannock Chase": "Reform UK",
+    "Southampton": "No overall control",
+    "Salford": "Labour",
+    "Wolverhampton": "Labour",
+    "North Tyneside": "Reform UK"
+  },
+  "raw_output": "Southwark | Labour | Labour has a strong lead of over 10% and is the incumbent.\nColchester | No overall control | Vote shares are fragmented with Reform UK leading narrowly, making No overall control likely.\nLewisham | Labour | Labour has a strong lead of over 10% and is the incumbent.\nSheffield | No overall control | Labour's lead is narrow and the vote is highly fragmented among four parties, making No overall control likely.\nBasingstoke and Deane | No overall control | The Conservative incumbent has an extremely narrow lead over Reform UK, with Liberal Democrats also strong, indicating fragmentation and No overall control.\nSunderland | Reform UK | Reform UK is very close to the Labour incumbent in a working-class metropolitan area, a pattern where Reform has often overperformed and won.\nBradford | Labour | Labour has a dominant lead of 17% in this metropolitan borough.\nCannock Chase | Reform UK | Reform UK has a clear lead over the Labour incumbent in a working-class area, consistent with Reform breakthroughs.\nSouthampton | No overall control | Labour's lead is extremely narrow over Reform UK, and the vote is fragmented, making No overall control the most probable outcome.\nSalford | Labour | Labour has a solid lead of 4.4% over Reform UK in this metropolitan borough, likely enough to retain control.\nWolverhampton | Labour | Labour holds a commanding 13% lead over Reform UK in this metropolitan borough.\nNorth Tyneside | Reform UK | Reform UK has an extremely narrow lead over the Labour incumbent in",
+  "hits": 6,
+  "total": 20,
+  "pct": 30.0
+}
