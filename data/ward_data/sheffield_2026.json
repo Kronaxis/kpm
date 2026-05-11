@@ -1,0 +1,2218 @@
+{
+  "council_slug": "sheffield",
+  "election_date": "2026-05-07",
+  "source": "https://candidates.democracyclub.org.uk/api/next/",
+  "fetched_at": "2026-05-10T20:57:37Z",
+  "wards": [
+    {
+      "ward_slug": "beauchief-greenhill",
+      "ward_name": "Beauchief & Greenhill",
+      "ballot_id": "local.sheffield.beauchief-greenhill.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Simon William Clement-Jones",
+          "votes": 1819
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Simon William Clement-Jones",
+          "votes": 1819,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Amanda Clare Gaffney",
+          "votes": 1674,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Jonathan Bagley",
+          "votes": 1099,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Hafeas Rehman",
+          "votes": 871,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Michelle Lesley Astle",
+          "votes": 249,
+          "elected": false
+        },
+        {
+          "party": "TUSC",
+          "name": "Daniel Lucas Smith",
+          "votes": 31,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Liberal Democrat": 31.67,
+        "Reform UK": 29.15,
+        "Green": 19.14,
+        "Labour": 15.17,
+        "Conservative": 4.34,
+        "TUSC": 0.54
+      },
+      "party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "winning_party": "Liberal Democrat",
+      "total_votes": 5743,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T20:57:38Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05010857",
+        "qual_l4_pct": 31.81,
+        "no_qual_pct": 18.91,
+        "muslim_pct": 3.77,
+        "no_religion_pct": 45.88,
+        "age_under_35_pct": 40.02,
+        "age_65_plus_pct": 23.14,
+        "social_rented_pct": 68.96,
+        "white_british_pct": 83.66
+      }
+    },
+    {
+      "ward_slug": "beighton",
+      "ward_name": "Beighton",
+      "ballot_id": "local.sheffield.beighton.2026-05-07",
+      "winner_count": 2,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Laurence Hayward",
+          "votes": 2197
+        },
+        {
+          "party": "Reform UK",
+          "name": "Stuart Wallace",
+          "votes": 1989
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Laurence Hayward",
+          "votes": 2197,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Stuart Wallace",
+          "votes": 1989,
+          "elected": true
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Amanda Julie Adlington",
+          "votes": 1701,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Kurtis Jenson Crossthorn",
+          "votes": 1636,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Wayne Michael Rhodes",
+          "votes": 683,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Bridget Kelly",
+          "votes": 655,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Stewart Kemp",
+          "votes": 436,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Kim Perry",
+          "votes": 371,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Shirley Diane Clayton",
+          "votes": 274,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Suzanne Davison",
+          "votes": 159,
+          "elected": false
+        },
+        {
+          "party": "Independent",
+          "name": "Craig Myers",
+          "votes": 87,
+          "elected": false
+        },
+        {
+          "party": "TUSC",
+          "name": "Alexander James Brown",
+          "votes": 29,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 40.97,
+        "Liberal Democrat": 32.66,
+        "Labour": 13.1,
+        "Green": 7.9,
+        "Conservative": 4.24,
+        "Independent": 0.85,
+        "TUSC": 0.28
+      },
+      "party_seats_won": {
+        "Reform UK": 2
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 10217,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T20:57:40Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05010858",
+        "qual_l4_pct": 24.4,
+        "no_qual_pct": 20.84,
+        "muslim_pct": 0.89,
+        "no_religion_pct": 45.74,
+        "age_under_35_pct": 36.41,
+        "age_65_plus_pct": 23.94,
+        "social_rented_pct": 29.77,
+        "white_british_pct": 93.29
+      }
+    },
+    {
+      "ward_slug": "broomhill-sharrow-vale",
+      "ward_name": "Broomhill & Sharrow Vale",
+      "ballot_id": "local.sheffield.broomhill-sharrow-vale.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Green",
+          "name": "Maleiki Haybe",
+          "votes": 4038
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Green",
+          "name": "Maleiki Haybe",
+          "votes": 4038,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Louise Martha Cooper",
+          "votes": 1175,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Fiona Ann Carr",
+          "votes": 405,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Andrew John Grafton",
+          "votes": 401,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Charles Peter Hughes",
+          "votes": 170,
+          "elected": false
+        },
+        {
+          "party": "TUSC",
+          "name": "John Bunn",
+          "votes": 40,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Green": 64.83,
+        "Labour": 18.86,
+        "Liberal Democrat": 6.5,
+        "Reform UK": 6.44,
+        "Conservative": 2.73,
+        "TUSC": 0.64
+      },
+      "party_seats_won": {
+        "Green": 1
+      },
+      "winning_party": "Green",
+      "total_votes": 6229,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T20:58:15Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05010860",
+        "qual_l4_pct": 43.9,
+        "no_qual_pct": 6.26,
+        "muslim_pct": 9.04,
+        "no_religion_pct": 54.14,
+        "age_under_35_pct": 68.58,
+        "age_65_plus_pct": 11.07,
+        "social_rented_pct": 30.89,
+        "white_british_pct": 71.07
+      }
+    },
+    {
+      "ward_slug": "burngreave",
+      "ward_name": "Burngreave",
+      "ballot_id": "local.sheffield.burngreave.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Green",
+          "name": "Mustafa Ahmed",
+          "votes": 1816
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Green",
+          "name": "Mustafa Ahmed",
+          "votes": 1816,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Hannah Cawley",
+          "votes": 1138,
+          "elected": false
+        },
+        {
+          "party": "Independent",
+          "name": "Osman Rafiq",
+          "votes": 754,
+          "elected": false
+        },
+        {
+          "party": "Independent",
+          "name": "Abdullah Okud",
+          "votes": 616,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Neil Danford",
+          "votes": 591,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Andrew Brooker",
+          "votes": 149,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "James Robert Ellwood",
+          "votes": 106,
+          "elected": false
+        },
+        {
+          "party": "Independent",
+          "name": "Khalil Mohammed Qasem al-Asad",
+          "votes": 42,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Green": 34.84,
+        "Labour": 21.83,
+        "Independent": 27.09,
+        "Reform UK": 11.34,
+        "Conservative": 2.86,
+        "Liberal Democrat": 2.03
+      },
+      "party_seats_won": {
+        "Green": 1
+      },
+      "winning_party": "Green",
+      "total_votes": 5212,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T20:58:17Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05010861",
+        "qual_l4_pct": 22.46,
+        "no_qual_pct": 33.74,
+        "muslim_pct": 46.51,
+        "no_religion_pct": 15.61,
+        "age_under_35_pct": 53.72,
+        "age_65_plus_pct": 12.77,
+        "social_rented_pct": 72.86,
+        "white_british_pct": 25.34
+      }
+    },
+    {
+      "ward_slug": "city",
+      "ward_name": "City",
+      "ballot_id": "local.sheffield.city.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Green",
+          "name": "Maia Salman-Lord",
+          "votes": 2524
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Green",
+          "name": "Maia Salman-Lord",
+          "votes": 2524,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Terezia Rostas",
+          "votes": 434,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Lee Rooker",
+          "votes": 239,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Shelley Anne Cockayne",
+          "votes": 182,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Ashish Bhandari",
+          "votes": 155,
+          "elected": false
+        },
+        {
+          "party": "TUSC",
+          "name": "Madeline Claire Rooney",
+          "votes": 15,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Green": 71.12,
+        "Labour": 12.23,
+        "Reform UK": 6.73,
+        "Liberal Democrat": 5.13,
+        "Conservative": 4.37,
+        "TUSC": 0.42
+      },
+      "party_seats_won": {
+        "Green": 1
+      },
+      "winning_party": "Green",
+      "total_votes": 3549,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T20:58:18Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05010862",
+        "qual_l4_pct": 47.25,
+        "no_qual_pct": 5.19,
+        "muslim_pct": 9.97,
+        "no_religion_pct": 53.27,
+        "age_under_35_pct": 86.89,
+        "age_65_plus_pct": 1.51,
+        "social_rented_pct": 22.44,
+        "white_british_pct": 49.85
+      }
+    },
+    {
+      "ward_slug": "crookes-crosspool",
+      "ward_name": "Crookes & Crosspool",
+      "ballot_id": "local.sheffield.crookes-crosspool.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Labour",
+          "name": "Minesh Parekh",
+          "votes": 2656
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Labour",
+          "name": "Minesh Parekh",
+          "votes": 2656,
+          "elected": true
+        },
+        {
+          "party": "Green",
+          "name": "Dylan Lewis-Creser",
+          "votes": 2083,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Jordan Barry",
+          "votes": 1794,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Ricia Ward",
+          "votes": 846,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Aliou Diallo",
+          "votes": 159,
+          "elected": false
+        },
+        {
+          "party": "TUSC",
+          "name": "Alasdair Hadrian Cook",
+          "votes": 48,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Labour": 35.01,
+        "Green": 27.46,
+        "Liberal Democrat": 23.65,
+        "Reform UK": 11.15,
+        "Conservative": 2.1,
+        "TUSC": 0.63
+      },
+      "party_seats_won": {
+        "Labour": 1
+      },
+      "winning_party": "Labour",
+      "total_votes": 7586,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T20:58:20Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05010863",
+        "qual_l4_pct": 53.81,
+        "no_qual_pct": 7.62,
+        "muslim_pct": 3.77,
+        "no_religion_pct": 51.35,
+        "age_under_35_pct": 49.75,
+        "age_65_plus_pct": 18.67,
+        "social_rented_pct": 11.52,
+        "white_british_pct": 81.57
+      }
+    },
+    {
+      "ward_slug": "darnall",
+      "ward_name": "Darnall",
+      "ballot_id": "local.sheffield.darnall.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Labour",
+          "name": "Zahira Naz",
+          "votes": 1289
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Labour",
+          "name": "Zahira Naz",
+          "votes": 1289,
+          "elected": true
+        },
+        {
+          "party": "Independent",
+          "name": "Asif Ahmed",
+          "votes": 1244,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Timothy Goddard",
+          "votes": 996,
+          "elected": false
+        },
+        {
+          "party": "Independent",
+          "name": "Misbah Chowdhury",
+          "votes": 786,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Joydu Al Mahfuz",
+          "votes": 509,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Thomas Huggan",
+          "votes": 143,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Margaret Pigott",
+          "votes": 129,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Labour": 25.29,
+        "Independent": 39.84,
+        "Reform UK": 19.54,
+        "Green": 9.99,
+        "Liberal Democrat": 2.81,
+        "Conservative": 2.53
+      },
+      "party_seats_won": {
+        "Labour": 1
+      },
+      "winning_party": "Labour",
+      "total_votes": 5096,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T20:58:21Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05010864",
+        "qual_l4_pct": 19.86,
+        "no_qual_pct": 34.27,
+        "muslim_pct": 50.37,
+        "no_religion_pct": 16.39,
+        "age_under_35_pct": 51.78,
+        "age_65_plus_pct": 14.23,
+        "social_rented_pct": 52.84,
+        "white_british_pct": 31.75
+      }
+    },
+    {
+      "ward_slug": "dore-totley",
+      "ward_name": "Dore & Totley",
+      "ballot_id": "local.sheffield.dore-totley.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Martin Richard Smith",
+          "votes": 3142
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Martin Richard Smith",
+          "votes": 3142,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Paul Jakeman",
+          "votes": 1874,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Gill Black",
+          "votes": 1233,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Nicola Smith",
+          "votes": 1135,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Zoe Michelle Steane",
+          "votes": 618,
+          "elected": false
+        },
+        {
+          "party": "TUSC",
+          "name": "Isaac Joseph Harry Graves",
+          "votes": 33,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Liberal Democrat": 39.1,
+        "Reform UK": 23.32,
+        "Green": 15.35,
+        "Labour": 14.13,
+        "Conservative": 7.69,
+        "TUSC": 0.41
+      },
+      "party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "winning_party": "Liberal Democrat",
+      "total_votes": 8035,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T20:58:23Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05010865",
+        "qual_l4_pct": 51.72,
+        "no_qual_pct": 9.77,
+        "muslim_pct": 3.25,
+        "no_religion_pct": 41.19,
+        "age_under_35_pct": 31.47,
+        "age_65_plus_pct": 31.61,
+        "social_rented_pct": 14.66,
+        "white_british_pct": 86.87
+      }
+    },
+    {
+      "ward_slug": "east-ecclesfield",
+      "ward_name": "East Ecclesfield",
+      "ballot_id": "local.sheffield.east-ecclesfield.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Sean Maloney",
+          "votes": 2365
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Sean Maloney",
+          "votes": 2365,
+          "elected": true
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Susan Davidson",
+          "votes": 1850,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Craig Gamble Pugh",
+          "votes": 1203,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Rosie Trevillion",
+          "votes": 442,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Kevin Mahoney",
+          "votes": 227,
+          "elected": false
+        },
+        {
+          "party": "TUSC",
+          "name": "Colin Michael Wray",
+          "votes": 21,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 38.72,
+        "Liberal Democrat": 30.29,
+        "Labour": 19.7,
+        "Green": 7.24,
+        "Conservative": 3.72,
+        "TUSC": 0.34
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 6108,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T20:58:25Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05010866",
+        "qual_l4_pct": 24.64,
+        "no_qual_pct": 21.75,
+        "muslim_pct": 0.87,
+        "no_religion_pct": 42.32,
+        "age_under_35_pct": 34.31,
+        "age_65_plus_pct": 27.92,
+        "social_rented_pct": 27.17,
+        "white_british_pct": 93.61
+      }
+    },
+    {
+      "ward_slug": "ecclesall",
+      "ward_name": "Ecclesall",
+      "ballot_id": "local.sheffield.ecclesall.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Green",
+          "name": "Tessa Louise Lupton",
+          "votes": 4328
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Green",
+          "name": "Tessa Louise Lupton",
+          "votes": 4328,
+          "elected": true
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Michael Edward Brown",
+          "votes": 3000,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Rory Joseph Gilmore",
+          "votes": 1228,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "John Andrew Horton",
+          "votes": 721,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Gordon Ronald Millward",
+          "votes": 317,
+          "elected": false
+        },
+        {
+          "party": "TUSC",
+          "name": "Noah Thomas Eden",
+          "votes": 39,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Green": 44.93,
+        "Liberal Democrat": 31.14,
+        "Labour": 12.75,
+        "Reform UK": 7.48,
+        "Conservative": 3.29,
+        "TUSC": 0.4
+      },
+      "party_seats_won": {
+        "Green": 1
+      },
+      "winning_party": "Green",
+      "total_votes": 9633,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T20:58:26Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05010867",
+        "qual_l4_pct": 62.21,
+        "no_qual_pct": 6.77,
+        "muslim_pct": 6.45,
+        "no_religion_pct": 46.49,
+        "age_under_35_pct": 37.77,
+        "age_65_plus_pct": 22.44,
+        "social_rented_pct": 4.03,
+        "white_british_pct": 80.86
+      }
+    },
+    {
+      "ward_slug": "firth-park",
+      "ward_name": "Firth Park",
+      "ballot_id": "local.sheffield.firth-park.2026-05-07",
+      "winner_count": 2,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Robert Hanson",
+          "votes": 1442
+        },
+        {
+          "party": "Labour",
+          "name": "Fran Belbin",
+          "votes": 1352
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Robert Hanson",
+          "votes": 1442,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Fran Belbin",
+          "votes": 1352,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Graeme Waddicar",
+          "votes": 1262,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Sarah Marie Hill",
+          "votes": 1070,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Mike Harrison",
+          "votes": 793,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Eamonn Charles Ward",
+          "votes": 606,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Victoria Margaret Bowden",
+          "votes": 252,
+          "elected": false
+        },
+        {
+          "party": "Independent",
+          "name": "Omer Abdulqader",
+          "votes": 244,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Daniel Jonathon Fielding",
+          "votes": 194,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Thomas Sturgess",
+          "votes": 158,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "David Tetenji",
+          "votes": 125,
+          "elected": false
+        },
+        {
+          "party": "TUSC",
+          "name": "Luke Jonathan Elliott Brownbill",
+          "votes": 42,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 35.86,
+        "Labour": 32.12,
+        "Green": 18.55,
+        "Liberal Democrat": 5.44,
+        "Independent": 3.24,
+        "Conservative": 4.23,
+        "TUSC": 0.56
+      },
+      "party_seats_won": {
+        "Reform UK": 1,
+        "Labour": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 7540,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T20:58:28Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05010868",
+        "qual_l4_pct": 19.6,
+        "no_qual_pct": 31.18,
+        "muslim_pct": 18.8,
+        "no_religion_pct": 38.78,
+        "age_under_35_pct": 48.45,
+        "age_65_plus_pct": 16.56,
+        "social_rented_pct": 91.31,
+        "white_british_pct": 63.58
+      }
+    },
+    {
+      "ward_slug": "fulwood",
+      "ward_name": "Fulwood",
+      "ballot_id": "local.sheffield.fulwood.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Cliff Woodcraft",
+          "votes": 3053
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Cliff Woodcraft",
+          "votes": 3053,
+          "elected": true
+        },
+        {
+          "party": "Green",
+          "name": "John Ronan",
+          "votes": 2952,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Andy Telford",
+          "votes": 906,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Thomas Evans",
+          "votes": 830,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Thomas Wilson",
+          "votes": 362,
+          "elected": false
+        },
+        {
+          "party": "TUSC",
+          "name": "Ellie Axe",
+          "votes": 21,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Liberal Democrat": 37.58,
+        "Green": 36.34,
+        "Reform UK": 11.15,
+        "Labour": 10.22,
+        "Conservative": 4.46,
+        "TUSC": 0.26
+      },
+      "party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "winning_party": "Liberal Democrat",
+      "total_votes": 8124,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T20:58:29Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05010869",
+        "qual_l4_pct": 50.94,
+        "no_qual_pct": 5.49,
+        "muslim_pct": 3.26,
+        "no_religion_pct": 45.25,
+        "age_under_35_pct": 45.21,
+        "age_65_plus_pct": 23.01,
+        "social_rented_pct": 11.55,
+        "white_british_pct": 80.21
+      }
+    },
+    {
+      "ward_slug": "gleadless-valley",
+      "ward_name": "Gleadless Valley",
+      "ballot_id": "local.sheffield.gleadless-valley.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Green",
+          "name": "Marieanne Elliot",
+          "votes": 3517
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Green",
+          "name": "Marieanne Elliot",
+          "votes": 3517,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Andy Rayner",
+          "votes": 1077,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Bob Pemberton",
+          "votes": 763,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "John Dryden",
+          "votes": 336,
+          "elected": false
+        },
+        {
+          "party": "TUSC",
+          "name": "Simon John Jenkins",
+          "votes": 62,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Jennifer Karen Grant",
+          "votes": 43,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Green": 60.66,
+        "Reform UK": 18.58,
+        "Labour": 13.16,
+        "Liberal Democrat": 5.8,
+        "TUSC": 1.07,
+        "Conservative": 0.74
+      },
+      "party_seats_won": {
+        "Green": 1
+      },
+      "winning_party": "Green",
+      "total_votes": 5798,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T20:58:31Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05010870",
+        "qual_l4_pct": 34.46,
+        "no_qual_pct": 20.77,
+        "muslim_pct": 6.65,
+        "no_religion_pct": 51.92,
+        "age_under_35_pct": 44.29,
+        "age_65_plus_pct": 16.66,
+        "social_rented_pct": 63.64,
+        "white_british_pct": 75.44
+      }
+    },
+    {
+      "ward_slug": "graves-park",
+      "ward_name": "Graves Park",
+      "ballot_id": "local.sheffield.graves-park.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Green",
+          "name": "Tom Atkin-Withers",
+          "votes": 2254
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Green",
+          "name": "Tom Atkin-Withers",
+          "votes": 2254,
+          "elected": true
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Steve Ayris",
+          "votes": 1807,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Robert David White",
+          "votes": 1464,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Julia Catherine Brown",
+          "votes": 1168,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Trevor Henry Grant",
+          "votes": 212,
+          "elected": false
+        },
+        {
+          "party": "TUSC",
+          "name": "David Pascoe Ellis",
+          "votes": 40,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Green": 32.46,
+        "Liberal Democrat": 26.02,
+        "Reform UK": 21.08,
+        "Labour": 16.82,
+        "Conservative": 3.05,
+        "TUSC": 0.58
+      },
+      "party_seats_won": {
+        "Green": 1
+      },
+      "winning_party": "Green",
+      "total_votes": 6945,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T20:58:32Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05010871",
+        "qual_l4_pct": 40.91,
+        "no_qual_pct": 14.0,
+        "muslim_pct": 3.19,
+        "no_religion_pct": 47.74,
+        "age_under_35_pct": 37.4,
+        "age_65_plus_pct": 23.48,
+        "social_rented_pct": 15.83,
+        "white_british_pct": 87.3
+      }
+    },
+    {
+      "ward_slug": "hillsborough",
+      "ward_name": "Hillsborough",
+      "ballot_id": "local.sheffield.hillsborough.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Green",
+          "name": "Richard Tinsley",
+          "votes": 3445
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Green",
+          "name": "Richard Tinsley",
+          "votes": 3445,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Mike Bell",
+          "votes": 1802,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Andrew Wild",
+          "votes": 1045,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Christopher Alan Lynch",
+          "votes": 231,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Eve Millward",
+          "votes": 199,
+          "elected": false
+        },
+        {
+          "party": "Independent",
+          "name": "Mark Harrop",
+          "votes": 68,
+          "elected": false
+        },
+        {
+          "party": "TUSC",
+          "name": "Joseph Lewis Hibbert",
+          "votes": 34,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Green": 50.48,
+        "Reform UK": 26.41,
+        "Labour": 15.31,
+        "Liberal Democrat": 3.39,
+        "Conservative": 2.92,
+        "Independent": 1.0,
+        "TUSC": 0.5
+      },
+      "party_seats_won": {
+        "Green": 1
+      },
+      "winning_party": "Green",
+      "total_votes": 6824,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T20:58:34Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05010872",
+        "qual_l4_pct": 34.77,
+        "no_qual_pct": 16.91,
+        "muslim_pct": 2.43,
+        "no_religion_pct": 50.44,
+        "age_under_35_pct": 41.45,
+        "age_65_plus_pct": 19.22,
+        "social_rented_pct": 28.93,
+        "white_british_pct": 86.38
+      }
+    },
+    {
+      "ward_slug": "manor-castle",
+      "ward_name": "Manor Castle",
+      "ballot_id": "local.sheffield.manor-castle.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Green",
+          "name": "Ruth Abbey",
+          "votes": 2012
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Green",
+          "name": "Ruth Abbey",
+          "votes": 2012,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Seun Ajao",
+          "votes": 1241,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Michael Chilton",
+          "votes": 1080,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Dylan Turner",
+          "votes": 177,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Stephanie Jane Kenning",
+          "votes": 149,
+          "elected": false
+        },
+        {
+          "party": "Independent",
+          "name": "Pete Reilly",
+          "votes": 51,
+          "elected": false
+        },
+        {
+          "party": "TUSC",
+          "name": "Alistair Tice",
+          "votes": 27,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Green": 42.47,
+        "Reform UK": 26.2,
+        "Labour": 22.8,
+        "Conservative": 3.74,
+        "Liberal Democrat": 3.15,
+        "Independent": 1.08,
+        "TUSC": 0.57
+      },
+      "party_seats_won": {
+        "Green": 1
+      },
+      "winning_party": "Green",
+      "total_votes": 4737,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T20:58:36Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05010873",
+        "qual_l4_pct": 26.23,
+        "no_qual_pct": 27.66,
+        "muslim_pct": 11.31,
+        "no_religion_pct": 43.38,
+        "age_under_35_pct": 52.03,
+        "age_65_plus_pct": 12.86,
+        "social_rented_pct": 94.46,
+        "white_british_pct": 63.87
+      }
+    },
+    {
+      "ward_slug": "mosborough",
+      "ward_name": "Mosborough",
+      "ballot_id": "local.sheffield.mosborough.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Joel McGuigan",
+          "votes": 2114
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Joel McGuigan",
+          "votes": 2114,
+          "elected": true
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Gail Smith",
+          "votes": 1450,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Jason Holyhead",
+          "votes": 836,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Julie White",
+          "votes": 444,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Patricia Jean Barnsley",
+          "votes": 269,
+          "elected": false
+        },
+        {
+          "party": "Independent",
+          "name": "Ronald Corbett",
+          "votes": 74,
+          "elected": false
+        },
+        {
+          "party": "TUSC",
+          "name": "Michael John Hudgell",
+          "votes": 29,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 40.53,
+        "Liberal Democrat": 27.8,
+        "Labour": 16.03,
+        "Green": 8.51,
+        "Conservative": 5.16,
+        "Independent": 1.42,
+        "TUSC": 0.56
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 5216,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T20:58:37Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05010874",
+        "qual_l4_pct": 25.49,
+        "no_qual_pct": 21.17,
+        "muslim_pct": 0.99,
+        "no_religion_pct": 45.56,
+        "age_under_35_pct": 36.36,
+        "age_65_plus_pct": 24.93,
+        "social_rented_pct": 37.6,
+        "white_british_pct": 92.69
+      }
+    },
+    {
+      "ward_slug": "nether-edge-sharrow",
+      "ward_name": "Nether Edge & Sharrow",
+      "ballot_id": "local.sheffield.nether-edge-sharrow.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Green",
+          "name": "Lynsey Angell",
+          "votes": 3770
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Green",
+          "name": "Lynsey Angell",
+          "votes": 3770,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Nighat Basharat",
+          "votes": 2695,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Sean Patrick Pearce",
+          "votes": 441,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Joe Yeardley",
+          "votes": 319,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Joanne Mary Lowe",
+          "votes": 192,
+          "elected": false
+        },
+        {
+          "party": "TUSC",
+          "name": "Tilde Resare",
+          "votes": 54,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Green": 50.46,
+        "Labour": 36.07,
+        "Reform UK": 5.9,
+        "Liberal Democrat": 4.27,
+        "Conservative": 2.57,
+        "TUSC": 0.72
+      },
+      "party_seats_won": {
+        "Green": 1
+      },
+      "winning_party": "Green",
+      "total_votes": 7471,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T20:58:39Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05010875",
+        "qual_l4_pct": 47.44,
+        "no_qual_pct": 14.21,
+        "muslim_pct": 24.74,
+        "no_religion_pct": 41.9,
+        "age_under_35_pct": 55.1,
+        "age_65_plus_pct": 12.59,
+        "social_rented_pct": 27.72,
+        "white_british_pct": 54.85
+      }
+    },
+    {
+      "ward_slug": "park-arbourthorne",
+      "ward_name": "Park & Arbourthorne",
+      "ballot_id": "local.sheffield.park-arbourthorne.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Matt Smith",
+          "votes": 1740
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Matt Smith",
+          "votes": 1740,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Nabeela Mowlana",
+          "votes": 1287,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Billie Dawn Turner",
+          "votes": 1009,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Brian Stringfellow",
+          "votes": 210,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Ann Patricia Kingdom",
+          "votes": 193,
+          "elected": false
+        },
+        {
+          "party": "Independent",
+          "name": "Dwaine Craven",
+          "votes": 89,
+          "elected": false
+        },
+        {
+          "party": "TUSC",
+          "name": "Jack Jeffery",
+          "votes": 52,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 37.99,
+        "Labour": 28.1,
+        "Green": 22.03,
+        "Conservative": 4.59,
+        "Liberal Democrat": 4.21,
+        "Independent": 1.94,
+        "TUSC": 1.14
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 4580,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T20:58:41Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05010876",
+        "qual_l4_pct": 26.01,
+        "no_qual_pct": 27.39,
+        "muslim_pct": 7.75,
+        "no_religion_pct": 43.43,
+        "age_under_35_pct": 44.98,
+        "age_65_plus_pct": 19.29,
+        "social_rented_pct": 76.64,
+        "white_british_pct": 71.63
+      }
+    },
+    {
+      "ward_slug": "richmond",
+      "ward_name": "Richmond",
+      "ballot_id": "local.sheffield.richmond.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Jack Byrom",
+          "votes": 2472
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Jack Byrom",
+          "votes": 2472,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Beth Cheshire",
+          "votes": 1107,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Luke William Hunt",
+          "votes": 710,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Pansy Plester",
+          "votes": 256,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Adil Shaffaq Mohammed",
+          "votes": 168,
+          "elected": false
+        },
+        {
+          "party": "Independent",
+          "name": "Joe Greatorex",
+          "votes": 107,
+          "elected": false
+        },
+        {
+          "party": "UK Independence Party (UKIP)",
+          "name": "Jack Hurst",
+          "votes": 47,
+          "elected": false
+        },
+        {
+          "party": "TUSC",
+          "name": "Hollie Charlotte Buisson",
+          "votes": 27,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 50.51,
+        "Labour": 22.62,
+        "Green": 14.51,
+        "Conservative": 5.23,
+        "Liberal Democrat": 3.43,
+        "Independent": 2.19,
+        "UK Independence Party (UKIP)": 0.96,
+        "TUSC": 0.55
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 4894,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T20:58:42Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05010877",
+        "qual_l4_pct": 20.4,
+        "no_qual_pct": 25.69,
+        "muslim_pct": 2.56,
+        "no_religion_pct": 46.02,
+        "age_under_35_pct": 39.14,
+        "age_65_plus_pct": 24.16,
+        "social_rented_pct": 48.5,
+        "white_british_pct": 87.89
+      }
+    },
+    {
+      "ward_slug": "shiregreen-brightside",
+      "ward_name": "Shiregreen & Brightside",
+      "ballot_id": "local.sheffield.shiregreen-brightside.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Mick Lee",
+          "votes": 1671
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Mick Lee",
+          "votes": 1671,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Josiah Lenton",
+          "votes": 951,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Joel Gilbert",
+          "votes": 707,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Rachel Esther Barker",
+          "votes": 192,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Lewis Lennard Henrey Malcolm Mills",
+          "votes": 192,
+          "elected": false
+        },
+        {
+          "party": "Independent",
+          "name": "Josh Darling",
+          "votes": 148,
+          "elected": false
+        },
+        {
+          "party": "Independent",
+          "name": "Garry David Weatherall",
+          "votes": 55,
+          "elected": false
+        },
+        {
+          "party": "TUSC",
+          "name": "Rebecca Fryer",
+          "votes": 25,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 42.4,
+        "Labour": 24.13,
+        "Green": 17.94,
+        "Liberal Democrat": 4.87,
+        "Conservative": 4.87,
+        "Independent": 5.15,
+        "TUSC": 0.63
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 3941,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T20:58:44Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05010878",
+        "qual_l4_pct": 20.03,
+        "no_qual_pct": 27.56,
+        "muslim_pct": 11.49,
+        "no_religion_pct": 42.82,
+        "age_under_35_pct": 46.93,
+        "age_65_plus_pct": 16.18,
+        "social_rented_pct": 65.86,
+        "white_british_pct": 70.52
+      }
+    },
+    {
+      "ward_slug": "stannington",
+      "ward_name": "Stannington",
+      "ballot_id": "local.sheffield.stannington.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Will Sapwell",
+          "votes": 2400
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Will Sapwell",
+          "votes": 2400,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Ian Oxley",
+          "votes": 2266,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Maz Rowan Hamilton",
+          "votes": 1089,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Lewis William Blake Dagnall",
+          "votes": 971,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Matthew James Langham",
+          "votes": 301,
+          "elected": false
+        },
+        {
+          "party": "Independent",
+          "name": "Cameron James Luke Mannion",
+          "votes": 48,
+          "elected": false
+        },
+        {
+          "party": "TUSC",
+          "name": "George Arthur Rollason",
+          "votes": 23,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Liberal Democrat": 33.81,
+        "Reform UK": 31.92,
+        "Green": 15.34,
+        "Labour": 13.68,
+        "Conservative": 4.24,
+        "Independent": 0.68,
+        "TUSC": 0.32
+      },
+      "party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "winning_party": "Liberal Democrat",
+      "total_votes": 7098,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T20:59:19Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05010880",
+        "qual_l4_pct": 35.39,
+        "no_qual_pct": 16.15,
+        "muslim_pct": 1.2,
+        "no_religion_pct": 44.45,
+        "age_under_35_pct": 34.72,
+        "age_65_plus_pct": 26.9,
+        "social_rented_pct": 32.36,
+        "white_british_pct": 92.33
+      }
+    },
+    {
+      "ward_slug": "stocksbridge-upper-don",
+      "ward_name": "Stocksbridge & Upper Don",
+      "ballot_id": "local.sheffield.stocksbridge-upper-don.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "John Hesketh",
+          "votes": 2554
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "John Hesketh",
+          "votes": 2554,
+          "elected": true
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Stuart Andrew Shepherd",
+          "votes": 2208,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Janet Hilary Ridler",
+          "votes": 1022,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "David Willington",
+          "votes": 638,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Owen Cooper",
+          "votes": 382,
+          "elected": false
+        },
+        {
+          "party": "TUSC",
+          "name": "Claire Suzanne Wraith",
+          "votes": 35,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 37.34,
+        "Liberal Democrat": 32.29,
+        "Labour": 14.94,
+        "Green": 9.33,
+        "Conservative": 5.59,
+        "TUSC": 0.51
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 6839,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T20:59:45Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05010881",
+        "qual_l4_pct": 29.73,
+        "no_qual_pct": 17.59,
+        "muslim_pct": 0.3,
+        "no_religion_pct": 45.73,
+        "age_under_35_pct": 35.27,
+        "age_65_plus_pct": 26.0,
+        "social_rented_pct": 26.23,
+        "white_british_pct": 95.23
+      }
+    },
+    {
+      "ward_slug": "walkley",
+      "ward_name": "Walkley",
+      "ballot_id": "local.sheffield.walkley.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Green",
+          "name": "Andy Davies",
+          "votes": 2794
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Green",
+          "name": "Andy Davies",
+          "votes": 2794,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Tom Hunt",
+          "votes": 2721,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Kim Vivien Hanson",
+          "votes": 980,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Alex Purvis",
+          "votes": 194,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Michael Lawrence Ginn",
+          "votes": 146,
+          "elected": false
+        },
+        {
+          "party": "Independent",
+          "name": "Harry Crawley",
+          "votes": 70,
+          "elected": false
+        },
+        {
+          "party": "TUSC",
+          "name": "Isabelle Amy France",
+          "votes": 69,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Green": 40.06,
+        "Labour": 39.02,
+        "Reform UK": 14.05,
+        "Liberal Democrat": 2.78,
+        "Conservative": 2.09,
+        "Independent": 1.0,
+        "TUSC": 0.99
+      },
+      "party_seats_won": {
+        "Green": 1
+      },
+      "winning_party": "Green",
+      "total_votes": 6974,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T20:59:47Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05010882",
+        "qual_l4_pct": 43.55,
+        "no_qual_pct": 15.99,
+        "muslim_pct": 13.87,
+        "no_religion_pct": 45.35,
+        "age_under_35_pct": 53.65,
+        "age_65_plus_pct": 14.47,
+        "social_rented_pct": 51.48,
+        "white_british_pct": 63.12
+      }
+    },
+    {
+      "ward_slug": "west-ecclesfield",
+      "ward_name": "West Ecclesfield",
+      "ballot_id": "local.sheffield.west-ecclesfield.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Mike Levery",
+          "votes": 2295
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Mike Levery",
+          "votes": 2295,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "David Ogle",
+          "votes": 2278,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Alexander Stuart Parker",
+          "votes": 609,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Kathy Aston",
+          "votes": 435,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Matt Dixon",
+          "votes": 254,
+          "elected": false
+        },
+        {
+          "party": "TUSC",
+          "name": "Solomon David Wells-Ashmore",
+          "votes": 30,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Liberal Democrat": 38.89,
+        "Reform UK": 38.6,
+        "Labour": 10.32,
+        "Green": 7.37,
+        "Conservative": 4.3,
+        "TUSC": 0.51
+      },
+      "party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "winning_party": "Liberal Democrat",
+      "total_votes": 5901,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T20:59:49Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05010883",
+        "qual_l4_pct": 26.83,
+        "no_qual_pct": 19.81,
+        "muslim_pct": 0.81,
+        "no_religion_pct": 41.52,
+        "age_under_35_pct": 34.43,
+        "age_65_plus_pct": 28.69,
+        "social_rented_pct": 31.4,
+        "white_british_pct": 93.9
+      }
+    },
+    {
+      "ward_slug": "woodhouse",
+      "ward_name": "Woodhouse",
+      "ballot_id": "local.sheffield.woodhouse.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Nathaniel Menday",
+          "votes": 1987
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Nathaniel Menday",
+          "votes": 1987,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Danny Alan Allsebrook",
+          "votes": 890,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Hannah Kate Nicklin",
+          "votes": 678,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Willis James Marshall",
+          "votes": 451,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Steven Winstone",
+          "votes": 266,
+          "elected": false
+        },
+        {
+          "party": "Independent",
+          "name": "Dorne Carr",
+          "votes": 108,
+          "elected": false
+        },
+        {
+          "party": "TUSC",
+          "name": "Joshua Andrew Crapper",
+          "votes": 74,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 44.61,
+        "Labour": 19.98,
+        "Green": 15.22,
+        "Liberal Democrat": 10.13,
+        "Conservative": 5.97,
+        "Independent": 2.42,
+        "TUSC": 1.66
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 4454,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T20:59:50Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05010884",
+        "qual_l4_pct": 23.13,
+        "no_qual_pct": 23.86,
+        "muslim_pct": 4.79,
+        "no_religion_pct": 43.75,
+        "age_under_35_pct": 40.56,
+        "age_65_plus_pct": 23.19,
+        "social_rented_pct": 52.94,
+        "white_british_pct": 86.2
+      }
+    }
+  ],
+  "n_wards_attempted": 28,
+  "n_wards_with_results": 26,
+  "n_wards_no_results": 2
+}

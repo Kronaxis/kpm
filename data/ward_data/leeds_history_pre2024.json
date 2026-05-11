@@ -1,0 +1,83 @@
+{
+  "council_slug": "leeds",
+  "wards": [
+    {
+      "ward_slug": "adel-wharfedale",
+      "ward_name": "Adel & Wharfedale",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.leeds.adel-wharfedale.2023-05-04",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 43.8,
+        "Labour": 29.28,
+        "Liberal Democrat": 19.06,
+        "Green": 7.86
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 7048,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "alwoodley",
+      "ward_name": "Alwoodley",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.leeds.alwoodley.2023-05-04",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 49.85,
+        "Labour": 36.01,
+        "Liberal Democrat": 6.42,
+        "Green": 5.21,
+        "Yorkshire Party": 2.51
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 6526,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "ardsley-robin-hood",
+      "ward_name": "Ardsley & Robin Hood",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.leeds.ardsley-robin-hood.2023-05-04",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 43.81,
+        "Liberal Democrat": 25.66,
+        "Conservative": 23.72,
+        "Green": 4.87,
+        "Social Democratic Party": 1.94
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 5214,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "armley",
+      "ward_name": "Armley",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.leeds.armley.2023-05-04",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 44.11,
+        "Green": 39.8,
+        "Conservative": 9.74,
+        "Yorkshire Party": 3.0,
+        "Liberal Democrat": 2.44,
+        "Independent": 0.91
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 4301,
+      "prior_winner_count": 1
+    }
+  ],
+  "n_wards_attempted": 33,
+  "n_wards_with_history": 4
+}

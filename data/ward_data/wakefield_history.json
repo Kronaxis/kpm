@@ -1,0 +1,179 @@
+{
+  "council_slug": "wakefield",
+  "source": "https://candidates.democracyclub.org.uk/api/next/",
+  "fetched_at": "2026-05-10T23:48:29Z",
+  "wards": [
+    {
+      "ward_slug": "featherstone",
+      "ward_name": "Featherstone",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.wakefield.featherstone.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 72.8,
+        "Conservative": 15.43,
+        "Green": 11.76
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2754,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "hemsworth",
+      "ward_name": "Hemsworth",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.wakefield.hemsworth.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 61.44,
+        "Green": 18.16,
+        "Conservative": 12.41,
+        "TUSC": 7.99
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2103,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "normanton",
+      "ward_name": "Normanton",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.wakefield.normanton.2023-05-04",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 47.08,
+        "Wakefield & District Independents": 19.46,
+        "Conservative": 18.49,
+        "Liberal Democrat": 8.42,
+        "Green": 6.55
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2672,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "ossett",
+      "ward_name": "Ossett",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.wakefield.ossett.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 49.91,
+        "Conservative": 23.21,
+        "Reform UK": 12.28,
+        "Yorkshire Party": 5.7,
+        "Liberal Democrat": 4.86,
+        "Green": 4.04
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3787,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "pontefract-south",
+      "ward_name": "Pontefract South",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.wakefield.pontefract-south.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 57.79,
+        "Conservative": 33.08,
+        "Green": 9.13
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3331,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "wakefield-east",
+      "ward_name": "Wakefield East",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.wakefield.wakefield-east.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 54.19,
+        "Green": 26.48,
+        "Conservative": 14.74,
+        "TUSC": 4.6
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3237,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "wakefield-north",
+      "ward_name": "Wakefield North",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.wakefield.wakefield-north.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 50.03,
+        "Green": 22.74,
+        "Conservative": 14.27,
+        "Yorkshire Party": 10.76,
+        "TUSC": 2.2
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3224,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "wakefield-rural",
+      "ward_name": "Wakefield Rural",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.wakefield.wakefield-rural.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 40.7,
+        "Conservative": 32.44,
+        "Yorkshire Party": 15.23,
+        "Green": 7.59,
+        "Liberal Democrat": 4.02
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 4201,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "wakefield-south",
+      "ward_name": "Wakefield South",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.wakefield.wakefield-south.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 36.44,
+        "Conservative": 34.9,
+        "Green": 17.92,
+        "Yorkshire Party": 10.74
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3639,
+      "prior_winner_count": 1
+    }
+  ],
+  "n_wards_attempted": 20,
+  "n_wards_with_history": 9,
+  "n_wards_no_history": 11,
+  "prior_year_distribution": {
+    "2024": 8,
+    "2023": 1
+  }
+}

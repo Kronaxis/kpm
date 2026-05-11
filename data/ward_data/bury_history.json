@@ -1,0 +1,282 @@
+{
+  "council_slug": "bury",
+  "source": "https://candidates.democracyclub.org.uk/api/next/",
+  "fetched_at": "2026-05-10T23:56:52Z",
+  "wards": [
+    {
+      "ward_slug": "besses",
+      "ward_name": "Besses",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.bury.besses.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 63.75,
+        "Bury Independents": 16.27,
+        "Conservative": 11.72,
+        "English Democrats": 8.26
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2397,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "bury-east",
+      "ward_name": "Bury East",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.bury.bury-east.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 37.66,
+        "Bury Independents": 18.39,
+        "Workers Party of Britain": 15.94,
+        "Conservative": 12.7,
+        "Reform UK": 11.38,
+        "Liberal Democrat": 3.92
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2653,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "bury-west",
+      "ward_name": "Bury West",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.bury.bury-west.2024-05-02",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 48.23,
+        "Labour": 38.09,
+        "Bury Independents": 13.68
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 3384,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "elton",
+      "ward_name": "Elton",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.bury.elton.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Conservative": 47.31,
+        "Labour": 48.6,
+        "Liberal Democrat": 4.09
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1,
+        "Labour": 2
+      },
+      "prior_total_votes": 10175,
+      "prior_winner_count": 3
+    },
+    {
+      "ward_slug": "north-manor",
+      "ward_name": "North Manor",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.bury.north-manor.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 45.78,
+        "Conservative": 44.74,
+        "Green": 6.53,
+        "Independent": 2.95
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 4028,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "pilkington-park",
+      "ward_name": "Pilkington Park",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.bury.pilkington-park.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 53.94,
+        "Conservative": 31.55,
+        "Reform UK": 7.48,
+        "Bury Independents": 4.48,
+        "Independent": 2.56
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3170,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "radcliffe-east",
+      "ward_name": "Radcliffe East",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.bury.radcliffe-east.2024-05-02",
+      "prior_winning_party": "Radcliffe First",
+      "prior_party_shares": {
+        "Radcliffe First": 59.97,
+        "Labour": 32.66,
+        "Conservative": 7.38
+      },
+      "prior_party_seats_won": {
+        "Radcliffe First": 1
+      },
+      "prior_total_votes": 2318,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "radcliffe-north-ainsworth",
+      "ward_name": "Radcliffe North & Ainsworth",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.bury.radcliffe-north-ainsworth.2024-05-02",
+      "prior_winning_party": "Radcliffe First",
+      "prior_party_shares": {
+        "Radcliffe First": 42.73,
+        "Conservative": 34.55,
+        "Labour": 22.72
+      },
+      "prior_party_seats_won": {
+        "Radcliffe First": 1
+      },
+      "prior_total_votes": 3433,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "radcliffe-west",
+      "ward_name": "Radcliffe West",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.bury.radcliffe-west.2024-05-02",
+      "prior_winning_party": "Radcliffe First",
+      "prior_party_shares": {
+        "Radcliffe First": 56.56,
+        "Labour": 34.75,
+        "Conservative": 8.7
+      },
+      "prior_party_seats_won": {
+        "Radcliffe First": 1
+      },
+      "prior_total_votes": 2334,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "ramsbottom",
+      "ward_name": "Ramsbottom",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.bury.ramsbottom.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 61.53,
+        "Conservative": 31.74,
+        "Liberal Democrat": 6.73
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3598,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "redvales",
+      "ward_name": "Redvales",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.bury.redvales.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 37.39,
+        "Workers Party of Britain": 31.14,
+        "Conservative": 13.27,
+        "Green": 12.24,
+        "Bury Independents": 5.96
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3089,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "sedgley",
+      "ward_name": "Sedgley",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.bury.sedgley.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 65.5,
+        "Conservative": 25.35,
+        "Liberal Democrat": 9.15
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2797,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "st-marys",
+      "ward_name": "St. Mary's",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.bury.st-marys.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 67.99,
+        "Conservative": 16.33,
+        "Green": 15.68
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3202,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "tottington",
+      "ward_name": "Tottington",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.bury.tottington.2022-05-05",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Independent": 19.56,
+        "Conservative": 46.86,
+        "Labour": 28.15,
+        "Green": 5.43
+      },
+      "prior_party_seats_won": {
+        "Independent": 1,
+        "Conservative": 2
+      },
+      "prior_total_votes": 9196,
+      "prior_winner_count": 3
+    },
+    {
+      "ward_slug": "unsworth",
+      "ward_name": "Unsworth",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.bury.unsworth.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 51.45,
+        "Bury Independents": 22.68,
+        "Conservative": 20.59,
+        "Workers Party of Britain": 5.28
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3351,
+      "prior_winner_count": 1
+    }
+  ],
+  "n_wards_attempted": 15,
+  "n_wards_with_history": 15,
+  "n_wards_no_history": 0,
+  "prior_year_distribution": {
+    "2024": 13,
+    "2022": 2
+  }
+}

@@ -1,0 +1,1338 @@
+{
+  "council_slug": "cheltenham",
+  "election_date": "2026-05-07",
+  "source": "https://candidates.democracyclub.org.uk/api/next/",
+  "fetched_at": "2026-05-10T22:32:50Z",
+  "wards": [
+    {
+      "ward_slug": "all-saints",
+      "ward_name": "All Saints",
+      "ballot_id": "local.cheltenham.all-saints.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Izaac Augustus Tailford",
+          "votes": 928
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Izaac Augustus Tailford",
+          "votes": 928,
+          "elected": true
+        },
+        {
+          "party": "Green",
+          "name": "James Dyson",
+          "votes": 596,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Hod Birkby",
+          "votes": 275,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Gill Hewlett",
+          "votes": 225,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Diana Helen Hale",
+          "votes": 37,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Liberal Democrat": 45.03,
+        "Green": 28.92,
+        "Reform UK": 13.34,
+        "Conservative": 10.92,
+        "Labour": 1.8
+      },
+      "party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "winning_party": "Liberal Democrat",
+      "total_votes": 2061,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T22:32:51Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05004288",
+        "qual_l4_pct": 54.44,
+        "no_qual_pct": 8.41,
+        "muslim_pct": 1.31,
+        "no_religion_pct": 48.39,
+        "age_under_35_pct": 45.48,
+        "age_65_plus_pct": 16.21,
+        "social_rented_pct": 8.11,
+        "white_british_pct": 79.32
+      }
+    },
+    {
+      "ward_slug": "battledown",
+      "ward_name": "Battledown",
+      "ballot_id": "local.cheltenham.battledown.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Chris Day",
+          "votes": 1040
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Chris Day",
+          "votes": 1040,
+          "elected": true
+        },
+        {
+          "party": "Conservative",
+          "name": "Chris Clinton",
+          "votes": 506,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Marcia Jacko",
+          "votes": 349,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Liam Pem",
+          "votes": 276,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Lukshayini Manimaran",
+          "votes": 23,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Liberal Democrat": 47.4,
+        "Conservative": 23.06,
+        "Reform UK": 15.91,
+        "Green": 12.58,
+        "Labour": 1.05
+      },
+      "party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "winning_party": "Liberal Democrat",
+      "total_votes": 2194,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T22:32:53Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05004289",
+        "qual_l4_pct": 51.67,
+        "no_qual_pct": 8.67,
+        "muslim_pct": 1.76,
+        "no_religion_pct": 45.09,
+        "age_under_35_pct": 41.54,
+        "age_65_plus_pct": 17.57,
+        "social_rented_pct": 10.34,
+        "white_british_pct": 84.6
+      }
+    },
+    {
+      "ward_slug": "benhall-the-reddings-fiddlers-green",
+      "ward_name": "Benhall, the Reddings & Fiddler's Green",
+      "ballot_id": "local.cheltenham.benhall-the-reddings-fiddlers-green.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Stephen Ian Steinhardt",
+          "votes": 1103
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Stephen Ian Steinhardt",
+          "votes": 1103,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Maggie Humphries",
+          "votes": 565,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Dan Collins",
+          "votes": 436,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Emily Fairburn",
+          "votes": 264,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Liberal Democrat": 46.58,
+        "Reform UK": 23.86,
+        "Conservative": 18.41,
+        "Green": 11.15
+      },
+      "party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "winning_party": "Liberal Democrat",
+      "total_votes": 2368,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T22:32:55Z",
+      "census": {
+        "matched": false,
+        "note": "no Census ward found by name"
+      }
+    },
+    {
+      "ward_slug": "charlton-kings",
+      "ward_name": "Charlton Kings",
+      "ballot_id": "local.cheltenham.charlton-kings.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Arthur Gordon Snell",
+          "votes": 922
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Arthur Gordon Snell",
+          "votes": 922,
+          "elected": true
+        },
+        {
+          "party": "Green",
+          "name": "Jon Perera",
+          "votes": 563,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Matt Babbage",
+          "votes": 487,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Den Jeffreys-Jones",
+          "votes": 320,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Ella Harriet Rees",
+          "votes": 47,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Liberal Democrat": 39.42,
+        "Green": 24.07,
+        "Conservative": 20.82,
+        "Reform UK": 13.68,
+        "Labour": 2.01
+      },
+      "party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "winning_party": "Liberal Democrat",
+      "total_votes": 2339,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T22:32:56Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05004291",
+        "qual_l4_pct": 50.97,
+        "no_qual_pct": 10.5,
+        "muslim_pct": 0.53,
+        "no_religion_pct": 43.67,
+        "age_under_35_pct": 36.45,
+        "age_65_plus_pct": 23.68,
+        "social_rented_pct": 13.05,
+        "white_british_pct": 89.56
+      }
+    },
+    {
+      "ward_slug": "charlton-park",
+      "ward_name": "Charlton Park",
+      "ballot_id": "local.cheltenham.charlton-park.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Steve Harvey",
+          "votes": 906
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Steve Harvey",
+          "votes": 906,
+          "elected": true
+        },
+        {
+          "party": "Conservative",
+          "name": "Elliot Craddock",
+          "votes": 740,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Kes Steger",
+          "votes": 370,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Kevin Charles Bowden",
+          "votes": 296,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "John Malcolm Bride",
+          "votes": 44,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Liberal Democrat": 38.46,
+        "Conservative": 31.41,
+        "Green": 15.7,
+        "Reform UK": 12.56,
+        "Labour": 1.87
+      },
+      "party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "winning_party": "Liberal Democrat",
+      "total_votes": 2356,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T22:33:30Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05004292",
+        "qual_l4_pct": 54.67,
+        "no_qual_pct": 8.31,
+        "muslim_pct": 0.57,
+        "no_religion_pct": 36.3,
+        "age_under_35_pct": 30.35,
+        "age_65_plus_pct": 33.96,
+        "social_rented_pct": 6.72,
+        "white_british_pct": 88.92
+      }
+    },
+    {
+      "ward_slug": "college",
+      "ward_name": "College",
+      "ballot_id": "local.cheltenham.college.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Garth Wallington Barnes",
+          "votes": 1003
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Garth Wallington Barnes",
+          "votes": 1003,
+          "elected": true
+        },
+        {
+          "party": "Green",
+          "name": "Naomi Seadon",
+          "votes": 337,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Rich Newman",
+          "votes": 334,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Maureen McNall",
+          "votes": 269,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Adam Moliver",
+          "votes": 51,
+          "elected": false
+        },
+        {
+          "party": "Heritage Party",
+          "name": "Stephen Paul Reid",
+          "votes": 10,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Liberal Democrat": 50.05,
+        "Green": 16.82,
+        "Conservative": 16.67,
+        "Reform UK": 13.42,
+        "Labour": 2.54,
+        "Heritage Party": 0.5
+      },
+      "party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "winning_party": "Liberal Democrat",
+      "total_votes": 2004,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T22:33:31Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05004293",
+        "qual_l4_pct": 55.65,
+        "no_qual_pct": 8.13,
+        "muslim_pct": 1.16,
+        "no_religion_pct": 45.83,
+        "age_under_35_pct": 42.65,
+        "age_65_plus_pct": 22.95,
+        "social_rented_pct": 5.61,
+        "white_british_pct": 82.91
+      }
+    },
+    {
+      "ward_slug": "hesters-way",
+      "ward_name": "Hesters Way",
+      "ballot_id": "local.cheltenham.hesters-way.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Callum James Eldridge",
+          "votes": 431
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Callum James Eldridge",
+          "votes": 431,
+          "elected": true
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Benjamin Botchway",
+          "votes": 415,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Wendy Flynn",
+          "votes": 366,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Alex Miller",
+          "votes": 99,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Clive Robert Harriss",
+          "votes": 40,
+          "elected": false
+        },
+        {
+          "party": "TUSC",
+          "name": "Samuel Jacob Coxson",
+          "votes": 8,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 31.71,
+        "Liberal Democrat": 30.54,
+        "Green": 26.93,
+        "Conservative": 7.28,
+        "Labour": 2.94,
+        "TUSC": 0.59
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 1359,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T22:33:33Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05004294",
+        "qual_l4_pct": 28.41,
+        "no_qual_pct": 20.52,
+        "muslim_pct": 2.34,
+        "no_religion_pct": 46.15,
+        "age_under_35_pct": 46.93,
+        "age_65_plus_pct": 15.88,
+        "social_rented_pct": 67.54,
+        "white_british_pct": 76.5
+      }
+    },
+    {
+      "ward_slug": "lansdown",
+      "ward_name": "Lansdown",
+      "ballot_id": "local.cheltenham.lansdown.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Jamie Jamieson",
+          "votes": 874
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Jamie Jamieson",
+          "votes": 874,
+          "elected": true
+        },
+        {
+          "party": "Conservative",
+          "name": "Pippa Mason",
+          "votes": 574,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Ed Joy",
+          "votes": 330,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Dean Raymond Luke Botterill",
+          "votes": 324,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Liberal Democrat": 41.58,
+        "Conservative": 27.31,
+        "Green": 15.7,
+        "Reform UK": 15.41
+      },
+      "party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "winning_party": "Liberal Democrat",
+      "total_votes": 2102,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T22:34:07Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05004295",
+        "qual_l4_pct": 54.2,
+        "no_qual_pct": 8.67,
+        "muslim_pct": 0.97,
+        "no_religion_pct": 44.27,
+        "age_under_35_pct": 46.73,
+        "age_65_plus_pct": 22.36,
+        "social_rented_pct": 21.04,
+        "white_british_pct": 75.55
+      }
+    },
+    {
+      "ward_slug": "leckhampton",
+      "ward_name": "Leckhampton",
+      "ballot_id": "local.cheltenham.leckhampton.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Julia Caroline Chandler",
+          "votes": 1274
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Julia Caroline Chandler",
+          "votes": 1274,
+          "elected": true
+        },
+        {
+          "party": "Conservative",
+          "name": "Nick Saywell",
+          "votes": 491,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Stephen Hayward Bajdala-Brown",
+          "votes": 307,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Peter Frings",
+          "votes": 260,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Philip Cole",
+          "votes": 33,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Liberal Democrat": 53.87,
+        "Conservative": 20.76,
+        "Reform UK": 12.98,
+        "Green": 10.99,
+        "Labour": 1.4
+      },
+      "party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "winning_party": "Liberal Democrat",
+      "total_votes": 2365,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T22:34:09Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05004296",
+        "qual_l4_pct": 55.18,
+        "no_qual_pct": 9.25,
+        "muslim_pct": 0.4,
+        "no_religion_pct": 40.54,
+        "age_under_35_pct": 31.75,
+        "age_65_plus_pct": 31.26,
+        "social_rented_pct": 8.06,
+        "white_british_pct": 90.15
+      }
+    },
+    {
+      "ward_slug": "oakley",
+      "ward_name": "Oakley",
+      "ballot_id": "local.cheltenham.oakley.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Alisha Chloe-Marie Lewis",
+          "votes": 632
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Alisha Chloe-Marie Lewis",
+          "votes": 632,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Maureen Susan Dodwell",
+          "votes": 487,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Nathan Weller",
+          "votes": 204,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Roy Hewlett",
+          "votes": 144,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Liberal Democrat": 43.08,
+        "Reform UK": 33.2,
+        "Green": 13.91,
+        "Conservative": 9.82
+      },
+      "party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "winning_party": "Liberal Democrat",
+      "total_votes": 1467,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T22:34:11Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05004297",
+        "qual_l4_pct": 27.17,
+        "no_qual_pct": 25.16,
+        "muslim_pct": 1.28,
+        "no_religion_pct": 48.44,
+        "age_under_35_pct": 43.6,
+        "age_65_plus_pct": 17.75,
+        "social_rented_pct": 67.04,
+        "white_british_pct": 85.35
+      }
+    },
+    {
+      "ward_slug": "park",
+      "ward_name": "Park",
+      "ballot_id": "local.cheltenham.park.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Karen Louise Priest",
+          "votes": 997
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Karen Louise Priest",
+          "votes": 997,
+          "elected": true
+        },
+        {
+          "party": "Conservative",
+          "name": "Tim Harman",
+          "votes": 750,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Andrew Patrick Dempsey",
+          "votes": 298,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Karen Wilson",
+          "votes": 290,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Kevin Michael Boyle",
+          "votes": 45,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Liberal Democrat": 41.89,
+        "Conservative": 31.51,
+        "Reform UK": 12.52,
+        "Green": 12.18,
+        "Labour": 1.89
+      },
+      "party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "winning_party": "Liberal Democrat",
+      "total_votes": 2380,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T22:34:14Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05004298",
+        "qual_l4_pct": 54.01,
+        "no_qual_pct": 8.61,
+        "muslim_pct": 0.77,
+        "no_religion_pct": 40.89,
+        "age_under_35_pct": 36.08,
+        "age_65_plus_pct": 31.8,
+        "social_rented_pct": 10.69,
+        "white_british_pct": 85.43
+      }
+    },
+    {
+      "ward_slug": "pittville",
+      "ward_name": "Pittville",
+      "ballot_id": "local.cheltenham.pittville.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Cecily Frances Grace Henderson",
+          "votes": 1037
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Cecily Frances Grace Henderson",
+          "votes": 1037,
+          "elected": true
+        },
+        {
+          "party": "Green",
+          "name": "Jamal Rahman",
+          "votes": 470,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Ashley John Fraser Mills",
+          "votes": 389,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Alan James Davis",
+          "votes": 362,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Martin William Glozier",
+          "votes": 45,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Liberal Democrat": 45.03,
+        "Green": 20.41,
+        "Reform UK": 16.89,
+        "Conservative": 15.72,
+        "Labour": 1.95
+      },
+      "party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "winning_party": "Liberal Democrat",
+      "total_votes": 2303,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T22:34:16Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05004299",
+        "qual_l4_pct": 49.75,
+        "no_qual_pct": 9.36,
+        "muslim_pct": 1.06,
+        "no_religion_pct": 46.64,
+        "age_under_35_pct": 41.38,
+        "age_65_plus_pct": 25.42,
+        "social_rented_pct": 17.81,
+        "white_british_pct": 84.28
+      }
+    },
+    {
+      "ward_slug": "prestbury",
+      "ward_name": "Prestbury",
+      "ballot_id": "local.cheltenham.prestbury.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Green",
+          "name": "Jan Foster",
+          "votes": 993
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Green",
+          "name": "Jan Foster",
+          "votes": 993,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Lance Alan Fletcher",
+          "votes": 621,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Chris Mason",
+          "votes": 430,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Ben Ingram",
+          "votes": 364,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Green": 41.24,
+        "Reform UK": 25.79,
+        "Conservative": 17.86,
+        "Liberal Democrat": 15.12
+      },
+      "party_seats_won": {
+        "Green": 1
+      },
+      "winning_party": "Green",
+      "total_votes": 2408,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T22:34:18Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05004300",
+        "qual_l4_pct": 45.09,
+        "no_qual_pct": 10.55,
+        "muslim_pct": 0.65,
+        "no_religion_pct": 37.99,
+        "age_under_35_pct": 34.81,
+        "age_65_plus_pct": 33.08,
+        "social_rented_pct": 12.25,
+        "white_british_pct": 89.58
+      }
+    },
+    {
+      "ward_slug": "springbank",
+      "ward_name": "Springbank",
+      "ballot_id": "local.cheltenham.springbank.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Peter Jeremy Jeffries",
+          "votes": 719
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Peter Jeremy Jeffries",
+          "votes": 719,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Haydn Douglas Pearl",
+          "votes": 498,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Sarp Cetin",
+          "votes": 195,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Helen Frances Shill",
+          "votes": 162,
+          "elected": false
+        },
+        {
+          "party": "Christian Peoples Alliance",
+          "name": "David Nigel Edgar",
+          "votes": 22,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Liberal Democrat": 45.05,
+        "Reform UK": 31.2,
+        "Green": 12.22,
+        "Conservative": 10.15,
+        "Christian Peoples Alliance": 1.38
+      },
+      "party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "winning_party": "Liberal Democrat",
+      "total_votes": 1596,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T22:34:20Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05004304",
+        "qual_l4_pct": 27.28,
+        "no_qual_pct": 21.23,
+        "muslim_pct": 1.85,
+        "no_religion_pct": 45.18,
+        "age_under_35_pct": 44.63,
+        "age_65_plus_pct": 18.03,
+        "social_rented_pct": 46.23,
+        "white_british_pct": 79.04
+      }
+    },
+    {
+      "ward_slug": "st-marks",
+      "ward_name": "St Mark's",
+      "ballot_id": "local.cheltenham.st-marks.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Richard James Pineger",
+          "votes": 752
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Richard James Pineger",
+          "votes": 752,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Antony Neil Fillingham",
+          "votes": 438,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Kieran Scott",
+          "votes": 297,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Colin John Parsons",
+          "votes": 160,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Julie Frances Farmer",
+          "votes": 67,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Liberal Democrat": 43.87,
+        "Reform UK": 25.55,
+        "Green": 17.33,
+        "Conservative": 9.33,
+        "Labour": 3.91
+      },
+      "party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "winning_party": "Liberal Democrat",
+      "total_votes": 1714,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T22:34:30Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05004301",
+        "qual_l4_pct": 34.19,
+        "no_qual_pct": 19.34,
+        "muslim_pct": 2.24,
+        "no_religion_pct": 47.9,
+        "age_under_35_pct": 43.36,
+        "age_65_plus_pct": 18.06,
+        "social_rented_pct": 57.16,
+        "white_british_pct": 83.6
+      }
+    },
+    {
+      "ward_slug": "st-pauls",
+      "ward_name": "St Paul's",
+      "ballot_id": "local.cheltenham.st-pauls.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Green",
+          "name": "Ashleigh Davies",
+          "votes": 723
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Green",
+          "name": "Ashleigh Davies",
+          "votes": 723,
+          "elected": true
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Cathal Lynch",
+          "votes": 374,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Steve Buckley",
+          "votes": 208,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Sandra Gloria Parsons",
+          "votes": 87,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Christopher John Meehan",
+          "votes": 40,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Green": 50.49,
+        "Liberal Democrat": 26.12,
+        "Reform UK": 14.53,
+        "Conservative": 6.08,
+        "Labour": 2.79
+      },
+      "party_seats_won": {
+        "Green": 1
+      },
+      "winning_party": "Green",
+      "total_votes": 1432,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T22:34:31Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05004302",
+        "qual_l4_pct": 33.47,
+        "no_qual_pct": 14.54,
+        "muslim_pct": 2.69,
+        "no_religion_pct": 51.68,
+        "age_under_35_pct": 61.35,
+        "age_65_plus_pct": 9.04,
+        "social_rented_pct": 41.09,
+        "white_british_pct": 73.04
+      }
+    },
+    {
+      "ward_slug": "st-peters",
+      "ward_name": "St Peter's",
+      "ballot_id": "local.cheltenham.st-peters.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Cathy Dearden",
+          "votes": 876
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Cathy Dearden",
+          "votes": 876,
+          "elected": true
+        },
+        {
+          "party": "Green",
+          "name": "John Jarvis",
+          "votes": 444,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Anthony William Green",
+          "votes": 386,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Risha Santilal",
+          "votes": 187,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Michael Thomas Farmer",
+          "votes": 72,
+          "elected": false
+        },
+        {
+          "party": "TUSC",
+          "name": "Billy Jones",
+          "votes": 6,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Liberal Democrat": 44.44,
+        "Green": 22.53,
+        "Reform UK": 19.58,
+        "Conservative": 9.49,
+        "Labour": 3.65,
+        "TUSC": 0.3
+      },
+      "party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "winning_party": "Liberal Democrat",
+      "total_votes": 1971,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T22:34:33Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05004303",
+        "qual_l4_pct": 42.4,
+        "no_qual_pct": 14.93,
+        "muslim_pct": 3.12,
+        "no_religion_pct": 47.95,
+        "age_under_35_pct": 49.63,
+        "age_65_plus_pct": 14.51,
+        "social_rented_pct": 28.33,
+        "white_british_pct": 74.43
+      }
+    },
+    {
+      "ward_slug": "up-hatherley",
+      "ward_name": "Up Hatherley",
+      "ballot_id": "local.cheltenham.up-hatherley.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Julie Margaret Sankey",
+          "votes": 1177
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Julie Margaret Sankey",
+          "votes": 1177,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Tristram John Francis Torrance",
+          "votes": 456,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Joshua James Godfrey",
+          "votes": 431,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Elizabeth Johnson",
+          "votes": 234,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Liberal Democrat": 51.22,
+        "Reform UK": 19.84,
+        "Conservative": 18.76,
+        "Green": 10.18
+      },
+      "party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "winning_party": "Liberal Democrat",
+      "total_votes": 2298,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T22:35:16Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05004306",
+        "qual_l4_pct": 37.63,
+        "no_qual_pct": 12.71,
+        "muslim_pct": 0.99,
+        "no_religion_pct": 42.11,
+        "age_under_35_pct": 35.32,
+        "age_65_plus_pct": 26.46,
+        "social_rented_pct": 9.38,
+        "white_british_pct": 89.99
+      }
+    },
+    {
+      "ward_slug": "warden-hill",
+      "ward_name": "Warden Hill",
+      "ballot_id": "local.cheltenham.warden-hill.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Tony Oliver",
+          "votes": 1094
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Tony Oliver",
+          "votes": 1094,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "David Paul Dodwell",
+          "votes": 441,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Georgie Bass",
+          "votes": 360,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Sarah Quekett",
+          "votes": 177,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Ned Holt",
+          "votes": 27,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Liberal Democrat": 52.12,
+        "Reform UK": 21.01,
+        "Conservative": 17.15,
+        "Green": 8.43,
+        "Labour": 1.29
+      },
+      "party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "winning_party": "Liberal Democrat",
+      "total_votes": 2099,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T22:35:17Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05004307",
+        "qual_l4_pct": 39.24,
+        "no_qual_pct": 14.23,
+        "muslim_pct": 1.1,
+        "no_religion_pct": 42.37,
+        "age_under_35_pct": 35.37,
+        "age_65_plus_pct": 27.14,
+        "social_rented_pct": 12.6,
+        "white_british_pct": 88.65
+      }
+    }
+  ],
+  "n_wards_attempted": 20,
+  "n_wards_with_results": 19,
+  "n_wards_no_results": 1
+}

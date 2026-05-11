@@ -1,0 +1,447 @@
+{
+  "council_slug": "dudley",
+  "source": "https://candidates.democracyclub.org.uk/api/next/",
+  "fetched_at": "2026-05-11T13:14:15Z",
+  "wards": [
+    {
+      "ward_slug": "amblecote",
+      "ward_name": "Amblecote",
+      "prior_year": 2023,
+      "prior_ballot_id": "wikipedia.dudley.amblecote.2023-05-04",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 52.31,
+        "Labour": 36.55,
+        "Liberal Democrat": 6.22,
+        "Green": 4.92
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 996,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "belle-vale",
+      "ward_name": "Belle Vale",
+      "prior_year": 2023,
+      "prior_ballot_id": "wikipedia.dudley.belle-vale.2023-05-04",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 54.32,
+        "Labour": 38.15,
+        "Green": 3.92,
+        "Liberal Democrat": 3.61
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 996,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "brierley-hill",
+      "ward_name": "Brierley Hill",
+      "prior_year": 2023,
+      "prior_ballot_id": "wikipedia.dudley.brierley-hill.2023-05-04",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 44.43,
+        "Labour": 40.92,
+        "Green": 5.62,
+        "Reform UK": 4.71,
+        "Liberal Democrat": 4.31
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 997,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "brockmoor-and-pensnett",
+      "ward_name": "Brockmoor and Pensnett",
+      "prior_year": 2023,
+      "prior_ballot_id": "wikipedia.dudley.brockmoor-and-pensnett.2023-05-04",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 58.35,
+        "Conservative": 31.99,
+        "Reform UK": 4.93,
+        "Green": 2.92,
+        "Liberal Democrat": 1.81
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 994,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "castle-and-priory",
+      "ward_name": "Castle and Priory",
+      "prior_year": 2023,
+      "prior_ballot_id": "wikipedia.dudley.castle-and-priory.2023-05-04",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 61.68,
+        "Conservative": 27.87,
+        "Green": 5.33,
+        "Liberal Democrat": 5.12
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 976,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "coseley-east",
+      "ward_name": "Coseley East",
+      "prior_year": 2023,
+      "prior_ballot_id": "wikipedia.dudley.coseley-east.2023-05-04",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 61.8,
+        "Conservative": 25.4,
+        "Green": 11.5,
+        "Liberal Democrat": 1.3
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1000,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "cradley-and-wollescote",
+      "ward_name": "Cradley and Wollescote",
+      "prior_year": 2023,
+      "prior_ballot_id": "wikipedia.dudley.cradley-and-wollescote.2023-05-04",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 39.17,
+        "Liberal Democrat": 38.36,
+        "Conservative": 19.13,
+        "Green": 3.34
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 988,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "gornal",
+      "ward_name": "Gornal",
+      "prior_year": 2023,
+      "prior_ballot_id": "wikipedia.dudley.gornal.2023-05-04",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 35.64,
+        "Independent": 27.01,
+        "Labour": 23.19,
+        "Reform UK": 6.73,
+        "Green": 3.82,
+        "Liberal Democrat": 3.61
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 996,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "halesowen-north",
+      "ward_name": "Halesowen North",
+      "prior_year": 2023,
+      "prior_ballot_id": "wikipedia.dudley.halesowen-north.2023-05-04",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 53.82,
+        "Conservative": 39.66,
+        "Green": 4.72,
+        "Liberal Democrat": 1.81
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 996,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "halesowen-south",
+      "ward_name": "Halesowen South",
+      "prior_year": 2023,
+      "prior_ballot_id": "wikipedia.dudley.halesowen-south.2023-05-04",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 54.28,
+        "Labour": 32.23,
+        "Green": 6.85,
+        "Liberal Democrat": 6.65
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 993,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "haley-green-and-cradley-south",
+      "ward_name": "Haley Green and Cradley South",
+      "prior_year": 2023,
+      "prior_ballot_id": "wikipedia.dudley.haley-green-and-cradley-south.2023-05-04",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 52.75,
+        "Labour": 41.44,
+        "Liberal Democrat": 5.81
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 999,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "kingswinford-north-and-wall-heath",
+      "ward_name": "Kingswinford North and Wall Heath",
+      "prior_year": 2023,
+      "prior_ballot_id": "wikipedia.dudley.kingswinford-north-and-wall-heath.2023-05-04",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 60.6,
+        "Labour": 28.94,
+        "Green": 5.43,
+        "Liberal Democrat": 5.03
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 995,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "kingswinford-south",
+      "ward_name": "Kingswinford South",
+      "prior_year": 2023,
+      "prior_ballot_id": "wikipedia.dudley.kingswinford-south.2023-05-04",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 57.4,
+        "Labour": 38.9,
+        "Liberal Democrat": 3.7
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 1000,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "lye-and-stourbridge-north",
+      "ward_name": "Lye and Stourbridge North",
+      "prior_year": 2023,
+      "prior_ballot_id": "wikipedia.dudley.lye-and-stourbridge-north.2023-05-04",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 51.8,
+        "Conservative": 32.3,
+        "Green": 8.4,
+        "Liberal Democrat": 7.5
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1000,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "netherton,-woodside-and-st.-andrew's",
+      "ward_name": "Netherton, Woodside and St. Andrew's",
+      "prior_year": 2023,
+      "prior_ballot_id": "wikipedia.dudley.netherton,-woodside-and-st.-andrew's.2023-05-04",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 63.1,
+        "Conservative": 24.6,
+        "Green": 12.3
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1000,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "norton",
+      "ward_name": "Norton",
+      "prior_year": 2023,
+      "prior_ballot_id": "wikipedia.dudley.norton.2023-05-04",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 46.5,
+        "Labour": 28.1,
+        "Green": 17.2,
+        "Liberal Democrat": 5.1,
+        "Independent": 3.1
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 1000,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "pedmore-and-stourbridge-east",
+      "ward_name": "Pedmore and Stourbridge East",
+      "prior_year": 2023,
+      "prior_ballot_id": "wikipedia.dudley.pedmore-and-stourbridge-east.2023-05-04",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 53.75,
+        "Labour": 32.87,
+        "Liberal Democrat": 7.49,
+        "Green": 5.89
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 1001,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "quarry-bank-and-dudley-wood",
+      "ward_name": "Quarry Bank and Dudley Wood",
+      "prior_year": 2023,
+      "prior_ballot_id": "wikipedia.dudley.quarry-bank-and-dudley-wood.2023-05-04",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 50.9,
+        "Conservative": 34.4,
+        "Liberal Democrat": 7.7,
+        "Green": 7.0
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1000,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "sedgley",
+      "ward_name": "Sedgley",
+      "prior_year": 2023,
+      "prior_ballot_id": "wikipedia.dudley.sedgley.2023-05-04",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 56.72,
+        "Labour": 30.64,
+        "Green": 5.76,
+        "Liberal Democrat": 4.85,
+        "Independent": 2.02
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 989,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "st-james's",
+      "ward_name": "St James's",
+      "prior_year": 2023,
+      "prior_ballot_id": "wikipedia.dudley.st-james's.2023-05-04",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 53.9,
+        "Conservative": 40.6,
+        "Liberal Democrat": 5.5
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1000,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "st-thomas's",
+      "ward_name": "St Thomas's",
+      "prior_year": 2023,
+      "prior_ballot_id": "wikipedia.dudley.st-thomas's.2023-05-04",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 55.06,
+        "Conservative": 32.98,
+        "Liberal Democrat": 6.61,
+        "Green": 5.35
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1028,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "upper-gornal-and-woodsetton",
+      "ward_name": "Upper Gornal and Woodsetton",
+      "prior_year": 2023,
+      "prior_ballot_id": "wikipedia.dudley.upper-gornal-and-woodsetton.2023-05-04",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 57.1,
+        "Conservative": 38.1,
+        "Independent": 4.8
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1000,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "wollaston-and-stourbridge",
+      "ward_name": "Wollaston and Stourbridge",
+      "prior_year": 2023,
+      "prior_ballot_id": "wikipedia.dudley.wollaston-and-stourbridge.2023-05-04",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 48.78,
+        "Conservative": 37.7,
+        "Liberal Democrat": 7.01,
+        "Green": 6.5
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 984,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "wordsley",
+      "ward_name": "Wordsley",
+      "prior_year": 2023,
+      "prior_ballot_id": "wikipedia.dudley.wordsley.2023-05-04",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 47.1,
+        "Labour": 41.6,
+        "Reform UK": 4.5,
+        "Green": 3.9,
+        "Liberal Democrat": 2.9
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 1000,
+      "prior_winner_count": 1
+    }
+  ],
+  "n_wards_attempted": 22,
+  "n_wards_with_history": 24,
+  "n_wards_no_history": 22,
+  "prior_year_distribution": {},
+  "merged_wikipedia_at": "2026-05-11T13:45:01Z",
+  "n_wikipedia_wards_added": 24
+}

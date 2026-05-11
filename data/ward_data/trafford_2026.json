@@ -1,0 +1,1477 @@
+{
+  "council_slug": "trafford",
+  "election_date": "2026-05-07",
+  "source": "https://candidates.democracyclub.org.uk/api/next/",
+  "fetched_at": "2026-05-10T23:22:20Z",
+  "wards": [
+    {
+      "ward_slug": "altrincham",
+      "ward_name": "Altrincham",
+      "ballot_id": "local.trafford.altrincham.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Green",
+          "name": "Dan Jerrome",
+          "votes": 1744
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Green",
+          "name": "Dan Jerrome",
+          "votes": 1744,
+          "elected": true
+        },
+        {
+          "party": "Conservative",
+          "name": "Nick Dean",
+          "votes": 1099,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Stuart Craig Niven",
+          "votes": 556,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Mark Nesbitt",
+          "votes": 363,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Donald McIntosh",
+          "votes": 180,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Green": 44.24,
+        "Conservative": 27.88,
+        "Reform UK": 14.1,
+        "Labour": 9.21,
+        "Liberal Democrat": 4.57
+      },
+      "party_seats_won": {
+        "Green": 1
+      },
+      "winning_party": "Green",
+      "total_votes": 3942,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:22:22Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000819",
+        "qual_l4_pct": 54.76,
+        "no_qual_pct": 10.56,
+        "muslim_pct": 5.14,
+        "no_religion_pct": 36.57,
+        "age_under_35_pct": 42.42,
+        "age_65_plus_pct": 17.08,
+        "social_rented_pct": 18.83,
+        "white_british_pct": 72.63
+      }
+    },
+    {
+      "ward_slug": "ashton-upon-mersey",
+      "ward_name": "Ashton upon Mersey",
+      "ballot_id": "local.trafford.ashton-upon-mersey.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Labour",
+          "name": "Ben Hartley",
+          "votes": 1476
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Labour",
+          "name": "Ben Hartley",
+          "votes": 1476,
+          "elected": true
+        },
+        {
+          "party": "Conservative",
+          "name": "Christopher Halliday",
+          "votes": 1038,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Diane Elizabeth Plunkett",
+          "votes": 801,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Luke Sowerby",
+          "votes": 683,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Jonathan Bevan",
+          "votes": 283,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Labour": 34.48,
+        "Conservative": 24.25,
+        "Green": 18.71,
+        "Reform UK": 15.95,
+        "Liberal Democrat": 6.61
+      },
+      "party_seats_won": {
+        "Labour": 1
+      },
+      "winning_party": "Labour",
+      "total_votes": 4281,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:22:23Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000820",
+        "qual_l4_pct": 47.61,
+        "no_qual_pct": 11.65,
+        "muslim_pct": 2.85,
+        "no_religion_pct": 37.81,
+        "age_under_35_pct": 37.58,
+        "age_65_plus_pct": 23.06,
+        "social_rented_pct": 16.35,
+        "white_british_pct": 82.39
+      }
+    },
+    {
+      "ward_slug": "bowdon",
+      "ward_name": "Bowdon",
+      "ballot_id": "local.trafford.bowdon.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Conservative",
+          "name": "Shengke Zhi",
+          "votes": 2616
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Conservative",
+          "name": "Shengke Zhi",
+          "votes": 2616,
+          "elected": true
+        },
+        {
+          "party": "Green",
+          "name": "Bridget Mary Green",
+          "votes": 1424,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Michelle Lesley McCusker",
+          "votes": 445,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Kate Lamerton",
+          "votes": 203,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Ludo Tolhurst-Cleaver",
+          "votes": 105,
+          "elected": false
+        },
+        {
+          "party": "Advance UK",
+          "name": "Ron Hutton",
+          "votes": 11,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Conservative": 54.45,
+        "Green": 29.64,
+        "Reform UK": 9.26,
+        "Labour": 4.23,
+        "Liberal Democrat": 2.19,
+        "Advance UK": 0.23
+      },
+      "party_seats_won": {
+        "Conservative": 1
+      },
+      "winning_party": "Conservative",
+      "total_votes": 4804,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:22:49Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000821",
+        "qual_l4_pct": 54.97,
+        "no_qual_pct": 10.72,
+        "muslim_pct": 5.92,
+        "no_religion_pct": 26.94,
+        "age_under_35_pct": 33.01,
+        "age_65_plus_pct": 30.55,
+        "social_rented_pct": 20.65,
+        "white_british_pct": 77.01
+      }
+    },
+    {
+      "ward_slug": "broadheath",
+      "ward_name": "Broadheath",
+      "ballot_id": "local.trafford.broadheath.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Conservative",
+          "name": "Prakash Nathani",
+          "votes": 1721
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Conservative",
+          "name": "Prakash Nathani",
+          "votes": 1721,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Javed Bakht Khwaja",
+          "votes": 1018,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Barbara Gerard",
+          "votes": 842,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Terence Charnock",
+          "votes": 704,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Alexander Young",
+          "votes": 504,
+          "elected": false
+        },
+        {
+          "party": "Independent",
+          "name": "Stephen John Farndon",
+          "votes": 33,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Conservative": 35.69,
+        "Labour": 21.11,
+        "Liberal Democrat": 17.46,
+        "Reform UK": 14.6,
+        "Green": 10.45,
+        "Independent": 0.68
+      },
+      "party_seats_won": {
+        "Conservative": 1
+      },
+      "winning_party": "Conservative",
+      "total_votes": 4822,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:22:51Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000822",
+        "qual_l4_pct": 46.32,
+        "no_qual_pct": 11.15,
+        "muslim_pct": 8.68,
+        "no_religion_pct": 33.09,
+        "age_under_35_pct": 42.14,
+        "age_65_plus_pct": 15.86,
+        "social_rented_pct": 19.53,
+        "white_british_pct": 66.64
+      }
+    },
+    {
+      "ward_slug": "brooklands",
+      "ward_name": "Brooklands",
+      "ballot_id": "local.trafford.brooklands.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Labour",
+          "name": "Rose Thompson",
+          "votes": 1417
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Labour",
+          "name": "Rose Thompson",
+          "votes": 1417,
+          "elected": true
+        },
+        {
+          "party": "Conservative",
+          "name": "Bheem Pulla",
+          "votes": 1149,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "John Spencer Churchill",
+          "votes": 811,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Renate Aspden",
+          "votes": 783,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Pauline Cliff",
+          "votes": 262,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Labour": 32.04,
+        "Conservative": 25.98,
+        "Reform UK": 18.34,
+        "Green": 17.71,
+        "Liberal Democrat": 5.92
+      },
+      "party_seats_won": {
+        "Labour": 1
+      },
+      "winning_party": "Labour",
+      "total_votes": 4422,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:22:53Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000823",
+        "qual_l4_pct": 51.65,
+        "no_qual_pct": 9.43,
+        "muslim_pct": 4.74,
+        "no_religion_pct": 34.77,
+        "age_under_35_pct": 37.12,
+        "age_65_plus_pct": 22.64,
+        "social_rented_pct": 10.61,
+        "white_british_pct": 75.89
+      }
+    },
+    {
+      "ward_slug": "bucklow-st-martins",
+      "ward_name": "Bucklow-St Martins",
+      "ballot_id": "local.trafford.bucklow-st-martins.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Charlotte Amy Eileen Waterworth",
+          "votes": 1226
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Charlotte Amy Eileen Waterworth",
+          "votes": 1226,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Aidan James Williams",
+          "votes": 618,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "George James Speight",
+          "votes": 412,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Istvan Toth",
+          "votes": 314,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Margaret Hamilton Boysen",
+          "votes": 173,
+          "elected": false
+        },
+        {
+          "party": "Advance UK",
+          "name": "Paul Swansborough",
+          "votes": 69,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 43.6,
+        "Labour": 21.98,
+        "Green": 14.65,
+        "Conservative": 11.17,
+        "Liberal Democrat": 6.15,
+        "Advance UK": 2.45
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 2812,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:22:55Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000824",
+        "qual_l4_pct": 21.0,
+        "no_qual_pct": 22.47,
+        "muslim_pct": 2.14,
+        "no_religion_pct": 41.16,
+        "age_under_35_pct": 45.13,
+        "age_65_plus_pct": 18.04,
+        "social_rented_pct": 70.43,
+        "white_british_pct": 86.12
+      }
+    },
+    {
+      "ward_slug": "davyhulme",
+      "ward_name": "Davyhulme",
+      "ballot_id": "local.trafford.davyhulme.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Billy Burke",
+          "votes": 1294
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Billy Burke",
+          "votes": 1294,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Karina Carter",
+          "votes": 1283,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Jonathan Coupe",
+          "votes": 811,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Kevin Peter Chatterton",
+          "votes": 665,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Briony Stephenson",
+          "votes": 214,
+          "elected": false
+        },
+        {
+          "party": "Advance UK",
+          "name": "Gary Regan",
+          "votes": 36,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 30.07,
+        "Labour": 29.82,
+        "Conservative": 18.85,
+        "Green": 15.45,
+        "Liberal Democrat": 4.97,
+        "Advance UK": 0.84
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 4303,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:22:57Z",
+      "census": {
+        "matched": false,
+        "note": "no Census ward found by name"
+      }
+    },
+    {
+      "ward_slug": "flixton",
+      "ward_name": "Flixton",
+      "ballot_id": "local.trafford.flixton.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Labour",
+          "name": "Dolores Catherine O'Sullivan",
+          "votes": 1314
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Labour",
+          "name": "Dolores Catherine O'Sullivan",
+          "votes": 1314,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Mark John Ormiston",
+          "votes": 1291,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Katrin Cotter",
+          "votes": 812,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Paul Lally",
+          "votes": 746,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Tim Kinsella",
+          "votes": 241,
+          "elected": false
+        },
+        {
+          "party": "Advance UK",
+          "name": "Andrew Beaumont",
+          "votes": 32,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Labour": 29.62,
+        "Reform UK": 29.1,
+        "Green": 18.3,
+        "Conservative": 16.82,
+        "Liberal Democrat": 5.43,
+        "Advance UK": 0.72
+      },
+      "party_seats_won": {
+        "Labour": 1
+      },
+      "winning_party": "Labour",
+      "total_votes": 4436,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:22:58Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000828",
+        "qual_l4_pct": 37.72,
+        "no_qual_pct": 14.86,
+        "muslim_pct": 0.96,
+        "no_religion_pct": 33.81,
+        "age_under_35_pct": 34.33,
+        "age_65_plus_pct": 26.48,
+        "social_rented_pct": 19.98,
+        "white_british_pct": 89.71
+      }
+    },
+    {
+      "ward_slug": "gorse-hill-cornbrook",
+      "ward_name": "Gorse Hill & Cornbrook",
+      "ballot_id": "local.trafford.gorse-hill-cornbrook.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Green",
+          "name": "Aaron James Fradley",
+          "votes": 1417
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Green",
+          "name": "Aaron James Fradley",
+          "votes": 1417,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Fianna Frances Ritchen Hornby",
+          "votes": 943,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Bill Sumner",
+          "votes": 515,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Stuart Donnelly",
+          "votes": 199,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Dawn Lee Carberry-Power",
+          "votes": 125,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Green": 44.3,
+        "Labour": 29.48,
+        "Reform UK": 16.1,
+        "Conservative": 6.22,
+        "Liberal Democrat": 3.91
+      },
+      "party_seats_won": {
+        "Green": 1
+      },
+      "winning_party": "Green",
+      "total_votes": 3199,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:23:31Z",
+      "census": {
+        "matched": false,
+        "note": "no Census ward found by name"
+      }
+    },
+    {
+      "ward_slug": "hale",
+      "ward_name": "Hale",
+      "ballot_id": "local.trafford.hale.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Conservative",
+          "name": "Rupert Owen Kelly",
+          "votes": 1941
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Conservative",
+          "name": "Rupert Owen Kelly",
+          "votes": 1941,
+          "elected": true
+        },
+        {
+          "party": "Green",
+          "name": "Orla Weir",
+          "votes": 1571,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Richard Anthony Shean",
+          "votes": 346,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Seth Edward Champion",
+          "votes": 271,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Jason Stack",
+          "votes": 162,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Conservative": 45.23,
+        "Green": 36.61,
+        "Reform UK": 8.06,
+        "Labour": 6.32,
+        "Liberal Democrat": 3.78
+      },
+      "party_seats_won": {
+        "Conservative": 1
+      },
+      "winning_party": "Conservative",
+      "total_votes": 4291,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:23:32Z",
+      "census": {
+        "matched": false,
+        "note": "no Census ward found by name"
+      }
+    },
+    {
+      "ward_slug": "hale-barns-timperley-south",
+      "ward_name": "Hale Barns & Timperley South",
+      "ballot_id": "local.trafford.hale-barns-timperley-south.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Conservative",
+          "name": "Nathan Evans",
+          "votes": 2138
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Conservative",
+          "name": "Nathan Evans",
+          "votes": 2138,
+          "elected": true
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Matt Sellars",
+          "votes": 1084,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Leslie Cupitt",
+          "votes": 431,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Centaine Parker",
+          "votes": 299,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Isaac Jones",
+          "votes": 183,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Conservative": 51.7,
+        "Liberal Democrat": 26.22,
+        "Reform UK": 10.42,
+        "Green": 7.23,
+        "Labour": 4.43
+      },
+      "party_seats_won": {
+        "Conservative": 1
+      },
+      "winning_party": "Conservative",
+      "total_votes": 4135,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:23:34Z",
+      "census": {
+        "matched": false,
+        "note": "no Census ward found by name"
+      }
+    },
+    {
+      "ward_slug": "longford",
+      "ward_name": "Longford",
+      "ballot_id": "local.trafford.longford.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Green",
+          "name": "Gareth Adam Twose",
+          "votes": 1719
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Green",
+          "name": "Gareth Adam Twose",
+          "votes": 1719,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Judith Ann Lloyd",
+          "votes": 1196,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Charles William Oliver Rear",
+          "votes": 399,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Chris Boyes",
+          "votes": 242,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Anna Fryer",
+          "votes": 127,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Green": 46.67,
+        "Labour": 32.47,
+        "Reform UK": 10.83,
+        "Conservative": 6.57,
+        "Liberal Democrat": 3.45
+      },
+      "party_seats_won": {
+        "Green": 1
+      },
+      "winning_party": "Green",
+      "total_votes": 3683,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:23:36Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000832",
+        "qual_l4_pct": 41.97,
+        "no_qual_pct": 17.45,
+        "muslim_pct": 27.17,
+        "no_religion_pct": 27.69,
+        "age_under_35_pct": 45.98,
+        "age_65_plus_pct": 15.33,
+        "social_rented_pct": 39.66,
+        "white_british_pct": 44.74
+      }
+    },
+    {
+      "ward_slug": "lostock-barton",
+      "ward_name": "Lostock & Barton",
+      "ballot_id": "local.trafford.lostock-barton.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Labour",
+          "name": "Mark Gregory Tobin",
+          "votes": 1068
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Labour",
+          "name": "Mark Gregory Tobin",
+          "votes": 1068,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Ian Andrew Edwards",
+          "votes": 1037,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Stephen William Holman",
+          "votes": 700,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Tracey Beryl Haworth",
+          "votes": 468,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "David Kierman",
+          "votes": 178,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Labour": 30.95,
+        "Reform UK": 30.05,
+        "Green": 20.28,
+        "Conservative": 13.56,
+        "Liberal Democrat": 5.16
+      },
+      "party_seats_won": {
+        "Labour": 1
+      },
+      "winning_party": "Labour",
+      "total_votes": 3451,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:24:01Z",
+      "census": {
+        "matched": false,
+        "note": "no Census ward found by name"
+      }
+    },
+    {
+      "ward_slug": "manor",
+      "ward_name": "Manor",
+      "ballot_id": "local.trafford.manor.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Conservative",
+          "name": "Rupali Paul",
+          "votes": 2037
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Conservative",
+          "name": "Rupali Paul",
+          "votes": 2037,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Dan Barker",
+          "votes": 827,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Gawain Glenton",
+          "votes": 803,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "James McGlashan",
+          "votes": 528,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Simon Wright",
+          "votes": 145,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Conservative": 46.94,
+        "Reform UK": 19.06,
+        "Labour": 18.5,
+        "Green": 12.17,
+        "Liberal Democrat": 3.34
+      },
+      "party_seats_won": {
+        "Conservative": 1
+      },
+      "winning_party": "Conservative",
+      "total_votes": 4340,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:24:03Z",
+      "census": {
+        "matched": false,
+        "note": "no Census ward found by name"
+      }
+    },
+    {
+      "ward_slug": "old-trafford",
+      "ward_name": "Old Trafford",
+      "ballot_id": "local.trafford.old-trafford.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Green",
+          "name": "Jennie Patricia Wadsworth",
+          "votes": 1952
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Green",
+          "name": "Jennie Patricia Wadsworth",
+          "votes": 1952,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Mahvish Masood",
+          "votes": 1338,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Alan Cowell",
+          "votes": 160,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Diane Coupe",
+          "votes": 142,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Andy Hick",
+          "votes": 118,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Green": 52.61,
+        "Labour": 36.06,
+        "Reform UK": 4.31,
+        "Conservative": 3.83,
+        "Liberal Democrat": 3.18
+      },
+      "party_seats_won": {
+        "Green": 1
+      },
+      "winning_party": "Green",
+      "total_votes": 3710,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:24:05Z",
+      "census": {
+        "matched": false,
+        "note": "no Census ward found by name"
+      }
+    },
+    {
+      "ward_slug": "sale-central",
+      "ward_name": "Sale Central",
+      "ballot_id": "local.trafford.sale-central.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Labour",
+          "name": "Eve Rebecca Parker",
+          "votes": 1405
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Labour",
+          "name": "Eve Rebecca Parker",
+          "votes": 1405,
+          "elected": true
+        },
+        {
+          "party": "Green",
+          "name": "Teddy Somers",
+          "votes": 943,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Stephen Colin Ardern",
+          "votes": 571,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Kameswari Achanta",
+          "votes": 521,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Joe Samuel Kramer",
+          "votes": 279,
+          "elected": false
+        },
+        {
+          "party": "Social Democratic Party",
+          "name": "Hilary Salt",
+          "votes": 145,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Labour": 36.36,
+        "Green": 24.4,
+        "Reform UK": 14.78,
+        "Conservative": 13.48,
+        "Liberal Democrat": 7.22,
+        "Social Democratic Party": 3.75
+      },
+      "party_seats_won": {
+        "Labour": 1
+      },
+      "winning_party": "Labour",
+      "total_votes": 3864,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:24:31Z",
+      "census": {
+        "matched": false,
+        "note": "no Census ward found by name"
+      }
+    },
+    {
+      "ward_slug": "sale-moor",
+      "ward_name": "Sale Moor",
+      "ballot_id": "local.trafford.sale-moor.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Labour",
+          "name": "Liz Patel",
+          "votes": 1471
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Labour",
+          "name": "Liz Patel",
+          "votes": 1471,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "James William McCullough",
+          "votes": 985,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Chris James Hargreaves",
+          "votes": 786,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Kishorchandra Patil",
+          "votes": 533,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "James Miller",
+          "votes": 208,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Labour": 36.93,
+        "Reform UK": 24.73,
+        "Green": 19.73,
+        "Conservative": 13.38,
+        "Liberal Democrat": 5.22
+      },
+      "party_seats_won": {
+        "Labour": 1
+      },
+      "winning_party": "Labour",
+      "total_votes": 3983,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:24:32Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000835",
+        "qual_l4_pct": 40.39,
+        "no_qual_pct": 14.49,
+        "muslim_pct": 3.99,
+        "no_religion_pct": 39.2,
+        "age_under_35_pct": 40.85,
+        "age_65_plus_pct": 18.87,
+        "social_rented_pct": 35.43,
+        "white_british_pct": 78.3
+      }
+    },
+    {
+      "ward_slug": "stretford-humphrey-park",
+      "ward_name": "Stretford & Humphrey Park",
+      "ballot_id": "local.trafford.stretford-humphrey-park.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Labour",
+          "name": "Jane Winifred Slater",
+          "votes": 1380
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Labour",
+          "name": "Jane Winifred Slater",
+          "votes": 1380,
+          "elected": true
+        },
+        {
+          "party": "Green",
+          "name": "Daniel John Bowdler",
+          "votes": 1264,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Jamie Gordon Hook",
+          "votes": 1033,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Syeda Bushra Rizvi",
+          "votes": 360,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Stephen Lee Power",
+          "votes": 161,
+          "elected": false
+        },
+        {
+          "party": "Independent",
+          "name": "Hazel Joy Gibb-Shacklock",
+          "votes": 76,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Labour": 32.29,
+        "Green": 29.57,
+        "Reform UK": 24.17,
+        "Conservative": 8.42,
+        "Liberal Democrat": 3.77,
+        "Independent": 1.78
+      },
+      "party_seats_won": {
+        "Labour": 1
+      },
+      "winning_party": "Labour",
+      "total_votes": 4274,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:24:34Z",
+      "census": {
+        "matched": false,
+        "note": "no Census ward found by name"
+      }
+    },
+    {
+      "ward_slug": "timperley-central",
+      "ward_name": "Timperley Central",
+      "ballot_id": "local.trafford.timperley-central.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Julian David Newgrosh",
+          "votes": 1693
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Julian David Newgrosh",
+          "votes": 1693,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Philip Alexander Holt",
+          "votes": 1081,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Vineeta Singh Chouhan",
+          "votes": 765,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "James Brooke-Taylor",
+          "votes": 475,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Barbara Ruth Twiney",
+          "votes": 325,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Liberal Democrat": 39.02,
+        "Reform UK": 24.91,
+        "Conservative": 17.63,
+        "Green": 10.95,
+        "Labour": 7.49
+      },
+      "party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "winning_party": "Liberal Democrat",
+      "total_votes": 4339,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:24:36Z",
+      "census": {
+        "matched": false,
+        "note": "no Census ward found by name"
+      }
+    },
+    {
+      "ward_slug": "timperley-north",
+      "ward_name": "Timperley North",
+      "ballot_id": "local.trafford.timperley-north.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Will Frass",
+          "votes": 2276
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Will Frass",
+          "votes": 2276,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Anthony Shaw",
+          "votes": 830,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Angela Bruer-Morris",
+          "votes": 646,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Aagash Vadera",
+          "votes": 471,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Jo Sharpe",
+          "votes": 440,
+          "elected": false
+        },
+        {
+          "party": "Advance UK",
+          "name": "Angela O'Neill",
+          "votes": 21,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Liberal Democrat": 48.59,
+        "Reform UK": 17.72,
+        "Conservative": 13.79,
+        "Green": 10.06,
+        "Labour": 9.39,
+        "Advance UK": 0.45
+      },
+      "party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "winning_party": "Liberal Democrat",
+      "total_votes": 4684,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:25:01Z",
+      "census": {
+        "matched": false,
+        "note": "no Census ward found by name"
+      }
+    },
+    {
+      "ward_slug": "urmston",
+      "ward_name": "Urmston",
+      "ballot_id": "local.trafford.urmston.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Labour",
+          "name": "Clare Sheridan",
+          "votes": 1555
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Labour",
+          "name": "Clare Sheridan",
+          "votes": 1555,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Dave Stubbs",
+          "votes": 1130,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Steve Tennant",
+          "votes": 897,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Ali Aydogdu",
+          "votes": 468,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "John Robert Franklin-Johnston",
+          "votes": 227,
+          "elected": false
+        },
+        {
+          "party": "Advance UK",
+          "name": "Paul Regan",
+          "votes": 36,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Labour": 36.05,
+        "Reform UK": 26.2,
+        "Green": 20.8,
+        "Conservative": 10.85,
+        "Liberal Democrat": 5.26,
+        "Advance UK": 0.83
+      },
+      "party_seats_won": {
+        "Labour": 1
+      },
+      "winning_party": "Labour",
+      "total_votes": 4313,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:25:03Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000838",
+        "qual_l4_pct": 38.8,
+        "no_qual_pct": 14.78,
+        "muslim_pct": 2.31,
+        "no_religion_pct": 37.41,
+        "age_under_35_pct": 36.23,
+        "age_65_plus_pct": 23.37,
+        "social_rented_pct": 22.86,
+        "white_british_pct": 84.27
+      }
+    }
+  ],
+  "n_wards_attempted": 21,
+  "n_wards_with_results": 21,
+  "n_wards_no_results": 0
+}

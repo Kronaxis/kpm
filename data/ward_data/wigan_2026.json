@@ -1,0 +1,1615 @@
+{
+  "council_slug": "wigan",
+  "election_date": "2026-05-07",
+  "source": "https://candidates.democracyclub.org.uk/api/next/",
+  "fetched_at": "2026-05-10T23:33:18Z",
+  "wards": [
+    {
+      "ward_slug": "abram",
+      "ward_name": "Abram",
+      "ballot_id": "local.wigan.abram.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "David William Bowker",
+          "votes": 1958
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "David William Bowker",
+          "votes": 1958,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Eunice Smethurst",
+          "votes": 844,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "James Galloway",
+          "votes": 394,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Janet Elizabeth Walch",
+          "votes": 158,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Graham Trevor Suddick",
+          "votes": 138,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 56.07,
+        "Labour": 24.17,
+        "Green": 11.28,
+        "Conservative": 4.52,
+        "Liberal Democrat": 3.95
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 3492,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:33:20Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000840",
+        "qual_l4_pct": 20.46,
+        "no_qual_pct": 24.76,
+        "muslim_pct": 1.36,
+        "no_religion_pct": 33.01,
+        "age_under_35_pct": 44.35,
+        "age_65_plus_pct": 16.76,
+        "social_rented_pct": 35.91,
+        "white_british_pct": 90.6
+      }
+    },
+    {
+      "ward_slug": "ashton-in-makerfield-south",
+      "ward_name": "Ashton-in-Makerfield South",
+      "ballot_id": "local.wigan.ashton-in-makerfield-south.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Kathy Morrill-Ashford",
+          "votes": 1572
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Kathy Morrill-Ashford",
+          "votes": 1572,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Anca Condescu",
+          "votes": 1100,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Holly Abbott",
+          "votes": 432,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Paul John Chapman",
+          "votes": 285,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 46.39,
+        "Labour": 32.46,
+        "Green": 12.75,
+        "Conservative": 8.41
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 3389,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:33:22Z",
+      "census": {
+        "matched": false,
+        "note": "no Census ward found by name"
+      }
+    },
+    {
+      "ward_slug": "aspull-new-springs-whelley",
+      "ward_name": "Aspull, New Springs & Whelley",
+      "ballot_id": "local.wigan.aspull-new-springs-whelley.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Jo Meadows",
+          "votes": 2050
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Jo Meadows",
+          "votes": 2050,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Ron Conway",
+          "votes": 1348,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Peter George Edmund Kitts",
+          "votes": 399,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Luke Christian Marsden",
+          "votes": 203,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Donald John MacNamara",
+          "votes": 135,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 49.58,
+        "Labour": 32.6,
+        "Green": 9.65,
+        "Conservative": 4.91,
+        "Liberal Democrat": 3.26
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 4135,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:33:23Z",
+      "census": {
+        "matched": false,
+        "note": "no Census ward found by name"
+      }
+    },
+    {
+      "ward_slug": "astley",
+      "ward_name": "Astley",
+      "ballot_id": "local.wigan.astley.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Eileen Patricia Strathearn",
+          "votes": 2100
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Eileen Patricia Strathearn",
+          "votes": 2100,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Adam Michael Hollis",
+          "votes": 942,
+          "elected": false
+        },
+        {
+          "party": "Independent Network",
+          "name": "Sandra Robinson",
+          "votes": 703,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Simeon Rhys Rowlands",
+          "votes": 504,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "David John Stirzaker",
+          "votes": 392,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 45.25,
+        "Labour": 20.3,
+        "Independent Network": 15.15,
+        "Green": 10.86,
+        "Conservative": 8.45
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 4641,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:33:25Z",
+      "census": {
+        "matched": false,
+        "note": "no Census ward found by name"
+      }
+    },
+    {
+      "ward_slug": "atherton-south-lilford",
+      "ward_name": "Atherton South & Lilford",
+      "ballot_id": "local.wigan.atherton-south-lilford.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Martin James Farrimond",
+          "votes": 2027
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Martin James Farrimond",
+          "votes": 2027,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Richard Thomas Phelan",
+          "votes": 868,
+          "elected": false
+        },
+        {
+          "party": "Leigh & Atherton Independents",
+          "name": "Michael Thomas Livesey",
+          "votes": 457,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Cobi Hughes",
+          "votes": 398,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Ellis Rowlands",
+          "votes": 230,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 50.93,
+        "Labour": 21.81,
+        "Leigh & Atherton Independents": 11.48,
+        "Green": 10.0,
+        "Conservative": 5.78
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 3980,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:33:54Z",
+      "census": {
+        "matched": false,
+        "note": "no Census ward found by name"
+      }
+    },
+    {
+      "ward_slug": "bryn-with-ashton-in-makerfield-north",
+      "ward_name": "Bryn with Ashton-in-Makerfield North",
+      "ballot_id": "local.wigan.bryn-with-ashton-in-makerfield-north.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Robert Francis Kenyon",
+          "votes": 1770
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Robert Francis Kenyon",
+          "votes": 1770,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Louis Andrew Beckley",
+          "votes": 816,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Michael Thompson",
+          "votes": 400,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Judith Atherton",
+          "votes": 229,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Christopher Stephen Davies",
+          "votes": 177,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 52.18,
+        "Labour": 24.06,
+        "Green": 11.79,
+        "Conservative": 6.75,
+        "Liberal Democrat": 5.22
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 3392,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:33:55Z",
+      "census": {
+        "matched": false,
+        "note": "no Census ward found by name"
+      }
+    },
+    {
+      "ward_slug": "douglas",
+      "ward_name": "Douglas",
+      "ballot_id": "local.wigan.douglas.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Matthew Lambert",
+          "votes": 1293
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Matthew Lambert",
+          "votes": 1293,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Alex Sharples",
+          "votes": 585,
+          "elected": false
+        },
+        {
+          "party": "Independent",
+          "name": "Pat Draper",
+          "votes": 515,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "David Beddows",
+          "votes": 307,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Margaret Atherton",
+          "votes": 124,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "John Peter Burley",
+          "votes": 103,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 44.17,
+        "Labour": 19.99,
+        "Independent": 17.59,
+        "Green": 10.49,
+        "Conservative": 4.24,
+        "Liberal Democrat": 3.52
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 2927,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:34:21Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000847",
+        "qual_l4_pct": 21.97,
+        "no_qual_pct": 25.92,
+        "muslim_pct": 1.85,
+        "no_religion_pct": 33.54,
+        "age_under_35_pct": 45.24,
+        "age_65_plus_pct": 18.34,
+        "social_rented_pct": 51.36,
+        "white_british_pct": 87.85
+      }
+    },
+    {
+      "ward_slug": "golborne-lowton-west",
+      "ward_name": "Golborne & Lowton West",
+      "ballot_id": "local.wigan.golborne-lowton-west.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Susan Jayne Frame",
+          "votes": 1478
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Susan Jayne Frame",
+          "votes": 1478,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Gena Merrett",
+          "votes": 1125,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Edward Noel Houlton",
+          "votes": 310,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Kathryn Godfrey",
+          "votes": 281,
+          "elected": false
+        },
+        {
+          "party": "Leigh & Atherton Independents",
+          "name": "Richard Andrew Scott",
+          "votes": 228,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 43.19,
+        "Labour": 32.88,
+        "Conservative": 9.06,
+        "Green": 8.21,
+        "Leigh & Atherton Independents": 6.66
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 3422,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:34:23Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000848",
+        "qual_l4_pct": 23.56,
+        "no_qual_pct": 22.01,
+        "muslim_pct": 0.73,
+        "no_religion_pct": 33.41,
+        "age_under_35_pct": 40.17,
+        "age_65_plus_pct": 21.84,
+        "social_rented_pct": 36.0,
+        "white_british_pct": 94.3
+      }
+    },
+    {
+      "ward_slug": "hindley",
+      "ward_name": "Hindley",
+      "ballot_id": "local.wigan.hindley.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Paul David Manniex",
+          "votes": 1832
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Paul David Manniex",
+          "votes": 1832,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Jim Churton",
+          "votes": 750,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Matthew Baron",
+          "votes": 374,
+          "elected": false
+        },
+        {
+          "party": "Independent",
+          "name": "Jordan James Gaskell",
+          "votes": 282,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Cyril Pendlebury",
+          "votes": 140,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "John Charles Skipworth",
+          "votes": 125,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 52.3,
+        "Labour": 21.41,
+        "Green": 10.68,
+        "Independent": 8.05,
+        "Conservative": 4.0,
+        "Liberal Democrat": 3.57
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 3503,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:34:24Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000849",
+        "qual_l4_pct": 20.76,
+        "no_qual_pct": 25.52,
+        "muslim_pct": 1.03,
+        "no_religion_pct": 30.52,
+        "age_under_35_pct": 40.36,
+        "age_65_plus_pct": 21.19,
+        "social_rented_pct": 46.74,
+        "white_british_pct": 94.74
+      }
+    },
+    {
+      "ward_slug": "hindley-green",
+      "ward_name": "Hindley Green",
+      "ballot_id": "local.wigan.hindley-green.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Liam Clarke",
+          "votes": 1878
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Liam Clarke",
+          "votes": 1878,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "John Melville Vickers",
+          "votes": 1172,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Nathanael Smith",
+          "votes": 258,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Marie Winstanley",
+          "votes": 174,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Gary John Skipworth",
+          "votes": 106,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 52.34,
+        "Labour": 32.66,
+        "Green": 7.19,
+        "Conservative": 4.85,
+        "Liberal Democrat": 2.95
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 3588,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:34:26Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000850",
+        "qual_l4_pct": 23.12,
+        "no_qual_pct": 20.91,
+        "muslim_pct": 0.67,
+        "no_religion_pct": 27.79,
+        "age_under_35_pct": 37.05,
+        "age_65_plus_pct": 24.01,
+        "social_rented_pct": 16.38,
+        "white_british_pct": 94.79
+      }
+    },
+    {
+      "ward_slug": "ince",
+      "ward_name": "Ince",
+      "ballot_id": "local.wigan.ince.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Gemma Painter",
+          "votes": 1809
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Gemma Painter",
+          "votes": 1809,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Terence William Halliwell",
+          "votes": 608,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Gareth Nelson",
+          "votes": 365,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Vincent Dean Holgate",
+          "votes": 135,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Yamini Gupta",
+          "votes": 115,
+          "elected": false
+        },
+        {
+          "party": "Independent",
+          "name": "The Zok",
+          "votes": 73,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 58.26,
+        "Labour": 19.58,
+        "Green": 11.76,
+        "Liberal Democrat": 4.35,
+        "Conservative": 3.7,
+        "Independent": 2.35
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 3105,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:34:27Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000851",
+        "qual_l4_pct": 17.36,
+        "no_qual_pct": 29.11,
+        "muslim_pct": 2.36,
+        "no_religion_pct": 30.66,
+        "age_under_35_pct": 45.52,
+        "age_65_plus_pct": 14.91,
+        "social_rented_pct": 74.02,
+        "white_british_pct": 85.49
+      }
+    },
+    {
+      "ward_slug": "leigh-central-higher-folds",
+      "ward_name": "Leigh Central & Higher Folds",
+      "ballot_id": "local.wigan.leigh-central-higher-folds.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Tina Kennedy",
+          "votes": 1696
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Tina Kennedy",
+          "votes": 1696,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Sarah Victoria Johnson",
+          "votes": 886,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Ashley Trigg",
+          "votes": 527,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Margaret Mary Winstanley",
+          "votes": 216,
+          "elected": false
+        },
+        {
+          "party": "Leigh & Atherton Independents",
+          "name": "Hannah Elizabeth Sephton",
+          "votes": 185,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 48.32,
+        "Labour": 25.24,
+        "Green": 15.01,
+        "Conservative": 6.15,
+        "Leigh & Atherton Independents": 5.27
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 3510,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:34:29Z",
+      "census": {
+        "matched": false,
+        "note": "no Census ward found by name"
+      }
+    },
+    {
+      "ward_slug": "leigh-south",
+      "ward_name": "Leigh South",
+      "ballot_id": "local.wigan.leigh-south.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Leon Peters",
+          "votes": 1827
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Leon Peters",
+          "votes": 1827,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Barbara Ann Caren",
+          "votes": 968,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Jonathon Hughes",
+          "votes": 333,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Dominic Alexis Sutton",
+          "votes": 290,
+          "elected": false
+        },
+        {
+          "party": "Leigh & Atherton Independents",
+          "name": "Jayson Allan Hargreaves",
+          "votes": 212,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Christopher John Noon",
+          "votes": 211,
+          "elected": false
+        },
+        {
+          "party": "Social Democratic Party",
+          "name": "Neil Andrew Gordon",
+          "votes": 8,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 47.47,
+        "Labour": 25.15,
+        "Green": 8.65,
+        "Conservative": 7.53,
+        "Leigh & Atherton Independents": 5.51,
+        "Liberal Democrat": 5.48,
+        "Social Democratic Party": 0.21
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 3849,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:34:55Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000853",
+        "qual_l4_pct": 26.87,
+        "no_qual_pct": 20.53,
+        "muslim_pct": 1.1,
+        "no_religion_pct": 31.19,
+        "age_under_35_pct": 37.71,
+        "age_65_plus_pct": 22.42,
+        "social_rented_pct": 37.89,
+        "white_british_pct": 91.93
+      }
+    },
+    {
+      "ward_slug": "leigh-west",
+      "ward_name": "Leigh West",
+      "ballot_id": "local.wigan.leigh-west.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "David John Evans",
+          "votes": 1945
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "David John Evans",
+          "votes": 1945,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Samantha Clare Brown",
+          "votes": 958,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Canaan Thomas",
+          "votes": 401,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Gerard Joseph Houlton",
+          "votes": 251,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Lorraine Gillon",
+          "votes": 200,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 51.8,
+        "Labour": 25.51,
+        "Green": 10.68,
+        "Conservative": 6.68,
+        "Liberal Democrat": 5.33
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 3755,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:34:56Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000854",
+        "qual_l4_pct": 21.07,
+        "no_qual_pct": 25.32,
+        "muslim_pct": 2.42,
+        "no_religion_pct": 36.3,
+        "age_under_35_pct": 45.56,
+        "age_65_plus_pct": 15.85,
+        "social_rented_pct": 35.58,
+        "white_british_pct": 85.75
+      }
+    },
+    {
+      "ward_slug": "lowton-east",
+      "ward_name": "Lowton East",
+      "ballot_id": "local.wigan.lowton-east.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Simon Smith",
+          "votes": 1817
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Simon Smith",
+          "votes": 1817,
+          "elected": true
+        },
+        {
+          "party": "Conservative",
+          "name": "Kathleen Houlton",
+          "votes": 1508,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Garry Peter Lloyd",
+          "votes": 1238,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Julie Shawcross",
+          "votes": 506,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 35.85,
+        "Conservative": 29.75,
+        "Labour": 24.42,
+        "Green": 9.98
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 5069,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:35:22Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000855",
+        "qual_l4_pct": 32.23,
+        "no_qual_pct": 14.05,
+        "muslim_pct": 0.73,
+        "no_religion_pct": 31.67,
+        "age_under_35_pct": 37.39,
+        "age_65_plus_pct": 23.07,
+        "social_rented_pct": 14.85,
+        "white_british_pct": 94.59
+      }
+    },
+    {
+      "ward_slug": "orrell",
+      "ward_name": "Orrell",
+      "ballot_id": "local.wigan.orrell.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Paul Kevin Bannister",
+          "votes": 1621
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Paul Kevin Bannister",
+          "votes": 1621,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Jim Nicholson",
+          "votes": 983,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Michael William Winstanley",
+          "votes": 787,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Julia Davenport",
+          "votes": 470,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Neil Duncan Stevenson",
+          "votes": 199,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 39.93,
+        "Labour": 24.21,
+        "Conservative": 19.38,
+        "Green": 11.58,
+        "Liberal Democrat": 4.9
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 4060,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:35:24Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000856",
+        "qual_l4_pct": 33.76,
+        "no_qual_pct": 15.79,
+        "muslim_pct": 0.28,
+        "no_religion_pct": 24.92,
+        "age_under_35_pct": 35.15,
+        "age_65_plus_pct": 26.08,
+        "social_rented_pct": 15.83,
+        "white_british_pct": 96.66
+      }
+    },
+    {
+      "ward_slug": "pemberton",
+      "ward_name": "Pemberton",
+      "ballot_id": "local.wigan.pemberton.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Simon Silcock",
+          "votes": 1623
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Simon Silcock",
+          "votes": 1623,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Paul Prescott",
+          "votes": 733,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Olivia Farrimond",
+          "votes": 358,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Jean Margaret Peet",
+          "votes": 146,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "David John Burley",
+          "votes": 133,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 54.23,
+        "Labour": 24.49,
+        "Green": 11.96,
+        "Conservative": 4.88,
+        "Liberal Democrat": 4.44
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 2993,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:35:25Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000857",
+        "qual_l4_pct": 17.64,
+        "no_qual_pct": 28.65,
+        "muslim_pct": 1.35,
+        "no_religion_pct": 34.77,
+        "age_under_35_pct": 43.97,
+        "age_65_plus_pct": 18.29,
+        "social_rented_pct": 69.93,
+        "white_british_pct": 90.82
+      }
+    },
+    {
+      "ward_slug": "shevington-with-lower-ground-moor",
+      "ward_name": "Shevington with Lower Ground & Moor",
+      "ballot_id": "local.wigan.shevington-with-lower-ground-moor.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Lilian Carol Rogers",
+          "votes": 1916
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Lilian Carol Rogers",
+          "votes": 1916,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Michael John Crosby",
+          "votes": 1147,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Caeryn Collins",
+          "votes": 633,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Marjorie Clayton",
+          "votes": 312,
+          "elected": false
+        },
+        {
+          "party": "Standish Independents",
+          "name": "Debbie Fairhurst",
+          "votes": 253,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Brian Crombie-Fisher",
+          "votes": 186,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 43.09,
+        "Labour": 25.79,
+        "Green": 14.23,
+        "Conservative": 7.02,
+        "Standish Independents": 5.69,
+        "Liberal Democrat": 4.18
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 4447,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:35:27Z",
+      "census": {
+        "matched": false,
+        "note": "no Census ward found by name"
+      }
+    },
+    {
+      "ward_slug": "standish-with-langtree",
+      "ward_name": "Standish with Langtree",
+      "ballot_id": "local.wigan.standish-with-langtree.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Michael John Whalley",
+          "votes": 1679
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Michael John Whalley",
+          "votes": 1679,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Margaret Therse Gaffney",
+          "votes": 1014,
+          "elected": false
+        },
+        {
+          "party": "Standish Independents",
+          "name": "Gareth William Fairhurst",
+          "votes": 811,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Hayley Patricia Pierce",
+          "votes": 757,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Neil Joseph Dunlop",
+          "votes": 732,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Aimee Laverick",
+          "votes": 108,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 32.92,
+        "Labour": 19.88,
+        "Standish Independents": 15.9,
+        "Green": 14.84,
+        "Conservative": 14.35,
+        "Liberal Democrat": 2.12
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 5101,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:35:29Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000859",
+        "qual_l4_pct": 37.55,
+        "no_qual_pct": 13.88,
+        "muslim_pct": 1.17,
+        "no_religion_pct": 26.04,
+        "age_under_35_pct": 38.08,
+        "age_65_plus_pct": 22.23,
+        "social_rented_pct": 16.46,
+        "white_british_pct": 94.04
+      }
+    },
+    {
+      "ward_slug": "tyldesley-mosley-common",
+      "ward_name": "Tyldesley & Mosley Common",
+      "ballot_id": "local.wigan.tyldesley-mosley-common.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Adrian White",
+          "votes": 1768
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Adrian White",
+          "votes": 1768,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Jess Eastoe",
+          "votes": 785,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Paul Binns",
+          "votes": 560,
+          "elected": false
+        },
+        {
+          "party": "Independent Network",
+          "name": "Anthony Thomas Waite",
+          "votes": 512,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Susan Atherton",
+          "votes": 330,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 44.7,
+        "Labour": 19.85,
+        "Green": 14.16,
+        "Independent Network": 12.95,
+        "Conservative": 8.34
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 3955,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:35:30Z",
+      "census": {
+        "matched": false,
+        "note": "no Census ward found by name"
+      }
+    },
+    {
+      "ward_slug": "wigan-central",
+      "ward_name": "Wigan Central",
+      "ballot_id": "local.wigan.wigan-central.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Lee Moffitt",
+          "votes": 1771
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Lee Moffitt",
+          "votes": 1771,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Navas Olavakkode Beeravu",
+          "votes": 1205,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Jude Scrutton",
+          "votes": 516,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Paul Martin",
+          "votes": 292,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Andrew Julian Lee Holland",
+          "votes": 229,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 44.13,
+        "Labour": 30.03,
+        "Green": 12.86,
+        "Conservative": 7.28,
+        "Liberal Democrat": 5.71
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 4013,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:35:32Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000861",
+        "qual_l4_pct": 34.08,
+        "no_qual_pct": 18.81,
+        "muslim_pct": 2.48,
+        "no_religion_pct": 26.78,
+        "age_under_35_pct": 36.32,
+        "age_65_plus_pct": 23.81,
+        "social_rented_pct": 39.06,
+        "white_british_pct": 87.41
+      }
+    },
+    {
+      "ward_slug": "wigan-west",
+      "ward_name": "Wigan West",
+      "ballot_id": "local.wigan.wigan-west.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Sam Ashton",
+          "votes": 1746
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Sam Ashton",
+          "votes": 1746,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Dave Wood",
+          "votes": 1037,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Rosalind Hackett",
+          "votes": 527,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Stuart David Thomas",
+          "votes": 210,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Allan Atherton",
+          "votes": 173,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 47.28,
+        "Labour": 28.08,
+        "Green": 14.27,
+        "Liberal Democrat": 5.69,
+        "Conservative": 4.68
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 3693,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:35:33Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000862",
+        "qual_l4_pct": 24.37,
+        "no_qual_pct": 21.08,
+        "muslim_pct": 1.56,
+        "no_religion_pct": 27.63,
+        "age_under_35_pct": 41.84,
+        "age_65_plus_pct": 19.47,
+        "social_rented_pct": 35.34,
+        "white_british_pct": 90.33
+      }
+    },
+    {
+      "ward_slug": "winstanley",
+      "ward_name": "Winstanley",
+      "ballot_id": "local.wigan.winstanley.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Paul Forbes",
+          "votes": 1881
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Paul Forbes",
+          "votes": 1881,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Marie Teresa Morgan",
+          "votes": 1174,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "John Logan",
+          "votes": 312,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "William John Parkinson",
+          "votes": 243,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Robert Duncan Stevenson",
+          "votes": 176,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 49.68,
+        "Labour": 31.01,
+        "Green": 8.24,
+        "Conservative": 6.42,
+        "Liberal Democrat": 4.65
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 3786,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:35:59Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000863",
+        "qual_l4_pct": 30.27,
+        "no_qual_pct": 15.02,
+        "muslim_pct": 0.4,
+        "no_religion_pct": 24.31,
+        "age_under_35_pct": 37.75,
+        "age_65_plus_pct": 21.67,
+        "social_rented_pct": 2.12,
+        "white_british_pct": 96.5
+      }
+    }
+  ],
+  "n_wards_attempted": 25,
+  "n_wards_with_results": 23,
+  "n_wards_no_results": 2
+}

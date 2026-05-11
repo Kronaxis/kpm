@@ -1,0 +1,324 @@
+{
+  "council_slug": "south-cambridgeshire",
+  "election_date": "2026-05-07",
+  "source": "https://candidates.democracyclub.org.uk/api/next/",
+  "fetched_at": "2026-05-11T00:05:08Z",
+  "wards": [
+    {
+      "ward_slug": "balsham",
+      "ward_name": "Balsham",
+      "ballot_id": "local.south-cambridgeshire.balsham.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Geoff Harvey",
+          "votes": 631
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Geoff Harvey",
+          "votes": 631,
+          "elected": true
+        },
+        {
+          "party": "Conservative",
+          "name": "John Richard Biggs",
+          "votes": 351,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "David Burrell",
+          "votes": 317,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Bob Ensch",
+          "votes": 154,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Martin Parker Dixon",
+          "votes": 40,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Liberal Democrat": 42.26,
+        "Conservative": 23.51,
+        "Reform UK": 21.23,
+        "Green": 10.31,
+        "Labour": 2.68
+      },
+      "party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "winning_party": "Liberal Democrat",
+      "total_votes": 1493,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-11T00:05:15Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05011282",
+        "qual_l4_pct": 44.18,
+        "no_qual_pct": 12.17,
+        "muslim_pct": 0.53,
+        "no_religion_pct": 43.31,
+        "age_under_35_pct": 32.04,
+        "age_65_plus_pct": 28.73,
+        "social_rented_pct": 28.93,
+        "white_british_pct": 91.42
+      }
+    },
+    {
+      "ward_slug": "bar-hill",
+      "ward_name": "Bar Hill",
+      "ballot_id": "local.south-cambridgeshire.bar-hill.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Liberal Democrat",
+          "name": "William George Scantlebury",
+          "votes": 531
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Liberal Democrat",
+          "name": "William George Scantlebury",
+          "votes": 531,
+          "elected": true
+        },
+        {
+          "party": "Conservative",
+          "name": "Bunty Elizabeth Waters",
+          "votes": 358,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Paul Pallan",
+          "votes": 337,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Rebecca Seabrook-Tedd",
+          "votes": 103,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Graeme Hodgson",
+          "votes": 59,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Liberal Democrat": 38.26,
+        "Conservative": 25.79,
+        "Reform UK": 24.28,
+        "Green": 7.42,
+        "Labour": 4.25
+      },
+      "party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "winning_party": "Liberal Democrat",
+      "total_votes": 1388,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-11T00:05:24Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05011283",
+        "qual_l4_pct": 37.72,
+        "no_qual_pct": 13.35,
+        "muslim_pct": 1.97,
+        "no_religion_pct": 40.63,
+        "age_under_35_pct": 35.98,
+        "age_65_plus_pct": 23.04,
+        "social_rented_pct": 8.27,
+        "white_british_pct": 74.41
+      }
+    },
+    {
+      "ward_slug": "barrington",
+      "ward_name": "Barrington",
+      "ballot_id": "local.south-cambridgeshire.barrington.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Aidan Thomas Van de Weyer",
+          "votes": 661
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Aidan Thomas Van de Weyer",
+          "votes": 661,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Jim Huntington",
+          "votes": 347,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Colin Graham French",
+          "votes": 294,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Clare Rogers",
+          "votes": 172,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Clare Sinclair",
+          "votes": 64,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Liberal Democrat": 42.98,
+        "Reform UK": 22.56,
+        "Conservative": 19.12,
+        "Green": 11.18,
+        "Labour": 4.16
+      },
+      "party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "winning_party": "Liberal Democrat",
+      "total_votes": 1538,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-11T00:05:26Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05011284",
+        "qual_l4_pct": 48.24,
+        "no_qual_pct": 10.78,
+        "muslim_pct": 0.23,
+        "no_religion_pct": 43.39,
+        "age_under_35_pct": 31.79,
+        "age_65_plus_pct": 27.53,
+        "social_rented_pct": 41.13,
+        "white_british_pct": 90.84
+      }
+    },
+    {
+      "ward_slug": "caxton-papworth",
+      "ward_name": "Caxton & Papworth",
+      "ballot_id": "local.south-cambridgeshire.caxton-papworth.2026-05-07",
+      "winner_count": 2,
+      "elected": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Peter David Sandford",
+          "votes": 1011
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Chris Poulton",
+          "votes": 989
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Peter David Sandford",
+          "votes": 1011,
+          "elected": true
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Chris Poulton",
+          "votes": 989,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Charles Barclay",
+          "votes": 506,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "James Earl Pickford",
+          "votes": 470,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Mandy Smith",
+          "votes": 429,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Leslie Charles Edwards",
+          "votes": 402,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Jane Turner",
+          "votes": 270,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Tagl",
+          "votes": 193,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Andy Perkins",
+          "votes": 119,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Liberal Democrat": 45.57,
+        "Reform UK": 22.24,
+        "Conservative": 18.93,
+        "Green": 10.55,
+        "Labour": 2.71
+      },
+      "party_seats_won": {
+        "Liberal Democrat": 2
+      },
+      "winning_party": "Liberal Democrat",
+      "total_votes": 4389,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-11T00:06:53Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05014032",
+        "qual_l4_pct": 47.91,
+        "no_qual_pct": 9.92,
+        "muslim_pct": 0.91,
+        "no_religion_pct": 43.34,
+        "age_under_35_pct": 38.89,
+        "age_65_plus_pct": 17.16,
+        "social_rented_pct": 36.97,
+        "white_british_pct": 82.75
+      }
+    }
+  ],
+  "n_wards_attempted": 26,
+  "n_wards_with_results": 4,
+  "n_wards_no_results": 22
+}

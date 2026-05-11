@@ -1,0 +1,62 @@
+{
+  "council_slug": "bradford",
+  "wards": [
+    {
+      "ward_slug": "baildon",
+      "ward_name": "Baildon",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.bradford.baildon.2023-05-04",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 44.47,
+        "Labour": 41.37,
+        "Green": 5.04,
+        "Liberal Democrat": 4.77,
+        "Reform UK": 4.36
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 4842,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "city",
+      "ward_name": "City",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.bradford.city.2023-05-04",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 79.07,
+        "Conservative": 10.95,
+        "Green": 9.97
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3178,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "keighley-central",
+      "ward_name": "Keighley Central",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.bradford.keighley-central.2022-05-05",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 48.53,
+        "Labour": 44.59,
+        "Green": 2.54,
+        "Liberal Democrat": 2.37,
+        "Yorkshire Party": 1.98
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 6423,
+      "prior_winner_count": 1
+    }
+  ],
+  "n_wards_attempted": 11,
+  "n_wards_with_history": 3
+}

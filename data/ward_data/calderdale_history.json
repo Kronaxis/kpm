@@ -1,0 +1,179 @@
+{
+  "council_slug": "calderdale",
+  "source": "https://candidates.democracyclub.org.uk/api/next/",
+  "fetched_at": "2026-05-10T23:36:32Z",
+  "wards": [
+    {
+      "ward_slug": "brighouse",
+      "ward_name": "Brighouse",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.calderdale.brighouse.2024-05-02",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 41.36,
+        "Labour": 38.34,
+        "Green": 15.83,
+        "Liberal Democrat": 4.48
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 2812,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "elland",
+      "ward_name": "Elland",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.calderdale.elland.2024-05-02",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 31.36,
+        "Labour": 27.93,
+        "Liberal Democrat": 22.91,
+        "Green": 17.8
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 2506,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "luddendenfoot",
+      "ward_name": "Luddendenfoot",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.calderdale.luddendenfoot.2023-05-04",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 56.78,
+        "Conservative": 24.51,
+        "Liberal Democrat": 10.61,
+        "Green": 8.1
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3346,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "ovenden",
+      "ward_name": "Ovenden",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.calderdale.ovenden.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 56.35,
+        "Conservative": 21.95,
+        "Liberal Democrat": 11.53,
+        "Green": 10.18
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1631,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "park",
+      "ward_name": "Park",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.calderdale.park.2024-05-02",
+      "prior_winning_party": "Workers Party of Britain",
+      "prior_party_shares": {
+        "Workers Party of Britain": 44.31,
+        "Green": 25.7,
+        "Labour": 20.44,
+        "Liberal Democrat": 5.12,
+        "Conservative": 4.42
+      },
+      "prior_party_seats_won": {
+        "Workers Party of Britain": 1
+      },
+      "prior_total_votes": 3708,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "rastrick",
+      "ward_name": "Rastrick",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.calderdale.rastrick.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 45.89,
+        "Conservative": 40.1,
+        "Green": 8.26,
+        "Liberal Democrat": 5.75
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2870,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "ryburn",
+      "ward_name": "Ryburn",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.calderdale.ryburn.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 48.78,
+        "Conservative": 39.86,
+        "Green": 6.18,
+        "Liberal Democrat": 5.18
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3186,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "sowerby-bridge",
+      "ward_name": "Sowerby Bridge",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.calderdale.sowerby-bridge.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 59.53,
+        "Conservative": 24.31,
+        "Green": 10.32,
+        "Liberal Democrat": 5.84
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2859,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "warley",
+      "ward_name": "Warley",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.calderdale.warley.2024-05-02",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 36.8,
+        "Labour": 21.07,
+        "Independent": 17.78,
+        "Conservative": 11.17,
+        "Green": 8.75,
+        "Freedom Alliance": 4.44
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "prior_total_votes": 3133,
+      "prior_winner_count": 1
+    }
+  ],
+  "n_wards_attempted": 18,
+  "n_wards_with_history": 9,
+  "n_wards_no_history": 9,
+  "prior_year_distribution": {
+    "2024": 8,
+    "2023": 1
+  }
+}

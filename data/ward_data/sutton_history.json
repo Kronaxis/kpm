@@ -1,0 +1,344 @@
+{
+  "council_slug": "sutton",
+  "source": "https://candidates.democracyclub.org.uk/api/next/",
+  "fetched_at": "2026-05-11T02:58:43Z",
+  "wards": [
+    {
+      "ward_slug": "beddington",
+      "ward_name": "Beddington",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.sutton.beddington.2022-05-05",
+      "prior_winning_party": "Independent",
+      "prior_party_shares": {
+        "Independent": 38.08,
+        "Liberal Democrat": 20.45,
+        "Conservative": 20.56,
+        "Labour": 17.12,
+        "Green": 3.78
+      },
+      "prior_party_seats_won": {
+        "Independent": 3
+      },
+      "prior_total_votes": 9304,
+      "prior_winner_count": 3
+    },
+    {
+      "ward_slug": "belmont",
+      "ward_name": "Belmont",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.sutton.belmont.2022-05-05",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 45.19,
+        "Liberal Democrat": 34.59,
+        "Labour": 16.08,
+        "Green": 4.14
+      },
+      "prior_party_seats_won": {
+        "Conservative": 3
+      },
+      "prior_total_votes": 9919,
+      "prior_winner_count": 3
+    },
+    {
+      "ward_slug": "carshalton-central",
+      "ward_name": "Carshalton Central",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.sutton.carshalton-central.2022-05-05",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 48.33,
+        "Green": 11.12,
+        "Conservative": 28.46,
+        "Labour": 10.96,
+        "Christian Peoples Alliance": 1.13
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 3
+      },
+      "prior_total_votes": 11638,
+      "prior_winner_count": 3
+    },
+    {
+      "ward_slug": "carshalton-south-clockhouse",
+      "ward_name": "Carshalton South & Clockhouse",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.sutton.carshalton-south-clockhouse.2022-05-05",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 46.12,
+        "Liberal Democrat": 41.85,
+        "Green": 3.63,
+        "Labour": 8.4
+      },
+      "prior_party_seats_won": {
+        "Conservative": 2,
+        "Liberal Democrat": 1
+      },
+      "prior_total_votes": 10649,
+      "prior_winner_count": 3
+    },
+    {
+      "ward_slug": "cheam",
+      "ward_name": "Cheam",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.sutton.cheam.2022-05-05",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 49.95,
+        "Liberal Democrat": 33.38,
+        "Labour": 12.07,
+        "Green": 4.6
+      },
+      "prior_party_seats_won": {
+        "Conservative": 3
+      },
+      "prior_total_votes": 10134,
+      "prior_winner_count": 3
+    },
+    {
+      "ward_slug": "hackbridge",
+      "ward_name": "Hackbridge",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.sutton.hackbridge.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 53.01,
+        "Liberal Democrat": 27.76,
+        "Conservative": 19.22
+      },
+      "prior_party_seats_won": {
+        "Labour": 2
+      },
+      "prior_total_votes": 3735,
+      "prior_winner_count": 2
+    },
+    {
+      "ward_slug": "north-cheam",
+      "ward_name": "North Cheam",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.sutton.north-cheam.2022-05-05",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 47.23,
+        "Liberal Democrat": 34.33,
+        "Labour": 14.05,
+        "Green": 3.37,
+        "Independent": 1.02
+      },
+      "prior_party_seats_won": {
+        "Conservative": 3
+      },
+      "prior_total_votes": 10306,
+      "prior_winner_count": 3
+    },
+    {
+      "ward_slug": "south-beddington-roundshaw",
+      "ward_name": "South Beddington & Roundshaw",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.sutton.south-beddington-roundshaw.2022-05-05",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 40.95,
+        "Liberal Democrat": 39.41,
+        "Labour": 13.44,
+        "Green": 2.18,
+        "Independent": 3.64,
+        "Social Democratic Party": 0.38
+      },
+      "prior_party_seats_won": {
+        "Conservative": 2,
+        "Liberal Democrat": 1
+      },
+      "prior_total_votes": 8799,
+      "prior_winner_count": 3
+    },
+    {
+      "ward_slug": "st-helier-east",
+      "ward_name": "St Helier East",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.sutton.st-helier-east.2022-05-05",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 41.24,
+        "Labour": 30.37,
+        "Conservative": 24.47,
+        "Green": 3.92
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 2
+      },
+      "prior_total_votes": 3089,
+      "prior_winner_count": 2
+    },
+    {
+      "ward_slug": "st-helier-west",
+      "ward_name": "St Helier West",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.sutton.st-helier-west.2022-05-05",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Labour": 32.83,
+        "Conservative": 33.62,
+        "Liberal Democrat": 30.12,
+        "Green": 3.43
+      },
+      "prior_party_seats_won": {
+        "Labour": 1,
+        "Conservative": 2
+      },
+      "prior_total_votes": 7085,
+      "prior_winner_count": 3
+    },
+    {
+      "ward_slug": "stonecot",
+      "ward_name": "Stonecot",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.sutton.stonecot.2022-05-05",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 43.34,
+        "Conservative": 36.94,
+        "Labour": 16.64,
+        "Green": 3.07
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 2
+      },
+      "prior_total_votes": 4458,
+      "prior_winner_count": 2
+    },
+    {
+      "ward_slug": "sutton-central",
+      "ward_name": "Sutton Central",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.sutton.sutton-central.2022-05-05",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 40.83,
+        "Labour": 30.4,
+        "Conservative": 24.51,
+        "Green": 4.26
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 3
+      },
+      "prior_total_votes": 8249,
+      "prior_winner_count": 3
+    },
+    {
+      "ward_slug": "sutton-north",
+      "ward_name": "Sutton North",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.sutton.sutton-north.2022-05-05",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 39.93,
+        "Conservative": 39.29,
+        "Labour": 16.87,
+        "Green": 3.92
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 2,
+        "Conservative": 1
+      },
+      "prior_total_votes": 9703,
+      "prior_winner_count": 3
+    },
+    {
+      "ward_slug": "sutton-west-east-cheam",
+      "ward_name": "Sutton West & East Cheam",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.sutton.sutton-west-east-cheam.2022-05-05",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 45.99,
+        "Conservative": 39.69,
+        "Labour": 14.32
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 3
+      },
+      "prior_total_votes": 9993,
+      "prior_winner_count": 3
+    },
+    {
+      "ward_slug": "the-wrythe",
+      "ward_name": "The Wrythe",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.sutton.the-wrythe.2022-05-05",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 43.43,
+        "Conservative": 36.39,
+        "Labour": 15.96,
+        "Green": 4.22
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 3
+      },
+      "prior_total_votes": 9335,
+      "prior_winner_count": 3
+    },
+    {
+      "ward_slug": "wallington-south",
+      "ward_name": "Wallington South",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.sutton.wallington-south.2022-05-05",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 52.48,
+        "Conservative": 26.1,
+        "Labour": 14.46,
+        "Green": 3.2,
+        "Independent": 3.76
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 3
+      },
+      "prior_total_votes": 9800,
+      "prior_winner_count": 3
+    },
+    {
+      "ward_slug": "worcester-park-north",
+      "ward_name": "Worcester Park North",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.sutton.worcester-park-north.2022-05-05",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 44.22,
+        "Liberal Democrat": 34.25,
+        "Labour": 17.07,
+        "Green": 4.46
+      },
+      "prior_party_seats_won": {
+        "Conservative": 2
+      },
+      "prior_total_votes": 5244,
+      "prior_winner_count": 2
+    },
+    {
+      "ward_slug": "worcester-park-south",
+      "ward_name": "Worcester Park South",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.sutton.worcester-park-south.2022-05-05",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 49.6,
+        "Liberal Democrat": 34.4,
+        "Labour": 16.0
+      },
+      "prior_party_seats_won": {
+        "Conservative": 2
+      },
+      "prior_total_votes": 4637,
+      "prior_winner_count": 2
+    }
+  ],
+  "n_wards_attempted": 19,
+  "n_wards_with_history": 18,
+  "n_wards_no_history": 1,
+  "prior_year_distribution": {
+    "2022": 18
+  }
+}

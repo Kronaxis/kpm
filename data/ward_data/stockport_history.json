@@ -1,0 +1,346 @@
+{
+  "council_slug": "stockport",
+  "source": "https://candidates.democracyclub.org.uk/api/next/",
+  "fetched_at": "2026-05-11T01:33:26Z",
+  "wards": [
+    {
+      "ward_slug": "bramhall-north",
+      "ward_name": "Bramhall North",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.stockport.bramhall-north.2024-05-02",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 47.78,
+        "Conservative": 36.26,
+        "Labour": 9.72,
+        "Green": 6.24
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "prior_total_votes": 4230,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "bramhall-south-woodford",
+      "ward_name": "Bramhall South & Woodford",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.stockport.bramhall-south-woodford.2024-05-02",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 44.92,
+        "Conservative": 43.26,
+        "Labour": 7.07,
+        "Green": 4.75
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "prior_total_votes": 4864,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "bredbury-green-romiley",
+      "ward_name": "Bredbury Green & Romiley",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.stockport.bredbury-green-romiley.2024-05-02",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 58.7,
+        "Conservative": 18.61,
+        "Labour": 16.98,
+        "Green": 5.7
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "prior_total_votes": 3734,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "bredbury-woodley",
+      "ward_name": "Bredbury & Woodley",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.stockport.bredbury-woodley.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 47.38,
+        "Liberal Democrat": 34.24,
+        "Conservative": 13.52,
+        "Green": 4.86
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3706,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "cheadle-west-gatley",
+      "ward_name": "Cheadle West & Gatley",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.stockport.cheadle-west-gatley.2024-05-02",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 57.13,
+        "Labour": 19.6,
+        "Conservative": 14.22,
+        "Green": 9.04
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "prior_total_votes": 4402,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "davenport-cale-green",
+      "ward_name": "Davenport & Cale Green",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.stockport.davenport-cale-green.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 53.66,
+        "Liberal Democrat": 15.29,
+        "Green": 11.86,
+        "Reform UK": 7.9,
+        "Conservative": 7.42,
+        "Party Of Women": 3.88
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3584,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "edgeley",
+      "ward_name": "Edgeley",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.stockport.edgeley.2024-05-02",
+      "prior_winning_party": "Edgeley Community Association",
+      "prior_party_shares": {
+        "Edgeley Community Association": 59.32,
+        "Labour": 28.69,
+        "Green": 6.03,
+        "Liberal Democrat": 3.01,
+        "Conservative": 2.95
+      },
+      "prior_party_seats_won": {
+        "Edgeley Community Association": 1
+      },
+      "prior_total_votes": 2952,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "hazel-grove",
+      "ward_name": "Hazel Grove",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.stockport.hazel-grove.2024-05-02",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 42.11,
+        "Conservative": 25.89,
+        "Labour": 20.92,
+        "Green": 11.08
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "prior_total_votes": 3619,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "heald-green",
+      "ward_name": "Heald Green",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.stockport.heald-green.2024-05-02",
+      "prior_winning_party": "Independent",
+      "prior_party_shares": {
+        "Independent": 43.29,
+        "Liberal Democrat": 27.69,
+        "Labour": 15.16,
+        "Conservative": 9.28,
+        "Green": 4.58
+      },
+      "prior_party_seats_won": {
+        "Independent": 1
+      },
+      "prior_total_votes": 4128,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "heatons-north",
+      "ward_name": "Heatons North",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.stockport.heatons-north.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 62.08,
+        "Green": 18.4,
+        "Conservative": 12.62,
+        "Liberal Democrat": 6.9
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 4462,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "heatons-south",
+      "ward_name": "Heatons South",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.stockport.heatons-south.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 64.05,
+        "Green": 15.9,
+        "Conservative": 10.78,
+        "Liberal Democrat": 9.26
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 4351,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "manor",
+      "ward_name": "Manor",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.stockport.manor.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 52.31,
+        "Liberal Democrat": 25.74,
+        "Reform UK": 9.29,
+        "Conservative": 6.44,
+        "Green": 6.21
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3026,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "marple-north",
+      "ward_name": "Marple North",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.stockport.marple-north.2024-05-02",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 49.7,
+        "Conservative": 17.21,
+        "Labour": 15.8,
+        "Green": 9.25,
+        "Independent": 8.03
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "prior_total_votes": 4398,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "marple-south-high-lane",
+      "ward_name": "Marple South & High Lane",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.stockport.marple-south-high-lane.2024-05-02",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 54.88,
+        "Conservative": 20.05,
+        "Labour": 14.69,
+        "Green": 10.38
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "prior_total_votes": 3825,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "norbury-woodsmoor",
+      "ward_name": "Norbury & Woodsmoor",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.stockport.norbury-woodsmoor.2024-05-02",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 42.89,
+        "Conservative": 31.95,
+        "Labour": 15.39,
+        "Reform UK": 5.62,
+        "Green": 4.15
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "prior_total_votes": 4626,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "offerton",
+      "ward_name": "Offerton",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.stockport.offerton.2024-05-02",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 39.52,
+        "Labour": 38.87,
+        "Reform UK": 8.81,
+        "Conservative": 7.5,
+        "Green": 5.31
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "prior_total_votes": 3826,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "reddish-north",
+      "ward_name": "Reddish North",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.stockport.reddish-north.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 67.23,
+        "Green": 13.77,
+        "Conservative": 10.02,
+        "Liberal Democrat": 5.83,
+        "Women's Equality Party": 3.15
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2984,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "reddish-south",
+      "ward_name": "Reddish South",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.stockport.reddish-south.2024-05-02",
+      "prior_winning_party": "Green",
+      "prior_party_shares": {
+        "Green": 55.49,
+        "Labour": 36.68,
+        "Conservative": 5.92,
+        "Liberal Democrat": 1.9
+      },
+      "prior_party_seats_won": {
+        "Green": 1
+      },
+      "prior_total_votes": 3950,
+      "prior_winner_count": 1
+    }
+  ],
+  "n_wards_attempted": 18,
+  "n_wards_with_history": 18,
+  "n_wards_no_history": 0,
+  "prior_year_distribution": {
+    "2024": 18
+  }
+}

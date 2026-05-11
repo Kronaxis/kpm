@@ -1,0 +1,254 @@
+{
+  "council_slug": "gateshead",
+  "source": "https://candidates.democracyclub.org.uk/api/next/",
+  "fetched_at": "2026-05-11T04:30:03Z",
+  "wards": [
+    {
+      "ward_slug": "blaydon",
+      "ward_name": "Blaydon",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.gateshead.blaydon.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 60.77,
+        "Conservative": 14.16,
+        "Liberal Democrat": 10.06,
+        "Green": 9.87,
+        "TUSC": 5.15
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2098,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "bridges",
+      "ward_name": "Bridges",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.gateshead.bridges.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 48.96,
+        "Green": 32.66,
+        "Conservative": 10.74,
+        "Liberal Democrat": 7.64
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1779,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "chowdene",
+      "ward_name": "Chowdene",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.gateshead.chowdene.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 50.39,
+        "Liberal Democrat": 16.61,
+        "Reform UK": 13.75,
+        "Conservative": 9.76,
+        "Green": 5.76,
+        "The North East Party": 3.72
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2203,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "deckham",
+      "ward_name": "Deckham",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.gateshead.deckham.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 53.52,
+        "Green": 15.28,
+        "Liberal Democrat": 12.65,
+        "Conservative": 12.25,
+        "TUSC": 6.3
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2016,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "felling",
+      "ward_name": "Felling",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.gateshead.felling.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 62.59,
+        "Conservative": 13.29,
+        "Green": 12.69,
+        "Liberal Democrat": 11.42
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1497,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "high-fell",
+      "ward_name": "High Fell",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.gateshead.high-fell.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 56.6,
+        "Conservative": 13.52,
+        "Liberal Democrat": 11.81,
+        "TUSC": 10.36,
+        "Green": 7.71
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1583,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "low-fell",
+      "ward_name": "Low Fell",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.gateshead.low-fell.2024-05-02",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 53.08,
+        "Labour": 28.95,
+        "Green": 9.8,
+        "Conservative": 5.68,
+        "TUSC": 2.49
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "prior_total_votes": 3295,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "saltwell",
+      "ward_name": "Saltwell",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.gateshead.saltwell.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 52.19,
+        "Liberal Democrat": 31.8,
+        "Green": 9.09,
+        "Conservative": 6.92
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2167,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "birtley",
+      "ward_name": "Birtley",
+      "prior_year": 2024,
+      "prior_ballot_id": "wikipedia.gateshead.birtley.2024-05-02",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 43.01,
+        "Labour": 42.77,
+        "Conservative": 8.2,
+        "Independent": 6.03
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "prior_total_votes": 2074,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "chopwell-and-rowlands-gill",
+      "ward_name": "Chopwell and Rowlands Gill",
+      "prior_year": 2024,
+      "prior_ballot_id": "wikipedia.gateshead.chopwell-and-rowlands-gill.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 70.88,
+        "Conservative": 15.5,
+        "Liberal Democrat": 13.61
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2703,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "crawcrook-and-greenside",
+      "ward_name": "Crawcrook and Greenside",
+      "prior_year": 2024,
+      "prior_ballot_id": "wikipedia.gateshead.crawcrook-and-greenside.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 56.95,
+        "Green": 22.07,
+        "Independent": 10.75,
+        "Conservative": 10.23
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2669,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "dunston-and-teams",
+      "ward_name": "Dunston and Teams",
+      "prior_year": 2024,
+      "prior_ballot_id": "wikipedia.gateshead.dunston-and-teams.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 61.38,
+        "Green": 17.13,
+        "Liberal Democrat": 11.44,
+        "Conservative": 10.05
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1722,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "dunston-hill-and-whickham-east",
+      "ward_name": "Dunston Hill and Whickham East",
+      "prior_year": 2024,
+      "prior_ballot_id": "wikipedia.gateshead.dunston-hill-and-whickham-east.2024-05-02",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 50.47,
+        "Labour": 32.1,
+        "Green": 10.02,
+        "Conservative": 7.42
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "prior_total_votes": 2346,
+      "prior_winner_count": 1
+    }
+  ],
+  "n_wards_attempted": 21,
+  "n_wards_with_history": 8,
+  "n_wards_no_history": 13,
+  "prior_year_distribution": {
+    "2024": 8
+  },
+  "merged_wikipedia_at": "2026-05-11T12:52:55Z",
+  "n_wikipedia_wards_added": 5
+}

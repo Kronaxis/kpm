@@ -1,0 +1,250 @@
+{
+  "council_slug": "sandwell",
+  "source": "https://candidates.democracyclub.org.uk/api/next/",
+  "fetched_at": "2026-05-10T22:52:23Z",
+  "wards": [
+    {
+      "ward_slug": "blackheath",
+      "ward_name": "Blackheath",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.sandwell.blackheath.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 52.01,
+        "Conservative": 22.92,
+        "Reform UK": 13.66,
+        "Green": 6.92,
+        "Independent": 4.5
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2269,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "bristnall",
+      "ward_name": "Bristnall",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.sandwell.bristnall.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 58.46,
+        "Conservative": 19.2,
+        "Reform UK": 13.07,
+        "Liberal Democrat": 9.27
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2417,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "great-bridge",
+      "ward_name": "Great Bridge",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.sandwell.great-bridge.2024-05-02",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 46.66,
+        "Labour": 37.79,
+        "Reform UK": 9.24,
+        "Green": 6.32
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 2739,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "hateley-heath",
+      "ward_name": "Hateley Heath",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.sandwell.hateley-heath.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 66.91,
+        "Conservative": 17.15,
+        "Reform UK": 11.05,
+        "Liberal Democrat": 4.88
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2560,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "langley",
+      "ward_name": "Langley",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.sandwell.langley.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 65.93,
+        "Conservative": 20.56,
+        "Reform UK": 13.51
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2310,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "oldbury",
+      "ward_name": "Oldbury",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.sandwell.oldbury.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 58.52,
+        "Conservative": 17.79,
+        "Liberal Democrat": 13.62,
+        "Green": 6.83,
+        "TUSC": 3.24
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2929,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "old-warley",
+      "ward_name": "Old Warley",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.sandwell.old-warley.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 51.44,
+        "Conservative": 22.55,
+        "Reform UK": 10.56,
+        "Green": 9.07,
+        "Liberal Democrat": 6.38
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2745,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "rowley",
+      "ward_name": "Rowley",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.sandwell.rowley.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 46.85,
+        "Conservative": 20.43,
+        "Reform UK": 15.23,
+        "Independent": 11.5,
+        "Green": 5.99
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2305,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "smethwick",
+      "ward_name": "Smethwick",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.sandwell.smethwick.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 68.24,
+        "Conservative": 14.94,
+        "Green": 11.46,
+        "TUSC": 5.36
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2966,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "st-pauls",
+      "ward_name": "St Pauls",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.sandwell.st-pauls.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 84.02,
+        "Conservative": 15.98
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3485,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "tipton-green",
+      "ward_name": "Tipton Green",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.sandwell.tipton-green.2023-05-04",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 50.85,
+        "Independent": 42.31,
+        "Conservative": 6.84
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2895,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "tividale",
+      "ward_name": "Tividale",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.sandwell.tividale.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 59.24,
+        "Conservative": 22.96,
+        "Reform UK": 12.08,
+        "Liberal Democrat": 5.72
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2186,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "west-bromwich-central",
+      "ward_name": "West Bromwich Central",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.sandwell.west-bromwich-central.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 53.56,
+        "Conservative": 13.57,
+        "Independent": 13.01,
+        "Reform UK": 7.74,
+        "Green": 6.61,
+        "Liberal Democrat": 5.51
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3374,
+      "prior_winner_count": 1
+    }
+  ],
+  "n_wards_attempted": 21,
+  "n_wards_with_history": 13,
+  "n_wards_no_history": 8,
+  "prior_year_distribution": {
+    "2024": 12,
+    "2023": 1
+  }
+}

@@ -1,0 +1,461 @@
+{
+  "council_slug": "croydon",
+  "source": "https://candidates.democracyclub.org.uk/api/next/",
+  "fetched_at": "2026-05-11T13:19:06Z",
+  "wards": [
+    {
+      "ward_slug": "addiscombe-east",
+      "ward_name": "Addiscombe East",
+      "prior_year": 2022,
+      "prior_ballot_id": "wikipedia.croydon.addiscombe-east.2022-05-05",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 52.87,
+        "Labour": 47.13
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 766,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "addiscombe-west",
+      "ward_name": "Addiscombe West",
+      "prior_year": 2022,
+      "prior_ballot_id": "wikipedia.croydon.addiscombe-west.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 62.75,
+        "Conservative": 37.25
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 698,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "bensham-manor",
+      "ward_name": "Bensham Manor",
+      "prior_year": 2022,
+      "prior_ballot_id": "wikipedia.croydon.bensham-manor.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 72.94,
+        "Conservative": 27.06
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 776,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "broad-green",
+      "ward_name": "Broad Green",
+      "prior_year": 2022,
+      "prior_ballot_id": "wikipedia.croydon.broad-green.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 70.84,
+        "Conservative": 29.16
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 878,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "coulsdon-town",
+      "ward_name": "Coulsdon Town",
+      "prior_year": 2022,
+      "prior_ballot_id": "wikipedia.croydon.coulsdon-town.2022-05-05",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 69.68,
+        "Liberal Democrat": 30.32
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 775,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "crystal-palace-and-upper-norwood",
+      "ward_name": "Crystal Palace and Upper Norwood",
+      "prior_year": 2022,
+      "prior_ballot_id": "wikipedia.croydon.crystal-palace-and-upper-norwood.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 51.68,
+        "Liberal Democrat": 48.32
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 776,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "fairfield",
+      "ward_name": "Fairfield",
+      "prior_year": 2022,
+      "prior_ballot_id": "wikipedia.croydon.fairfield.2022-05-05",
+      "prior_winning_party": "Green",
+      "prior_party_shares": {
+        "Green": 50.07,
+        "Labour": 49.93
+      },
+      "prior_party_seats_won": {
+        "Green": 1
+      },
+      "prior_total_votes": 751,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "kenley",
+      "ward_name": "Kenley",
+      "prior_year": 2022,
+      "prior_ballot_id": "wikipedia.croydon.kenley.2022-05-05",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 76.9,
+        "Liberal Democrat": 23.1
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 775,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "new-addington-north",
+      "ward_name": "New Addington North",
+      "prior_year": 2022,
+      "prior_ballot_id": "wikipedia.croydon.new-addington-north.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 53.93,
+        "Conservative": 46.07
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 966,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "new-addington-south",
+      "ward_name": "New Addington South",
+      "prior_year": 2022,
+      "prior_ballot_id": "wikipedia.croydon.new-addington-south.2022-05-05",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 53.12,
+        "Labour": 46.88
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 962,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "norbury-and-pollards-hill",
+      "ward_name": "Norbury and Pollards Hill",
+      "prior_year": 2022,
+      "prior_ballot_id": "wikipedia.croydon.norbury-and-pollards-hill.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 67.21,
+        "Conservative": 32.79
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 799,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "norbury-park",
+      "ward_name": "Norbury Park",
+      "prior_year": 2022,
+      "prior_ballot_id": "wikipedia.croydon.norbury-park.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 60.2,
+        "Conservative": 39.8
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 789,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "old-coulsdon",
+      "ward_name": "Old Coulsdon",
+      "prior_year": 2022,
+      "prior_ballot_id": "wikipedia.croydon.old-coulsdon.2022-05-05",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 59.25,
+        "Liberal Democrat": 40.75
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 1043,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "park-hill-and-whitgift",
+      "ward_name": "Park Hill and Whitgift",
+      "prior_year": 2022,
+      "prior_ballot_id": "wikipedia.croydon.park-hill-and-whitgift.2022-05-05",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 69.56,
+        "Labour": 30.44
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 772,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "purley-and-woodcote",
+      "ward_name": "Purley and Woodcote",
+      "prior_year": 2022,
+      "prior_ballot_id": "wikipedia.croydon.purley-and-woodcote.2022-05-05",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 75.9,
+        "Liberal Democrat": 24.1
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 834,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "purley-oaks-and-riddlesdown",
+      "ward_name": "Purley Oaks and Riddlesdown",
+      "prior_year": 2022,
+      "prior_ballot_id": "wikipedia.croydon.purley-oaks-and-riddlesdown.2022-05-05",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 74.61,
+        "Liberal Democrat": 25.39
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 760,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "sanderstead",
+      "ward_name": "Sanderstead",
+      "prior_year": 2022,
+      "prior_ballot_id": "wikipedia.croydon.sanderstead.2022-05-05",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 84.24,
+        "Liberal Democrat": 15.76
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 831,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "selhurst",
+      "ward_name": "Selhurst",
+      "prior_year": 2022,
+      "prior_ballot_id": "wikipedia.croydon.selhurst.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 75.04,
+        "Conservative": 24.96
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 713,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "selsdon-and-addington-village",
+      "ward_name": "Selsdon and Addington Village",
+      "prior_year": 2022,
+      "prior_ballot_id": "wikipedia.croydon.selsdon-and-addington-village.2022-05-05",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 73.19,
+        "Labour": 26.81
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 802,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "selsdon-vale-and-forestdale",
+      "ward_name": "Selsdon Vale and Forestdale",
+      "prior_year": 2022,
+      "prior_ballot_id": "wikipedia.croydon.selsdon-vale-and-forestdale.2022-05-05",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 80.32,
+        "Labour": 19.68
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 925,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "shirley-north",
+      "ward_name": "Shirley North",
+      "prior_year": 2022,
+      "prior_ballot_id": "wikipedia.croydon.shirley-north.2022-05-05",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 63.98,
+        "Labour": 36.02
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 855,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "shirley-south",
+      "ward_name": "Shirley South",
+      "prior_year": 2022,
+      "prior_ballot_id": "wikipedia.croydon.shirley-south.2022-05-05",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 65.33,
+        "Labour": 34.67
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 796,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "south-croydon",
+      "ward_name": "South Croydon",
+      "prior_year": 2022,
+      "prior_ballot_id": "wikipedia.croydon.south-croydon.2022-05-05",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 57.97,
+        "Labour": 42.03
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 747,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "south-norwood",
+      "ward_name": "South Norwood",
+      "prior_year": 2022,
+      "prior_ballot_id": "wikipedia.croydon.south-norwood.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 76.08,
+        "Conservative": 23.92
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 694,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "thornton-heath",
+      "ward_name": "Thornton Heath",
+      "prior_year": 2022,
+      "prior_ballot_id": "wikipedia.croydon.thornton-heath.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 74.81,
+        "Conservative": 25.19
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 790,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "waddon",
+      "ward_name": "Waddon",
+      "prior_year": 2022,
+      "prior_ballot_id": "wikipedia.croydon.waddon.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 53.54,
+        "Conservative": 46.46
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 820,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "west-thornton",
+      "ward_name": "West Thornton",
+      "prior_year": 2022,
+      "prior_ballot_id": "wikipedia.croydon.west-thornton.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 69.83,
+        "Conservative": 30.17
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 948,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "woodside",
+      "ward_name": "Woodside",
+      "prior_year": 2022,
+      "prior_ballot_id": "wikipedia.croydon.woodside.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 73.9,
+        "Conservative": 26.1
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 751,
+      "prior_winner_count": 1
+    }
+  ],
+  "n_wards_attempted": 25,
+  "n_wards_with_history": 28,
+  "n_wards_no_history": 25,
+  "prior_year_distribution": {},
+  "merged_wikipedia_at": "2026-05-11T13:42:47Z",
+  "n_wikipedia_wards_added": 28
+}

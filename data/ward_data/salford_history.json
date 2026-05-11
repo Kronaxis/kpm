@@ -1,0 +1,319 @@
+{
+  "council_slug": "salford",
+  "source": "https://candidates.democracyclub.org.uk/api/next/",
+  "fetched_at": "2026-05-10T22:45:29Z",
+  "wards": [
+    {
+      "ward_slug": "barton-winton",
+      "ward_name": "Barton & Winton",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.salford.barton-winton.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 62.28,
+        "Green": 14.72,
+        "Conservative": 14.3,
+        "Liberal Democrat": 8.7
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2622,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "blackfriars-trinity",
+      "ward_name": "Blackfriars & Trinity",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.salford.blackfriars-trinity.2023-05-04",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 60.58,
+        "Green": 26.89,
+        "Conservative": 8.87,
+        "Liberal Democrat": 3.66
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1692,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "broughton",
+      "ward_name": "Broughton",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.salford.broughton.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 70.45,
+        "Green": 13.26,
+        "Conservative": 10.42,
+        "Liberal Democrat": 5.87
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2044,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "cadishead-lower-irlam",
+      "ward_name": "Cadishead & Lower Irlam",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.salford.cadishead-lower-irlam.2023-05-04",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 74.17,
+        "Conservative": 20.13,
+        "Liberal Democrat": 5.7
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2106,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "claremont",
+      "ward_name": "Claremont",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.salford.claremont.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 67.51,
+        "Green": 15.53,
+        "Liberal Democrat": 8.65,
+        "Conservative": 8.31
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2949,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "eccles",
+      "ward_name": "Eccles",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.salford.eccles.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 63.07,
+        "Conservative": 16.8,
+        "Green": 14.24,
+        "TUSC": 5.89
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3363,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "higher-irlam-peel-green",
+      "ward_name": "Higher Irlam & Peel Green",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.salford.higher-irlam-peel-green.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 68.08,
+        "Conservative": 16.6,
+        "Green": 15.32
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2102,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "kersal-broughton-park",
+      "ward_name": "Kersal & Broughton Park",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.salford.kersal-broughton-park.2024-05-02",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 54.34,
+        "Labour": 32.84,
+        "Green": 7.97,
+        "Liberal Democrat": 4.85
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 2372,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "little-hulton",
+      "ward_name": "Little Hulton",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.salford.little-hulton.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 69.61,
+        "Conservative": 16.91,
+        "Green": 13.47
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1685,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "ordsall",
+      "ward_name": "Ordsall",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.salford.ordsall.2023-05-04",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 48.34,
+        "Liberal Democrat": 36.09,
+        "Green": 10.12,
+        "Conservative": 5.45
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1926,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "pendlebury-clifton",
+      "ward_name": "Pendlebury & Clifton",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.salford.pendlebury-clifton.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 61.29,
+        "Conservative": 23.63,
+        "Green": 15.08
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2188,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "swinton-park",
+      "ward_name": "Swinton Park",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.salford.swinton-park.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 60.32,
+        "Conservative": 20.14,
+        "Green": 11.23,
+        "Liberal Democrat": 8.3
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2770,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "swinton-wardley",
+      "ward_name": "Swinton & Wardley",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.salford.swinton-wardley.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 65.49,
+        "Conservative": 13.72,
+        "Independent": 11.92,
+        "Green": 8.86
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2776,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "walkden-north",
+      "ward_name": "Walkden North",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.salford.walkden-north.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 62.78,
+        "Reform UK": 14.92,
+        "Conservative": 10.69,
+        "Green": 8.22,
+        "Liberal Democrat": 3.39
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2152,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "walkden-south",
+      "ward_name": "Walkden South",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.salford.walkden-south.2023-05-04",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 52.57,
+        "Conservative": 30.08,
+        "Green": 10.25,
+        "Liberal Democrat": 7.1
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2507,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "weaste-seedley",
+      "ward_name": "Weaste & Seedley",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.salford.weaste-seedley.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 60.83,
+        "Green": 12.47,
+        "Conservative": 10.34,
+        "Women's Equality Party": 9.15,
+        "Liberal Democrat": 4.27,
+        "Communist Party of Britain": 2.94
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2622,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "worsley-westwood-park",
+      "ward_name": "Worsley & Westwood Park",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.salford.worsley-westwood-park.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 49.02,
+        "Conservative": 37.84,
+        "Green": 7.75,
+        "Liberal Democrat": 5.39
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3174,
+      "prior_winner_count": 1
+    }
+  ],
+  "n_wards_attempted": 17,
+  "n_wards_with_history": 17,
+  "n_wards_no_history": 0,
+  "prior_year_distribution": {
+    "2024": 13,
+    "2023": 4
+  }
+}

@@ -1,0 +1,324 @@
+{
+  "council_slug": "wolverhampton",
+  "source": "https://candidates.democracyclub.org.uk/api/next/",
+  "fetched_at": "2026-05-10T22:56:24Z",
+  "wards": [
+    {
+      "ward_slug": "bilston-north",
+      "ward_name": "Bilston North",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.wolverhampton.bilston-north.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 71.29,
+        "Conservative": 28.71
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2473,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "bilston-south",
+      "ward_name": "Bilston South",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.wolverhampton.bilston-south.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 70.09,
+        "Conservative": 29.91
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2210,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "blakenhall",
+      "ward_name": "Blakenhall",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.wolverhampton.blakenhall.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 75.08,
+        "Conservative": 15.16,
+        "Green": 4.22,
+        "Liberal Democrat": 2.88,
+        "Independent": 2.68
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2989,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "bushbury-north",
+      "ward_name": "Bushbury North",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.wolverhampton.bushbury-north.2024-05-02",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 47.03,
+        "Labour": 45.25,
+        "Liberal Democrat": 7.73
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 2809,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "bushbury-south-low-hill",
+      "ward_name": "Bushbury South & Low Hill",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.wolverhampton.bushbury-south-low-hill.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 70.45,
+        "Conservative": 21.46,
+        "Liberal Democrat": 8.09
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1878,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "east-park",
+      "ward_name": "East Park",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.wolverhampton.east-park.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 68.21,
+        "Conservative": 17.8,
+        "Independent": 13.99
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2101,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "ettingshall-north",
+      "ward_name": "Ettingshall North",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.wolverhampton.ettingshall-north.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 81.98,
+        "Conservative": 18.02
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2713,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "ettingshall-south-spring-vale",
+      "ward_name": "Ettingshall South & Spring Vale",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.wolverhampton.ettingshall-south-spring-vale.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 71.82,
+        "Conservative": 28.18
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2768,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "fallings-park",
+      "ward_name": "Fallings Park",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.wolverhampton.fallings-park.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 56.75,
+        "Conservative": 31.28,
+        "Party Of Women": 7.03,
+        "Liberal Democrat": 4.94
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2289,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "graiseley",
+      "ward_name": "Graiseley",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.wolverhampton.graiseley.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 59.31,
+        "Conservative": 19.47,
+        "Independent": 9.56,
+        "Green": 8.26,
+        "Liberal Democrat": 3.41
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2907,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "heath-town",
+      "ward_name": "Heath Town",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.wolverhampton.heath-town.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 64.35,
+        "Conservative": 21.3,
+        "Green": 9.52,
+        "Liberal Democrat": 4.83
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2028,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "merry-hill",
+      "ward_name": "Merry Hill",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.wolverhampton.merry-hill.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 47.65,
+        "Conservative": 45.14,
+        "Green": 7.21
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3232,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "park",
+      "ward_name": "Park",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.wolverhampton.park.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 52.97,
+        "Conservative": 22.13,
+        "Green": 15.59,
+        "Liberal Democrat": 9.3
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3149,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "penn",
+      "ward_name": "Penn",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.wolverhampton.penn.2024-05-02",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 45.26,
+        "Labour": 43.25,
+        "Green": 8.62,
+        "Liberal Democrat": 2.87
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 3829,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "st-peters",
+      "ward_name": "St Peters",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.wolverhampton.st-peters.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 51.4,
+        "Green": 24.65,
+        "Liberal Democrat": 12.35,
+        "Conservative": 11.6
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2430,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "tettenhall-wightwick",
+      "ward_name": "Tettenhall Wightwick",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.wolverhampton.tettenhall-wightwick.2024-05-02",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 63.03,
+        "Labour": 26.87,
+        "Green": 7.55,
+        "Liberal Democrat": 2.55
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 3535,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "wednesfield-north",
+      "ward_name": "Wednesfield North",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.wolverhampton.wednesfield-north.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 65.49,
+        "Conservative": 34.51
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2185,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "wednesfield-south",
+      "ward_name": "Wednesfield South",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.wolverhampton.wednesfield-south.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 50.57,
+        "Conservative": 37.18,
+        "Green": 12.25
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2458,
+      "prior_winner_count": 1
+    }
+  ],
+  "n_wards_attempted": 18,
+  "n_wards_with_history": 18,
+  "n_wards_no_history": 0,
+  "prior_year_distribution": {
+    "2024": 18
+  }
+}

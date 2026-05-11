@@ -1,0 +1,945 @@
+{
+  "council_slug": "knowsley",
+  "election_date": "2026-05-07",
+  "source": "https://candidates.democracyclub.org.uk/api/next/",
+  "fetched_at": "2026-05-10T23:14:37Z",
+  "wards": [
+    {
+      "ward_slug": "cherryfield",
+      "ward_name": "Cherryfield",
+      "ballot_id": "local.knowsley.cherryfield.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Independent",
+          "name": "David Hitchmough",
+          "votes": 628
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Independent",
+          "name": "David Hitchmough",
+          "votes": 628,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Josie Annesley",
+          "votes": 605,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Louise Harbour",
+          "votes": 572,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Ebony Higham",
+          "votes": 227,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Independent": 30.91,
+        "Reform UK": 29.77,
+        "Labour": 28.15,
+        "Green": 11.17
+      },
+      "party_seats_won": {
+        "Independent": 1
+      },
+      "winning_party": "Independent",
+      "total_votes": 2032,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:14:38Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05010935",
+        "qual_l4_pct": 19.23,
+        "no_qual_pct": 30.16,
+        "muslim_pct": 0.45,
+        "no_religion_pct": 25.59,
+        "age_under_35_pct": 44.12,
+        "age_65_plus_pct": 17.56,
+        "social_rented_pct": 51.73,
+        "white_british_pct": 93.31
+      }
+    },
+    {
+      "ward_slug": "halewood-north",
+      "ward_name": "Halewood North",
+      "ballot_id": "local.knowsley.halewood-north.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Brian Beddows",
+          "votes": 765
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Brian Beddows",
+          "votes": 765,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Terry Powell",
+          "votes": 708,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Kian Houltram",
+          "votes": 562,
+          "elected": false
+        },
+        {
+          "party": "Independent",
+          "name": "David Hooton",
+          "votes": 553,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Mark Salmon",
+          "votes": 101,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 28.45,
+        "Labour": 26.33,
+        "Green": 20.9,
+        "Independent": 20.57,
+        "Conservative": 3.76
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 2689,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:14:40Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05010936",
+        "qual_l4_pct": 28.86,
+        "no_qual_pct": 19.71,
+        "muslim_pct": 0.52,
+        "no_religion_pct": 26.85,
+        "age_under_35_pct": 38.76,
+        "age_65_plus_pct": 20.07,
+        "social_rented_pct": 32.58,
+        "white_british_pct": 92.02
+      }
+    },
+    {
+      "ward_slug": "halewood-south",
+      "ward_name": "Halewood South",
+      "ballot_id": "local.knowsley.halewood-south.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Independent",
+          "name": "Joanne Harvey",
+          "votes": 1204
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Independent",
+          "name": "Joanne Harvey",
+          "votes": 1204,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Peter Bradley",
+          "votes": 750,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Paula Johnson",
+          "votes": 617,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Independent": 46.83,
+        "Labour": 29.17,
+        "Reform UK": 24.0
+      },
+      "party_seats_won": {
+        "Independent": 1
+      },
+      "winning_party": "Independent",
+      "total_votes": 2571,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:14:42Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05010937",
+        "qual_l4_pct": 23.67,
+        "no_qual_pct": 25.65,
+        "muslim_pct": 0.86,
+        "no_religion_pct": 29.05,
+        "age_under_35_pct": 40.64,
+        "age_65_plus_pct": 20.83,
+        "social_rented_pct": 52.38,
+        "white_british_pct": 91.86
+      }
+    },
+    {
+      "ward_slug": "northwood",
+      "ward_name": "Northwood",
+      "ballot_id": "local.knowsley.northwood.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Alexander Hitchmough",
+          "votes": 849
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Alexander Hitchmough",
+          "votes": 849,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Marie Roughley",
+          "votes": 583,
+          "elected": false
+        },
+        {
+          "party": "TUSC",
+          "name": "Neill Dunne",
+          "votes": 409,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Matthew David Kirwan",
+          "votes": 271,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 40.2,
+        "Labour": 27.6,
+        "TUSC": 19.37,
+        "Green": 12.83
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 2112,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:14:43Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05010938",
+        "qual_l4_pct": 16.65,
+        "no_qual_pct": 34.83,
+        "muslim_pct": 0.49,
+        "no_religion_pct": 31.3,
+        "age_under_35_pct": 47.7,
+        "age_65_plus_pct": 14.71,
+        "social_rented_pct": 81.34,
+        "white_british_pct": 91.23
+      }
+    },
+    {
+      "ward_slug": "page-moss",
+      "ward_name": "Page Moss",
+      "ballot_id": "local.knowsley.page-moss.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Green",
+          "name": "Ria Rembadi",
+          "votes": 703
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Green",
+          "name": "Ria Rembadi",
+          "votes": 703,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Robert Austin",
+          "votes": 593,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Jacob Maguire",
+          "votes": 574,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Green": 37.59,
+        "Labour": 31.71,
+        "Reform UK": 30.7
+      },
+      "party_seats_won": {
+        "Green": 1
+      },
+      "winning_party": "Green",
+      "total_votes": 1870,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:14:45Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05010939",
+        "qual_l4_pct": 21.4,
+        "no_qual_pct": 30.7,
+        "muslim_pct": 1.31,
+        "no_religion_pct": 30.55,
+        "age_under_35_pct": 48.23,
+        "age_65_plus_pct": 15.1,
+        "social_rented_pct": 74.2,
+        "white_british_pct": 89.92
+      }
+    },
+    {
+      "ward_slug": "prescot-north",
+      "ward_name": "Prescot North",
+      "ballot_id": "local.knowsley.prescot-north.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Frances Wynn",
+          "votes": 1059
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Frances Wynn",
+          "votes": 1059,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Tony Cummins",
+          "votes": 980,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Tommy Grierson",
+          "votes": 770,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Peter Stanley Leadbeater",
+          "votes": 113,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Liberal Democrat": 36.24,
+        "Reform UK": 33.54,
+        "Labour": 26.35,
+        "Conservative": 3.87
+      },
+      "party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "winning_party": "Liberal Democrat",
+      "total_votes": 2922,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:15:11Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05010940",
+        "qual_l4_pct": 29.02,
+        "no_qual_pct": 21.36,
+        "muslim_pct": 0.56,
+        "no_religion_pct": 27.75,
+        "age_under_35_pct": 41.26,
+        "age_65_plus_pct": 20.48,
+        "social_rented_pct": 36.54,
+        "white_british_pct": 92.55
+      }
+    },
+    {
+      "ward_slug": "prescot-south",
+      "ward_name": "Prescot South",
+      "ballot_id": "local.knowsley.prescot-south.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Green",
+          "name": "Kai Taylor",
+          "votes": 1212
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Green",
+          "name": "Kai Taylor",
+          "votes": 1212,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Mark John Phillips",
+          "votes": 658,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Diane Sedman",
+          "votes": 448,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Martins Otaniyen Iserhienrhien",
+          "votes": 82,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Green": 50.5,
+        "Reform UK": 27.42,
+        "Labour": 18.67,
+        "Conservative": 3.42
+      },
+      "party_seats_won": {
+        "Green": 1
+      },
+      "winning_party": "Green",
+      "total_votes": 2400,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:15:38Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05010941",
+        "qual_l4_pct": 27.16,
+        "no_qual_pct": 22.93,
+        "muslim_pct": 0.57,
+        "no_religion_pct": 28.2,
+        "age_under_35_pct": 42.62,
+        "age_65_plus_pct": 17.99,
+        "social_rented_pct": 41.43,
+        "white_british_pct": 90.03
+      }
+    },
+    {
+      "ward_slug": "roby",
+      "ward_name": "Roby",
+      "ballot_id": "local.knowsley.roby.2026-05-07",
+      "winner_count": 2,
+      "elected": [
+        {
+          "party": "Labour",
+          "name": "Kevin Bannon",
+          "votes": 1237
+        },
+        {
+          "party": "Labour",
+          "name": "Gary See",
+          "votes": 959
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Labour",
+          "name": "Kevin Bannon",
+          "votes": 1237,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Gary See",
+          "votes": 959,
+          "elected": true
+        },
+        {
+          "party": "Green",
+          "name": "Ste Murray",
+          "votes": 833,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Sue Cockerill",
+          "votes": 814,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Gary Robertson",
+          "votes": 804,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Alan McKenzie",
+          "votes": 781,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Labour": 40.46,
+        "Green": 29.73,
+        "Reform UK": 29.81
+      },
+      "party_seats_won": {
+        "Labour": 2
+      },
+      "winning_party": "Labour",
+      "total_votes": 5428,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:15:42Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05010942",
+        "qual_l4_pct": 32.62,
+        "no_qual_pct": 18.78,
+        "muslim_pct": 0.39,
+        "no_religion_pct": 20.13,
+        "age_under_35_pct": 36.4,
+        "age_65_plus_pct": 27.55,
+        "social_rented_pct": 10.87,
+        "white_british_pct": 94.16
+      }
+    },
+    {
+      "ward_slug": "shevington",
+      "ward_name": "Shevington",
+      "ballot_id": "local.knowsley.shevington.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Independent",
+          "name": "Steve Guy",
+          "votes": 870
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Independent",
+          "name": "Steve Guy",
+          "votes": 870,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Tommy Rowe",
+          "votes": 610,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Claire Louise Morton",
+          "votes": 568,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Lee Verdun Clark",
+          "votes": 211,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Independent": 38.51,
+        "Labour": 27.0,
+        "Reform UK": 25.14,
+        "Green": 9.34
+      },
+      "party_seats_won": {
+        "Independent": 1
+      },
+      "winning_party": "Independent",
+      "total_votes": 2259,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:15:43Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05010943",
+        "qual_l4_pct": 23.57,
+        "no_qual_pct": 25.09,
+        "muslim_pct": 0.49,
+        "no_religion_pct": 29.75,
+        "age_under_35_pct": 47.63,
+        "age_65_plus_pct": 13.06,
+        "social_rented_pct": 40.48,
+        "white_british_pct": 93.15
+      }
+    },
+    {
+      "ward_slug": "st-gabriels",
+      "ward_name": "St Gabriels",
+      "ballot_id": "local.knowsley.st-gabriels.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Green",
+          "name": "Cath Golding",
+          "votes": 958
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Green",
+          "name": "Cath Golding",
+          "votes": 958,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Alan James Cockerill",
+          "votes": 693,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Vanessa Boateng",
+          "votes": 535,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Green": 43.82,
+        "Reform UK": 31.7,
+        "Labour": 24.47
+      },
+      "party_seats_won": {
+        "Green": 1
+      },
+      "winning_party": "Green",
+      "total_votes": 2186,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:15:45Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05010944",
+        "qual_l4_pct": 22.61,
+        "no_qual_pct": 26.2,
+        "muslim_pct": 0.65,
+        "no_religion_pct": 28.13,
+        "age_under_35_pct": 41.17,
+        "age_65_plus_pct": 20.04,
+        "social_rented_pct": 48.35,
+        "white_british_pct": 94.93
+      }
+    },
+    {
+      "ward_slug": "st-michaels",
+      "ward_name": "St Michaels",
+      "ballot_id": "local.knowsley.st-michaels.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Labour",
+          "name": "Matt Costello",
+          "votes": 862
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Labour",
+          "name": "Matt Costello",
+          "votes": 862,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Cameron McClymont",
+          "votes": 611,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Crispin Evans",
+          "votes": 359,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Labour": 47.05,
+        "Reform UK": 33.35,
+        "Green": 19.6
+      },
+      "party_seats_won": {
+        "Labour": 1
+      },
+      "winning_party": "Labour",
+      "total_votes": 1832,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:15:47Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05010945",
+        "qual_l4_pct": 21.37,
+        "no_qual_pct": 30.46,
+        "muslim_pct": 0.79,
+        "no_religion_pct": 26.51,
+        "age_under_35_pct": 42.7,
+        "age_65_plus_pct": 20.12,
+        "social_rented_pct": 70.96,
+        "white_british_pct": 92.56
+      }
+    },
+    {
+      "ward_slug": "stockbridge",
+      "ward_name": "Stockbridge",
+      "ballot_id": "local.knowsley.stockbridge.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Josh Culley",
+          "votes": 802
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Josh Culley",
+          "votes": 802,
+          "elected": true
+        },
+        {
+          "party": "Green",
+          "name": "Lauren Buckley",
+          "votes": 596,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Dennis Baum",
+          "votes": 574,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Olusoji Obayemi Arosanyin",
+          "votes": 78,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 39.12,
+        "Green": 29.07,
+        "Labour": 28.0,
+        "Conservative": 3.8
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 2050,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:15:48Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05010946",
+        "qual_l4_pct": 20.03,
+        "no_qual_pct": 30.97,
+        "muslim_pct": 0.67,
+        "no_religion_pct": 26.94,
+        "age_under_35_pct": 45.29,
+        "age_65_plus_pct": 15.28,
+        "social_rented_pct": 93.15,
+        "white_british_pct": 88.09
+      }
+    },
+    {
+      "ward_slug": "swanside",
+      "ward_name": "Swanside",
+      "ballot_id": "local.knowsley.swanside.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Labour",
+          "name": "Colin Dever",
+          "votes": 1187
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Labour",
+          "name": "Colin Dever",
+          "votes": 1187,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Stephen Dunne",
+          "votes": 678,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Ant Canavan",
+          "votes": 434,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Labour": 51.63,
+        "Reform UK": 29.49,
+        "Green": 18.88
+      },
+      "party_seats_won": {
+        "Labour": 1
+      },
+      "winning_party": "Labour",
+      "total_votes": 2299,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:15:50Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05010947",
+        "qual_l4_pct": 29.75,
+        "no_qual_pct": 18.97,
+        "muslim_pct": 0.61,
+        "no_religion_pct": 22.26,
+        "age_under_35_pct": 39.91,
+        "age_65_plus_pct": 21.42,
+        "social_rented_pct": 10.61,
+        "white_british_pct": 93.88
+      }
+    },
+    {
+      "ward_slug": "whiston-cronton",
+      "ward_name": "Whiston & Cronton",
+      "ballot_id": "local.knowsley.whiston-cronton.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "David Gilbertson",
+          "votes": 920
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "David Gilbertson",
+          "votes": 920,
+          "elected": true
+        },
+        {
+          "party": "Green",
+          "name": "Sandra Gaffney",
+          "votes": 865,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Denise Allen",
+          "votes": 752,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 36.26,
+        "Green": 34.1,
+        "Labour": 29.64
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 2537,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:15:51Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05010948",
+        "qual_l4_pct": 23.2,
+        "no_qual_pct": 24.68,
+        "muslim_pct": 0.44,
+        "no_religion_pct": 28.04,
+        "age_under_35_pct": 40.01,
+        "age_65_plus_pct": 22.6,
+        "social_rented_pct": 41.27,
+        "white_british_pct": 94.24
+      }
+    },
+    {
+      "ward_slug": "whitefield",
+      "ward_name": "Whitefield",
+      "ballot_id": "local.knowsley.whitefield.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Independent",
+          "name": "Brian Johns",
+          "votes": 1006
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Independent",
+          "name": "Brian Johns",
+          "votes": 1006,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Robert Owens",
+          "votes": 650,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Claude Chonzi",
+          "votes": 591,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Independent": 44.77,
+        "Labour": 28.93,
+        "Reform UK": 26.3
+      },
+      "party_seats_won": {
+        "Independent": 1
+      },
+      "winning_party": "Independent",
+      "total_votes": 2247,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:15:53Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05010949",
+        "qual_l4_pct": 18.63,
+        "no_qual_pct": 31.71,
+        "muslim_pct": 0.54,
+        "no_religion_pct": 24.45,
+        "age_under_35_pct": 39.75,
+        "age_65_plus_pct": 22.4,
+        "social_rented_pct": 54.14,
+        "white_british_pct": 94.63
+      }
+    }
+  ],
+  "n_wards_attempted": 15,
+  "n_wards_with_results": 15,
+  "n_wards_no_results": 0
+}

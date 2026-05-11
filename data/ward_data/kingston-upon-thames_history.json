@@ -1,0 +1,328 @@
+{
+  "council_slug": "kingston-upon-thames",
+  "source": "https://candidates.democracyclub.org.uk/api/next/",
+  "fetched_at": "2026-05-11T02:47:56Z",
+  "wards": [
+    {
+      "ward_slug": "alexandra",
+      "ward_name": "Alexandra",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.kingston-upon-thames.alexandra.2022-05-05",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 45.22,
+        "Conservative": 34.23,
+        "Labour": 10.34,
+        "Green": 10.21
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 2
+      },
+      "prior_total_votes": 4350,
+      "prior_winner_count": 2
+    },
+    {
+      "ward_slug": "berrylands",
+      "ward_name": "Berrylands",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.kingston-upon-thames.berrylands.2022-05-05",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 50.6,
+        "Conservative": 28.15,
+        "Labour": 10.31,
+        "Green": 9.03,
+        "The Liberal Party": 1.91
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 2
+      },
+      "prior_total_votes": 5083,
+      "prior_winner_count": 2
+    },
+    {
+      "ward_slug": "canbury-gardens",
+      "ward_name": "Canbury Gardens",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.kingston-upon-thames.canbury-gardens.2022-05-05",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 47.67,
+        "Conservative": 29.42,
+        "Green": 13.25,
+        "Labour": 9.66
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 2
+      },
+      "prior_total_votes": 4959,
+      "prior_winner_count": 2
+    },
+    {
+      "ward_slug": "chessington-south-malden-rushett",
+      "ward_name": "Chessington South & Malden Rushett",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.kingston-upon-thames.chessington-south-malden-rushett.2022-05-05",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 49.67,
+        "Conservative": 35.42,
+        "Labour": 11.75,
+        "Official Monster Raving Loony Party": 3.15
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 3
+      },
+      "prior_total_votes": 8337,
+      "prior_winner_count": 3
+    },
+    {
+      "ward_slug": "coombe-hill",
+      "ward_name": "Coombe Hill",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.kingston-upon-thames.coombe-hill.2022-05-05",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 47.89,
+        "Liberal Democrat": 33.01,
+        "Labour": 11.46,
+        "Kingston Independent Residents Group": 7.65
+      },
+      "prior_party_seats_won": {
+        "Conservative": 2
+      },
+      "prior_total_votes": 3832,
+      "prior_winner_count": 2
+    },
+    {
+      "ward_slug": "coombe-vale",
+      "ward_name": "Coombe Vale",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.kingston-upon-thames.coombe-vale.2022-05-05",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 44.6,
+        "Conservative": 31.53,
+        "Green": 6.39,
+        "Labour": 12.7,
+        "Kingston Independent Residents Group": 4.77
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 3
+      },
+      "prior_total_votes": 10563,
+      "prior_winner_count": 3
+    },
+    {
+      "ward_slug": "hook-chessington-north",
+      "ward_name": "Hook & Chessington North",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.kingston-upon-thames.hook-chessington-north.2022-05-05",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 53.8,
+        "Conservative": 29.29,
+        "Labour": 14.61,
+        "Official Monster Raving Loony Party": 2.3
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 3
+      },
+      "prior_total_votes": 9187,
+      "prior_winner_count": 3
+    },
+    {
+      "ward_slug": "king-georges-sunray",
+      "ward_name": "King George's & Sunray",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.kingston-upon-thames.king-georges-sunray.2022-05-05",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 49.29,
+        "Conservative": 34.01,
+        "Labour": 16.7
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 2
+      },
+      "prior_total_votes": 3240,
+      "prior_winner_count": 2
+    },
+    {
+      "ward_slug": "kingston-gate",
+      "ward_name": "Kingston Gate",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.kingston-upon-thames.kingston-gate.2022-05-05",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 43.47,
+        "Conservative": 21.02,
+        "Green": 12.63,
+        "Kingston Independent Residents Group": 10.18,
+        "Labour": 10.62,
+        "Independent": 2.09
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 3
+      },
+      "prior_total_votes": 10199,
+      "prior_winner_count": 3
+    },
+    {
+      "ward_slug": "kingston-town",
+      "ward_name": "Kingston Town",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.kingston-upon-thames.kingston-town.2022-05-05",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 42.84,
+        "Labour": 19.82,
+        "Conservative": 16.97,
+        "Green": 10.12,
+        "Kingston Independent Residents Group": 10.25
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 3
+      },
+      "prior_total_votes": 8380,
+      "prior_winner_count": 3
+    },
+    {
+      "ward_slug": "motspur-park-old-malden-east",
+      "ward_name": "Motspur Park & Old Malden East",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.kingston-upon-thames.motspur-park-old-malden-east.2022-05-05",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 45.53,
+        "Conservative": 36.75,
+        "Labour": 12.99,
+        "Green": 4.72
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 2
+      },
+      "prior_total_votes": 4702,
+      "prior_winner_count": 2
+    },
+    {
+      "ward_slug": "norbiton",
+      "ward_name": "Norbiton",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.kingston-upon-thames.norbiton.2022-05-05",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 50.27,
+        "Labour": 27.34,
+        "Conservative": 12.75,
+        "Green": 7.34,
+        "Kingston Independent Residents Group": 2.31
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 3
+      },
+      "prior_total_votes": 8542,
+      "prior_winner_count": 3
+    },
+    {
+      "ward_slug": "old-malden",
+      "ward_name": "Old Malden",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.kingston-upon-thames.old-malden.2022-05-05",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 48.82,
+        "Conservative": 36.41,
+        "Labour": 10.98,
+        "Green": 3.79
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 2
+      },
+      "prior_total_votes": 4619,
+      "prior_winner_count": 2
+    },
+    {
+      "ward_slug": "st-marks-seething-wells",
+      "ward_name": "St Mark's & Seething Wells",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.kingston-upon-thames.st-marks-seething-wells.2022-05-05",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 45.23,
+        "Green": 28.29,
+        "Conservative": 12.68,
+        "Labour": 10.15,
+        "Women's Equality Party": 1.84,
+        "Kingston Independent Residents Group": 1.82
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 3
+      },
+      "prior_total_votes": 11552,
+      "prior_winner_count": 3
+    },
+    {
+      "ward_slug": "surbiton-hill",
+      "ward_name": "Surbiton Hill",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.kingston-upon-thames.surbiton-hill.2022-05-05",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 52.42,
+        "Conservative": 19.32,
+        "Labour": 10.96,
+        "Green": 10.11,
+        "Kingston Independent Residents Group": 7.19
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 3
+      },
+      "prior_total_votes": 9606,
+      "prior_winner_count": 3
+    },
+    {
+      "ward_slug": "tolworth",
+      "ward_name": "Tolworth",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.kingston-upon-thames.tolworth.2022-05-05",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 62.68,
+        "Conservative": 17.14,
+        "Labour": 16.12,
+        "Kingston Independent Residents Group": 4.06
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 3
+      },
+      "prior_total_votes": 9648,
+      "prior_winner_count": 3
+    },
+    {
+      "ward_slug": "tudor",
+      "ward_name": "Tudor",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.kingston-upon-thames.tudor.2022-05-05",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 43.46,
+        "Conservative": 41.68,
+        "Green": 6.95,
+        "Labour": 7.91
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 1,
+        "Conservative": 1
+      },
+      "prior_total_votes": 5566,
+      "prior_winner_count": 2
+    }
+  ],
+  "n_wards_attempted": 19,
+  "n_wards_with_history": 17,
+  "n_wards_no_history": 2,
+  "prior_year_distribution": {
+    "2022": 17
+  }
+}

@@ -1,0 +1,2554 @@
+{
+  "council_slug": "kingston-upon-thames",
+  "election_date": "2026-05-07",
+  "source": "https://candidates.democracyclub.org.uk/api/next/",
+  "fetched_at": "2026-05-11T02:39:45Z",
+  "wards": [
+    {
+      "ward_slug": "alexandra",
+      "ward_name": "Alexandra",
+      "ballot_id": "local.kingston-upon-thames.alexandra.2026-05-07",
+      "winner_count": 2,
+      "elected": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Ian Manders",
+          "votes": 1006
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Amir Ali Khan",
+          "votes": 951
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Ian Manders",
+          "votes": 1006,
+          "elected": true
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Amir Ali Khan",
+          "votes": 951,
+          "elected": true
+        },
+        {
+          "party": "Conservative",
+          "name": "Simon Illsley",
+          "votes": 451,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Arjun Johal",
+          "votes": 413,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Jill Margaret Anderson",
+          "votes": 318,
+          "elected": false
+        },
+        {
+          "party": "Kingston Independent Residents Group",
+          "name": "Aaron Mafi",
+          "votes": 315,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Anna Katharine Burlingsby",
+          "votes": 290,
+          "elected": false
+        },
+        {
+          "party": "Kingston Independent Residents Group",
+          "name": "Gavin Pushparajan",
+          "votes": 286,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Caroline Ann Buchan",
+          "votes": 277,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Des Kay",
+          "votes": 238,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Marian Margaret Freedman",
+          "votes": 129,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Alexander James Lock",
+          "votes": 91,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Liberal Democrat": 41.07,
+        "Conservative": 18.13,
+        "Reform UK": 12.49,
+        "Kingston Independent Residents Group": 12.61,
+        "Green": 11.08,
+        "Labour": 4.62
+      },
+      "party_seats_won": {
+        "Liberal Democrat": 2
+      },
+      "winning_party": "Liberal Democrat",
+      "total_votes": 4765,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-11T02:39:46Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05013928",
+        "qual_l4_pct": 48.97,
+        "no_qual_pct": 10.93,
+        "muslim_pct": 6.91,
+        "no_religion_pct": 30.52,
+        "age_under_35_pct": 40.28,
+        "age_65_plus_pct": 19.35,
+        "social_rented_pct": 5.46,
+        "white_british_pct": 56.29
+      }
+    },
+    {
+      "ward_slug": "berrylands",
+      "ward_name": "Berrylands",
+      "ballot_id": "local.kingston-upon-thames.berrylands.2026-05-07",
+      "winner_count": 2,
+      "elected": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Anita Margaret Schaper",
+          "votes": 1331
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Rizwana Suhail Malik",
+          "votes": 1203
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Anita Margaret Schaper",
+          "votes": 1331,
+          "elected": true
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Rizwana Suhail Malik",
+          "votes": 1203,
+          "elected": true
+        },
+        {
+          "party": "Conservative",
+          "name": "Steve Kent",
+          "votes": 662,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Paul Bedforth",
+          "votes": 654,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Maya Joyce Kay",
+          "votes": 397,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Garfield Anthony Bateman",
+          "votes": 329,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Philip Smith",
+          "votes": 317,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Anthony Ayoola",
+          "votes": 289,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Heather Estelle Buchanan",
+          "votes": 159,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Lawrence Roy Green",
+          "votes": 148,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Liberal Democrat": 46.17,
+        "Conservative": 23.98,
+        "Green": 13.01,
+        "Reform UK": 11.26,
+        "Labour": 5.59
+      },
+      "party_seats_won": {
+        "Liberal Democrat": 2
+      },
+      "winning_party": "Liberal Democrat",
+      "total_votes": 5489,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-11T02:39:48Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05013929",
+        "qual_l4_pct": 58.32,
+        "no_qual_pct": 8.29,
+        "muslim_pct": 3.44,
+        "no_religion_pct": 37.13,
+        "age_under_35_pct": 39.16,
+        "age_65_plus_pct": 19.27,
+        "social_rented_pct": 14.68,
+        "white_british_pct": 66.46
+      }
+    },
+    {
+      "ward_slug": "canbury-gardens",
+      "ward_name": "Canbury Gardens",
+      "ballot_id": "local.kingston-upon-thames.canbury-gardens.2026-05-07",
+      "winner_count": 2,
+      "elected": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Peter Christopher Higgins",
+          "votes": 1362
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Nicolai Due-Gundersen",
+          "votes": 1311
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Peter Christopher Higgins",
+          "votes": 1362,
+          "elected": true
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Nicolai Due-Gundersen",
+          "votes": 1311,
+          "elected": true
+        },
+        {
+          "party": "Green",
+          "name": "Linda Jane Sawyer",
+          "votes": 455,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Anand Rajpurohit",
+          "votes": 357,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Maria Theresa Blake",
+          "votes": 321,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Mohammad Beheshti",
+          "votes": 320,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Ian Bryn Worrall",
+          "votes": 314,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Anthony Larkin",
+          "votes": 304,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Kelly Jane Galvin",
+          "votes": 168,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Christopher Robert Priest",
+          "votes": 134,
+          "elected": false
+        },
+        {
+          "party": "Kingston Independent Residents Group",
+          "name": "Mihaela McKendrick",
+          "votes": 133,
+          "elected": false
+        },
+        {
+          "party": "Kingston Independent Residents Group",
+          "name": "Ali Abdulla",
+          "votes": 102,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Liberal Democrat": 50.62,
+        "Green": 14.56,
+        "Conservative": 12.82,
+        "Reform UK": 11.83,
+        "Labour": 5.72,
+        "Kingston Independent Residents Group": 4.45
+      },
+      "party_seats_won": {
+        "Liberal Democrat": 2
+      },
+      "winning_party": "Liberal Democrat",
+      "total_votes": 5281,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-11T02:39:50Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05013930",
+        "qual_l4_pct": 65.33,
+        "no_qual_pct": 7.76,
+        "muslim_pct": 7.4,
+        "no_religion_pct": 38.79,
+        "age_under_35_pct": 43.38,
+        "age_65_plus_pct": 12.94,
+        "social_rented_pct": 20.53,
+        "white_british_pct": 48.97
+      }
+    },
+    {
+      "ward_slug": "chessington-south-malden-rushett",
+      "ward_name": "Chessington South & Malden Rushett",
+      "ballot_id": "local.kingston-upon-thames.chessington-south-malden-rushett.2026-05-07",
+      "winner_count": 3,
+      "elected": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Andreas Kirsch",
+          "votes": 1641
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Griseldis Kirsch",
+          "votes": 1542
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Sharukh Mirza",
+          "votes": 1518
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Andreas Kirsch",
+          "votes": 1641,
+          "elected": true
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Griseldis Kirsch",
+          "votes": 1542,
+          "elected": true
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Sharukh Mirza",
+          "votes": 1518,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Simon Bain",
+          "votes": 1001,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Kevin Eggleton",
+          "votes": 946,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Pawel Marian Lachowski",
+          "votes": 855,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Sue Towner",
+          "votes": 590,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Irena Boylett",
+          "votes": 502,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "James John Eakin",
+          "votes": 496,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Laurie South",
+          "votes": 178,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Alfred Pirotta",
+          "votes": 173,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Fe Wood",
+          "votes": 148,
+          "elected": false
+        },
+        {
+          "party": "The Official Monster Raving Loony Party",
+          "name": "Captain Coiley",
+          "votes": 79,
+          "elected": false
+        },
+        {
+          "party": "The Official Monster Raving Loony Party",
+          "name": "A Gent Chinners",
+          "votes": 74,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Liberal Democrat": 48.25,
+        "Reform UK": 28.76,
+        "Conservative": 16.3,
+        "Labour": 5.12,
+        "The Official Monster Raving Loony Party": 1.57
+      },
+      "party_seats_won": {
+        "Liberal Democrat": 3
+      },
+      "winning_party": "Liberal Democrat",
+      "total_votes": 9743,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-11T02:39:51Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05013931",
+        "qual_l4_pct": 34.35,
+        "no_qual_pct": 15.48,
+        "muslim_pct": 4.3,
+        "no_religion_pct": 38.89,
+        "age_under_35_pct": 41.87,
+        "age_65_plus_pct": 17.41,
+        "social_rented_pct": 24.66,
+        "white_british_pct": 70.07
+      }
+    },
+    {
+      "ward_slug": "coombe-hill",
+      "ward_name": "Coombe Hill",
+      "ballot_id": "local.kingston-upon-thames.coombe-hill.2026-05-07",
+      "winner_count": 2,
+      "elected": [
+        {
+          "party": "Conservative",
+          "name": "Rowena Bass",
+          "votes": 854
+        },
+        {
+          "party": "Conservative",
+          "name": "Ian George",
+          "votes": 760
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Conservative",
+          "name": "Rowena Bass",
+          "votes": 854,
+          "elected": true
+        },
+        {
+          "party": "Conservative",
+          "name": "Ian George",
+          "votes": 760,
+          "elected": true
+        },
+        {
+          "party": "Kingston Independent Residents Group",
+          "name": "Jamal Chohan",
+          "votes": 636,
+          "elected": false
+        },
+        {
+          "party": "Kingston Independent Residents Group",
+          "name": "Zebunisa Rao",
+          "votes": 494,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Zain Ausaf Abbas",
+          "votes": 407,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Tushar Aneja",
+          "votes": 383,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Patrick Lewis Goodacre",
+          "votes": 227,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Jeanine Bateman",
+          "votes": 203,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Ezra Tunley",
+          "votes": 183,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Shaun Tocher",
+          "votes": 180,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Anthony Michael Murray",
+          "votes": 92,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Sally Richardson",
+          "votes": 69,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Conservative": 35.96,
+        "Kingston Independent Residents Group": 25.18,
+        "Liberal Democrat": 17.6,
+        "Green": 9.14,
+        "Reform UK": 8.53,
+        "Labour": 3.59
+      },
+      "party_seats_won": {
+        "Conservative": 2
+      },
+      "winning_party": "Conservative",
+      "total_votes": 4488,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-11T02:39:53Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05013932",
+        "qual_l4_pct": 58.88,
+        "no_qual_pct": 10.28,
+        "muslim_pct": 16.56,
+        "no_religion_pct": 23.85,
+        "age_under_35_pct": 40.52,
+        "age_65_plus_pct": 24.14,
+        "social_rented_pct": 10.72,
+        "white_british_pct": 38.55
+      }
+    },
+    {
+      "ward_slug": "coombe-vale",
+      "ward_name": "Coombe Vale",
+      "ballot_id": "local.kingston-upon-thames.coombe-vale.2026-05-07",
+      "winner_count": 3,
+      "elected": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Kim Natasha Bailey",
+          "votes": 1744
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Brian Maxwell Austen",
+          "votes": 1608
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Andrew Sillett",
+          "votes": 1378
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Kim Natasha Bailey",
+          "votes": 1744,
+          "elected": true
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Brian Maxwell Austen",
+          "votes": 1608,
+          "elected": true
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Andrew Sillett",
+          "votes": 1378,
+          "elected": true
+        },
+        {
+          "party": "Conservative",
+          "name": "Cathy Roberts",
+          "votes": 755,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Marcel Lee",
+          "votes": 738,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Chloe Vittoria Bell",
+          "votes": 699,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Pallavi Konwar",
+          "votes": 670,
+          "elected": false
+        },
+        {
+          "party": "Kingston Independent Residents Group",
+          "name": "David James Giles",
+          "votes": 561,
+          "elected": false
+        },
+        {
+          "party": "Kingston Independent Residents Group",
+          "name": "Phil Doyle",
+          "votes": 511,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Peter Anthony Whitworth",
+          "votes": 472,
+          "elected": false
+        },
+        {
+          "party": "Kingston Independent Residents Group",
+          "name": "Suniya Qureshi",
+          "votes": 441,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Sandy Piercey",
+          "votes": 426,
+          "elected": false
+        },
+        {
+          "party": "Independent",
+          "name": "Kamala Kugan",
+          "votes": 319,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Ian Alexander Parker",
+          "votes": 252,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Nick Draper",
+          "votes": 242,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Gareth Brian Thomas",
+          "votes": 181,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Liberal Democrat": 43.01,
+        "Conservative": 19.67,
+        "Green": 10.65,
+        "Kingston Independent Residents Group": 13.76,
+        "Reform UK": 3.87,
+        "Independent": 2.9,
+        "Labour": 6.14
+      },
+      "party_seats_won": {
+        "Liberal Democrat": 3
+      },
+      "winning_party": "Liberal Democrat",
+      "total_votes": 10997,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-11T02:39:55Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05013933",
+        "qual_l4_pct": 57.73,
+        "no_qual_pct": 10.18,
+        "muslim_pct": 8.48,
+        "no_religion_pct": 29.85,
+        "age_under_35_pct": 40.08,
+        "age_65_plus_pct": 18.15,
+        "social_rented_pct": 13.56,
+        "white_british_pct": 45.88
+      }
+    },
+    {
+      "ward_slug": "green-lane-st-james",
+      "ward_name": "Green Lane & St James",
+      "ballot_id": "local.kingston-upon-thames.green-lane-st-james.2026-05-07",
+      "winner_count": 2,
+      "elected": [
+        {
+          "party": "Kingston Independent Residents Group",
+          "name": "James Giles",
+          "votes": 1043
+        },
+        {
+          "party": "Kingston Independent Residents Group",
+          "name": "Yvonne Tracey",
+          "votes": 1001
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Kingston Independent Residents Group",
+          "name": "James Giles",
+          "votes": 1043,
+          "elected": true
+        },
+        {
+          "party": "Kingston Independent Residents Group",
+          "name": "Yvonne Tracey",
+          "votes": 1001,
+          "elected": true
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Simon Patrick Foylan",
+          "votes": 863,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Rory Hall",
+          "votes": 772,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Lucy Grimstone",
+          "votes": 175,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Pat Dobson",
+          "votes": 165,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Gregory Jarrett",
+          "votes": 161,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Gerry Jones",
+          "votes": 133,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Mike Chattey",
+          "votes": 129,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Rosemary Anne Salusbury",
+          "votes": 86,
+          "elected": false
+        },
+        {
+          "party": "Independent",
+          "name": "Dunia Al-Baghdadi",
+          "votes": 72,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Kingston Independent Residents Group": 44.43,
+        "Liberal Democrat": 35.54,
+        "Reform UK": 7.3,
+        "Labour": 6.48,
+        "Conservative": 4.67,
+        "Independent": 1.57
+      },
+      "party_seats_won": {
+        "Kingston Independent Residents Group": 2
+      },
+      "winning_party": "Kingston Independent Residents Group",
+      "total_votes": 4600,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-11T02:40:09Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05013934",
+        "qual_l4_pct": 45.58,
+        "no_qual_pct": 15.78,
+        "muslim_pct": 11.03,
+        "no_religion_pct": 26.14,
+        "age_under_35_pct": 42.21,
+        "age_65_plus_pct": 19.22,
+        "social_rented_pct": 32.22,
+        "white_british_pct": 45.2
+      }
+    },
+    {
+      "ward_slug": "hook-chessington-north",
+      "ward_name": "Hook & Chessington North",
+      "ballot_id": "local.kingston-upon-thames.hook-chessington-north.2026-05-07",
+      "winner_count": 3,
+      "elected": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Joanne Emma Barker",
+          "votes": 1510
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Sue Ansari",
+          "votes": 1496
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Lorraine Denishea Helen Dunstone",
+          "votes": 1460
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Joanne Emma Barker",
+          "votes": 1510,
+          "elected": true
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Sue Ansari",
+          "votes": 1496,
+          "elected": true
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Lorraine Denishea Helen Dunstone",
+          "votes": 1460,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Angus Timothy Cameron",
+          "votes": 900,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Stephen John Cherry",
+          "votes": 888,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "David Phillips",
+          "votes": 621,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "No\u00eblle Carteret",
+          "votes": 599,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Kye Alan Slawson-Powell",
+          "votes": 486,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Lucy Elizabeth Hill",
+          "votes": 376,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "David John Webb",
+          "votes": 326,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Parsa Bahadori",
+          "votes": 317,
+          "elected": false
+        },
+        {
+          "party": "Kingston Independent Residents Group",
+          "name": "Liam Hebborn",
+          "votes": 268,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "David Kenneth John Cooper",
+          "votes": 159,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Christine Wynne Thompson",
+          "votes": 148,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Rosemary Vase",
+          "votes": 138,
+          "elected": false
+        },
+        {
+          "party": "The Official Monster Raving Loony Party",
+          "name": "Liam Angus Secrett",
+          "votes": 126,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Liberal Democrat": 45.49,
+        "Reform UK": 18.21,
+        "Conservative": 17.38,
+        "Green": 10.38,
+        "Kingston Independent Residents Group": 2.73,
+        "Labour": 4.53,
+        "The Official Monster Raving Loony Party": 1.28
+      },
+      "party_seats_won": {
+        "Liberal Democrat": 3
+      },
+      "winning_party": "Liberal Democrat",
+      "total_votes": 9818,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-11T02:40:11Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05013935",
+        "qual_l4_pct": 32.9,
+        "no_qual_pct": 18.43,
+        "muslim_pct": 5.1,
+        "no_religion_pct": 33.96,
+        "age_under_35_pct": 41.06,
+        "age_65_plus_pct": 18.25,
+        "social_rented_pct": 24.4,
+        "white_british_pct": 68.84
+      }
+    },
+    {
+      "ward_slug": "king-georges-sunray",
+      "ward_name": "King George's & Sunray",
+      "ballot_id": "local.kingston-upon-thames.king-georges-sunray.2026-05-07",
+      "winner_count": 2,
+      "elected": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Helen Rachel Grocott",
+          "votes": 916
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Mark Rahim Beynon",
+          "votes": 902
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Helen Rachel Grocott",
+          "votes": 916,
+          "elected": true
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Mark Rahim Beynon",
+          "votes": 902,
+          "elected": true
+        },
+        {
+          "party": "Conservative",
+          "name": "Nausheen Arnold",
+          "votes": 492,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Gia Borg-Darcy",
+          "votes": 418,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Pauline Howard",
+          "votes": 240,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Kate Worley",
+          "votes": 218,
+          "elected": false
+        },
+        {
+          "party": "Kingston Independent Residents Group",
+          "name": "Julian McCarthy",
+          "votes": 166,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Bob Freedman",
+          "votes": 150,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Andrew David Prosser",
+          "votes": 146,
+          "elected": false
+        },
+        {
+          "party": "Kingston Independent Residents Group",
+          "name": "Danyaal Khwaja",
+          "votes": 110,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Liberal Democrat": 48.38,
+        "Conservative": 24.22,
+        "Green": 12.19,
+        "Kingston Independent Residents Group": 7.34,
+        "Labour": 7.88
+      },
+      "party_seats_won": {
+        "Liberal Democrat": 2
+      },
+      "winning_party": "Liberal Democrat",
+      "total_votes": 3758,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-11T02:40:20Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05013936",
+        "qual_l4_pct": 35.54,
+        "no_qual_pct": 15.81,
+        "muslim_pct": 9.35,
+        "no_religion_pct": 27.08,
+        "age_under_35_pct": 42.55,
+        "age_65_plus_pct": 16.85,
+        "social_rented_pct": 15.22,
+        "white_british_pct": 53.77
+      }
+    },
+    {
+      "ward_slug": "kingston-gate",
+      "ward_name": "Kingston Gate",
+      "ballot_id": "local.kingston-upon-thames.kingston-gate.2026-05-07",
+      "winner_count": 3,
+      "elected": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Sarah Wait-Sillett",
+          "votes": 1807
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Stephen Nicholas Evans",
+          "votes": 1797
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Mark Peter Manners",
+          "votes": 1668
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Sarah Wait-Sillett",
+          "votes": 1807,
+          "elected": true
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Stephen Nicholas Evans",
+          "votes": 1797,
+          "elected": true
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Mark Peter Manners",
+          "votes": 1668,
+          "elected": true
+        },
+        {
+          "party": "Green",
+          "name": "Matt Browne",
+          "votes": 824,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Claire Elizabeth Walter",
+          "votes": 718,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Paul Wright",
+          "votes": 544,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Donald Reginald Porter",
+          "votes": 431,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Leela Sita Seaton",
+          "votes": 402,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Rahul Naithani",
+          "votes": 392,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Robert Edwards",
+          "votes": 351,
+          "elected": false
+        },
+        {
+          "party": "Kingston Independent Residents Group",
+          "name": "Kerry Giles",
+          "votes": 321,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Alexander Horsfall",
+          "votes": 316,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Graham Charles Matthews",
+          "votes": 307,
+          "elected": false
+        },
+        {
+          "party": "Kingston Independent Residents Group",
+          "name": "Noor Jamal Chohan",
+          "votes": 306,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Tam Holmes",
+          "votes": 276,
+          "elected": false
+        },
+        {
+          "party": "Kingston Independent Residents Group",
+          "name": "Sonu Ali Sayeed",
+          "votes": 250,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Nicholas James Oatridge",
+          "votes": 193,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Frank Kitson",
+          "votes": 184,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Liberal Democrat": 47.55,
+        "Green": 18.81,
+        "Conservative": 11.05,
+        "Reform UK": 8.79,
+        "Kingston Independent Residents Group": 7.91,
+        "Labour": 5.89
+      },
+      "party_seats_won": {
+        "Liberal Democrat": 3
+      },
+      "winning_party": "Liberal Democrat",
+      "total_votes": 11087,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-11T02:40:30Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05013937",
+        "qual_l4_pct": 61.53,
+        "no_qual_pct": 8.79,
+        "muslim_pct": 7.39,
+        "no_religion_pct": 39.13,
+        "age_under_35_pct": 45.38,
+        "age_65_plus_pct": 11.68,
+        "social_rented_pct": 26.11,
+        "white_british_pct": 57.22
+      }
+    },
+    {
+      "ward_slug": "kingston-town",
+      "ward_name": "Kingston Town",
+      "ballot_id": "local.kingston-upon-thames.kingston-town.2026-05-07",
+      "winner_count": 3,
+      "elected": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Roger Mark Hayes",
+          "votes": 1277
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Nicola Inez Nardelli",
+          "votes": 1184
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Sabah Hamed",
+          "votes": 1175
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Roger Mark Hayes",
+          "votes": 1277,
+          "elected": true
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Nicola Inez Nardelli",
+          "votes": 1184,
+          "elected": true
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Sabah Hamed",
+          "votes": 1175,
+          "elected": true
+        },
+        {
+          "party": "Green",
+          "name": "James Benjamin Dean",
+          "votes": 592,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Peter Haydn Czaja",
+          "votes": 573,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Raffaele Litto",
+          "votes": 563,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Kezia Elizabeth Coleman",
+          "votes": 441,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Gillian Elizabeth Aston",
+          "votes": 405,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Terry Bowers",
+          "votes": 384,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Tony James",
+          "votes": 375,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "John Joseph Ennett",
+          "votes": 374,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Marie McGuire",
+          "votes": 348,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "James Stanton",
+          "votes": 318,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Osvaldina Prezilius",
+          "votes": 313,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Keegan Philip Ronnie Hillier",
+          "votes": 302,
+          "elected": false
+        },
+        {
+          "party": "Kingston Independent Residents Group",
+          "name": "Rubina Cassell",
+          "votes": 161,
+          "elected": false
+        },
+        {
+          "party": "Kingston Independent Residents Group",
+          "name": "Hayley Smithers",
+          "votes": 147,
+          "elected": false
+        },
+        {
+          "party": "Kingston Independent Residents Group",
+          "name": "Jabeen Shah",
+          "votes": 115,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Liberal Democrat": 40.19,
+        "Green": 19.1,
+        "Labour": 11.73,
+        "Conservative": 12.57,
+        "Reform UK": 11.74,
+        "Kingston Independent Residents Group": 4.68
+      },
+      "party_seats_won": {
+        "Liberal Democrat": 3
+      },
+      "winning_party": "Liberal Democrat",
+      "total_votes": 9047,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-11T02:40:55Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05013938",
+        "qual_l4_pct": 54.57,
+        "no_qual_pct": 8.16,
+        "muslim_pct": 6.77,
+        "no_religion_pct": 42.89,
+        "age_under_35_pct": 53.68,
+        "age_65_plus_pct": 11.04,
+        "social_rented_pct": 28.79,
+        "white_british_pct": 51.54
+      }
+    },
+    {
+      "ward_slug": "motspur-park-old-malden-east",
+      "ward_name": "Motspur Park & Old Malden East",
+      "ballot_id": "local.kingston-upon-thames.motspur-park-old-malden-east.2026-05-07",
+      "winner_count": 2,
+      "elected": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Callum Sol Morrissey",
+          "votes": 1182
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Wimal Wimalathasan",
+          "votes": 1005
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Callum Sol Morrissey",
+          "votes": 1182,
+          "elected": true
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Wimal Wimalathasan",
+          "votes": 1005,
+          "elected": true
+        },
+        {
+          "party": "Conservative",
+          "name": "Terry Paton",
+          "votes": 718,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Rob Smith",
+          "votes": 656,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Diane Ferguson-Smith",
+          "votes": 443,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Riona Mary Seana Woodman",
+          "votes": 399,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Bea Osbourne",
+          "votes": 370,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Alastair Breen",
+          "votes": 151,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Sean Paul Casey",
+          "votes": 144,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Liberal Democrat": 43.15,
+        "Conservative": 27.11,
+        "Reform UK": 16.61,
+        "Green": 7.3,
+        "Labour": 5.82
+      },
+      "party_seats_won": {
+        "Liberal Democrat": 2
+      },
+      "winning_party": "Liberal Democrat",
+      "total_votes": 5068,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-11T02:41:08Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05013939",
+        "qual_l4_pct": 46.79,
+        "no_qual_pct": 13.7,
+        "muslim_pct": 11.26,
+        "no_religion_pct": 24.65,
+        "age_under_35_pct": 37.42,
+        "age_65_plus_pct": 22.9,
+        "social_rented_pct": 6.57,
+        "white_british_pct": 48.86
+      }
+    },
+    {
+      "ward_slug": "new-malden-village",
+      "ward_name": "New Malden Village",
+      "ballot_id": "local.kingston-upon-thames.new-malden-village.2026-05-07",
+      "winner_count": 3,
+      "elected": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Mark James Durrant",
+          "votes": 1524
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Lesley Anne Heap",
+          "votes": 1327
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Dongsung Kim",
+          "votes": 1320
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Mark James Durrant",
+          "votes": 1524,
+          "elected": true
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Lesley Anne Heap",
+          "votes": 1327,
+          "elected": true
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Dongsung Kim",
+          "votes": 1320,
+          "elected": true
+        },
+        {
+          "party": "Kingston Independent Residents Group",
+          "name": "Richard Hebborn",
+          "votes": 1043,
+          "elected": false
+        },
+        {
+          "party": "Kingston Independent Residents Group",
+          "name": "Deepa Veneik",
+          "votes": 899,
+          "elected": false
+        },
+        {
+          "party": "Kingston Independent Residents Group",
+          "name": "Raju Pandya",
+          "votes": 851,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Lucy Howard",
+          "votes": 531,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Caroline Bowis",
+          "votes": 371,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "John Crocket Bowis",
+          "votes": 336,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Jem Kale",
+          "votes": 329,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Joel Monroe",
+          "votes": 314,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "David Michael Bent",
+          "votes": 306,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Valerie McIntyre",
+          "votes": 278,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Tess Bowyer",
+          "votes": 261,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "James David Winn Stileman",
+          "votes": 254,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Michelle Honor Gordon",
+          "votes": 232,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Gary Alan See",
+          "votes": 201,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Liberal Democrat": 40.19,
+        "Kingston Independent Residents Group": 26.92,
+        "Green": 11.31,
+        "Conservative": 9.49,
+        "Reform UK": 5.4,
+        "Labour": 6.69
+      },
+      "party_seats_won": {
+        "Liberal Democrat": 3
+      },
+      "winning_party": "Liberal Democrat",
+      "total_votes": 10377,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-11T02:41:15Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05013940",
+        "qual_l4_pct": 54.4,
+        "no_qual_pct": 12.67,
+        "muslim_pct": 8.18,
+        "no_religion_pct": 31.4,
+        "age_under_35_pct": 40.38,
+        "age_65_plus_pct": 16.84,
+        "social_rented_pct": 16.98,
+        "white_british_pct": 45.18
+      }
+    },
+    {
+      "ward_slug": "norbiton",
+      "ward_name": "Norbiton",
+      "ballot_id": "local.kingston-upon-thames.norbiton.2026-05-07",
+      "winner_count": 3,
+      "elected": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Emily Davey",
+          "votes": 1416
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Olly Wehring",
+          "votes": 1297
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Sam Foulder-Hughes",
+          "votes": 1124
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Emily Davey",
+          "votes": 1416,
+          "elected": true
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Olly Wehring",
+          "votes": 1297,
+          "elected": true
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Sam Foulder-Hughes",
+          "votes": 1124,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Tony Banks",
+          "votes": 537,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Martin Andrew Hall",
+          "votes": 524,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Fahima Mahomed",
+          "votes": 497,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Dylan Stewart",
+          "votes": 438,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Liz Meerabeau",
+          "votes": 410,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Tom Wingfield",
+          "votes": 391,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Christopher Llewellyn Last",
+          "votes": 359,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Andrew Parker",
+          "votes": 358,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Jo Melbourne",
+          "votes": 352,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Kevin John Davis",
+          "votes": 275,
+          "elected": false
+        },
+        {
+          "party": "Kingston Independent Residents Group",
+          "name": "Soha Sultana",
+          "votes": 264,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Sandira Beekoo",
+          "votes": 229,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "John Barnabas Rutter",
+          "votes": 222,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Liberal Democrat": 44.14,
+        "Labour": 15.39,
+        "Green": 16.78,
+        "Reform UK": 12.3,
+        "Conservative": 8.35,
+        "Kingston Independent Residents Group": 3.04
+      },
+      "party_seats_won": {
+        "Liberal Democrat": 3
+      },
+      "winning_party": "Liberal Democrat",
+      "total_votes": 8693,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-11T02:41:16Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05013941",
+        "qual_l4_pct": 46.1,
+        "no_qual_pct": 15.9,
+        "muslim_pct": 11.74,
+        "no_religion_pct": 34.78,
+        "age_under_35_pct": 51.1,
+        "age_65_plus_pct": 10.79,
+        "social_rented_pct": 54.61,
+        "white_british_pct": 45.68
+      }
+    },
+    {
+      "ward_slug": "old-malden",
+      "ward_name": "Old Malden",
+      "ballot_id": "local.kingston-upon-thames.old-malden.2026-05-07",
+      "winner_count": 2,
+      "elected": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Mike Pascal Massimi",
+          "votes": 1311
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Elizabeth Park",
+          "votes": 1228
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Mike Pascal Massimi",
+          "votes": 1311,
+          "elected": true
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Elizabeth Park",
+          "votes": 1228,
+          "elected": true
+        },
+        {
+          "party": "Conservative",
+          "name": "John Baek",
+          "votes": 467,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Harry George Foskin",
+          "votes": 450,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Nicholas Richard David Badham",
+          "votes": 394,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Ismail Birant",
+          "votes": 284,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "David Charlton",
+          "votes": 249,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Harrie Vischjager",
+          "votes": 194,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Graeme Hodge",
+          "votes": 147,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Rahul Taran Khandelwal",
+          "votes": 138,
+          "elected": false
+        },
+        {
+          "party": "Kingston Independent Residents Group",
+          "name": "Clair Hebborn",
+          "votes": 91,
+          "elected": false
+        },
+        {
+          "party": "Kingston Independent Residents Group",
+          "name": "Chris Walton",
+          "votes": 63,
+          "elected": false
+        },
+        {
+          "party": "Heritage Party",
+          "name": "Michael Gerard Watson",
+          "votes": 30,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Liberal Democrat": 50.32,
+        "Conservative": 18.17,
+        "Reform UK": 13.44,
+        "Green": 8.78,
+        "Labour": 5.65,
+        "Kingston Independent Residents Group": 3.05,
+        "Heritage Party": 0.59
+      },
+      "party_seats_won": {
+        "Liberal Democrat": 2
+      },
+      "winning_party": "Liberal Democrat",
+      "total_votes": 5046,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-11T02:41:18Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05013942",
+        "qual_l4_pct": 44.3,
+        "no_qual_pct": 13.79,
+        "muslim_pct": 12.98,
+        "no_religion_pct": 23.83,
+        "age_under_35_pct": 38.81,
+        "age_65_plus_pct": 22.32,
+        "social_rented_pct": 23.06,
+        "white_british_pct": 49.31
+      }
+    },
+    {
+      "ward_slug": "st-marks-seething-wells",
+      "ward_name": "St Mark's & Seething Wells",
+      "ballot_id": "local.kingston-upon-thames.st-marks-seething-wells.2026-05-07",
+      "winner_count": 3,
+      "elected": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Helen Milestone",
+          "votes": 2146
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Robert Sadler",
+          "votes": 1943
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Yogan Yoganathan",
+          "votes": 1892
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Helen Milestone",
+          "votes": 2146,
+          "elected": true
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Robert Sadler",
+          "votes": 1943,
+          "elected": true
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Yogan Yoganathan",
+          "votes": 1892,
+          "elected": true
+        },
+        {
+          "party": "Green",
+          "name": "Archie Coyne",
+          "votes": 1103,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Ayse Demir",
+          "votes": 1065,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Abbas Aref",
+          "votes": 1062,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Tim Brown",
+          "votes": 513,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Carole Robinson",
+          "votes": 470,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Caroline Ford",
+          "votes": 468,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Nick Frei",
+          "votes": 418,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Ian Wilson",
+          "votes": 402,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Marcus Reno Mohammed",
+          "votes": 344,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Emma Keeley Francis",
+          "votes": 260,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Joseph Al-Khalili",
+          "votes": 198,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Brian John Matthews",
+          "votes": 172,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Liberal Democrat": 48.02,
+        "Green": 25.93,
+        "Conservative": 11.12,
+        "Reform UK": 9.87,
+        "Labour": 5.06
+      },
+      "party_seats_won": {
+        "Liberal Democrat": 3
+      },
+      "winning_party": "Liberal Democrat",
+      "total_votes": 12456,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-11T02:41:20Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05013943",
+        "qual_l4_pct": 62.11,
+        "no_qual_pct": 6.88,
+        "muslim_pct": 4.84,
+        "no_religion_pct": 43.31,
+        "age_under_35_pct": 48.38,
+        "age_65_plus_pct": 11.92,
+        "social_rented_pct": 12.92,
+        "white_british_pct": 57.41
+      }
+    },
+    {
+      "ward_slug": "surbiton-hill",
+      "ward_name": "Surbiton Hill",
+      "ballot_id": "local.kingston-upon-thames.surbiton-hill.2026-05-07",
+      "winner_count": 3,
+      "elected": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Alison Hamilton Holt",
+          "votes": 1948
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Tom Reeve",
+          "votes": 1833
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Manish Shukla",
+          "votes": 1619
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Alison Hamilton Holt",
+          "votes": 1948,
+          "elected": true
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Tom Reeve",
+          "votes": 1833,
+          "elected": true
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Manish Shukla",
+          "votes": 1619,
+          "elected": true
+        },
+        {
+          "party": "Green",
+          "name": "Emma Loffler",
+          "votes": 599,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Nannette Herbert",
+          "votes": 578,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Conor James McGovern-Paul",
+          "votes": 459,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Kristine Marie Boudreau",
+          "votes": 458,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Jackie Alex",
+          "votes": 428,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Alasdair Bruce Rennie",
+          "votes": 426,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Noel Edward Alex",
+          "votes": 418,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Colin Suckling",
+          "votes": 407,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Peter William Harris",
+          "votes": 399,
+          "elected": false
+        },
+        {
+          "party": "Kingston Independent Residents Group",
+          "name": "Glen Colegate",
+          "votes": 223,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Maxwell Oliver Freedman",
+          "votes": 204,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Rebecca Claire Way",
+          "votes": 189,
+          "elected": false
+        },
+        {
+          "party": "Kingston Independent Residents Group",
+          "name": "Andrea Chambers",
+          "votes": 175,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Kris Saravanan",
+          "votes": 171,
+          "elected": false
+        },
+        {
+          "party": "Kingston Independent Residents Group",
+          "name": "Easha-tir-Raazi Khawaja",
+          "votes": 113,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Liberal Democrat": 50.72,
+        "Green": 15.37,
+        "Conservative": 12.13,
+        "Reform UK": 11.69,
+        "Kingston Independent Residents Group": 4.8,
+        "Labour": 5.3
+      },
+      "party_seats_won": {
+        "Liberal Democrat": 3
+      },
+      "winning_party": "Liberal Democrat",
+      "total_votes": 10647,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-11T02:41:21Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05013944",
+        "qual_l4_pct": 57.11,
+        "no_qual_pct": 11.37,
+        "muslim_pct": 5.52,
+        "no_religion_pct": 39.34,
+        "age_under_35_pct": 43.4,
+        "age_65_plus_pct": 17.64,
+        "social_rented_pct": 29.77,
+        "white_british_pct": 57.87
+      }
+    },
+    {
+      "ward_slug": "tolworth",
+      "ward_name": "Tolworth",
+      "ballot_id": "local.kingston-upon-thames.tolworth.2026-05-07",
+      "winner_count": 3,
+      "elected": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Jane Lim",
+          "votes": 1861
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Thay Thayalan",
+          "votes": 1838
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Andrew John Wooldridge",
+          "votes": 1754
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Jane Lim",
+          "votes": 1861,
+          "elected": true
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Thay Thayalan",
+          "votes": 1838,
+          "elected": true
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Andrew John Wooldridge",
+          "votes": 1754,
+          "elected": true
+        },
+        {
+          "party": "Green",
+          "name": "Claire Louise Burlingsby",
+          "votes": 563,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "David John Butcher",
+          "votes": 509,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Luma Al-Azzawi",
+          "votes": 474,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Graham Alan Seager",
+          "votes": 458,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Silva Kaludura",
+          "votes": 444,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Owen Oastler",
+          "votes": 442,
+          "elected": false
+        },
+        {
+          "party": "Kingston Independent Residents Group",
+          "name": "Jessica Dearlove",
+          "votes": 428,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Emma Louise Mary Perham",
+          "votes": 321,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Martin Pike",
+          "votes": 287,
+          "elected": false
+        },
+        {
+          "party": "Kingston Independent Residents Group",
+          "name": "Mark David Thomas",
+          "votes": 269,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Grace Victoria Bowers",
+          "votes": 265,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Andrew Willson",
+          "votes": 265,
+          "elected": false
+        },
+        {
+          "party": "Kingston Independent Residents Group",
+          "name": "Michael Winston Firth",
+          "votes": 249,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Martin Christopher Ellis",
+          "votes": 199,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Gill Gray",
+          "votes": 187,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Liberal Democrat": 50.43,
+        "Green": 13.68,
+        "Reform UK": 13.05,
+        "Kingston Independent Residents Group": 8.75,
+        "Conservative": 8.07,
+        "Labour": 6.02
+      },
+      "party_seats_won": {
+        "Liberal Democrat": 3
+      },
+      "winning_party": "Liberal Democrat",
+      "total_votes": 10813,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-11T02:41:23Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05013945",
+        "qual_l4_pct": 47.3,
+        "no_qual_pct": 14.13,
+        "muslim_pct": 8.51,
+        "no_religion_pct": 33.87,
+        "age_under_35_pct": 43.5,
+        "age_65_plus_pct": 13.9,
+        "social_rented_pct": 22.46,
+        "white_british_pct": 53.83
+      }
+    },
+    {
+      "ward_slug": "tudor",
+      "ward_name": "Tudor",
+      "ballot_id": "local.kingston-upon-thames.tudor.2026-05-07",
+      "winner_count": 2,
+      "elected": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Blaise Kemp Murphet",
+          "votes": 1355
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Sachin Tulyani",
+          "votes": 1270
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Blaise Kemp Murphet",
+          "votes": 1355,
+          "elected": true
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Sachin Tulyani",
+          "votes": 1270,
+          "elected": true
+        },
+        {
+          "party": "Conservative",
+          "name": "Julian Stewart Harvey Bedale",
+          "votes": 642,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Jamila Bibi-Sarwar",
+          "votes": 491,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Alison Jane Gomez-Russell",
+          "votes": 433,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Lydia Poole",
+          "votes": 386,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Bernardo Barreto-Kuhlbrodt",
+          "votes": 319,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Jithwin Lalam Venkata",
+          "votes": 266,
+          "elected": false
+        },
+        {
+          "party": "Kingston Independent Residents Group",
+          "name": "Maureen Wilkins",
+          "votes": 137,
+          "elected": false
+        },
+        {
+          "party": "Kingston Independent Residents Group",
+          "name": "Syreeta Howard-James",
+          "votes": 134,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Andrew Michael Middleton",
+          "votes": 101,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Stephen James Pike",
+          "votes": 82,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Liberal Democrat": 46.74,
+        "Conservative": 20.17,
+        "Green": 14.58,
+        "Reform UK": 10.42,
+        "Kingston Independent Residents Group": 4.83,
+        "Labour": 3.26
+      },
+      "party_seats_won": {
+        "Liberal Democrat": 2
+      },
+      "winning_party": "Liberal Democrat",
+      "total_votes": 5616,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-11T02:41:25Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05013946",
+        "qual_l4_pct": 58.19,
+        "no_qual_pct": 8.86,
+        "muslim_pct": 5.04,
+        "no_religion_pct": 36.58,
+        "age_under_35_pct": 38.27,
+        "age_65_plus_pct": 18.26,
+        "social_rented_pct": 14.31,
+        "white_british_pct": 54.88
+      }
+    }
+  ],
+  "n_wards_attempted": 19,
+  "n_wards_with_results": 19,
+  "n_wards_no_results": 0
+}

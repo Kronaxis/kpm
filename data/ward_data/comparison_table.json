@@ -1,0 +1,2912 @@
+{
+  "schema_version": "kronaxis-v17-comparison-v1",
+  "generated_at": "2026-05-10T23:10:33Z",
+  "note": "Comprehensive comparison table for all v17.x methodologies vs v15.1 vs always-incumbent. NOT yet merged into canonical scorecard. Read alongside data/ward_data/v17_scorecard_pending.json.",
+  "summary": {
+    "methodology_hashes": {
+      "KPM-v17.0": "e38adc8efdd564f8bbd36fd0c78f111f835e86a41b7ceb8225aa8158d289b71f",
+      "KPM-v17.1": "6da92625051696defe71b8ea720109ab1689a68f86aa08cbb9b22a1ca70efc06",
+      "KPM-v17.2": "67d25b3414272b4a51ce329c0d02f040113c1ac50e59cca41f4ec58013a8860b",
+      "KPM-v17.3": "467c29426306194d9f9ec0226f15e5a3c444d4b85637ec6e4370d69e635e88ba",
+      "KPM-v17.6": "141c405a9c9861e09cd067fd20d5204edc4862b5741b5ca74341ed042e8822c1"
+    },
+    "sample_n_wards": 322,
+    "sample_n_councils": 15,
+    "per_ward": {
+      "v17_0_pct": 44.4,
+      "v17_3_pct": 46.9,
+      "always_incumbent_pct": 43.5
+    },
+    "per_council": {
+      "v15_1_pct": 60.0,
+      "v17_3_pct": 80.0,
+      "v17_6_pct": 93.3
+    },
+    "reform_recall_v17_3": 8.0,
+    "green_recall_v17_3": 30.0
+  },
+  "councils": [
+    {
+      "council": "Barnsley",
+      "slug": "barnsley",
+      "actual": "Reform UK",
+      "v15_1": "No overall control",
+      "v17_0": "Labour",
+      "v17_1": "Labour",
+      "v17_3": "Labour",
+      "v17_3_largest_pct": 68.8,
+      "v17_6": "Reform UK",
+      "v17_6_emerging": true
+    },
+    {
+      "council": "Birmingham",
+      "slug": "birmingham",
+      "actual": "No overall control",
+      "v15_1": "No overall control",
+      "v17_0": "Labour",
+      "v17_1": "No overall control",
+      "v17_3": "No overall control",
+      "v17_3_largest_pct": 57.0,
+      "v17_6": "No overall control",
+      "v17_6_emerging": false
+    },
+    {
+      "council": "Bolton",
+      "slug": "bolton",
+      "actual": "No overall control",
+      "v15_1": "Labour",
+      "v17_0": "No overall control",
+      "v17_1": "No overall control",
+      "v17_3": "No overall control",
+      "v17_3_largest_pct": 44.4,
+      "v17_6": "No overall control",
+      "v17_6_emerging": false
+    },
+    {
+      "council": "Bradford",
+      "slug": "bradford",
+      "actual": "No overall control",
+      "v15_1": "Labour",
+      "v17_0": "No overall control",
+      "v17_1": "No overall control",
+      "v17_3": "No overall control",
+      "v17_3_largest_pct": 42.9,
+      "v17_6": "No overall control",
+      "v17_6_emerging": false
+    },
+    {
+      "council": "Cheltenham",
+      "slug": "cheltenham",
+      "actual": "Liberal Democrat",
+      "v15_1": "Liberal Democrat",
+      "v17_0": "Liberal Democrat",
+      "v17_1": "Liberal Democrat",
+      "v17_3": "Liberal Democrat",
+      "v17_3_largest_pct": 89.5,
+      "v17_6": "Liberal Democrat",
+      "v17_6_emerging": false
+    },
+    {
+      "council": "Eastleigh",
+      "slug": "eastleigh",
+      "actual": "Liberal Democrat",
+      "v15_1": "Liberal Democrat",
+      "v17_0": "Liberal Democrat",
+      "v17_1": "Liberal Democrat",
+      "v17_3": "Liberal Democrat",
+      "v17_3_largest_pct": 84.6,
+      "v17_6": "Liberal Democrat",
+      "v17_6_emerging": false
+    },
+    {
+      "council": "Hartlepool",
+      "slug": "hartlepool",
+      "actual": "No overall control",
+      "v15_1": "No overall control",
+      "v17_0": "Labour",
+      "v17_1": "Labour",
+      "v17_3": "No overall control",
+      "v17_3_largest_pct": 45.5,
+      "v17_6": "No overall control",
+      "v17_6_emerging": true
+    },
+    {
+      "council": "Leeds",
+      "slug": "leeds",
+      "actual": "No overall control",
+      "v15_1": "No overall control",
+      "v17_0": "Labour",
+      "v17_1": "No overall control",
+      "v17_3": "No overall control",
+      "v17_3_largest_pct": 52.8,
+      "v17_6": "No overall control",
+      "v17_6_emerging": false
+    },
+    {
+      "council": "Manchester",
+      "slug": "manchester",
+      "actual": "Labour",
+      "v15_1": "Labour",
+      "v17_0": "Labour",
+      "v17_1": "Labour",
+      "v17_3": "Labour",
+      "v17_3_largest_pct": 87.1,
+      "v17_6": "Labour",
+      "v17_6_emerging": false
+    },
+    {
+      "council": "Newcastle upon Tyne",
+      "slug": "newcastle-upon-tyne",
+      "actual": "No overall control",
+      "v15_1": "Labour",
+      "v17_0": "No overall control",
+      "v17_1": "No overall control",
+      "v17_3": "No overall control",
+      "v17_3_largest_pct": 43.8,
+      "v17_6": "No overall control",
+      "v17_6_emerging": false
+    },
+    {
+      "council": "Rochdale",
+      "slug": "rochdale",
+      "actual": "Labour",
+      "v15_1": "Labour",
+      "v17_0": "Labour",
+      "v17_1": "Labour",
+      "v17_3": "Labour",
+      "v17_3_largest_pct": 73.7,
+      "v17_6": "Labour",
+      "v17_6_emerging": false
+    },
+    {
+      "council": "Salford",
+      "slug": "salford",
+      "actual": "Labour",
+      "v15_1": "Labour",
+      "v17_0": "Labour",
+      "v17_1": "Labour",
+      "v17_3": "Labour",
+      "v17_3_largest_pct": 88.9,
+      "v17_6": "Labour",
+      "v17_6_emerging": false
+    },
+    {
+      "council": "Sandwell",
+      "slug": "sandwell",
+      "actual": "Reform UK",
+      "v15_1": "Labour",
+      "v17_0": "Labour",
+      "v17_1": "Labour",
+      "v17_3": "Labour",
+      "v17_3_largest_pct": 76.9,
+      "v17_6": "Reform UK",
+      "v17_6_emerging": true
+    },
+    {
+      "council": "Sheffield",
+      "slug": "sheffield",
+      "actual": "No overall control",
+      "v15_1": "No overall control",
+      "v17_0": "No overall control",
+      "v17_1": "No overall control",
+      "v17_3": "No overall control",
+      "v17_3_largest_pct": 42.9,
+      "v17_6": "No overall control",
+      "v17_6_emerging": false
+    },
+    {
+      "council": "Wolverhampton",
+      "slug": "wolverhampton",
+      "actual": "No overall control",
+      "v15_1": "Labour",
+      "v17_0": "Labour",
+      "v17_1": "Labour",
+      "v17_3": "Labour",
+      "v17_3_largest_pct": 84.2,
+      "v17_6": "Labour",
+      "v17_6_emerging": false
+    }
+  ],
+  "wards": [
+    {
+      "council": "Barnsley",
+      "ward": "Central",
+      "actual": "Labour",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Barnsley",
+      "ward": "Cudworth",
+      "actual": "Labour",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Barnsley",
+      "ward": "Darton West",
+      "actual": "Reform UK",
+      "v17_0": "Labour",
+      "v17_3": "Reform UK",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Barnsley",
+      "ward": "Dearne North",
+      "actual": "Reform UK",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Barnsley",
+      "ward": "Dearne South",
+      "actual": "Reform UK",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Barnsley",
+      "ward": "Hoyland Milton",
+      "actual": "Reform UK",
+      "v17_0": "Reform UK",
+      "v17_3": "Reform UK",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Barnsley",
+      "ward": "Kingstone",
+      "actual": "Liberal Democrat",
+      "v17_0": "Barnsley Independent Group",
+      "v17_3": "Barnsley Independent Group",
+      "incumbent": "Labour",
+      "prior_year": 2022
+    },
+    {
+      "council": "Barnsley",
+      "ward": "Monk Bretton",
+      "actual": "Reform UK",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Barnsley",
+      "ward": "North East",
+      "actual": "Reform UK",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Barnsley",
+      "ward": "Old Town",
+      "actual": "Labour",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Barnsley",
+      "ward": "Penistone East",
+      "actual": "Labour",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Barnsley",
+      "ward": "Penistone West",
+      "actual": "Liberal Democrat",
+      "v17_0": "Liberal Democrat",
+      "v17_3": "Liberal Democrat",
+      "incumbent": "Liberal Democrat",
+      "prior_year": 2024
+    },
+    {
+      "council": "Barnsley",
+      "ward": "Rockingham",
+      "actual": "Reform UK",
+      "v17_0": "Independent",
+      "v17_3": "Reform UK",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Barnsley",
+      "ward": "Royston",
+      "actual": "Reform UK",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Barnsley",
+      "ward": "Stairfoot",
+      "actual": "Reform UK",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2023
+    },
+    {
+      "council": "Barnsley",
+      "ward": "Wombwell",
+      "actual": "Reform UK",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Birmingham",
+      "ward": "Acocks Green",
+      "actual": "Liberal Democrat",
+      "v17_0": "Liberal Democrat",
+      "v17_3": "Liberal Democrat",
+      "incumbent": "Liberal Democrat",
+      "prior_year": 2022
+    },
+    {
+      "council": "Birmingham",
+      "ward": "Allens Cross",
+      "actual": "Reform UK",
+      "v17_0": "Conservative",
+      "v17_3": "Conservative",
+      "incumbent": "Labour",
+      "prior_year": 2022
+    },
+    {
+      "council": "Birmingham",
+      "ward": "Alum Rock",
+      "actual": "Independent",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2022
+    },
+    {
+      "council": "Birmingham",
+      "ward": "Aston",
+      "actual": "Independent",
+      "v17_0": "Liberal Democrat",
+      "v17_3": "Liberal Democrat",
+      "incumbent": "Liberal Democrat",
+      "prior_year": 2022
+    },
+    {
+      "council": "Birmingham",
+      "ward": "Balsall Heath West",
+      "actual": "Green",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2022
+    },
+    {
+      "council": "Birmingham",
+      "ward": "Bartley Green",
+      "actual": "Reform UK",
+      "v17_0": "Conservative",
+      "v17_3": "Conservative",
+      "incumbent": "Conservative",
+      "prior_year": 2022
+    },
+    {
+      "council": "Birmingham",
+      "ward": "Billesley",
+      "actual": "Green",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2022
+    },
+    {
+      "council": "Birmingham",
+      "ward": "Birchfield",
+      "actual": "Labour",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2022
+    },
+    {
+      "council": "Birmingham",
+      "ward": "Bordesley Green",
+      "actual": "Independent",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2022
+    },
+    {
+      "council": "Birmingham",
+      "ward": "Bordesley & Highgate",
+      "actual": "Green",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2022
+    },
+    {
+      "council": "Birmingham",
+      "ward": "Bournbrook & Selly Park",
+      "actual": "Green",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2022
+    },
+    {
+      "council": "Birmingham",
+      "ward": "Brandwood & King's Heath",
+      "actual": "Green",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2022
+    },
+    {
+      "council": "Birmingham",
+      "ward": "Bromford & Hodge Hill",
+      "actual": "Labour",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2022
+    },
+    {
+      "council": "Birmingham",
+      "ward": "Castle Vale",
+      "actual": "Labour",
+      "v17_0": "Green",
+      "v17_3": "Green",
+      "incumbent": "Labour",
+      "prior_year": 2022
+    },
+    {
+      "council": "Birmingham",
+      "ward": "Druids Heath & Monyhull",
+      "actual": "Green",
+      "v17_0": "Green",
+      "v17_3": "Green",
+      "incumbent": "Green",
+      "prior_year": 2022
+    },
+    {
+      "council": "Birmingham",
+      "ward": "Edgbaston",
+      "actual": "Conservative",
+      "v17_0": "Conservative",
+      "v17_3": "Conservative",
+      "incumbent": "Conservative",
+      "prior_year": 2022
+    },
+    {
+      "council": "Birmingham",
+      "ward": "Erdington",
+      "actual": "Conservative",
+      "v17_0": "Conservative",
+      "v17_3": "Conservative",
+      "incumbent": "Conservative",
+      "prior_year": 2022
+    },
+    {
+      "council": "Birmingham",
+      "ward": "Frankley Great Park",
+      "actual": "Reform UK",
+      "v17_0": "Conservative",
+      "v17_3": "Conservative",
+      "incumbent": "Conservative",
+      "prior_year": 2022
+    },
+    {
+      "council": "Birmingham",
+      "ward": "Garretts Green",
+      "actual": "Labour",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2022
+    },
+    {
+      "council": "Birmingham",
+      "ward": "Gravelly Hill",
+      "actual": "Labour",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2022
+    },
+    {
+      "council": "Birmingham",
+      "ward": "Hall Green North",
+      "actual": "Green",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2022
+    },
+    {
+      "council": "Birmingham",
+      "ward": "Hall Green South",
+      "actual": "Conservative",
+      "v17_0": "Conservative",
+      "v17_3": "Conservative",
+      "incumbent": "Conservative",
+      "prior_year": 2022
+    },
+    {
+      "council": "Birmingham",
+      "ward": "Handsworth",
+      "actual": "Green",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2022
+    },
+    {
+      "council": "Birmingham",
+      "ward": "Heartlands",
+      "actual": "Labour",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2022
+    },
+    {
+      "council": "Birmingham",
+      "ward": "Highter's Heath",
+      "actual": "Conservative",
+      "v17_0": "Conservative",
+      "v17_3": "Conservative",
+      "incumbent": "Conservative",
+      "prior_year": 2022
+    },
+    {
+      "council": "Birmingham",
+      "ward": "Holyhead",
+      "actual": "Independent",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2022
+    },
+    {
+      "council": "Birmingham",
+      "ward": "King's Norton North",
+      "actual": "Reform UK",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2022
+    },
+    {
+      "council": "Birmingham",
+      "ward": "King's Norton South",
+      "actual": "Green",
+      "v17_0": "Green",
+      "v17_3": "Green",
+      "incumbent": "Green",
+      "prior_year": 2022
+    },
+    {
+      "council": "Birmingham",
+      "ward": "Kingstanding",
+      "actual": "Reform UK",
+      "v17_0": "Conservative",
+      "v17_3": "Conservative",
+      "incumbent": "Labour",
+      "prior_year": 2022
+    },
+    {
+      "council": "Birmingham",
+      "ward": "Ladywood",
+      "actual": "Green",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2022
+    },
+    {
+      "council": "Birmingham",
+      "ward": "Longbridge & West Heath",
+      "actual": "Reform UK",
+      "v17_0": "Conservative",
+      "v17_3": "Conservative",
+      "incumbent": "Conservative",
+      "prior_year": 2022
+    },
+    {
+      "council": "Birmingham",
+      "ward": "Lozells",
+      "actual": "Independent",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2022
+    },
+    {
+      "council": "Birmingham",
+      "ward": "Moseley",
+      "actual": "Liberal Democrat",
+      "v17_0": "Liberal Democrat",
+      "v17_3": "Liberal Democrat",
+      "incumbent": "Liberal Democrat",
+      "prior_year": 2022
+    },
+    {
+      "council": "Birmingham",
+      "ward": "Newtown",
+      "actual": "Labour",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2022
+    },
+    {
+      "council": "Birmingham",
+      "ward": "North Edgbaston",
+      "actual": "Labour",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2022
+    },
+    {
+      "council": "Birmingham",
+      "ward": "Northfield",
+      "actual": "Reform UK",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2022
+    },
+    {
+      "council": "Birmingham",
+      "ward": "Oscott",
+      "actual": "Reform UK",
+      "v17_0": "Conservative",
+      "v17_3": "Conservative",
+      "incumbent": "Conservative",
+      "prior_year": 2022
+    },
+    {
+      "council": "Birmingham",
+      "ward": "Perry Barr",
+      "actual": "Liberal Democrat",
+      "v17_0": "Liberal Democrat",
+      "v17_3": "Liberal Democrat",
+      "incumbent": "Liberal Democrat",
+      "prior_year": 2022
+    },
+    {
+      "council": "Birmingham",
+      "ward": "Perry Common",
+      "actual": "Reform UK",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2022
+    },
+    {
+      "council": "Birmingham",
+      "ward": "Pype Hayes",
+      "actual": "Reform UK",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2022
+    },
+    {
+      "council": "Birmingham",
+      "ward": "Quinton",
+      "actual": "Reform UK",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2022
+    },
+    {
+      "council": "Birmingham",
+      "ward": "Shard End",
+      "actual": "Reform UK",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2022
+    },
+    {
+      "council": "Birmingham",
+      "ward": "Small Heath",
+      "actual": "Liberal Democrat",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2022
+    },
+    {
+      "council": "Birmingham",
+      "ward": "Soho & Jewellery Quarter",
+      "actual": "Labour",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2022
+    },
+    {
+      "council": "Birmingham",
+      "ward": "South Yardley",
+      "actual": "Liberal Democrat",
+      "v17_0": "Liberal Democrat",
+      "v17_3": "Liberal Democrat",
+      "incumbent": "Liberal Democrat",
+      "prior_year": 2022
+    },
+    {
+      "council": "Birmingham",
+      "ward": "Sparkbrook & Balsall Heath East",
+      "actual": "Independent",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2022
+    },
+    {
+      "council": "Birmingham",
+      "ward": "Sparkhill",
+      "actual": "Labour",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2022
+    },
+    {
+      "council": "Birmingham",
+      "ward": "Stockland Green",
+      "actual": "Independent",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2022
+    },
+    {
+      "council": "Birmingham",
+      "ward": "Sutton Four Oaks",
+      "actual": "Conservative",
+      "v17_0": "Conservative",
+      "v17_3": "Conservative",
+      "incumbent": "Conservative",
+      "prior_year": 2022
+    },
+    {
+      "council": "Birmingham",
+      "ward": "Sutton Reddicap",
+      "actual": "Conservative",
+      "v17_0": "Conservative",
+      "v17_3": "Conservative",
+      "incumbent": "Conservative",
+      "prior_year": 2022
+    },
+    {
+      "council": "Birmingham",
+      "ward": "Sutton Roughley",
+      "actual": "Conservative",
+      "v17_0": "Conservative",
+      "v17_3": "Conservative",
+      "incumbent": "Conservative",
+      "prior_year": 2022
+    },
+    {
+      "council": "Birmingham",
+      "ward": "Sutton Vesey",
+      "actual": "Conservative",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2022
+    },
+    {
+      "council": "Birmingham",
+      "ward": "Sutton Walmley & Minworth",
+      "actual": "Conservative",
+      "v17_0": "Conservative",
+      "v17_3": "Conservative",
+      "incumbent": "Conservative",
+      "prior_year": 2022
+    },
+    {
+      "council": "Birmingham",
+      "ward": "Sutton Wylde Green",
+      "actual": "Conservative",
+      "v17_0": "Conservative",
+      "v17_3": "Conservative",
+      "incumbent": "Conservative",
+      "prior_year": 2022
+    },
+    {
+      "council": "Birmingham",
+      "ward": "Tyseley & Hay Mills",
+      "actual": "Green",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2022
+    },
+    {
+      "council": "Birmingham",
+      "ward": "Ward End",
+      "actual": "Independent",
+      "v17_0": "Liberal Democrat",
+      "v17_3": "Liberal Democrat",
+      "incumbent": "Labour",
+      "prior_year": 2022
+    },
+    {
+      "council": "Birmingham",
+      "ward": "Weoley & Selly Oak",
+      "actual": "Reform UK",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2022
+    },
+    {
+      "council": "Birmingham",
+      "ward": "Yardley East",
+      "actual": "Liberal Democrat",
+      "v17_0": "Liberal Democrat",
+      "v17_3": "Liberal Democrat",
+      "incumbent": "Liberal Democrat",
+      "prior_year": 2022
+    },
+    {
+      "council": "Birmingham",
+      "ward": "Yardley West & Stechford",
+      "actual": "Liberal Democrat",
+      "v17_0": "Liberal Democrat",
+      "v17_3": "Liberal Democrat",
+      "incumbent": "Liberal Democrat",
+      "prior_year": 2022
+    },
+    {
+      "council": "Bolton",
+      "ward": "Astley Bridge",
+      "actual": "Reform UK",
+      "v17_0": "Conservative",
+      "v17_3": "Conservative",
+      "incumbent": "Conservative",
+      "prior_year": 2024
+    },
+    {
+      "council": "Bolton",
+      "ward": "Bradshaw",
+      "actual": "Conservative",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Bolton",
+      "ward": "Breightmet",
+      "actual": "Reform UK",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Bolton",
+      "ward": "Bromley Cross",
+      "actual": "Conservative",
+      "v17_0": "Conservative",
+      "v17_3": "Conservative",
+      "incumbent": "Conservative",
+      "prior_year": 2024
+    },
+    {
+      "council": "Bolton",
+      "ward": "Farnworth North",
+      "actual": "Labour",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Bolton",
+      "ward": "Farnworth South",
+      "actual": "Reform UK",
+      "v17_0": "Farnworth and Kearsley First Party",
+      "v17_3": "Farnworth and Kearsley First Party",
+      "incumbent": "Farnworth and Kearsley First Party",
+      "prior_year": 2024
+    },
+    {
+      "council": "Bolton",
+      "ward": "Great Lever",
+      "actual": "Labour",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Bolton",
+      "ward": "Halliwell",
+      "actual": "Green",
+      "v17_0": "Green",
+      "v17_3": "Green",
+      "incumbent": "Green",
+      "prior_year": 2024
+    },
+    {
+      "council": "Bolton",
+      "ward": "Horwich North",
+      "actual": "Horwich & Blackrod First Independents",
+      "v17_0": "Horwich & Blackrod First Independents",
+      "v17_3": "Horwich & Blackrod First Independents",
+      "incumbent": "Horwich & Blackrod First Independents",
+      "prior_year": 2023
+    },
+    {
+      "council": "Bolton",
+      "ward": "Horwich South & Blackrod",
+      "actual": "Horwich & Blackrod First Independents",
+      "v17_0": "Horwich & Blackrod First Independents",
+      "v17_3": "Horwich & Blackrod First Independents",
+      "incumbent": "Horwich & Blackrod First Independents",
+      "prior_year": 2024
+    },
+    {
+      "council": "Bolton",
+      "ward": "Hulton",
+      "actual": "Reform UK",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Bolton",
+      "ward": "Kearsley",
+      "actual": "Reform UK",
+      "v17_0": "Farnworth and Kearsley First Party",
+      "v17_3": "Farnworth and Kearsley First Party",
+      "incumbent": "Farnworth and Kearsley First Party",
+      "prior_year": 2024
+    },
+    {
+      "council": "Bolton",
+      "ward": "Little Lever & Darcy Lever",
+      "actual": "Reform UK",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Bolton",
+      "ward": "Queens Park & Central",
+      "actual": "Green",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Bolton",
+      "ward": "Rumworth",
+      "actual": "Green",
+      "v17_0": "Independent",
+      "v17_3": "Independent",
+      "incumbent": "Independent",
+      "prior_year": 2024
+    },
+    {
+      "council": "Bolton",
+      "ward": "Smithills",
+      "actual": "Liberal Democrat",
+      "v17_0": "Liberal Democrat",
+      "v17_3": "Liberal Democrat",
+      "incumbent": "Liberal Democrat",
+      "prior_year": 2024
+    },
+    {
+      "council": "Bolton",
+      "ward": "Tonge with the Haulgh",
+      "actual": "Reform UK",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Bolton",
+      "ward": "Westhoughton North & Hunger Hill",
+      "actual": "Reform UK",
+      "v17_0": "Liberal Democrat",
+      "v17_3": "Liberal Democrat",
+      "incumbent": "Liberal Democrat",
+      "prior_year": 2024
+    },
+    {
+      "council": "Bradford",
+      "ward": "Baildon",
+      "actual": "Conservative",
+      "v17_0": "Conservative",
+      "v17_3": "Conservative",
+      "incumbent": "Conservative",
+      "prior_year": 2024
+    },
+    {
+      "council": "Bradford",
+      "ward": "Bradford Moor",
+      "actual": "Labour",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2023
+    },
+    {
+      "council": "Bradford",
+      "ward": "City",
+      "actual": "Labour",
+      "v17_0": "Independent",
+      "v17_3": "Independent",
+      "incumbent": "Independent",
+      "prior_year": 2024
+    },
+    {
+      "council": "Bradford",
+      "ward": "Eccleshill",
+      "actual": "Reform UK",
+      "v17_0": "Liberal Democrat",
+      "v17_3": "Liberal Democrat",
+      "incumbent": "Liberal Democrat",
+      "prior_year": 2024
+    },
+    {
+      "council": "Bradford",
+      "ward": "Keighley Central",
+      "actual": "Independent",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Bradford",
+      "ward": "Keighley East",
+      "actual": "Labour",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Bradford",
+      "ward": "Keighley West",
+      "actual": "Reform UK",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Bradford",
+      "ward": "Little Horton",
+      "actual": "Your Bradford Independent group",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2023
+    },
+    {
+      "council": "Bradford",
+      "ward": "Manningham",
+      "actual": "Your Bradford Independent group",
+      "v17_0": "Independent",
+      "v17_3": "Independent",
+      "incumbent": "Independent",
+      "prior_year": 2024
+    },
+    {
+      "council": "Bradford",
+      "ward": "Queensbury",
+      "actual": "Reform UK",
+      "v17_0": "Independent",
+      "v17_3": "Independent",
+      "incumbent": "Independent",
+      "prior_year": 2024
+    },
+    {
+      "council": "Bradford",
+      "ward": "Shipley",
+      "actual": "Green",
+      "v17_0": "Green",
+      "v17_3": "Green",
+      "incumbent": "Green",
+      "prior_year": 2024
+    },
+    {
+      "council": "Bradford",
+      "ward": "Toller",
+      "actual": "Independent",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2022
+    },
+    {
+      "council": "Bradford",
+      "ward": "Wharfedale",
+      "actual": "Conservative",
+      "v17_0": "Conservative",
+      "v17_3": "Conservative",
+      "incumbent": "Conservative",
+      "prior_year": 2024
+    },
+    {
+      "council": "Bradford",
+      "ward": "Wyke",
+      "actual": "Reform UK",
+      "v17_0": "Labour",
+      "v17_3": "Reform UK",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Cheltenham",
+      "ward": "All Saints",
+      "actual": "Liberal Democrat",
+      "v17_0": "Liberal Democrat",
+      "v17_3": "Liberal Democrat",
+      "incumbent": "Liberal Democrat",
+      "prior_year": 2024
+    },
+    {
+      "council": "Cheltenham",
+      "ward": "Battledown",
+      "actual": "Liberal Democrat",
+      "v17_0": "Liberal Democrat",
+      "v17_3": "Liberal Democrat",
+      "incumbent": "Liberal Democrat",
+      "prior_year": 2024
+    },
+    {
+      "council": "Cheltenham",
+      "ward": "Benhall, the Reddings & Fiddler's Green",
+      "actual": "Liberal Democrat",
+      "v17_0": "Liberal Democrat",
+      "v17_3": "Liberal Democrat",
+      "incumbent": "Liberal Democrat",
+      "prior_year": 2024
+    },
+    {
+      "council": "Cheltenham",
+      "ward": "Charlton Kings",
+      "actual": "Liberal Democrat",
+      "v17_0": "Liberal Democrat",
+      "v17_3": "Liberal Democrat",
+      "incumbent": "Liberal Democrat",
+      "prior_year": 2024
+    },
+    {
+      "council": "Cheltenham",
+      "ward": "Charlton Park",
+      "actual": "Liberal Democrat",
+      "v17_0": "Liberal Democrat",
+      "v17_3": "Liberal Democrat",
+      "incumbent": "Liberal Democrat",
+      "prior_year": 2024
+    },
+    {
+      "council": "Cheltenham",
+      "ward": "College",
+      "actual": "Liberal Democrat",
+      "v17_0": "Liberal Democrat",
+      "v17_3": "Liberal Democrat",
+      "incumbent": "Liberal Democrat",
+      "prior_year": 2024
+    },
+    {
+      "council": "Cheltenham",
+      "ward": "Hesters Way",
+      "actual": "Reform UK",
+      "v17_0": "Liberal Democrat",
+      "v17_3": "Liberal Democrat",
+      "incumbent": "Liberal Democrat",
+      "prior_year": 2024
+    },
+    {
+      "council": "Cheltenham",
+      "ward": "Lansdown",
+      "actual": "Liberal Democrat",
+      "v17_0": "Liberal Democrat",
+      "v17_3": "Liberal Democrat",
+      "incumbent": "Liberal Democrat",
+      "prior_year": 2024
+    },
+    {
+      "council": "Cheltenham",
+      "ward": "Leckhampton",
+      "actual": "Liberal Democrat",
+      "v17_0": "Liberal Democrat",
+      "v17_3": "Liberal Democrat",
+      "incumbent": "Liberal Democrat",
+      "prior_year": 2024
+    },
+    {
+      "council": "Cheltenham",
+      "ward": "Oakley",
+      "actual": "Liberal Democrat",
+      "v17_0": "Liberal Democrat",
+      "v17_3": "Liberal Democrat",
+      "incumbent": "Liberal Democrat",
+      "prior_year": 2024
+    },
+    {
+      "council": "Cheltenham",
+      "ward": "Park",
+      "actual": "Liberal Democrat",
+      "v17_0": "Liberal Democrat",
+      "v17_3": "Liberal Democrat",
+      "incumbent": "Liberal Democrat",
+      "prior_year": 2024
+    },
+    {
+      "council": "Cheltenham",
+      "ward": "Pittville",
+      "actual": "Liberal Democrat",
+      "v17_0": "Liberal Democrat",
+      "v17_3": "Liberal Democrat",
+      "incumbent": "Liberal Democrat",
+      "prior_year": 2024
+    },
+    {
+      "council": "Cheltenham",
+      "ward": "Prestbury",
+      "actual": "Green",
+      "v17_0": "Green",
+      "v17_3": "Green",
+      "incumbent": "Green",
+      "prior_year": 2024
+    },
+    {
+      "council": "Cheltenham",
+      "ward": "Springbank",
+      "actual": "Liberal Democrat",
+      "v17_0": "Liberal Democrat",
+      "v17_3": "Liberal Democrat",
+      "incumbent": "Liberal Democrat",
+      "prior_year": 2024
+    },
+    {
+      "council": "Cheltenham",
+      "ward": "St Mark's",
+      "actual": "Liberal Democrat",
+      "v17_0": "Liberal Democrat",
+      "v17_3": "Liberal Democrat",
+      "incumbent": "Liberal Democrat",
+      "prior_year": 2024
+    },
+    {
+      "council": "Cheltenham",
+      "ward": "St Paul's",
+      "actual": "Green",
+      "v17_0": "Green",
+      "v17_3": "Green",
+      "incumbent": "Green",
+      "prior_year": 2024
+    },
+    {
+      "council": "Cheltenham",
+      "ward": "St Peter's",
+      "actual": "Liberal Democrat",
+      "v17_0": "Liberal Democrat",
+      "v17_3": "Liberal Democrat",
+      "incumbent": "Liberal Democrat",
+      "prior_year": 2024
+    },
+    {
+      "council": "Cheltenham",
+      "ward": "Up Hatherley",
+      "actual": "Liberal Democrat",
+      "v17_0": "Liberal Democrat",
+      "v17_3": "Liberal Democrat",
+      "incumbent": "Liberal Democrat",
+      "prior_year": 2024
+    },
+    {
+      "council": "Cheltenham",
+      "ward": "Warden Hill",
+      "actual": "Liberal Democrat",
+      "v17_0": "Liberal Democrat",
+      "v17_3": "Liberal Democrat",
+      "incumbent": "Liberal Democrat",
+      "prior_year": 2024
+    },
+    {
+      "council": "Eastleigh",
+      "ward": "Bishopstoke",
+      "actual": "Independent",
+      "v17_0": "Independent",
+      "v17_3": "Independent",
+      "incumbent": "Independent",
+      "prior_year": 2024
+    },
+    {
+      "council": "Eastleigh",
+      "ward": "Botley",
+      "actual": "Liberal Democrat",
+      "v17_0": "Liberal Democrat",
+      "v17_3": "Liberal Democrat",
+      "incumbent": "Liberal Democrat",
+      "prior_year": 2024
+    },
+    {
+      "council": "Eastleigh",
+      "ward": "Bursledon & Hound North",
+      "actual": "Liberal Democrat",
+      "v17_0": "Liberal Democrat",
+      "v17_3": "Liberal Democrat",
+      "incumbent": "Liberal Democrat",
+      "prior_year": 2024
+    },
+    {
+      "council": "Eastleigh",
+      "ward": "Chandler's Ford",
+      "actual": "Liberal Democrat",
+      "v17_0": "Liberal Democrat",
+      "v17_3": "Liberal Democrat",
+      "incumbent": "Liberal Democrat",
+      "prior_year": 2024
+    },
+    {
+      "council": "Eastleigh",
+      "ward": "Eastleigh Central",
+      "actual": "Liberal Democrat",
+      "v17_0": "Liberal Democrat",
+      "v17_3": "Liberal Democrat",
+      "incumbent": "Liberal Democrat",
+      "prior_year": 2024
+    },
+    {
+      "council": "Eastleigh",
+      "ward": "Eastleigh North",
+      "actual": "Liberal Democrat",
+      "v17_0": "Liberal Democrat",
+      "v17_3": "Liberal Democrat",
+      "incumbent": "Liberal Democrat",
+      "prior_year": 2024
+    },
+    {
+      "council": "Eastleigh",
+      "ward": "Eastleigh South",
+      "actual": "Liberal Democrat",
+      "v17_0": "Liberal Democrat",
+      "v17_3": "Liberal Democrat",
+      "incumbent": "Liberal Democrat",
+      "prior_year": 2024
+    },
+    {
+      "council": "Eastleigh",
+      "ward": "Fair Oak & Horton Heath",
+      "actual": "Liberal Democrat",
+      "v17_0": "Conservative",
+      "v17_3": "Conservative",
+      "incumbent": "Conservative",
+      "prior_year": 2024
+    },
+    {
+      "council": "Eastleigh",
+      "ward": "Hamble & Netley",
+      "actual": "Liberal Democrat",
+      "v17_0": "Liberal Democrat",
+      "v17_3": "Liberal Democrat",
+      "incumbent": "Liberal Democrat",
+      "prior_year": 2024
+    },
+    {
+      "council": "Eastleigh",
+      "ward": "Hiltingbury",
+      "actual": "Liberal Democrat",
+      "v17_0": "Liberal Democrat",
+      "v17_3": "Liberal Democrat",
+      "incumbent": "Liberal Democrat",
+      "prior_year": 2024
+    },
+    {
+      "council": "Eastleigh",
+      "ward": "West End North",
+      "actual": "Liberal Democrat",
+      "v17_0": "Liberal Democrat",
+      "v17_3": "Liberal Democrat",
+      "incumbent": "Liberal Democrat",
+      "prior_year": 2023
+    },
+    {
+      "council": "Eastleigh",
+      "ward": "West End South",
+      "actual": "Liberal Democrat",
+      "v17_0": "Liberal Democrat",
+      "v17_3": "Liberal Democrat",
+      "incumbent": "Liberal Democrat",
+      "prior_year": 2023
+    },
+    {
+      "council": "Hartlepool",
+      "ward": "Burn Valley",
+      "actual": "Reform UK",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Hartlepool",
+      "ward": "De Bruce",
+      "actual": "Reform UK",
+      "v17_0": "Labour",
+      "v17_3": "Reform UK",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Hartlepool",
+      "ward": "Fens & Greatham",
+      "actual": "Reform UK",
+      "v17_0": "Independent",
+      "v17_3": "Independent",
+      "incumbent": "Independent",
+      "prior_year": 2024
+    },
+    {
+      "council": "Hartlepool",
+      "ward": "Foggy Furze",
+      "actual": "Reform UK",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2023
+    },
+    {
+      "council": "Hartlepool",
+      "ward": "Hart",
+      "actual": "Reform UK",
+      "v17_0": "Labour",
+      "v17_3": "Reform UK",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Hartlepool",
+      "ward": "Headland & Harbour",
+      "actual": "Reform UK",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Hartlepool",
+      "ward": "Manor House",
+      "actual": "Reform UK",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Hartlepool",
+      "ward": "Rossmere",
+      "actual": "Reform UK",
+      "v17_0": "Labour",
+      "v17_3": "Reform UK",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Hartlepool",
+      "ward": "Rural West",
+      "actual": "Reform UK",
+      "v17_0": "Conservative",
+      "v17_3": "Conservative",
+      "incumbent": "Conservative",
+      "prior_year": 2024
+    },
+    {
+      "council": "Hartlepool",
+      "ward": "Seaton",
+      "actual": "Reform UK",
+      "v17_0": "Independent",
+      "v17_3": "Independent",
+      "incumbent": "Independent",
+      "prior_year": 2024
+    },
+    {
+      "council": "Hartlepool",
+      "ward": "Victoria",
+      "actual": "Reform UK",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Leeds",
+      "ward": "Adel & Wharfedale",
+      "actual": "Conservative",
+      "v17_0": "Conservative",
+      "v17_3": "Conservative",
+      "incumbent": "Conservative",
+      "prior_year": 2024
+    },
+    {
+      "council": "Leeds",
+      "ward": "Alwoodley",
+      "actual": "Conservative",
+      "v17_0": "Conservative",
+      "v17_3": "Conservative",
+      "incumbent": "Conservative",
+      "prior_year": 2024
+    },
+    {
+      "council": "Leeds",
+      "ward": "Ardsley & Robin Hood",
+      "actual": "Reform UK",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Leeds",
+      "ward": "Armley",
+      "actual": "Green",
+      "v17_0": "Green",
+      "v17_3": "Green",
+      "incumbent": "Green",
+      "prior_year": 2024
+    },
+    {
+      "council": "Leeds",
+      "ward": "Beeston & Holbeck",
+      "actual": "Green",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Leeds",
+      "ward": "Bramley & Stanningley",
+      "actual": "Labour",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Leeds",
+      "ward": "Burmantofts & Richmond Hill",
+      "actual": "Labour",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Leeds",
+      "ward": "Calverley & Farsley",
+      "actual": "Conservative",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Leeds",
+      "ward": "Chapel Allerton",
+      "actual": "Green",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Leeds",
+      "ward": "Cross Gates & Whinmoor",
+      "actual": "Reform UK",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Leeds",
+      "ward": "Farnley & Wortley",
+      "actual": "Reform UK",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Leeds",
+      "ward": "Garforth & Swillington",
+      "actual": "Garforth and Swillington Independents Party",
+      "v17_0": "Garforth and Swillington Independents Party",
+      "v17_3": "Garforth and Swillington Independents Party",
+      "incumbent": "Garforth and Swillington Independents Party",
+      "prior_year": 2024
+    },
+    {
+      "council": "Leeds",
+      "ward": "Gipton & Harehills",
+      "actual": "Labour",
+      "v17_0": "Green",
+      "v17_3": "Green",
+      "incumbent": "Green",
+      "prior_year": 2024
+    },
+    {
+      "council": "Leeds",
+      "ward": "Guiseley & Rawdon",
+      "actual": "Labour",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Leeds",
+      "ward": "Harewood",
+      "actual": "Conservative",
+      "v17_0": "Conservative",
+      "v17_3": "Conservative",
+      "incumbent": "Conservative",
+      "prior_year": 2024
+    },
+    {
+      "council": "Leeds",
+      "ward": "Headingley & Hyde Park",
+      "actual": "Green",
+      "v17_0": "Green",
+      "v17_3": "Green",
+      "incumbent": "Green",
+      "prior_year": 2024
+    },
+    {
+      "council": "Leeds",
+      "ward": "Horsforth",
+      "actual": "Labour",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Leeds",
+      "ward": "Hunslet & Riverside",
+      "actual": "Green",
+      "v17_0": "Green",
+      "v17_3": "Green",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Leeds",
+      "ward": "Killingbeck & Seacroft",
+      "actual": "Reform UK",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Leeds",
+      "ward": "Kippax & Methley",
+      "actual": "Labour",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Leeds",
+      "ward": "Kirkstall",
+      "actual": "Green",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Leeds",
+      "ward": "Little London & Woodhouse",
+      "actual": "Green",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Leeds",
+      "ward": "Middleton Park",
+      "actual": "Social Democratic Party",
+      "v17_0": "Social Democratic Party",
+      "v17_3": "Social Democratic Party",
+      "incumbent": "Social Democratic Party",
+      "prior_year": 2024
+    },
+    {
+      "council": "Leeds",
+      "ward": "Moortown",
+      "actual": "Labour",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Leeds",
+      "ward": "Morley North",
+      "actual": "Morley Borough Independents",
+      "v17_0": "Morley Borough Independents",
+      "v17_3": "Morley Borough Independents",
+      "incumbent": "Morley Borough Independents",
+      "prior_year": 2024
+    },
+    {
+      "council": "Leeds",
+      "ward": "Morley South",
+      "actual": "Reform UK",
+      "v17_0": "Morley Borough Independents",
+      "v17_3": "Morley Borough Independents",
+      "incumbent": "Morley Borough Independents",
+      "prior_year": 2024
+    },
+    {
+      "council": "Leeds",
+      "ward": "Otley & Yeadon",
+      "actual": "Liberal Democrat",
+      "v17_0": "Liberal Democrat",
+      "v17_3": "Liberal Democrat",
+      "incumbent": "Liberal Democrat",
+      "prior_year": 2024
+    },
+    {
+      "council": "Leeds",
+      "ward": "Pudsey",
+      "actual": "Conservative",
+      "v17_0": "Conservative",
+      "v17_3": "Conservative",
+      "incumbent": "Conservative",
+      "prior_year": 2024
+    },
+    {
+      "council": "Leeds",
+      "ward": "Rothwell",
+      "actual": "Liberal Democrat",
+      "v17_0": "Liberal Democrat",
+      "v17_3": "Liberal Democrat",
+      "incumbent": "Liberal Democrat",
+      "prior_year": 2024
+    },
+    {
+      "council": "Leeds",
+      "ward": "Roundhay",
+      "actual": "Labour",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Leeds",
+      "ward": "Temple Newsam",
+      "actual": "Reform UK",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Leeds",
+      "ward": "Weetwood",
+      "actual": "Labour",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Leeds",
+      "ward": "Wetherby",
+      "actual": "Conservative",
+      "v17_0": "Conservative",
+      "v17_3": "Conservative",
+      "incumbent": "Conservative",
+      "prior_year": 2024
+    },
+    {
+      "council": "Manchester",
+      "ward": "Ancoats & Beswick",
+      "actual": "Green",
+      "v17_0": "Liberal Democrat",
+      "v17_3": "Liberal Democrat",
+      "incumbent": "Liberal Democrat",
+      "prior_year": 2024
+    },
+    {
+      "council": "Manchester",
+      "ward": "Ardwick",
+      "actual": "Green",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Manchester",
+      "ward": "Baguley",
+      "actual": "Reform UK",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Manchester",
+      "ward": "Brooklands",
+      "actual": "Reform UK",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Manchester",
+      "ward": "Burnage",
+      "actual": "Green",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2023
+    },
+    {
+      "council": "Manchester",
+      "ward": "Charlestown",
+      "actual": "Reform UK",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Manchester",
+      "ward": "Cheetham",
+      "actual": "Labour",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Manchester",
+      "ward": "Chorlton",
+      "actual": "Green",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Manchester",
+      "ward": "Clayton & Openshaw",
+      "actual": "Labour",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Manchester",
+      "ward": "Crumpsall",
+      "actual": "Labour",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Manchester",
+      "ward": "Deansgate",
+      "actual": "Green",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Manchester",
+      "ward": "Didsbury East",
+      "actual": "Labour",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Manchester",
+      "ward": "Didsbury West",
+      "actual": "Liberal Democrat",
+      "v17_0": "Liberal Democrat",
+      "v17_3": "Liberal Democrat",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Manchester",
+      "ward": "Fallowfield",
+      "actual": "Green",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Manchester",
+      "ward": "Gorton & Abbey Hey",
+      "actual": "Green",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2023
+    },
+    {
+      "council": "Manchester",
+      "ward": "Harpurhey",
+      "actual": "Labour",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Manchester",
+      "ward": "Higher Blackley",
+      "actual": "Reform UK",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2023
+    },
+    {
+      "council": "Manchester",
+      "ward": "Hulme",
+      "actual": "Green",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Manchester",
+      "ward": "Levenshulme",
+      "actual": "Green",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Manchester",
+      "ward": "Longsight",
+      "actual": "Green",
+      "v17_0": "Workers Party of Britain",
+      "v17_3": "Workers Party of Britain",
+      "incumbent": "Workers Party of Britain",
+      "prior_year": 2024
+    },
+    {
+      "council": "Manchester",
+      "ward": "Miles Platting & Newton Heath",
+      "actual": "Reform UK",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Manchester",
+      "ward": "Moss Side",
+      "actual": "Green",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Manchester",
+      "ward": "Moston",
+      "actual": "Reform UK",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Manchester",
+      "ward": "Northenden",
+      "actual": "Labour",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Manchester",
+      "ward": "Old Moat",
+      "actual": "Green",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Manchester",
+      "ward": "Piccadilly",
+      "actual": "Green",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Manchester",
+      "ward": "Rusholme",
+      "actual": "Green",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Manchester",
+      "ward": "Sharston",
+      "actual": "Reform UK",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Manchester",
+      "ward": "Whalley Range",
+      "actual": "Green",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Manchester",
+      "ward": "Withington",
+      "actual": "Green",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Manchester",
+      "ward": "Woodhouse Park",
+      "actual": "Green",
+      "v17_0": "Green",
+      "v17_3": "Green",
+      "incumbent": "Green",
+      "prior_year": 2024
+    },
+    {
+      "council": "Newcastle upon Tyne",
+      "ward": "Arthur's Hill",
+      "actual": "Green",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Newcastle upon Tyne",
+      "ward": "Byker",
+      "actual": "Green",
+      "v17_0": "Green",
+      "v17_3": "Green",
+      "incumbent": "Green",
+      "prior_year": 2024
+    },
+    {
+      "council": "Newcastle upon Tyne",
+      "ward": "Castle",
+      "actual": "Green",
+      "v17_0": "Liberal Democrat",
+      "v17_3": "Liberal Democrat",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Newcastle upon Tyne",
+      "ward": "Chapel",
+      "actual": "Independent",
+      "v17_0": "Independent",
+      "v17_3": "Independent",
+      "incumbent": "Independent",
+      "prior_year": 2024
+    },
+    {
+      "council": "Newcastle upon Tyne",
+      "ward": "Dene & South Gosforth",
+      "actual": "Liberal Democrat",
+      "v17_0": "Liberal Democrat",
+      "v17_3": "Liberal Democrat",
+      "incumbent": "Liberal Democrat",
+      "prior_year": 2024
+    },
+    {
+      "council": "Newcastle upon Tyne",
+      "ward": "Elswick",
+      "actual": "Green",
+      "v17_0": "Green",
+      "v17_3": "Green",
+      "incumbent": "Green",
+      "prior_year": 2024
+    },
+    {
+      "council": "Newcastle upon Tyne",
+      "ward": "Fawdon & West Gosforth",
+      "actual": "Liberal Democrat",
+      "v17_0": "Liberal Democrat",
+      "v17_3": "Liberal Democrat",
+      "incumbent": "Liberal Democrat",
+      "prior_year": 2024
+    },
+    {
+      "council": "Newcastle upon Tyne",
+      "ward": "Gosforth",
+      "actual": "Liberal Democrat",
+      "v17_0": "Liberal Democrat",
+      "v17_3": "Liberal Democrat",
+      "incumbent": "Conservative",
+      "prior_year": 2024
+    },
+    {
+      "council": "Newcastle upon Tyne",
+      "ward": "Kenton",
+      "actual": "Labour",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Newcastle upon Tyne",
+      "ward": "Manor Park",
+      "actual": "Liberal Democrat",
+      "v17_0": "Liberal Democrat",
+      "v17_3": "Liberal Democrat",
+      "incumbent": "Liberal Democrat",
+      "prior_year": 2024
+    },
+    {
+      "council": "Newcastle upon Tyne",
+      "ward": "Monument",
+      "actual": "Green",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Newcastle upon Tyne",
+      "ward": "Ouseburn",
+      "actual": "Green",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Newcastle upon Tyne",
+      "ward": "Walker",
+      "actual": "Reform UK",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Newcastle upon Tyne",
+      "ward": "Walkergate",
+      "actual": "Reform UK",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Newcastle upon Tyne",
+      "ward": "West Fenham",
+      "actual": "Liberal Democrat",
+      "v17_0": "Liberal Democrat",
+      "v17_3": "Liberal Democrat",
+      "incumbent": "Liberal Democrat",
+      "prior_year": 2024
+    },
+    {
+      "council": "Newcastle upon Tyne",
+      "ward": "Wingrove",
+      "actual": "Green",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Rochdale",
+      "ward": "Balderstone & Kirkholt",
+      "actual": "Reform UK",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Rochdale",
+      "ward": "Bamford",
+      "actual": "Conservative",
+      "v17_0": "Conservative",
+      "v17_3": "Conservative",
+      "incumbent": "Conservative",
+      "prior_year": 2024
+    },
+    {
+      "council": "Rochdale",
+      "ward": "Castleton",
+      "actual": "Reform UK",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Rochdale",
+      "ward": "Central Rochdale",
+      "actual": "Workers Party of Britain",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2023
+    },
+    {
+      "council": "Rochdale",
+      "ward": "East Middleton",
+      "actual": "Labour",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Rochdale",
+      "ward": "Healey",
+      "actual": "Reform UK",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Rochdale",
+      "ward": "Hopwood Hall",
+      "actual": "Reform UK",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Rochdale",
+      "ward": "Kingsway",
+      "actual": "Labour",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Rochdale",
+      "ward": "Littleborough Lakeside",
+      "actual": "Reform UK",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Rochdale",
+      "ward": "Milkstone & Deeplish",
+      "actual": "Workers Party of Britain",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2023
+    },
+    {
+      "council": "Rochdale",
+      "ward": "Norden",
+      "actual": "Conservative",
+      "v17_0": "Conservative",
+      "v17_3": "Conservative",
+      "incumbent": "Conservative",
+      "prior_year": 2024
+    },
+    {
+      "council": "Rochdale",
+      "ward": "North Heywood",
+      "actual": "Reform UK",
+      "v17_0": "Labour",
+      "v17_3": "Reform UK",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Rochdale",
+      "ward": "North Middleton",
+      "actual": "Reform UK",
+      "v17_0": "Middleton Independents Party",
+      "v17_3": "Middleton Independents Party",
+      "incumbent": "Labour",
+      "prior_year": 2023
+    },
+    {
+      "council": "Rochdale",
+      "ward": "Smallbridge & Firgrove",
+      "actual": "Liberal Democrat",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2023
+    },
+    {
+      "council": "Rochdale",
+      "ward": "South Middleton",
+      "actual": "Reform UK",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Rochdale",
+      "ward": "Spotland & Falinge",
+      "actual": "Reform UK",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Rochdale",
+      "ward": "Wardle, Shore & West Littleborough",
+      "actual": "Reform UK",
+      "v17_0": "Conservative",
+      "v17_3": "Conservative",
+      "incumbent": "Conservative",
+      "prior_year": 2024
+    },
+    {
+      "council": "Rochdale",
+      "ward": "West Heywood",
+      "actual": "Reform UK",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Rochdale",
+      "ward": "West Middleton",
+      "actual": "Reform UK",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Salford",
+      "ward": "Barton & Winton",
+      "actual": "Labour",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Salford",
+      "ward": "Blackfriars & Trinity",
+      "actual": "Green",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2023
+    },
+    {
+      "council": "Salford",
+      "ward": "Broughton",
+      "actual": "Labour",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Salford",
+      "ward": "Cadishead & Lower Irlam",
+      "actual": "Reform UK",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2023
+    },
+    {
+      "council": "Salford",
+      "ward": "Claremont",
+      "actual": "Reform UK",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Salford",
+      "ward": "Eccles",
+      "actual": "Labour",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Salford",
+      "ward": "Higher Irlam & Peel Green",
+      "actual": "Reform UK",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Salford",
+      "ward": "Kersal & Broughton Park",
+      "actual": "Independent",
+      "v17_0": "Conservative",
+      "v17_3": "Conservative",
+      "incumbent": "Conservative",
+      "prior_year": 2024
+    },
+    {
+      "council": "Salford",
+      "ward": "Little Hulton",
+      "actual": "Reform UK",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Salford",
+      "ward": "Ordsall",
+      "actual": "Green",
+      "v17_0": "Liberal Democrat",
+      "v17_3": "Liberal Democrat",
+      "incumbent": "Labour",
+      "prior_year": 2023
+    },
+    {
+      "council": "Salford",
+      "ward": "Pendlebury & Clifton",
+      "actual": "Reform UK",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Salford",
+      "ward": "Swinton Park",
+      "actual": "Reform UK",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Salford",
+      "ward": "Swinton & Wardley",
+      "actual": "Reform UK",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Salford",
+      "ward": "Walkden North",
+      "actual": "Reform UK",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Salford",
+      "ward": "Walkden South",
+      "actual": "Reform UK",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2023
+    },
+    {
+      "council": "Salford",
+      "ward": "Weaste & Seedley",
+      "actual": "Reform UK",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Salford",
+      "ward": "Worsley & Westwood Park",
+      "actual": "Reform UK",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Sandwell",
+      "ward": "Blackheath",
+      "actual": "Reform UK",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Sandwell",
+      "ward": "Bristnall",
+      "actual": "Reform UK",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Sandwell",
+      "ward": "Great Bridge",
+      "actual": "Reform UK",
+      "v17_0": "Conservative",
+      "v17_3": "Conservative",
+      "incumbent": "Conservative",
+      "prior_year": 2024
+    },
+    {
+      "council": "Sandwell",
+      "ward": "Hateley Heath",
+      "actual": "Labour",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Sandwell",
+      "ward": "Langley",
+      "actual": "Reform UK",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Sandwell",
+      "ward": "Oldbury",
+      "actual": "Labour",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Sandwell",
+      "ward": "Old Warley",
+      "actual": "Reform UK",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Sandwell",
+      "ward": "Rowley",
+      "actual": "Reform UK",
+      "v17_0": "Labour",
+      "v17_3": "Reform UK",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Sandwell",
+      "ward": "Smethwick",
+      "actual": "Labour",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Sandwell",
+      "ward": "St Pauls",
+      "actual": "Labour",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Sandwell",
+      "ward": "Tipton Green",
+      "actual": "Reform UK",
+      "v17_0": "Independent",
+      "v17_3": "Independent",
+      "incumbent": "Labour",
+      "prior_year": 2023
+    },
+    {
+      "council": "Sandwell",
+      "ward": "Tividale",
+      "actual": "Reform UK",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Sandwell",
+      "ward": "West Bromwich Central",
+      "actual": "Labour",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Sheffield",
+      "ward": "Beauchief & Greenhill",
+      "actual": "Liberal Democrat",
+      "v17_0": "Liberal Democrat",
+      "v17_3": "Liberal Democrat",
+      "incumbent": "Liberal Democrat",
+      "prior_year": 2024
+    },
+    {
+      "council": "Sheffield",
+      "ward": "Beighton",
+      "actual": "Reform UK",
+      "v17_0": "Liberal Democrat",
+      "v17_3": "Liberal Democrat",
+      "incumbent": "Liberal Democrat",
+      "prior_year": 2024
+    },
+    {
+      "council": "Sheffield",
+      "ward": "Broomhill & Sharrow Vale",
+      "actual": "Green",
+      "v17_0": "Green",
+      "v17_3": "Green",
+      "incumbent": "Green",
+      "prior_year": 2024
+    },
+    {
+      "council": "Sheffield",
+      "ward": "Burngreave",
+      "actual": "Green",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Sheffield",
+      "ward": "City",
+      "actual": "Green",
+      "v17_0": "Green",
+      "v17_3": "Green",
+      "incumbent": "Green",
+      "prior_year": 2024
+    },
+    {
+      "council": "Sheffield",
+      "ward": "Crookes & Crosspool",
+      "actual": "Labour",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Sheffield",
+      "ward": "Darnall",
+      "actual": "Labour",
+      "v17_0": "Independent",
+      "v17_3": "Independent",
+      "incumbent": "Independent",
+      "prior_year": 2024
+    },
+    {
+      "council": "Sheffield",
+      "ward": "Dore & Totley",
+      "actual": "Liberal Democrat",
+      "v17_0": "Liberal Democrat",
+      "v17_3": "Liberal Democrat",
+      "incumbent": "Liberal Democrat",
+      "prior_year": 2024
+    },
+    {
+      "council": "Sheffield",
+      "ward": "East Ecclesfield",
+      "actual": "Reform UK",
+      "v17_0": "Liberal Democrat",
+      "v17_3": "Liberal Democrat",
+      "incumbent": "Liberal Democrat",
+      "prior_year": 2024
+    },
+    {
+      "council": "Sheffield",
+      "ward": "Ecclesall",
+      "actual": "Green",
+      "v17_0": "Green",
+      "v17_3": "Green",
+      "incumbent": "Green",
+      "prior_year": 2024
+    },
+    {
+      "council": "Sheffield",
+      "ward": "Firth Park",
+      "actual": "Reform UK",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2023
+    },
+    {
+      "council": "Sheffield",
+      "ward": "Fulwood",
+      "actual": "Liberal Democrat",
+      "v17_0": "Liberal Democrat",
+      "v17_3": "Liberal Democrat",
+      "incumbent": "Liberal Democrat",
+      "prior_year": 2024
+    },
+    {
+      "council": "Sheffield",
+      "ward": "Gleadless Valley",
+      "actual": "Green",
+      "v17_0": "Green",
+      "v17_3": "Green",
+      "incumbent": "Green",
+      "prior_year": 2024
+    },
+    {
+      "council": "Sheffield",
+      "ward": "Graves Park",
+      "actual": "Green",
+      "v17_0": "Liberal Democrat",
+      "v17_3": "Liberal Democrat",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Sheffield",
+      "ward": "Hillsborough",
+      "actual": "Green",
+      "v17_0": "Green",
+      "v17_3": "Green",
+      "incumbent": "Green",
+      "prior_year": 2024
+    },
+    {
+      "council": "Sheffield",
+      "ward": "Manor Castle",
+      "actual": "Green",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Sheffield",
+      "ward": "Mosborough",
+      "actual": "Reform UK",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Sheffield",
+      "ward": "Nether Edge & Sharrow",
+      "actual": "Green",
+      "v17_0": "Green",
+      "v17_3": "Green",
+      "incumbent": "Green",
+      "prior_year": 2024
+    },
+    {
+      "council": "Sheffield",
+      "ward": "Park & Arbourthorne",
+      "actual": "Reform UK",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Sheffield",
+      "ward": "Richmond",
+      "actual": "Reform UK",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2024
+    },
+    {
+      "council": "Sheffield",
+      "ward": "Shiregreen & Brightside",
+      "actual": "Reform UK",
+      "v17_0": "Labour",
+      "v17_3": "Labour",
+      "incumbent": "Labour",
+      "prior_year": 2023
+    },
+    {
+      "council": "Sheffield",
+      "ward": "Stannington",
+      "actual": "Liberal Democrat",
+      "v17_0": "Liberal Democrat",
+      "v17_3": "Liberal Democrat",
+      "incumbent": "Liberal Democrat",
+      "prior_year": 2024
+    }
+  ]
+}

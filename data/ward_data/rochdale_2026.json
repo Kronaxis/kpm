@@ -1,0 +1,1423 @@
+{
+  "council_slug": "rochdale",
+  "election_date": "2026-05-07",
+  "source": "https://candidates.democracyclub.org.uk/api/next/",
+  "fetched_at": "2026-05-10T22:37:11Z",
+  "wards": [
+    {
+      "ward_slug": "balderstone-kirkholt",
+      "ward_name": "Balderstone & Kirkholt",
+      "ballot_id": "local.rochdale.balderstone-kirkholt.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Ashley-Louise Gilbert",
+          "votes": 1205
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Ashley-Louise Gilbert",
+          "votes": 1205,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Philip Thomas Massey",
+          "votes": 722,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Sami Mir",
+          "votes": 349,
+          "elected": false
+        },
+        {
+          "party": "Workers Party of Britain",
+          "name": "Altaf Nadeem",
+          "votes": 275,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "John Kershaw",
+          "votes": 160,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Rob Chilton",
+          "votes": 129,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 42.43,
+        "Labour": 25.42,
+        "Green": 12.29,
+        "Workers Party of Britain": 9.68,
+        "Conservative": 5.63,
+        "Liberal Democrat": 4.54
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 2840,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T22:37:37Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05014033",
+        "qual_l4_pct": 25.19,
+        "no_qual_pct": 24.34,
+        "muslim_pct": 17.92,
+        "no_religion_pct": 28.92,
+        "age_under_35_pct": 48.8,
+        "age_65_plus_pct": 13.9,
+        "social_rented_pct": 70.46,
+        "white_british_pct": 65.64
+      }
+    },
+    {
+      "ward_slug": "bamford",
+      "ward_name": "Bamford",
+      "ballot_id": "local.rochdale.bamford.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Conservative",
+          "name": "Angela Jennifer Smith",
+          "votes": 1230
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Conservative",
+          "name": "Angela Jennifer Smith",
+          "votes": 1230,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Christopher Birchenough",
+          "votes": 1009,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "George Hilton",
+          "votes": 566,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Duncan Hannant",
+          "votes": 466,
+          "elected": false
+        },
+        {
+          "party": "Workers Party of Britain",
+          "name": "Bahadur Kamran",
+          "votes": 293,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Conservative": 34.51,
+        "Reform UK": 28.31,
+        "Green": 15.88,
+        "Labour": 13.08,
+        "Workers Party of Britain": 8.22
+      },
+      "party_seats_won": {
+        "Conservative": 1
+      },
+      "winning_party": "Conservative",
+      "total_votes": 3564,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T22:37:38Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05014034",
+        "qual_l4_pct": 37.36,
+        "no_qual_pct": 17.95,
+        "muslim_pct": 23.56,
+        "no_religion_pct": 23.13,
+        "age_under_35_pct": 37.08,
+        "age_65_plus_pct": 27.8,
+        "social_rented_pct": 14.89,
+        "white_british_pct": 67.08
+      }
+    },
+    {
+      "ward_slug": "castleton",
+      "ward_name": "Castleton",
+      "ballot_id": "local.rochdale.castleton.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Dave Jones",
+          "votes": 1379
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Dave Jones",
+          "votes": 1379,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Billy Sheerin",
+          "votes": 719,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Jonathan Edward Kershaw",
+          "votes": 638,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Malcolm Thomas Bywater",
+          "votes": 197,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Sharon L Harrison",
+          "votes": 150,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 44.73,
+        "Labour": 23.32,
+        "Green": 20.69,
+        "Conservative": 6.39,
+        "Liberal Democrat": 4.87
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 3083,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T22:37:40Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05014035",
+        "qual_l4_pct": 24.99,
+        "no_qual_pct": 23.3,
+        "muslim_pct": 15.09,
+        "no_religion_pct": 31.77,
+        "age_under_35_pct": 41.84,
+        "age_65_plus_pct": 22.39,
+        "social_rented_pct": 33.11,
+        "white_british_pct": 75.11
+      }
+    },
+    {
+      "ward_slug": "central-rochdale",
+      "ward_name": "Central Rochdale",
+      "ballot_id": "local.rochdale.central-rochdale.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Workers Party of Britain",
+          "name": "Waqar Khan",
+          "votes": 1944
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Workers Party of Britain",
+          "name": "Waqar Khan",
+          "votes": 1944,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Iftikhar Ahmed",
+          "votes": 1424,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Peter Cloran",
+          "votes": 395,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Samantha Payne",
+          "votes": 269,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Catherine Leach",
+          "votes": 77,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Workers Party of Britain": 47.31,
+        "Labour": 34.66,
+        "Green": 9.61,
+        "Reform UK": 6.55,
+        "Conservative": 1.87
+      },
+      "party_seats_won": {
+        "Workers Party of Britain": 1
+      },
+      "winning_party": "Workers Party of Britain",
+      "total_votes": 4109,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T22:37:42Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05014036",
+        "qual_l4_pct": 22.2,
+        "no_qual_pct": 32.19,
+        "muslim_pct": 64.72,
+        "no_religion_pct": 11.47,
+        "age_under_35_pct": 54.43,
+        "age_65_plus_pct": 9.97,
+        "social_rented_pct": 41.98,
+        "white_british_pct": 22.41
+      }
+    },
+    {
+      "ward_slug": "east-middleton",
+      "ward_name": "East Middleton",
+      "ballot_id": "local.rochdale.east-middleton.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Labour",
+          "name": "Gina Jacques",
+          "votes": 1315
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Labour",
+          "name": "Gina Jacques",
+          "votes": 1315,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Mervyn Simpson",
+          "votes": 1215,
+          "elected": false
+        },
+        {
+          "party": "Middleton Independents Party",
+          "name": "Paul Beswick",
+          "votes": 337,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Clare Wood",
+          "votes": 265,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Michael Smith",
+          "votes": 149,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Labour": 40.08,
+        "Reform UK": 37.03,
+        "Middleton Independents Party": 10.27,
+        "Green": 8.08,
+        "Conservative": 4.54
+      },
+      "party_seats_won": {
+        "Labour": 1
+      },
+      "winning_party": "Labour",
+      "total_votes": 3281,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T22:37:43Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05014037",
+        "qual_l4_pct": 24.81,
+        "no_qual_pct": 22.57,
+        "muslim_pct": 2.84,
+        "no_religion_pct": 32.36,
+        "age_under_35_pct": 42.5,
+        "age_65_plus_pct": 19.73,
+        "social_rented_pct": 38.38,
+        "white_british_pct": 84.78
+      }
+    },
+    {
+      "ward_slug": "healey",
+      "ward_name": "Healey",
+      "ballot_id": "local.rochdale.healey.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Mark Stephens",
+          "votes": 1300
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Mark Stephens",
+          "votes": 1300,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Shaun O'Neill",
+          "votes": 772,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Andy Lord",
+          "votes": 528,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Umar Ali",
+          "votes": 441,
+          "elected": false
+        },
+        {
+          "party": "Workers Party of Britain",
+          "name": "Raja Miah",
+          "votes": 237,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Robert James McLean",
+          "votes": 190,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 37.49,
+        "Labour": 22.26,
+        "Liberal Democrat": 15.22,
+        "Green": 12.72,
+        "Workers Party of Britain": 6.83,
+        "Conservative": 5.48
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 3468,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T22:37:45Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05014038",
+        "qual_l4_pct": 29.02,
+        "no_qual_pct": 19.43,
+        "muslim_pct": 21.48,
+        "no_religion_pct": 29.06,
+        "age_under_35_pct": 39.87,
+        "age_65_plus_pct": 21.88,
+        "social_rented_pct": 22.91,
+        "white_british_pct": 69.89
+      }
+    },
+    {
+      "ward_slug": "hopwood-hall",
+      "ward_name": "Hopwood Hall",
+      "ballot_id": "local.rochdale.hopwood-hall.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Steve Potter",
+          "votes": 1536
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Steve Potter",
+          "votes": 1536,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Susan Emmott",
+          "votes": 856,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Stephen Spencer-Jones",
+          "votes": 319,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Robert Lewis King",
+          "votes": 290,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Iain Donaldson",
+          "votes": 157,
+          "elected": false
+        },
+        {
+          "party": "Advance UK",
+          "name": "Alan Shaw",
+          "votes": 52,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 47.85,
+        "Labour": 26.67,
+        "Conservative": 9.94,
+        "Green": 9.03,
+        "Liberal Democrat": 4.89,
+        "Advance UK": 1.62
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 3210,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T22:37:47Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05014039",
+        "qual_l4_pct": 26.2,
+        "no_qual_pct": 21.77,
+        "muslim_pct": 3.46,
+        "no_religion_pct": 32.07,
+        "age_under_35_pct": 42.06,
+        "age_65_plus_pct": 19.69,
+        "social_rented_pct": 41.83,
+        "white_british_pct": 83.73
+      }
+    },
+    {
+      "ward_slug": "kingsway",
+      "ward_name": "Kingsway",
+      "ballot_id": "local.rochdale.kingsway.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Labour",
+          "name": "Shakil Ahmed",
+          "votes": 1176
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Labour",
+          "name": "Shakil Ahmed",
+          "votes": 1176,
+          "elected": true
+        },
+        {
+          "party": "Workers Party of Britain",
+          "name": "Mohammed Saleem",
+          "votes": 820,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Denise  Harrison",
+          "votes": 812,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Mark Hollinrake",
+          "votes": 364,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Steven John Edgar",
+          "votes": 132,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Jenny Kelly",
+          "votes": 117,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Labour": 34.38,
+        "Workers Party of Britain": 23.97,
+        "Reform UK": 23.74,
+        "Green": 10.64,
+        "Conservative": 3.86,
+        "Liberal Democrat": 3.42
+      },
+      "party_seats_won": {
+        "Labour": 1
+      },
+      "winning_party": "Labour",
+      "total_votes": 3421,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T22:37:48Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05014040",
+        "qual_l4_pct": 25.2,
+        "no_qual_pct": 27.52,
+        "muslim_pct": 42.3,
+        "no_religion_pct": 20.12,
+        "age_under_35_pct": 52.05,
+        "age_65_plus_pct": 11.99,
+        "social_rented_pct": 52.65,
+        "white_british_pct": 45.66
+      }
+    },
+    {
+      "ward_slug": "littleborough-lakeside",
+      "ward_name": "Littleborough Lakeside",
+      "ballot_id": "local.rochdale.littleborough-lakeside.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Victoria Howard",
+          "votes": 1391
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Victoria Howard",
+          "votes": 1391,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Janet Emsley",
+          "votes": 1170,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Ian Jackson",
+          "votes": 454,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Paul Michael Wooten",
+          "votes": 274,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Emma Jane Griffin",
+          "votes": 125,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 40.74,
+        "Labour": 34.27,
+        "Conservative": 13.3,
+        "Green": 8.03,
+        "Liberal Democrat": 3.66
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 3414,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T22:37:50Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05014041",
+        "qual_l4_pct": 31.07,
+        "no_qual_pct": 18.06,
+        "muslim_pct": 0.63,
+        "no_religion_pct": 39.87,
+        "age_under_35_pct": 34.66,
+        "age_65_plus_pct": 25.38,
+        "social_rented_pct": 15.97,
+        "white_british_pct": 95.21
+      }
+    },
+    {
+      "ward_slug": "milkstone-deeplish",
+      "ward_name": "Milkstone & Deeplish",
+      "ballot_id": "local.rochdale.milkstone-deeplish.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Workers Party of Britain",
+          "name": "Mohammed Shafiq",
+          "votes": 1560
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Workers Party of Britain",
+          "name": "Mohammed Shafiq",
+          "votes": 1560,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Mohammad Arshad",
+          "votes": 1017,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Neil Gavin Rutter",
+          "votes": 296,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Stuart Mather",
+          "votes": 161,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Majdi Khalil Aldimashqi",
+          "votes": 64,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Len Branton",
+          "votes": 38,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Workers Party of Britain": 49.74,
+        "Labour": 32.43,
+        "Green": 9.44,
+        "Reform UK": 5.13,
+        "Liberal Democrat": 2.04,
+        "Conservative": 1.21
+      },
+      "party_seats_won": {
+        "Workers Party of Britain": 1
+      },
+      "winning_party": "Workers Party of Britain",
+      "total_votes": 3136,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T22:37:51Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05014042",
+        "qual_l4_pct": 23.11,
+        "no_qual_pct": 32.18,
+        "muslim_pct": 72.39,
+        "no_religion_pct": 7.79,
+        "age_under_35_pct": 54.12,
+        "age_65_plus_pct": 10.38,
+        "social_rented_pct": 53.68,
+        "white_british_pct": 13.37
+      }
+    },
+    {
+      "ward_slug": "norden",
+      "ward_name": "Norden",
+      "ballot_id": "local.rochdale.norden.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Conservative",
+          "name": "Paul Ellison",
+          "votes": 1662
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Conservative",
+          "name": "Paul Ellison",
+          "votes": 1662,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Kevin Lane",
+          "votes": 1193,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Sue Moore-Holmes",
+          "votes": 495,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Sarah Louise Croke",
+          "votes": 431,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Stephanie Robertson",
+          "votes": 154,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Conservative": 42.24,
+        "Reform UK": 30.32,
+        "Labour": 12.58,
+        "Green": 10.95,
+        "Liberal Democrat": 3.91
+      },
+      "party_seats_won": {
+        "Conservative": 1
+      },
+      "winning_party": "Conservative",
+      "total_votes": 3935,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T22:38:44Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05014044",
+        "qual_l4_pct": 39.53,
+        "no_qual_pct": 12.01,
+        "muslim_pct": 8.51,
+        "no_religion_pct": 29.54,
+        "age_under_35_pct": 35.18,
+        "age_65_plus_pct": 23.35,
+        "social_rented_pct": 4.64,
+        "white_british_pct": 86.67
+      }
+    },
+    {
+      "ward_slug": "north-heywood",
+      "ward_name": "North Heywood",
+      "ballot_id": "local.rochdale.north-heywood.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Michael Howard",
+          "votes": 1365
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Michael Howard",
+          "votes": 1365,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Lewis Chadwick Woodall",
+          "votes": 597,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Naomi Charlotte Brown",
+          "votes": 310,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Sam Bancroft",
+          "votes": 144,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Steve Gillan",
+          "votes": 123,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 53.76,
+        "Labour": 23.51,
+        "Green": 12.21,
+        "Conservative": 5.67,
+        "Liberal Democrat": 4.84
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 2539,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T22:38:46Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05014045",
+        "qual_l4_pct": 22.23,
+        "no_qual_pct": 25.31,
+        "muslim_pct": 4.02,
+        "no_religion_pct": 37.22,
+        "age_under_35_pct": 44.71,
+        "age_65_plus_pct": 17.56,
+        "social_rented_pct": 52.42,
+        "white_british_pct": 84.69
+      }
+    },
+    {
+      "ward_slug": "north-middleton",
+      "ward_name": "North Middleton",
+      "ballot_id": "local.rochdale.north-middleton.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Lee Wolf",
+          "votes": 1450
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Lee Wolf",
+          "votes": 1450,
+          "elected": true
+        },
+        {
+          "party": "Middleton Independents Party",
+          "name": "Keeley O'Mara",
+          "votes": 599,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Connor Stanisauskis",
+          "votes": 562,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "James Luckham",
+          "votes": 410,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Eileen Taylor",
+          "votes": 141,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Chariss Peacock",
+          "votes": 73,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 44.82,
+        "Middleton Independents Party": 18.52,
+        "Labour": 17.37,
+        "Green": 12.67,
+        "Conservative": 4.36,
+        "Liberal Democrat": 2.26
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 3235,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T22:38:47Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05014046",
+        "qual_l4_pct": 21.81,
+        "no_qual_pct": 23.54,
+        "muslim_pct": 2.47,
+        "no_religion_pct": 33.5,
+        "age_under_35_pct": 41.93,
+        "age_65_plus_pct": 17.89,
+        "social_rented_pct": 37.87,
+        "white_british_pct": 85.75
+      }
+    },
+    {
+      "ward_slug": "smallbridge-firgrove",
+      "ward_name": "Smallbridge & Firgrove",
+      "ballot_id": "local.rochdale.smallbridge-firgrove.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Mohammed Khizer",
+          "votes": 917
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Mohammed Khizer",
+          "votes": 917,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Cole Brierley",
+          "votes": 850,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Aftab Hussain",
+          "votes": 683,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Feruz Ali",
+          "votes": 332,
+          "elected": false
+        },
+        {
+          "party": "Independent",
+          "name": "Billy Howarth",
+          "votes": 160,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Charlotte Jayne Taylor",
+          "votes": 126,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Liberal Democrat": 29.89,
+        "Reform UK": 27.71,
+        "Labour": 22.26,
+        "Green": 10.82,
+        "Independent": 5.22,
+        "Conservative": 4.11
+      },
+      "party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "winning_party": "Liberal Democrat",
+      "total_votes": 3068,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T22:38:49Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05014047",
+        "qual_l4_pct": 20.84,
+        "no_qual_pct": 29.01,
+        "muslim_pct": 31.49,
+        "no_religion_pct": 29.61,
+        "age_under_35_pct": 50.44,
+        "age_65_plus_pct": 13.01,
+        "social_rented_pct": 76.29,
+        "white_british_pct": 58.06
+      }
+    },
+    {
+      "ward_slug": "south-middleton",
+      "ward_name": "South Middleton",
+      "ballot_id": "local.rochdale.south-middleton.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Matthew Pilkington",
+          "votes": 1674
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Matthew Pilkington",
+          "votes": 1674,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Peter James Williams",
+          "votes": 1238,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Sunday Stephen Onabanjo",
+          "votes": 392,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Stacey Bancroft",
+          "votes": 308,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Sam Ellis",
+          "votes": 176,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 44.19,
+        "Labour": 32.68,
+        "Green": 10.35,
+        "Conservative": 8.13,
+        "Liberal Democrat": 4.65
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 3788,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T22:38:50Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05014048",
+        "qual_l4_pct": 30.86,
+        "no_qual_pct": 19.83,
+        "muslim_pct": 3.3,
+        "no_religion_pct": 25.28,
+        "age_under_35_pct": 38.08,
+        "age_65_plus_pct": 23.36,
+        "social_rented_pct": 29.78,
+        "white_british_pct": 84.33
+      }
+    },
+    {
+      "ward_slug": "spotland-falinge",
+      "ward_name": "Spotland & Falinge",
+      "ballot_id": "local.rochdale.spotland-falinge.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Carl Faulkner",
+          "votes": 1018
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Carl Faulkner",
+          "votes": 1018,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Iram Faisal",
+          "votes": 1009,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Rabina Asghar",
+          "votes": 689,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Mick Coats",
+          "votes": 307,
+          "elected": false
+        },
+        {
+          "party": "Workers Party of Britain",
+          "name": "Benita Blessing",
+          "votes": 151,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Ann Marie Conway",
+          "votes": 134,
+          "elected": false
+        },
+        {
+          "party": "Independent",
+          "name": "Stefan Cholenka",
+          "votes": 35,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 30.45,
+        "Labour": 30.18,
+        "Liberal Democrat": 20.61,
+        "Green": 9.18,
+        "Workers Party of Britain": 4.52,
+        "Conservative": 4.01,
+        "Independent": 1.05
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 3343,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T22:38:52Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05014049",
+        "qual_l4_pct": 22.97,
+        "no_qual_pct": 27.26,
+        "muslim_pct": 32.56,
+        "no_religion_pct": 25.87,
+        "age_under_35_pct": 46.82,
+        "age_65_plus_pct": 17.14,
+        "social_rented_pct": 61.69,
+        "white_british_pct": 54.21
+      }
+    },
+    {
+      "ward_slug": "wardle-shore-west-littleborough",
+      "ward_name": "Wardle, Shore & West Littleborough",
+      "ballot_id": "local.rochdale.wardle-shore-west-littleborough.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Philip Barrett",
+          "votes": 1466
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Philip Barrett",
+          "votes": 1466,
+          "elected": true
+        },
+        {
+          "party": "Conservative",
+          "name": "Matthew Frederick Hargreaves",
+          "votes": 1209,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Joshua James McCarron",
+          "votes": 451,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Adam Mir",
+          "votes": 328,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Kim Ho",
+          "votes": 169,
+          "elected": false
+        },
+        {
+          "party": "Workers Party of Britain",
+          "name": "Laura Pugh",
+          "votes": 39,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 40.03,
+        "Conservative": 33.01,
+        "Labour": 12.32,
+        "Green": 8.96,
+        "Liberal Democrat": 4.61,
+        "Workers Party of Britain": 1.06
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 3662,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T22:38:54Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05014050",
+        "qual_l4_pct": 31.55,
+        "no_qual_pct": 16.32,
+        "muslim_pct": 2.76,
+        "no_religion_pct": 35.91,
+        "age_under_35_pct": 39.3,
+        "age_65_plus_pct": 21.26,
+        "social_rented_pct": 13.86,
+        "white_british_pct": 93.22
+      }
+    },
+    {
+      "ward_slug": "west-heywood",
+      "ward_name": "West Heywood",
+      "ballot_id": "local.rochdale.west-heywood.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Stuart Crawford",
+          "votes": 1474
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Stuart Crawford",
+          "votes": 1474,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Angela Brown",
+          "votes": 921,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Ethan Towers",
+          "votes": 215,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Tom Shaw",
+          "votes": 213,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Adele Allison Anstee",
+          "votes": 151,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 49.56,
+        "Labour": 30.97,
+        "Green": 7.23,
+        "Liberal Democrat": 7.16,
+        "Conservative": 5.08
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 2974,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T22:38:55Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05014051",
+        "qual_l4_pct": 20.61,
+        "no_qual_pct": 23.69,
+        "muslim_pct": 1.82,
+        "no_religion_pct": 37.07,
+        "age_under_35_pct": 44.64,
+        "age_65_plus_pct": 17.31,
+        "social_rented_pct": 58.81,
+        "white_british_pct": 86.66
+      }
+    },
+    {
+      "ward_slug": "west-middleton",
+      "ward_name": "West Middleton",
+      "ballot_id": "local.rochdale.west-middleton.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Trevor Taylor",
+          "votes": 936
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Trevor Taylor",
+          "votes": 936,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Phil Burke",
+          "votes": 791,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Caitlin Furlong",
+          "votes": 388,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Matthew Steven Roughsedge",
+          "votes": 229,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 39.93,
+        "Labour": 33.75,
+        "Green": 16.55,
+        "Conservative": 9.77
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 2344,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T22:38:57Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05014052",
+        "qual_l4_pct": 23.9,
+        "no_qual_pct": 28.42,
+        "muslim_pct": 4.0,
+        "no_religion_pct": 32.78,
+        "age_under_35_pct": 48.94,
+        "age_65_plus_pct": 14.56,
+        "social_rented_pct": 81.47,
+        "white_british_pct": 73.11
+      }
+    }
+  ],
+  "n_wards_attempted": 20,
+  "n_wards_with_results": 19,
+  "n_wards_no_results": 1
+}

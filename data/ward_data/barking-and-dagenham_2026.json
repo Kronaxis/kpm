@@ -1,0 +1,1634 @@
+{
+  "council_slug": "barking-and-dagenham",
+  "election_date": "2026-05-07",
+  "source": "https://candidates.democracyclub.org.uk/api/next/",
+  "fetched_at": "2026-05-10T23:57:46Z",
+  "wards": [
+    {
+      "ward_slug": "abbey",
+      "ward_name": "Abbey",
+      "ballot_id": "local.barking-and-dagenham.abbey.2026-05-07",
+      "winner_count": 2,
+      "elected": [
+        {
+          "party": "Labour",
+          "name": "Manzoor Hussain",
+          "votes": 478
+        },
+        {
+          "party": "Labour",
+          "name": "Regina Rahman",
+          "votes": 457
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Labour",
+          "name": "Manzoor Hussain",
+          "votes": 478,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Regina Rahman",
+          "votes": 457,
+          "elected": true
+        },
+        {
+          "party": "Green",
+          "name": "Shazia Majeed",
+          "votes": 414,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Verinder Singh",
+          "votes": 406,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Natasha Caulfield",
+          "votes": 166,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Ehsan Attiq",
+          "votes": 158,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Craig Pullen",
+          "votes": 141,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Kazi MD Reza",
+          "votes": 138,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Malik Rabbani",
+          "votes": 52,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Labour": 38.8,
+        "Green": 34.02,
+        "Reform UK": 12.74,
+        "Conservative": 12.28,
+        "Liberal Democrat": 2.16
+      },
+      "party_seats_won": {
+        "Labour": 2
+      },
+      "winning_party": "Labour",
+      "total_votes": 2410,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:57:47Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05014053",
+        "qual_l4_pct": 47.51,
+        "no_qual_pct": 17.47,
+        "muslim_pct": 27.34,
+        "no_religion_pct": 9.16,
+        "age_under_35_pct": 56.19,
+        "age_65_plus_pct": 5.28,
+        "social_rented_pct": 40.14,
+        "white_british_pct": 11.02
+      }
+    },
+    {
+      "ward_slug": "beam",
+      "ward_name": "Beam",
+      "ballot_id": "local.barking-and-dagenham.beam.2026-05-07",
+      "winner_count": 3,
+      "elected": [
+        {
+          "party": "Labour",
+          "name": "Muhib Chowdhury",
+          "votes": 826
+        },
+        {
+          "party": "Labour",
+          "name": "Donna R A Lumsden",
+          "votes": 771
+        },
+        {
+          "party": "Labour",
+          "name": "Glen Spoor",
+          "votes": 690
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Labour",
+          "name": "Muhib Chowdhury",
+          "votes": 826,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Donna R A Lumsden",
+          "votes": 771,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Glen Spoor",
+          "votes": 690,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Anish Samuel",
+          "votes": 429,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Nina Sontea",
+          "votes": 413,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "lonel Popa",
+          "votes": 400,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Mariana Suciu",
+          "votes": 400,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "George Elebiju",
+          "votes": 226,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Mehreen Iqbal",
+          "votes": 189,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Taye Ishola",
+          "votes": 186,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Joseph Obukowho Omorere",
+          "votes": 161,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Labour": 48.75,
+        "Reform UK": 26.48,
+        "Green": 8.53,
+        "Liberal Democrat": 4.82,
+        "Conservative": 11.43
+      },
+      "party_seats_won": {
+        "Labour": 3
+      },
+      "winning_party": "Labour",
+      "total_votes": 4691,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:58:49Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05014056",
+        "qual_l4_pct": 31.26,
+        "no_qual_pct": 23.63,
+        "muslim_pct": 19.16,
+        "no_religion_pct": 16.57,
+        "age_under_35_pct": 50.74,
+        "age_65_plus_pct": 11.01,
+        "social_rented_pct": 42.97,
+        "white_british_pct": 30.26
+      }
+    },
+    {
+      "ward_slug": "becontree",
+      "ward_name": "Becontree",
+      "ballot_id": "local.barking-and-dagenham.becontree.2026-05-07",
+      "winner_count": 2,
+      "elected": [
+        {
+          "party": "Labour",
+          "name": "Edna Fergus",
+          "votes": 879
+        },
+        {
+          "party": "Labour",
+          "name": "Muhammad Saleem",
+          "votes": 817
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Labour",
+          "name": "Edna Fergus",
+          "votes": 879,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Muhammad Saleem",
+          "votes": 817,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Ann Clark",
+          "votes": 621,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Dave Godfrey",
+          "votes": 600,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Masood Khushi Pasha",
+          "votes": 496,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Mary-Ann Murphy",
+          "votes": 404,
+          "elected": false
+        },
+        {
+          "party": "Independent",
+          "name": "Muhammad Amin Ahmadzai",
+          "votes": 280,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Mohammed Sanaullah Islam",
+          "votes": 161,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Minhaz Karim Khan",
+          "votes": 148,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Mohammad Yaqoob",
+          "votes": 54,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Labour": 38.03,
+        "Reform UK": 27.38,
+        "Green": 20.18,
+        "Independent": 6.28,
+        "Conservative": 6.93,
+        "Liberal Democrat": 1.21
+      },
+      "party_seats_won": {
+        "Labour": 2
+      },
+      "winning_party": "Labour",
+      "total_votes": 4460,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:58:50Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05014057",
+        "qual_l4_pct": 30.21,
+        "no_qual_pct": 24.09,
+        "muslim_pct": 28.68,
+        "no_religion_pct": 17.15,
+        "age_under_35_pct": 51.33,
+        "age_65_plus_pct": 9.89,
+        "social_rented_pct": 55.87,
+        "white_british_pct": 30.04
+      }
+    },
+    {
+      "ward_slug": "chadwell-heath",
+      "ward_name": "Chadwell Heath",
+      "ballot_id": "local.barking-and-dagenham.chadwell-heath.2026-05-07",
+      "winner_count": 3,
+      "elected": [
+        {
+          "party": "Labour",
+          "name": "Sade Bright",
+          "votes": 1137
+        },
+        {
+          "party": "Labour",
+          "name": "Simon Perry",
+          "votes": 1135
+        },
+        {
+          "party": "Labour",
+          "name": "Michel Pongo",
+          "votes": 994
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Labour",
+          "name": "Sade Bright",
+          "votes": 1137,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Simon Perry",
+          "votes": 1135,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Michel Pongo",
+          "votes": 994,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Paul Anthony Hewson",
+          "votes": 838,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Vivian Ebal",
+          "votes": 800,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Debbie Rosaman",
+          "votes": 766,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Fuad Ashraf",
+          "votes": 730,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Muhammad Hamza",
+          "votes": 706,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Kamini Devi Sharma",
+          "votes": 364,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Arinze David Nwanna",
+          "votes": 306,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Mohib Ali Shah",
+          "votes": 290,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Anonta Candra Sutradhar",
+          "votes": 281,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Labour": 39.13,
+        "Reform UK": 27.24,
+        "Green": 18.76,
+        "Conservative": 11.39,
+        "Liberal Democrat": 3.47
+      },
+      "party_seats_won": {
+        "Labour": 3
+      },
+      "winning_party": "Labour",
+      "total_votes": 8347,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:58:52Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05014058",
+        "qual_l4_pct": 32.15,
+        "no_qual_pct": 23.07,
+        "muslim_pct": 23.6,
+        "no_religion_pct": 18.75,
+        "age_under_35_pct": 49.89,
+        "age_65_plus_pct": 13.68,
+        "social_rented_pct": 59.84,
+        "white_british_pct": 32.16
+      }
+    },
+    {
+      "ward_slug": "eastbrook-rush-green",
+      "ward_name": "Eastbrook & Rush Green",
+      "ballot_id": "local.barking-and-dagenham.eastbrook-rush-green.2026-05-07",
+      "winner_count": 2,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Ron Emin",
+          "votes": 973
+        },
+        {
+          "party": "Reform UK",
+          "name": "Ben Suter",
+          "votes": 951
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Ron Emin",
+          "votes": 973,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Ben Suter",
+          "votes": 951,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Princess Opeyemi Bright",
+          "votes": 782,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Amimul Ahsan Tanim",
+          "votes": 731,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Djena Balde",
+          "votes": 424,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Sheikh Adil Nadeem",
+          "votes": 400,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Neil Edgar Hallewell",
+          "votes": 224,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "James Alfred Arthur Tyler",
+          "votes": 215,
+          "elected": false
+        },
+        {
+          "party": "Independent",
+          "name": "Lewis Reece Holmes",
+          "votes": 143,
+          "elected": false
+        },
+        {
+          "party": "Independent",
+          "name": "Ashlea Hetty Wane",
+          "votes": 78,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Nomsa Munangatire",
+          "votes": 72,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 38.53,
+        "Labour": 30.3,
+        "Green": 16.5,
+        "Conservative": 8.79,
+        "Independent": 4.43,
+        "Liberal Democrat": 1.44
+      },
+      "party_seats_won": {
+        "Reform UK": 2
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 4993,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:58:53Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05014059",
+        "qual_l4_pct": 30.27,
+        "no_qual_pct": 24.35,
+        "muslim_pct": 12.41,
+        "no_religion_pct": 26.3,
+        "age_under_35_pct": 46.36,
+        "age_65_plus_pct": 16.27,
+        "social_rented_pct": 45.72,
+        "white_british_pct": 50.38
+      }
+    },
+    {
+      "ward_slug": "eastbury",
+      "ward_name": "Eastbury",
+      "ballot_id": "local.barking-and-dagenham.eastbury.2026-05-07",
+      "winner_count": 3,
+      "elected": [
+        {
+          "party": "Labour",
+          "name": "Mohammed Khan",
+          "votes": 1112
+        },
+        {
+          "party": "Labour",
+          "name": "Dominic Twomey",
+          "votes": 1067
+        },
+        {
+          "party": "Labour",
+          "name": "Maureen Margaret Worby",
+          "votes": 1028
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Conservative",
+          "name": "Md Monzour Ahamed",
+          "votes": 0,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Mohammed Khan",
+          "votes": 1112,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Dominic Twomey",
+          "votes": 1067,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Maureen Margaret Worby",
+          "votes": 1028,
+          "elected": true
+        },
+        {
+          "party": "Green",
+          "name": "Mohammed Jalal Uddin",
+          "votes": 994,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Costel Filipescu",
+          "votes": 904,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Zinaida Birlea",
+          "votes": 887,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Romas Bugaitis",
+          "votes": 877,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Sisir Das",
+          "votes": 861,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Pinar Polat",
+          "votes": 813,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Azizur Rahman",
+          "votes": 411,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Joshua Yousaf",
+          "votes": 401,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Elizabeth Makinde",
+          "votes": 227,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Conservative": 8.47,
+        "Labour": 33.47,
+        "Green": 28.01,
+        "Reform UK": 27.68,
+        "Liberal Democrat": 2.37
+      },
+      "party_seats_won": {
+        "Labour": 3
+      },
+      "winning_party": "Labour",
+      "total_votes": 9582,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:58:55Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05014060",
+        "qual_l4_pct": 31.91,
+        "no_qual_pct": 24.26,
+        "muslim_pct": 24.15,
+        "no_religion_pct": 19.57,
+        "age_under_35_pct": 51.14,
+        "age_65_plus_pct": 9.28,
+        "social_rented_pct": 68.87,
+        "white_british_pct": 32.36
+      }
+    },
+    {
+      "ward_slug": "heath",
+      "ward_name": "Heath",
+      "ballot_id": "local.barking-and-dagenham.heath.2026-05-07",
+      "winner_count": 2,
+      "elected": [
+        {
+          "party": "Labour",
+          "name": "Ingrid Robinson",
+          "votes": 959
+        },
+        {
+          "party": "Labour",
+          "name": "Harriet Spoor",
+          "votes": 883
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Labour",
+          "name": "Ingrid Robinson",
+          "votes": 959,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Harriet Spoor",
+          "votes": 883,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Lee Colin Dennis Willoughby",
+          "votes": 662,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Sunil Idiculla",
+          "votes": 603,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Abdullah Alam",
+          "votes": 250,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Naveed Akbar",
+          "votes": 225,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Corine Mengalle",
+          "votes": 167,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Labour": 49.13,
+        "Reform UK": 33.74,
+        "Conservative": 11.12,
+        "Liberal Democrat": 6.0
+      },
+      "party_seats_won": {
+        "Labour": 2
+      },
+      "winning_party": "Labour",
+      "total_votes": 3749,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:59:56Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05014063",
+        "qual_l4_pct": 32.58,
+        "no_qual_pct": 22.85,
+        "muslim_pct": 17.01,
+        "no_religion_pct": 23.63,
+        "age_under_35_pct": 51.66,
+        "age_65_plus_pct": 10.7,
+        "social_rented_pct": 80.92,
+        "white_british_pct": 38.2
+      }
+    },
+    {
+      "ward_slug": "longbridge",
+      "ward_name": "Longbridge",
+      "ballot_id": "local.barking-and-dagenham.longbridge.2026-05-07",
+      "winner_count": 3,
+      "elected": [
+        {
+          "party": "Green",
+          "name": "Faruk Choudhury",
+          "votes": 1630
+        },
+        {
+          "party": "Labour",
+          "name": "Rocky Gill",
+          "votes": 1439
+        },
+        {
+          "party": "Green",
+          "name": "Mashkura Binta Mazid",
+          "votes": 1250
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Green",
+          "name": "Faruk Choudhury",
+          "votes": 1630,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Rocky Gill",
+          "votes": 1439,
+          "elected": true
+        },
+        {
+          "party": "Green",
+          "name": "Mashkura Binta Mazid",
+          "votes": 1250,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Emran Hussain Chowdhury",
+          "votes": 1156,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Tim Hunt",
+          "votes": 1117,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Val Masson",
+          "votes": 936,
+          "elected": false
+        },
+        {
+          "party": "Independent",
+          "name": "Mohammed Sahed Hussain",
+          "votes": 895,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Shah Rahman",
+          "votes": 849,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Marin Adam",
+          "votes": 449,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Chris Fennessy",
+          "votes": 416,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Lynda Jane Rice",
+          "votes": 408,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Alexandru Suciu",
+          "votes": 359,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Joe McNicholl",
+          "votes": 355,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Ghulam Rasool",
+          "votes": 101,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Green": 35.18,
+        "Labour": 31.08,
+        "Independent": 7.88,
+        "Conservative": 14.19,
+        "Reform UK": 10.77,
+        "Liberal Democrat": 0.89
+      },
+      "party_seats_won": {
+        "Green": 2,
+        "Labour": 1
+      },
+      "winning_party": "Green",
+      "total_votes": 11360,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:59:58Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05014064",
+        "qual_l4_pct": 34.65,
+        "no_qual_pct": 19.8,
+        "muslim_pct": 51.54,
+        "no_religion_pct": 8.71,
+        "age_under_35_pct": 50.84,
+        "age_65_plus_pct": 11.87,
+        "social_rented_pct": 21.71,
+        "white_british_pct": 17.32
+      }
+    },
+    {
+      "ward_slug": "mayesbrook",
+      "ward_name": "Mayesbrook",
+      "ballot_id": "local.barking-and-dagenham.mayesbrook.2026-05-07",
+      "winner_count": 3,
+      "elected": [
+        {
+          "party": "Labour",
+          "name": "Shamsul Azam",
+          "votes": 1182
+        },
+        {
+          "party": "Labour",
+          "name": "Kashif Haroon",
+          "votes": 1129
+        },
+        {
+          "party": "Labour",
+          "name": "Faiza Noreen",
+          "votes": 1105
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Labour",
+          "name": "Shamsul Azam",
+          "votes": 1182,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Kashif Haroon",
+          "votes": 1129,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Faiza Noreen",
+          "votes": 1105,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Andy McNab",
+          "votes": 1033,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Ray Anderson",
+          "votes": 1023,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Bijoy Johnson",
+          "votes": 1023,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Raju Ahamad",
+          "votes": 758,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Juliano Nunes",
+          "votes": 719,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Syed Fahim Ahmed Roomy",
+          "votes": 637,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Shahana H S Choudhury",
+          "votes": 247,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Tamanna Mirza",
+          "votes": 224,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Mizanur Rahman",
+          "votes": 195,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Waheed Nazir",
+          "votes": 128,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Labour": 36.33,
+        "Reform UK": 32.74,
+        "Green": 22.48,
+        "Conservative": 7.08,
+        "Liberal Democrat": 1.36
+      },
+      "party_seats_won": {
+        "Labour": 3
+      },
+      "winning_party": "Labour",
+      "total_votes": 9403,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:59:59Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05014065",
+        "qual_l4_pct": 32.93,
+        "no_qual_pct": 23.65,
+        "muslim_pct": 20.44,
+        "no_religion_pct": 20.79,
+        "age_under_35_pct": 52.77,
+        "age_65_plus_pct": 8.93,
+        "social_rented_pct": 74.99,
+        "white_british_pct": 32.6
+      }
+    },
+    {
+      "ward_slug": "northbury",
+      "ward_name": "Northbury",
+      "ballot_id": "local.barking-and-dagenham.northbury.2026-05-07",
+      "winner_count": 3,
+      "elected": [
+        {
+          "party": "Labour",
+          "name": "Saima Ashraf",
+          "votes": 1146
+        },
+        {
+          "party": "Labour",
+          "name": "Giasuddin Miah",
+          "votes": 1003
+        },
+        {
+          "party": "Labour",
+          "name": "Summya Sohaib",
+          "votes": 950
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Labour",
+          "name": "Saima Ashraf",
+          "votes": 1146,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Giasuddin Miah",
+          "votes": 1003,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Summya Sohaib",
+          "votes": 950,
+          "elected": true
+        },
+        {
+          "party": "Green",
+          "name": "Curtis Cooper",
+          "votes": 940,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Khawar Rizwan Nasim",
+          "votes": 889,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Aiden Nicholls",
+          "votes": 868,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Shibli Rahman",
+          "votes": 342,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Scott Cleaver",
+          "votes": 328,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Ahad Hossain",
+          "votes": 326,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Rasel Miha",
+          "votes": 309,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Paul Mateiu",
+          "votes": 289,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Lesley McNab",
+          "votes": 276,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Mehnaz Ali",
+          "votes": 129,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Labour": 39.76,
+        "Green": 34.6,
+        "Conservative": 12.53,
+        "Reform UK": 11.46,
+        "Liberal Democrat": 1.65
+      },
+      "party_seats_won": {
+        "Labour": 3
+      },
+      "winning_party": "Labour",
+      "total_votes": 7795,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-11T00:00:09Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05014066",
+        "qual_l4_pct": 37.5,
+        "no_qual_pct": 21.08,
+        "muslim_pct": 39.01,
+        "no_religion_pct": 10.17,
+        "age_under_35_pct": 53.78,
+        "age_65_plus_pct": 6.01,
+        "social_rented_pct": 57.72,
+        "white_british_pct": 12.52
+      }
+    },
+    {
+      "ward_slug": "thames-view",
+      "ward_name": "Thames View",
+      "ballot_id": "local.barking-and-dagenham.thames-view.2026-05-07",
+      "winner_count": 2,
+      "elected": [
+        {
+          "party": "Labour",
+          "name": "Lucy Sara Lee",
+          "votes": 567
+        },
+        {
+          "party": "Labour",
+          "name": "Sabbir Zamee",
+          "votes": 551
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Labour",
+          "name": "Lucy Sara Lee",
+          "votes": 567,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Sabbir Zamee",
+          "votes": 551,
+          "elected": true
+        },
+        {
+          "party": "Green",
+          "name": "Emma Louise Grove",
+          "votes": 392,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Paul David Powlesland",
+          "votes": 336,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "lon Adam",
+          "votes": 201,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Karen Staddon",
+          "votes": 195,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Andrew Boff",
+          "votes": 125,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Comfort Adegbulugbe",
+          "votes": 114,
+          "elected": false
+        },
+        {
+          "party": "Christian Peoples Alliance",
+          "name": "Lucy Baiye-Gaman",
+          "votes": 41,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Mine Mayda",
+          "votes": 34,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Labour": 43.74,
+        "Green": 28.48,
+        "Reform UK": 15.49,
+        "Conservative": 9.35,
+        "Christian Peoples Alliance": 1.6,
+        "Liberal Democrat": 1.33
+      },
+      "party_seats_won": {
+        "Labour": 2
+      },
+      "winning_party": "Labour",
+      "total_votes": 2556,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-11T00:01:07Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05014068",
+        "qual_l4_pct": 33.39,
+        "no_qual_pct": 23.83,
+        "muslim_pct": 30.25,
+        "no_religion_pct": 16.77,
+        "age_under_35_pct": 53.59,
+        "age_65_plus_pct": 7.63,
+        "social_rented_pct": 89.06,
+        "white_british_pct": 23.61
+      }
+    },
+    {
+      "ward_slug": "valence",
+      "ward_name": "Valence",
+      "ballot_id": "local.barking-and-dagenham.valence.2026-05-07",
+      "winner_count": 3,
+      "elected": [
+        {
+          "party": "Labour",
+          "name": "Syed Feroz Ghani",
+          "votes": 1270
+        },
+        {
+          "party": "Labour",
+          "name": "Jane Elizabeth Jones",
+          "votes": 1189
+        },
+        {
+          "party": "Reform UK",
+          "name": "Kim Barti",
+          "votes": 1186
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Labour",
+          "name": "Syed Feroz Ghani",
+          "votes": 1270,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Jane Elizabeth Jones",
+          "votes": 1189,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Kim Barti",
+          "votes": 1186,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Barb Gibbs",
+          "votes": 1160,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Laura Iosifescu",
+          "votes": 1112,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Mavis Oti Boakye",
+          "votes": 1075,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Saqib Bashir",
+          "votes": 880,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Mark Akindeko",
+          "votes": 348,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Amber Ijaz",
+          "votes": 309,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Vivien Ojo",
+          "votes": 277,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Goodluck Nonye Uba",
+          "votes": 230,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Labour": 39.52,
+        "Reform UK": 37.86,
+        "Green": 9.74,
+        "Conservative": 9.46,
+        "Liberal Democrat": 3.42
+      },
+      "party_seats_won": {
+        "Labour": 2,
+        "Reform UK": 1
+      },
+      "winning_party": "Labour",
+      "total_votes": 9036,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-11T00:01:08Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05014069",
+        "qual_l4_pct": 28.15,
+        "no_qual_pct": 25.49,
+        "muslim_pct": 20.58,
+        "no_religion_pct": 24.99,
+        "age_under_35_pct": 49.19,
+        "age_65_plus_pct": 10.14,
+        "social_rented_pct": 68.31,
+        "white_british_pct": 39.82
+      }
+    },
+    {
+      "ward_slug": "village",
+      "ward_name": "Village",
+      "ballot_id": "local.barking-and-dagenham.village.2026-05-07",
+      "winner_count": 3,
+      "elected": [
+        {
+          "party": "Labour",
+          "name": "Ajanta Deb Roy",
+          "votes": 1542
+        },
+        {
+          "party": "Labour",
+          "name": "Phil Waker",
+          "votes": 1495
+        },
+        {
+          "party": "Labour",
+          "name": "Julia Williams",
+          "votes": 1493
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Labour",
+          "name": "Ajanta Deb Roy",
+          "votes": 1542,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Phil Waker",
+          "votes": 1495,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Julia Williams",
+          "votes": 1493,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Del Hunter",
+          "votes": 1007,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Michael David Smith",
+          "votes": 1007,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Marina Sanduleac",
+          "votes": 960,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Sheikh Mostak Ahmed",
+          "votes": 407,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Graham Gosling",
+          "votes": 334,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Arinola Ibiyemi Araba",
+          "votes": 320,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Olumide Adeyefa",
+          "votes": 309,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Labour": 51.05,
+        "Reform UK": 33.51,
+        "Conservative": 11.96,
+        "Liberal Democrat": 3.48
+      },
+      "party_seats_won": {
+        "Labour": 3
+      },
+      "winning_party": "Labour",
+      "total_votes": 8874,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-11T00:01:10Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05014070",
+        "qual_l4_pct": 32.03,
+        "no_qual_pct": 23.82,
+        "muslim_pct": 16.97,
+        "no_religion_pct": 21.39,
+        "age_under_35_pct": 50.56,
+        "age_65_plus_pct": 11.45,
+        "social_rented_pct": 76.1,
+        "white_british_pct": 37.29
+      }
+    },
+    {
+      "ward_slug": "whalebone",
+      "ward_name": "Whalebone",
+      "ballot_id": "local.barking-and-dagenham.whalebone.2026-05-07",
+      "winner_count": 3,
+      "elected": [
+        {
+          "party": "Labour",
+          "name": "Rubina Siddiqui",
+          "votes": 1289
+        },
+        {
+          "party": "Labour",
+          "name": "Andrew Achilleos",
+          "votes": 1254
+        },
+        {
+          "party": "Labour",
+          "name": "Mukhtar Yusuf",
+          "votes": 1124
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Labour",
+          "name": "Rubina Siddiqui",
+          "votes": 1289,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Andrew Achilleos",
+          "votes": 1254,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Mukhtar Yusuf",
+          "votes": 1124,
+          "elected": true
+        },
+        {
+          "party": "Green",
+          "name": "Nazrul Islam",
+          "votes": 817,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Dixant Patel",
+          "votes": 817,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Adrian Gregory-Brown",
+          "votes": 796,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Ramesh Babu Boddukola",
+          "votes": 788,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Kenneth Okechukwu Odunze",
+          "votes": 381,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Ada Emeka Echedom",
+          "votes": 378,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Olesea Pasat",
+          "votes": 332,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Herbert Munangatire",
+          "votes": 228,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Labour": 44.7,
+        "Green": 9.96,
+        "Conservative": 19.21,
+        "Reform UK": 23.35,
+        "Liberal Democrat": 2.78
+      },
+      "party_seats_won": {
+        "Labour": 3
+      },
+      "winning_party": "Labour",
+      "total_votes": 8204,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-11T00:01:11Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05014071",
+        "qual_l4_pct": 36.9,
+        "no_qual_pct": 20.58,
+        "muslim_pct": 23.91,
+        "no_religion_pct": 15.02,
+        "age_under_35_pct": 51.99,
+        "age_65_plus_pct": 8.5,
+        "social_rented_pct": 33.8,
+        "white_british_pct": 25.71
+      }
+    }
+  ],
+  "n_wards_attempted": 19,
+  "n_wards_with_results": 14,
+  "n_wards_no_results": 5
+}

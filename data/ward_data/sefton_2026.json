@@ -1,0 +1,2907 @@
+{
+  "council_slug": "sefton",
+  "election_date": "2026-05-07",
+  "source": "https://candidates.democracyclub.org.uk/api/next/",
+  "fetched_at": "2026-05-11T03:13:55Z",
+  "wards": [
+    {
+      "ward_slug": "ainsdale",
+      "ward_name": "Ainsdale",
+      "ballot_id": "local.sefton.ainsdale.2026-05-07",
+      "winner_count": 3,
+      "elected": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Lynne Thompson",
+          "votes": 2199
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Lesley Delves",
+          "votes": 1679
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Rowenna Gibson",
+          "votes": 1313
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Lynne Thompson",
+          "votes": 2199,
+          "elected": true
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Lesley Delves",
+          "votes": 1679,
+          "elected": true
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Rowenna Gibson",
+          "votes": 1313,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Victor Graham Annells",
+          "votes": 1199,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Norman Leslie Gwyther",
+          "votes": 1090,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Mal Malbert",
+          "votes": 1057,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Tony Brough",
+          "votes": 771,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Janet Harrison-Kelly",
+          "votes": 771,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Frank Hanley",
+          "votes": 770,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Mark Hughes",
+          "votes": 737,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Alan Salter",
+          "votes": 490,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Joseph John Connolly",
+          "votes": 403,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Alwynne Ann Cartmell",
+          "votes": 399,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Michael James Shaw",
+          "votes": 391,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Alasdair Martyn Smith",
+          "votes": 341,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Liberal Democrat": 38.14,
+        "Reform UK": 24.58,
+        "Conservative": 12.14,
+        "Labour": 16.74,
+        "Green": 8.4
+      },
+      "party_seats_won": {
+        "Liberal Democrat": 3
+      },
+      "winning_party": "Liberal Democrat",
+      "total_votes": 13610,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-11T03:14:22Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000932",
+        "qual_l4_pct": 34.05,
+        "no_qual_pct": 15.93,
+        "muslim_pct": 0.63,
+        "no_religion_pct": 31.37,
+        "age_under_35_pct": 32.1,
+        "age_65_plus_pct": 33.75,
+        "social_rented_pct": 21.4,
+        "white_british_pct": 93.5
+      }
+    },
+    {
+      "ward_slug": "aintree-maghull-south",
+      "ward_name": "Aintree & Maghull South",
+      "ballot_id": "local.sefton.aintree-maghull-south.2026-05-07",
+      "winner_count": 3,
+      "elected": [
+        {
+          "party": "Labour",
+          "name": "Marion Atkinson",
+          "votes": 1726
+        },
+        {
+          "party": "Labour",
+          "name": "Danny Burns",
+          "votes": 1656
+        },
+        {
+          "party": "Labour",
+          "name": "Sam Hinde",
+          "votes": 1519
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Labour",
+          "name": "Marion Atkinson",
+          "votes": 1726,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Danny Burns",
+          "votes": 1656,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Sam Hinde",
+          "votes": 1519,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Karen Elizabeth Moore",
+          "votes": 1172,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Debbie Richards",
+          "votes": 1166,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Dennis Leong",
+          "votes": 1157,
+          "elected": false
+        },
+        {
+          "party": "Independent",
+          "name": "Mark Brian Pennock",
+          "votes": 1012,
+          "elected": false
+        },
+        {
+          "party": "Independent",
+          "name": "Philip Benjamin Chadwick",
+          "votes": 978,
+          "elected": false
+        },
+        {
+          "party": "Independent",
+          "name": "Patricia Spencer",
+          "votes": 973,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Angela Robinson",
+          "votes": 159,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Richard Hackford",
+          "votes": 157,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Louise Barber",
+          "votes": 136,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Daniel Snape",
+          "votes": 128,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Marianne Martina Kavanagh",
+          "votes": 106,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Labour": 40.69,
+        "Reform UK": 29.02,
+        "Independent": 24.6,
+        "Liberal Democrat": 3.69,
+        "Conservative": 2.01
+      },
+      "party_seats_won": {
+        "Labour": 3
+      },
+      "winning_party": "Labour",
+      "total_votes": 12045,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-11T03:14:23Z",
+      "census": {
+        "matched": false,
+        "note": "no Census ward found by name"
+      }
+    },
+    {
+      "ward_slug": "birkdale",
+      "ward_name": "Birkdale",
+      "ballot_id": "local.sefton.birkdale.2026-05-07",
+      "winner_count": 3,
+      "elected": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Iain Brodie Browne",
+          "votes": 1794
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Simon John Shaw",
+          "votes": 1645
+        },
+        {
+          "party": "Reform UK",
+          "name": "Mike Ryder",
+          "votes": 1372
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Iain Brodie Browne",
+          "votes": 1794,
+          "elected": true
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Simon John Shaw",
+          "votes": 1645,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Mike Ryder",
+          "votes": 1372,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Lynne Lloyd-Stafford",
+          "votes": 1298,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Mark Ormsby",
+          "votes": 1251,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Dominic Pillai",
+          "votes": 1243,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Sonya Ann Kelly",
+          "votes": 1137,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Callum Luke Naylor",
+          "votes": 879,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Carla Curtis-Tansley",
+          "votes": 801,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "David Andrew McIntosh",
+          "votes": 460,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Michael John Binns",
+          "votes": 458,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Simon Peter Maxwell",
+          "votes": 385,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Angela Mary Halliwell",
+          "votes": 323,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Roger William Halliwell",
+          "votes": 300,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Marie Hansson-Hesketh",
+          "votes": 295,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Liberal Democrat": 34.32,
+        "Reform UK": 28.74,
+        "Labour": 20.65,
+        "Green": 9.55,
+        "Conservative": 6.73
+      },
+      "party_seats_won": {
+        "Liberal Democrat": 2,
+        "Reform UK": 1
+      },
+      "winning_party": "Liberal Democrat",
+      "total_votes": 13641,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-11T03:14:25Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000933",
+        "qual_l4_pct": 34.72,
+        "no_qual_pct": 13.9,
+        "muslim_pct": 0.56,
+        "no_religion_pct": 35.55,
+        "age_under_35_pct": 36.9,
+        "age_65_plus_pct": 22.88,
+        "social_rented_pct": 10.54,
+        "white_british_pct": 93.19
+      }
+    },
+    {
+      "ward_slug": "blundellsands",
+      "ward_name": "Blundellsands",
+      "ballot_id": "local.sefton.blundellsands.2026-05-07",
+      "winner_count": 3,
+      "elected": [
+        {
+          "party": "Labour",
+          "name": "Diane Roscoe",
+          "votes": 1792
+        },
+        {
+          "party": "Labour",
+          "name": "David Roscoe",
+          "votes": 1752
+        },
+        {
+          "party": "Labour",
+          "name": "Christine Howard",
+          "votes": 1578
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Labour",
+          "name": "Diane Roscoe",
+          "votes": 1792,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "David Roscoe",
+          "votes": 1752,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Christine Howard",
+          "votes": 1578,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Gerard Maher",
+          "votes": 864,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Les Richards",
+          "votes": 830,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Mark Wilcock",
+          "votes": 752,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Jenny Meriel Cooper",
+          "votes": 712,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Lyndsey Marie Doolin",
+          "votes": 683,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Sophie Victoria Whitley-Forshaw",
+          "votes": 604,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Katie Maria Burgess",
+          "votes": 530,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Sean Dorgan",
+          "votes": 505,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Rebecca Hanson",
+          "votes": 418,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Sunny Sawhney",
+          "votes": 402,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Keith Cawdron",
+          "votes": 344,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Brian Dunning",
+          "votes": 258,
+          "elected": false
+        },
+        {
+          "party": "The Official Monster Raving Loony Party",
+          "name": "Wing Commander Lucky Luke Jackson",
+          "votes": 80,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Labour": 42.32,
+        "Reform UK": 20.21,
+        "Green": 16.52,
+        "Conservative": 11.87,
+        "Liberal Democrat": 8.43,
+        "The Official Monster Raving Loony Party": 0.66
+      },
+      "party_seats_won": {
+        "Labour": 3
+      },
+      "winning_party": "Labour",
+      "total_votes": 12104,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-11T03:14:27Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000934",
+        "qual_l4_pct": 42.45,
+        "no_qual_pct": 13.11,
+        "muslim_pct": 0.66,
+        "no_religion_pct": 23.34,
+        "age_under_35_pct": 31.25,
+        "age_65_plus_pct": 31.35,
+        "social_rented_pct": 8.66,
+        "white_british_pct": 91.91
+      }
+    },
+    {
+      "ward_slug": "bootle-east",
+      "ward_name": "Bootle East",
+      "ballot_id": "local.sefton.bootle-east.2026-05-07",
+      "winner_count": 3,
+      "elected": [
+        {
+          "party": "Labour",
+          "name": "Graeme Thomas Cooper",
+          "votes": 913
+        },
+        {
+          "party": "Labour",
+          "name": "Maria Porter",
+          "votes": 895
+        },
+        {
+          "party": "Labour",
+          "name": "Brenda O'Brien",
+          "votes": 841
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Labour",
+          "name": "Graeme Thomas Cooper",
+          "votes": 913,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Maria Porter",
+          "votes": 895,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Brenda O'Brien",
+          "votes": 841,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Phil Baker",
+          "votes": 812,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "John Darbyshire",
+          "votes": 743,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Mark Rowlands",
+          "votes": 698,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Frances Henderson",
+          "votes": 413,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Roy Greason",
+          "votes": 401,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Morgan Lynch",
+          "votes": 392,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Jeremy Nelson",
+          "votes": 136,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Raymond Woods",
+          "votes": 123,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Patrick Darke",
+          "votes": 99,
+          "elected": false
+        },
+        {
+          "party": "TUSC",
+          "name": "Dean Young",
+          "votes": 98,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Labour": 40.36,
+        "Reform UK": 34.32,
+        "Green": 18.37,
+        "Liberal Democrat": 3.95,
+        "Conservative": 1.51,
+        "TUSC": 1.49
+      },
+      "party_seats_won": {
+        "Labour": 3
+      },
+      "winning_party": "Labour",
+      "total_votes": 6564,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-11T03:14:28Z",
+      "census": {
+        "matched": false,
+        "note": "no Census ward found by name"
+      }
+    },
+    {
+      "ward_slug": "bootle-west",
+      "ward_name": "Bootle West",
+      "ballot_id": "local.sefton.bootle-west.2026-05-07",
+      "winner_count": 3,
+      "elected": [
+        {
+          "party": "Labour",
+          "name": "Jim Conalty",
+          "votes": 794
+        },
+        {
+          "party": "Labour",
+          "name": "Dan McKee",
+          "votes": 713
+        },
+        {
+          "party": "Reform UK",
+          "name": "Jay Leslie Cooper",
+          "votes": 705
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Labour",
+          "name": "Jim Conalty",
+          "votes": 794,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Dan McKee",
+          "votes": 713,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Jay Leslie Cooper",
+          "votes": 705,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Mhairi Doyle",
+          "votes": 689,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Kristina Elizabeth Dwyer",
+          "votes": 660,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Andrew Thompson",
+          "votes": 658,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Lorelei Dyson",
+          "votes": 520,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Jordan Raymond Cox",
+          "votes": 505,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Charlotte Elizabeth Weaver",
+          "votes": 465,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Lucy Woods",
+          "votes": 140,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Lynne Margaret Bold",
+          "votes": 102,
+          "elected": false
+        },
+        {
+          "party": "TUSC",
+          "name": "Liam Williams",
+          "votes": 61,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Labour": 36.53,
+        "Reform UK": 33.65,
+        "Green": 24.78,
+        "Liberal Democrat": 2.33,
+        "Conservative": 1.7,
+        "TUSC": 1.01
+      },
+      "party_seats_won": {
+        "Labour": 2,
+        "Reform UK": 1
+      },
+      "winning_party": "Labour",
+      "total_votes": 6012,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-11T03:14:30Z",
+      "census": {
+        "matched": false,
+        "note": "no Census ward found by name"
+      }
+    },
+    {
+      "ward_slug": "cambridge",
+      "ward_name": "Cambridge",
+      "ballot_id": "local.sefton.cambridge.2026-05-07",
+      "winner_count": 3,
+      "elected": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Leo Francis Evans",
+          "votes": 1581
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Mike Sammon",
+          "votes": 1510
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Pat Keith",
+          "votes": 1430
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Leo Francis Evans",
+          "votes": 1581,
+          "elected": true
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Mike Sammon",
+          "votes": 1510,
+          "elected": true
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Pat Keith",
+          "votes": 1430,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Sinclair D'Albuquerque",
+          "votes": 1338,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Mike Morris",
+          "votes": 1289,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Kev Hookham",
+          "votes": 1230,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Caroline Prendergast",
+          "votes": 578,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Gary Haran Doyle",
+          "votes": 564,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Sam Constantine",
+          "votes": 530,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Helen Avis",
+          "votes": 409,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Carla Fox",
+          "votes": 375,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Stephen William Hesketh",
+          "votes": 370,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Caroline Michelle Longdon",
+          "votes": 366,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Nina Samantha Killen",
+          "votes": 354,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Lily Ritchie",
+          "votes": 330,
+          "elected": false
+        },
+        {
+          "party": "Southport Community Independents",
+          "name": "John Boye",
+          "votes": 128,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Liberal Democrat": 36.51,
+        "Reform UK": 31.15,
+        "Conservative": 13.5,
+        "Labour": 8.83,
+        "Green": 8.97,
+        "Southport Community Independents": 1.03
+      },
+      "party_seats_won": {
+        "Liberal Democrat": 3
+      },
+      "winning_party": "Liberal Democrat",
+      "total_votes": 12382,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-11T03:14:31Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000935",
+        "qual_l4_pct": 29.59,
+        "no_qual_pct": 23.22,
+        "muslim_pct": 0.88,
+        "no_religion_pct": 29.18,
+        "age_under_35_pct": 25.94,
+        "age_65_plus_pct": 44.42,
+        "social_rented_pct": 22.57,
+        "white_british_pct": 87.97
+      }
+    },
+    {
+      "ward_slug": "dukes",
+      "ward_name": "Duke's",
+      "ballot_id": "local.sefton.dukes.2026-05-07",
+      "winner_count": 3,
+      "elected": [
+        {
+          "party": "Liberal Democrat",
+          "name": "John David Pugh",
+          "votes": 1653
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Michael Paul Braham",
+          "votes": 1445
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Danny Howard",
+          "votes": 1343
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Liberal Democrat",
+          "name": "John David Pugh",
+          "votes": 1653,
+          "elected": true
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Michael Paul Braham",
+          "votes": 1445,
+          "elected": true
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Danny Howard",
+          "votes": 1343,
+          "elected": true
+        },
+        {
+          "party": "Conservative",
+          "name": "Mike Prendergast",
+          "votes": 1136,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Owen James Phillips",
+          "votes": 1047,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Laura Nuttall",
+          "votes": 956,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Lorinda Swift",
+          "votes": 946,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Sarah Zhang",
+          "votes": 935,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Benjamin Younis",
+          "votes": 759,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "David Ian Newman",
+          "votes": 384,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Kim Doyle",
+          "votes": 367,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Alexander Constantine",
+          "votes": 304,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Charlotte Megan Kelly",
+          "votes": 294,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Ganesh Chandra Paul",
+          "votes": 287,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Patrick Sharman",
+          "votes": 255,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Liberal Democrat": 36.67,
+        "Conservative": 23.54,
+        "Reform UK": 24.18,
+        "Green": 8.57,
+        "Labour": 7.04
+      },
+      "party_seats_won": {
+        "Liberal Democrat": 3
+      },
+      "winning_party": "Liberal Democrat",
+      "total_votes": 12111,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-11T03:14:33Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000938",
+        "qual_l4_pct": 31.47,
+        "no_qual_pct": 21.81,
+        "muslim_pct": 1.85,
+        "no_religion_pct": 29.75,
+        "age_under_35_pct": 29.91,
+        "age_65_plus_pct": 36.48,
+        "social_rented_pct": 13.63,
+        "white_british_pct": 79.83
+      }
+    },
+    {
+      "ward_slug": "ford",
+      "ward_name": "Ford",
+      "ballot_id": "local.sefton.ford.2026-05-07",
+      "winner_count": 3,
+      "elected": [
+        {
+          "party": "Labour",
+          "name": "Liz Dowd",
+          "votes": 1209
+        },
+        {
+          "party": "Labour",
+          "name": "Paulette Lappin",
+          "votes": 1087
+        },
+        {
+          "party": "Labour",
+          "name": "Ian George Moncur",
+          "votes": 1077
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Labour",
+          "name": "Liz Dowd",
+          "votes": 1209,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Paulette Lappin",
+          "votes": 1087,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Ian George Moncur",
+          "votes": 1077,
+          "elected": true
+        },
+        {
+          "party": "Independent",
+          "name": "Ed Conley",
+          "votes": 816,
+          "elected": false
+        },
+        {
+          "party": "Independent",
+          "name": "Paul Rogers",
+          "votes": 778,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "David Jones",
+          "votes": 776,
+          "elected": false
+        },
+        {
+          "party": "Independent",
+          "name": "Jack Colbert",
+          "votes": 722,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Neil Lawrence Miney",
+          "votes": 679,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Craig Owen Sweeney",
+          "votes": 649,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Alex McIvor",
+          "votes": 100,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Labour": 42.73,
+        "Independent": 29.34,
+        "Reform UK": 26.66,
+        "Conservative": 1.27
+      },
+      "party_seats_won": {
+        "Labour": 3
+      },
+      "winning_party": "Labour",
+      "total_votes": 7893,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-11T03:14:35Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000939",
+        "qual_l4_pct": 20.69,
+        "no_qual_pct": 25.12,
+        "muslim_pct": 0.49,
+        "no_religion_pct": 28.72,
+        "age_under_35_pct": 41.83,
+        "age_65_plus_pct": 19.63,
+        "social_rented_pct": 63.88,
+        "white_british_pct": 93.69
+      }
+    },
+    {
+      "ward_slug": "formby-east",
+      "ward_name": "Formby East",
+      "ballot_id": "local.sefton.formby-east.2026-05-07",
+      "winner_count": 3,
+      "elected": [
+        {
+          "party": "Labour",
+          "name": "Catie Page",
+          "votes": 2045
+        },
+        {
+          "party": "Labour",
+          "name": "Chris Page",
+          "votes": 1833
+        },
+        {
+          "party": "Labour",
+          "name": "Anthony Howe",
+          "votes": 1676
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Labour",
+          "name": "Catie Page",
+          "votes": 2045,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Chris Page",
+          "votes": 1833,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Anthony Howe",
+          "votes": 1676,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Nick Marley",
+          "votes": 1186,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "David Walker",
+          "votes": 1137,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Andy Wright",
+          "votes": 1047,
+          "elected": false
+        },
+        {
+          "party": "Formby Residents Action Group",
+          "name": "Maria Bennett",
+          "votes": 836,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Colin Appleton",
+          "votes": 571,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Carol Ann Bradley",
+          "votes": 546,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "David Dutton",
+          "votes": 534,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Alison Moira Gibbon",
+          "votes": 518,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Mike Walsh",
+          "votes": 395,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Angelica Sadrieva",
+          "votes": 327,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Erin Harvey",
+          "votes": 244,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Andrew Greenan",
+          "votes": 234,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Gary Wallis",
+          "votes": 146,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Labour": 41.84,
+        "Reform UK": 25.39,
+        "Formby Residents Action Group": 6.3,
+        "Conservative": 10.79,
+        "Green": 10.99,
+        "Liberal Democrat": 4.7
+      },
+      "party_seats_won": {
+        "Labour": 3
+      },
+      "winning_party": "Labour",
+      "total_votes": 13275,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-11T03:15:00Z",
+      "census": {
+        "matched": false,
+        "note": "no Census ward found by name"
+      }
+    },
+    {
+      "ward_slug": "formby-west",
+      "ward_name": "Formby West",
+      "ballot_id": "local.sefton.formby-west.2026-05-07",
+      "winner_count": 3,
+      "elected": [
+        {
+          "party": "Labour",
+          "name": "Karen Cavanagh",
+          "votes": 1838
+        },
+        {
+          "party": "Labour",
+          "name": "Peter Harvey",
+          "votes": 1706
+        },
+        {
+          "party": "Labour",
+          "name": "Carol Richards",
+          "votes": 1685
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Labour",
+          "name": "Karen Cavanagh",
+          "votes": 1838,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Peter Harvey",
+          "votes": 1706,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Carol Richards",
+          "votes": 1685,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Chris Hornby",
+          "votes": 1144,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Maria Patrica Cusick",
+          "votes": 1104,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Dave Irving",
+          "votes": 1100,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Denise Dutton",
+          "votes": 1089,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Amanda Brown",
+          "votes": 1024,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Martyn Paul Barber",
+          "votes": 823,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Peter George Cherry",
+          "votes": 532,
+          "elected": false
+        },
+        {
+          "party": "Formby Residents Action Group",
+          "name": "Paul Graham Wiencke",
+          "votes": 485,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Susanne Zajitschek",
+          "votes": 400,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Felix Zajitschek",
+          "votes": 383,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Roy Connell",
+          "votes": 293,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Annie Gorski",
+          "votes": 259,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Simon Lewis",
+          "votes": 244,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Labour": 37.06,
+        "Reform UK": 23.73,
+        "Conservative": 20.81,
+        "Green": 9.32,
+        "Formby Residents Action Group": 3.44,
+        "Liberal Democrat": 5.64
+      },
+      "party_seats_won": {
+        "Labour": 3
+      },
+      "winning_party": "Labour",
+      "total_votes": 14109,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-11T03:15:36Z",
+      "census": {
+        "matched": false,
+        "note": "no Census ward found by name"
+      }
+    },
+    {
+      "ward_slug": "great-crosby",
+      "ward_name": "Great Crosby",
+      "ballot_id": "local.sefton.great-crosby.2026-05-07",
+      "winner_count": 3,
+      "elected": [
+        {
+          "party": "Labour",
+          "name": "Jen Corcoran",
+          "votes": 1563
+        },
+        {
+          "party": "Labour",
+          "name": "Les Byrom",
+          "votes": 1534
+        },
+        {
+          "party": "Labour",
+          "name": "Janet Grace",
+          "votes": 1486
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Labour",
+          "name": "Jen Corcoran",
+          "votes": 1563,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Les Byrom",
+          "votes": 1534,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Janet Grace",
+          "votes": 1486,
+          "elected": true
+        },
+        {
+          "party": "Green",
+          "name": "Carla Burns",
+          "votes": 1149,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "James David O'Keeffe",
+          "votes": 1032,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Ben Sambrook",
+          "votes": 896,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Victor Hudson Foulds",
+          "votes": 767,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Stephen Gavin Mulcahy",
+          "votes": 738,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Steve Ray",
+          "votes": 723,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Hannah Jane Gee",
+          "votes": 563,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Carol Ann Hill",
+          "votes": 381,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Sean Doherty",
+          "votes": 372,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Oliver John Doyle",
+          "votes": 264,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Labour": 39.96,
+        "Green": 26.83,
+        "Reform UK": 19.43,
+        "Liberal Democrat": 11.48,
+        "Conservative": 2.3
+      },
+      "party_seats_won": {
+        "Labour": 3
+      },
+      "winning_party": "Labour",
+      "total_votes": 11468,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-11T03:15:38Z",
+      "census": {
+        "matched": false,
+        "note": "no Census ward found by name"
+      }
+    },
+    {
+      "ward_slug": "kew",
+      "ward_name": "Kew",
+      "ballot_id": "local.sefton.kew.2026-05-07",
+      "winner_count": 3,
+      "elected": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Anne Corbishley",
+          "votes": 1576
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Yaso Sathiy",
+          "votes": 1424
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Mike Kirby",
+          "votes": 1352
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Anne Corbishley",
+          "votes": 1576,
+          "elected": true
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Yaso Sathiy",
+          "votes": 1424,
+          "elected": true
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Mike Kirby",
+          "votes": 1352,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Nicholas Guy Robinson",
+          "votes": 1310,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Leigh Christian Duffy",
+          "votes": 1276,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Jason Michael Clarke",
+          "votes": 1137,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Melanie Horne",
+          "votes": 834,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Michael Burt",
+          "votes": 768,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Trevor James Vaughan",
+          "votes": 667,
+          "elected": false
+        },
+        {
+          "party": "Southport Community Independents",
+          "name": "Dawn Aspinall",
+          "votes": 339,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Stuart Iain Fleming",
+          "votes": 298,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Xabi Anthony Michael Arthur",
+          "votes": 280,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Morgan Walton",
+          "votes": 197,
+          "elected": false
+        },
+        {
+          "party": "Southport Community Independents",
+          "name": "Alix Shaw",
+          "votes": 149,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Liberal Democrat": 37.49,
+        "Reform UK": 32.08,
+        "Labour": 19.55,
+        "Southport Community Independents": 4.2,
+        "Conservative": 6.68
+      },
+      "party_seats_won": {
+        "Liberal Democrat": 3
+      },
+      "winning_party": "Liberal Democrat",
+      "total_votes": 11607,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-11T03:15:39Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000941",
+        "qual_l4_pct": 31.1,
+        "no_qual_pct": 17.57,
+        "muslim_pct": 2.37,
+        "no_religion_pct": 36.8,
+        "age_under_35_pct": 41.15,
+        "age_65_plus_pct": 20.31,
+        "social_rented_pct": 15.82,
+        "white_british_pct": 85.46
+      }
+    },
+    {
+      "ward_slug": "litherland",
+      "ward_name": "Litherland",
+      "ballot_id": "local.sefton.litherland.2026-05-07",
+      "winner_count": 3,
+      "elected": [
+        {
+          "party": "Labour",
+          "name": "Julia Garner",
+          "votes": 1043
+        },
+        {
+          "party": "Labour",
+          "name": "John Kelly",
+          "votes": 966
+        },
+        {
+          "party": "Labour",
+          "name": "Daren Veidman",
+          "votes": 838
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Labour",
+          "name": "Julia Garner",
+          "votes": 1043,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "John Kelly",
+          "votes": 966,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Daren Veidman",
+          "votes": 838,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Joanne Rooney",
+          "votes": 781,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Mark David McParlan",
+          "votes": 780,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Manuel Antonio Hernandez Perez",
+          "votes": 732,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Paul Andrew Dunbar",
+          "votes": 557,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Jennifer Stephanie Grice",
+          "votes": 556,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Matthew William Johnson",
+          "votes": 474,
+          "elected": false
+        },
+        {
+          "party": "Independent",
+          "name": "Ian Smith",
+          "votes": 249,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Shaun Gilroy",
+          "votes": 147,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Sarah Harding",
+          "votes": 138,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Marian Pope",
+          "votes": 121,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Robert Percival Greenwood",
+          "votes": 112,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Labour": 37.99,
+        "Reform UK": 30.6,
+        "Green": 21.18,
+        "Independent": 3.32,
+        "Liberal Democrat": 5.42,
+        "Conservative": 1.49
+      },
+      "party_seats_won": {
+        "Labour": 3
+      },
+      "winning_party": "Labour",
+      "total_votes": 7494,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-11T03:15:41Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000943",
+        "qual_l4_pct": 21.54,
+        "no_qual_pct": 23.93,
+        "muslim_pct": 0.82,
+        "no_religion_pct": 29.65,
+        "age_under_35_pct": 43.53,
+        "age_65_plus_pct": 17.52,
+        "social_rented_pct": 46.38,
+        "white_british_pct": 93.45
+      }
+    },
+    {
+      "ward_slug": "lydiate-maghull-west",
+      "ward_name": "Lydiate & Maghull West",
+      "ballot_id": "local.sefton.lydiate-maghull-west.2026-05-07",
+      "winner_count": 3,
+      "elected": [
+        {
+          "party": "Lydiate and Maghull Community Independents",
+          "name": "Liam Stoddart",
+          "votes": 1723
+        },
+        {
+          "party": "Lydiate and Maghull Community Independents",
+          "name": "Barry Nixon",
+          "votes": 1716
+        },
+        {
+          "party": "Lydiate and Maghull Community Independents",
+          "name": "Sonia Crompton",
+          "votes": 1700
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Lydiate and Maghull Community Independents",
+          "name": "Liam Stoddart",
+          "votes": 1723,
+          "elected": true
+        },
+        {
+          "party": "Lydiate and Maghull Community Independents",
+          "name": "Barry Nixon",
+          "votes": 1716,
+          "elected": true
+        },
+        {
+          "party": "Lydiate and Maghull Community Independents",
+          "name": "Sonia Crompton",
+          "votes": 1700,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Chloe Parker",
+          "votes": 1552,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Kenneth Michael Hughes",
+          "votes": 1439,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Mike Desmond",
+          "votes": 1407,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Marijke Chamberlain",
+          "votes": 1018,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Chindam Ng",
+          "votes": 982,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Alex Fry",
+          "votes": 961,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Anne Clegg",
+          "votes": 470,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "David Mellalieu",
+          "votes": 304,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Michalina Maria Dettlaff-Zinonos",
+          "votes": 256,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Jessamine Miles Hounslea",
+          "votes": 200,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Mark Bisbey",
+          "votes": 128,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Richard Marston",
+          "votes": 72,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Lydiate and Maghull Community Independents": 36.9,
+        "Labour": 31.58,
+        "Reform UK": 21.26,
+        "Conservative": 6.65,
+        "Liberal Democrat": 3.62
+      },
+      "party_seats_won": {
+        "Lydiate and Maghull Community Independents": 3
+      },
+      "winning_party": "Lydiate and Maghull Community Independents",
+      "total_votes": 13928,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-11T03:15:43Z",
+      "census": {
+        "matched": false,
+        "note": "no Census ward found by name"
+      }
+    },
+    {
+      "ward_slug": "maghull-east",
+      "ward_name": "Maghull East",
+      "ballot_id": "local.sefton.maghull-east.2026-05-07",
+      "winner_count": 3,
+      "elected": [
+        {
+          "party": "Labour",
+          "name": "Phil Hart",
+          "votes": 1468
+        },
+        {
+          "party": "Lydiate and Maghull Community Independents",
+          "name": "Joanne Elizabeth McCall",
+          "votes": 1413
+        },
+        {
+          "party": "Lydiate and Maghull Community Independents",
+          "name": "David Leatherbarrow",
+          "votes": 1396
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Labour",
+          "name": "Phil Hart",
+          "votes": 1468,
+          "elected": true
+        },
+        {
+          "party": "Lydiate and Maghull Community Independents",
+          "name": "Joanne Elizabeth McCall",
+          "votes": 1413,
+          "elected": true
+        },
+        {
+          "party": "Lydiate and Maghull Community Independents",
+          "name": "David Leatherbarrow",
+          "votes": 1396,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "June Burns",
+          "votes": 1358,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "James Joseph Hansen",
+          "votes": 1259,
+          "elected": false
+        },
+        {
+          "party": "Lydiate and Maghull Community Independents",
+          "name": "Paul Francis McCord",
+          "votes": 1188,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Gary Anthony Carter",
+          "votes": 795,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Greg Roberts",
+          "votes": 746,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Emlyn Williams",
+          "votes": 701,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Craig Peter Titherington",
+          "votes": 168,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Marcus Julian Romaine Bleasdale",
+          "votes": 165,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Adam Marsden",
+          "votes": 129,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Pauline McGregor",
+          "votes": 115,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Raymond Lee",
+          "votes": 113,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Jane Elizabeth Nelson",
+          "votes": 97,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Labour": 36.77,
+        "Lydiate and Maghull Community Independents": 35.97,
+        "Reform UK": 20.18,
+        "Conservative": 4.16,
+        "Liberal Democrat": 2.93
+      },
+      "party_seats_won": {
+        "Labour": 1,
+        "Lydiate and Maghull Community Independents": 2
+      },
+      "winning_party": "Lydiate and Maghull Community Independents",
+      "total_votes": 11111,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-11T03:15:44Z",
+      "census": {
+        "matched": false,
+        "note": "no Census ward found by name"
+      }
+    },
+    {
+      "ward_slug": "meols",
+      "ward_name": "Meols",
+      "ballot_id": "local.sefton.meols.2026-05-07",
+      "winner_count": 3,
+      "elected": [
+        {
+          "party": "Liberal Democrat",
+          "name": "John Dodd",
+          "votes": 2205
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Daniel George Lewis",
+          "votes": 1822
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Lauren Keith",
+          "votes": 1807
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Liberal Democrat",
+          "name": "John Dodd",
+          "votes": 2205,
+          "elected": true
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Daniel George Lewis",
+          "votes": 1822,
+          "elected": true
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Lauren Keith",
+          "votes": 1807,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Peyton Megan Edwards",
+          "votes": 1343,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Catherine Mary Stephenson",
+          "votes": 1276,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Larry Sweeney",
+          "votes": 1272,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Joseph Thomas Hart",
+          "votes": 393,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Pauline Ann Hesketh",
+          "votes": 361,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Adam Charles Edward Kennaugh",
+          "votes": 352,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Ros Mason",
+          "votes": 351,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Bob Teesdale",
+          "votes": 350,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Darcy Iveson-Berkeley",
+          "votes": 329,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Daniel Max Longdon",
+          "votes": 328,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Jack Finlay Rogan",
+          "votes": 312,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Graham Bentley",
+          "votes": 299,
+          "elected": false
+        },
+        {
+          "party": "Southport Community Independents",
+          "name": "Frances Davies",
+          "votes": 103,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Liberal Democrat": 45.21,
+        "Reform UK": 30.16,
+        "Labour": 8.18,
+        "Green": 7.66,
+        "Conservative": 7.99,
+        "Southport Community Independents": 0.8
+      },
+      "party_seats_won": {
+        "Liberal Democrat": 3
+      },
+      "winning_party": "Liberal Democrat",
+      "total_votes": 12903,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-11T03:15:46Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000945",
+        "qual_l4_pct": 30.65,
+        "no_qual_pct": 15.77,
+        "muslim_pct": 0.13,
+        "no_religion_pct": 31.35,
+        "age_under_35_pct": 31.35,
+        "age_65_plus_pct": 33.68,
+        "social_rented_pct": 6.58,
+        "white_british_pct": 95.04
+      }
+    },
+    {
+      "ward_slug": "netherton-north",
+      "ward_name": "Netherton North",
+      "ballot_id": "local.sefton.netherton-north.2026-05-07",
+      "winner_count": 3,
+      "elected": [
+        {
+          "party": "Labour",
+          "name": "Joe Johnson",
+          "votes": 1169
+        },
+        {
+          "party": "Labour",
+          "name": "Helen Duerden",
+          "votes": 1073
+        },
+        {
+          "party": "Labour",
+          "name": "Carla Thomas",
+          "votes": 1021
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Labour",
+          "name": "Joe Johnson",
+          "votes": 1169,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Helen Duerden",
+          "votes": 1073,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Carla Thomas",
+          "votes": 1021,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "David Peter Thomas Ashcroft",
+          "votes": 700,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "David Watson",
+          "votes": 690,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Ian David Wales",
+          "votes": 679,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Benjamin James Crawford",
+          "votes": 314,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Emily Penman",
+          "votes": 286,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Joseph Irvine Walsh",
+          "votes": 263,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Gina Campbell",
+          "votes": 109,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Mary Kenny",
+          "votes": 103,
+          "elected": false
+        },
+        {
+          "party": "TUSC",
+          "name": "Conor Anthony O'Neill",
+          "votes": 84,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Anthony Robertson",
+          "votes": 77,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Labour": 49.68,
+        "Reform UK": 31.5,
+        "Green": 13.14,
+        "Conservative": 1.66,
+        "Liberal Democrat": 2.74,
+        "TUSC": 1.28
+      },
+      "party_seats_won": {
+        "Labour": 3
+      },
+      "winning_party": "Labour",
+      "total_votes": 6568,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-11T03:15:48Z",
+      "census": {
+        "matched": false,
+        "note": "no Census ward found by name"
+      }
+    },
+    {
+      "ward_slug": "netherton-south-orrell",
+      "ward_name": "Netherton South & Orrell",
+      "ballot_id": "local.sefton.netherton-south-orrell.2026-05-07",
+      "winner_count": 3,
+      "elected": [
+        {
+          "party": "Labour",
+          "name": "Chris Hannaway",
+          "votes": 1025
+        },
+        {
+          "party": "Labour",
+          "name": "Tom Spring",
+          "votes": 943
+        },
+        {
+          "party": "Labour",
+          "name": "Joanne Williams",
+          "votes": 935
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Labour",
+          "name": "Chris Hannaway",
+          "votes": 1025,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Tom Spring",
+          "votes": 943,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Joanne Williams",
+          "votes": 935,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Derek Norman Salisbury",
+          "votes": 803,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Ian Stephen Stanton",
+          "votes": 787,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Roderick Anthony Rockingham Stringer",
+          "votes": 737,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Conor Stephen McDonald",
+          "votes": 404,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Casey Margaret Kenny",
+          "votes": 403,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Rhys Morgan Lewis",
+          "votes": 362,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "John Griffith",
+          "votes": 147,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Jennifer Robertson",
+          "votes": 141,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Bruce Hubbard",
+          "votes": 119,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Andy Roberts",
+          "votes": 75,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Labour": 42.19,
+        "Reform UK": 33.82,
+        "Green": 16.99,
+        "Liberal Democrat": 5.91,
+        "Conservative": 1.09
+      },
+      "party_seats_won": {
+        "Labour": 3
+      },
+      "winning_party": "Labour",
+      "total_votes": 6881,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-11T03:15:49Z",
+      "census": {
+        "matched": false,
+        "note": "no Census ward found by name"
+      }
+    },
+    {
+      "ward_slug": "norwood",
+      "ward_name": "Norwood",
+      "ballot_id": "local.sefton.norwood.2026-05-07",
+      "winner_count": 3,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "John Costello",
+          "votes": 1359
+        },
+        {
+          "party": "Reform UK",
+          "name": "Charles Robert Denton",
+          "votes": 1306
+        },
+        {
+          "party": "Reform UK",
+          "name": "Thomas Swaney",
+          "votes": 1277
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "John Costello",
+          "votes": 1359,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Charles Robert Denton",
+          "votes": 1306,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Thomas Swaney",
+          "votes": 1277,
+          "elected": true
+        },
+        {
+          "party": "Green",
+          "name": "Jo Barton",
+          "votes": 1152,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Laurence George Rankin",
+          "votes": 1088,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Lara Louise Cron",
+          "votes": 1059,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Marianne Welsh",
+          "votes": 779,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Andy Spencer",
+          "votes": 775,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Ged Wright",
+          "votes": 718,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Peter Blake",
+          "votes": 545,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Peter Latham",
+          "votes": 500,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Roland Zollner",
+          "votes": 401,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Pamela Teesdale",
+          "votes": 332,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Kelly Ann Barton",
+          "votes": 317,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Margaret Eileen Middleton",
+          "votes": 282,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 33.15,
+        "Green": 27.75,
+        "Labour": 19.11,
+        "Liberal Democrat": 12.16,
+        "Conservative": 7.83
+      },
+      "party_seats_won": {
+        "Reform UK": 3
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 11890,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-11T03:16:15Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000948",
+        "qual_l4_pct": 29.66,
+        "no_qual_pct": 16.87,
+        "muslim_pct": 1.28,
+        "no_religion_pct": 39.4,
+        "age_under_35_pct": 40.72,
+        "age_65_plus_pct": 18.39,
+        "social_rented_pct": 15.45,
+        "white_british_pct": 89.91
+      }
+    },
+    {
+      "ward_slug": "thornton-hightown",
+      "ward_name": "Thornton & Hightown",
+      "ballot_id": "local.sefton.thornton-hightown.2026-05-07",
+      "winner_count": 3,
+      "elected": [
+        {
+          "party": "Labour",
+          "name": "Clare Carragher",
+          "votes": 1454
+        },
+        {
+          "party": "Labour",
+          "name": "Dominic James McNabb",
+          "votes": 1409
+        },
+        {
+          "party": "Labour",
+          "name": "Rosa Battle",
+          "votes": 1377
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Labour",
+          "name": "Clare Carragher",
+          "votes": 1454,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Dominic James McNabb",
+          "votes": 1409,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Rosa Battle",
+          "votes": 1377,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Robbie Dale",
+          "votes": 1090,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Ian Francis James Nilsson-Forrest",
+          "votes": 1035,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Steven Charles Williams",
+          "votes": 1022,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Simon Baron",
+          "votes": 639,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Amber-Page Marilyn Moss",
+          "votes": 589,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Joseph Padraig Kelly",
+          "votes": 551,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Paul Martyn Barber",
+          "votes": 498,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Michael Paul Crichton",
+          "votes": 380,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "John Gibson",
+          "votes": 362,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Cos Zinonos",
+          "votes": 292,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Adarsh Makdani",
+          "votes": 163,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Labour": 39.04,
+        "Reform UK": 28.98,
+        "Green": 16.38,
+        "Conservative": 10.77,
+        "Liberal Democrat": 4.83
+      },
+      "party_seats_won": {
+        "Labour": 3
+      },
+      "winning_party": "Labour",
+      "total_votes": 10861,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-11T03:16:41Z",
+      "census": {
+        "matched": false,
+        "note": "no Census ward found by name"
+      }
+    },
+    {
+      "ward_slug": "waterloo",
+      "ward_name": "Waterloo",
+      "ballot_id": "local.sefton.waterloo.2026-05-07",
+      "winner_count": 3,
+      "elected": [
+        {
+          "party": "Green",
+          "name": "Neil Anthony Doolin",
+          "votes": 1947
+        },
+        {
+          "party": "Green",
+          "name": "Samantha Lauren Cook",
+          "votes": 1842
+        },
+        {
+          "party": "Green",
+          "name": "Kieran Dams",
+          "votes": 1692
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Green",
+          "name": "Neil Anthony Doolin",
+          "votes": 1947,
+          "elected": true
+        },
+        {
+          "party": "Green",
+          "name": "Samantha Lauren Cook",
+          "votes": 1842,
+          "elected": true
+        },
+        {
+          "party": "Green",
+          "name": "Kieran Dams",
+          "votes": 1692,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Jane Skinner",
+          "votes": 1184,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Mike Dormer",
+          "votes": 1146,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Steven McArdle",
+          "votes": 1066,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Andy Bray",
+          "votes": 671,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Alan Gibney",
+          "votes": 630,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Joseph Stanton",
+          "votes": 585,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Nigel Stuart Barber",
+          "votes": 175,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Green": 50.11,
+        "Labour": 31.05,
+        "Reform UK": 17.24,
+        "Conservative": 1.6
+      },
+      "party_seats_won": {
+        "Green": 3
+      },
+      "winning_party": "Green",
+      "total_votes": 10938,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-11T03:16:43Z",
+      "census": {
+        "matched": false,
+        "note": "no Census ward found by name"
+      }
+    }
+  ],
+  "n_wards_attempted": 22,
+  "n_wards_with_results": 22,
+  "n_wards_no_results": 0
+}

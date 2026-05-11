@@ -1,0 +1,590 @@
+{
+  "council_slug": "manchester",
+  "source": "https://candidates.democracyclub.org.uk/api/next/",
+  "fetched_at": "2026-05-10T21:38:42Z",
+  "wards": [
+    {
+      "ward_slug": "ancoats-beswick",
+      "ward_name": "Ancoats & Beswick",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.manchester.ancoats-beswick.2024-05-02",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 50.07,
+        "Labour": 37.42,
+        "Green": 9.64,
+        "Conservative": 2.0,
+        "Communist Future": 0.87
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "prior_total_votes": 3795,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "ardwick",
+      "ward_name": "Ardwick",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.manchester.ardwick.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 64.11,
+        "Green": 17.39,
+        "Conservative": 10.83,
+        "Liberal Democrat": 7.67
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3037,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "baguley",
+      "ward_name": "Baguley",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.manchester.baguley.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 64.05,
+        "Conservative": 17.08,
+        "Green": 12.88,
+        "Liberal Democrat": 5.98
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2476,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "brooklands",
+      "ward_name": "Brooklands",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.manchester.brooklands.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 63.79,
+        "Conservative": 14.95,
+        "Green": 14.76,
+        "Liberal Democrat": 6.5
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2723,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "burnage",
+      "ward_name": "Burnage",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.manchester.burnage.2023-05-04",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 66.41,
+        "Green": 14.14,
+        "Liberal Democrat": 13.89,
+        "Conservative": 5.56
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3578,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "charlestown",
+      "ward_name": "Charlestown",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.manchester.charlestown.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 60.04,
+        "Green": 22.15,
+        "Conservative": 11.21,
+        "Liberal Democrat": 6.6
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2668,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "cheetham",
+      "ward_name": "Cheetham",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.manchester.cheetham.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 50.01,
+        "Independent": 31.96,
+        "Green": 8.27,
+        "Liberal Democrat": 5.01,
+        "Conservative": 3.94,
+        "Communist Future": 0.81
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3811,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "chorlton",
+      "ward_name": "Chorlton",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.manchester.chorlton.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 60.14,
+        "Green": 29.12,
+        "Liberal Democrat": 7.34,
+        "Conservative": 3.4
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 4671,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "clayton-openshaw",
+      "ward_name": "Clayton & Openshaw",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.manchester.clayton-openshaw.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 73.6,
+        "Green": 12.06,
+        "Conservative": 7.26,
+        "Liberal Democrat": 7.09
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2977,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "crumpsall",
+      "ward_name": "Crumpsall",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.manchester.crumpsall.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 43.17,
+        "Independent": 32.52,
+        "Green": 8.77,
+        "Conservative": 6.27,
+        "Liberal Democrat": 5.65,
+        "Women's Equality Party": 3.62
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3398,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "deansgate",
+      "ward_name": "Deansgate",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.manchester.deansgate.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 62.15,
+        "Green": 21.27,
+        "Conservative": 8.51,
+        "Liberal Democrat": 8.07
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2304,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "didsbury-east",
+      "ward_name": "Didsbury East",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.manchester.didsbury-east.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 57.64,
+        "Liberal Democrat": 21.49,
+        "Green": 15.45,
+        "Conservative": 5.43
+      },
+      "prior_party_seats_won": {
+        "Labour": 2
+      },
+      "prior_total_votes": 9103,
+      "prior_winner_count": 2
+    },
+    {
+      "ward_slug": "didsbury-west",
+      "ward_name": "Didsbury West",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.manchester.didsbury-west.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 43.66,
+        "Liberal Democrat": 40.74,
+        "Green": 12.42,
+        "Conservative": 3.17
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 5449,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "fallowfield",
+      "ward_name": "Fallowfield",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.manchester.fallowfield.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 53.74,
+        "Green": 15.99,
+        "Workers Party of Britain": 15.66,
+        "Liberal Democrat": 9.27,
+        "Conservative": 5.35
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2114,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "gorton-abbey-hey",
+      "ward_name": "Gorton & Abbey Hey",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.manchester.gorton-abbey-hey.2023-05-04",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 64.85,
+        "Liberal Democrat": 18.07,
+        "Green": 9.32,
+        "Conservative": 7.76
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2939,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "harpurhey",
+      "ward_name": "Harpurhey",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.manchester.harpurhey.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 70.43,
+        "Conservative": 11.24,
+        "Green": 11.02,
+        "Liberal Democrat": 4.27,
+        "TUSC": 3.04
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2668,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "higher-blackley",
+      "ward_name": "Higher Blackley",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.manchester.higher-blackley.2023-05-04",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 66.05,
+        "Conservative": 11.02,
+        "Independent": 9.35,
+        "Liberal Democrat": 6.88,
+        "Green": 6.7
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2268,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "hulme",
+      "ward_name": "Hulme",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.manchester.hulme.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 58.37,
+        "Green": 32.2,
+        "Conservative": 5.44,
+        "Liberal Democrat": 3.99
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3161,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "levenshulme",
+      "ward_name": "Levenshulme",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.manchester.levenshulme.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 38.2,
+        "Workers Party of Britain": 23.41,
+        "Green": 16.84,
+        "Independent": 14.85,
+        "Liberal Democrat": 4.37,
+        "Conservative": 2.34
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 5126,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "longsight",
+      "ward_name": "Longsight",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.manchester.longsight.2024-05-02",
+      "prior_winning_party": "Workers Party of Britain",
+      "prior_party_shares": {
+        "Workers Party of Britain": 46.31,
+        "Labour": 42.8,
+        "Green": 4.79,
+        "Conservative": 3.11,
+        "Liberal Democrat": 2.08,
+        "Independent": 0.91
+      },
+      "prior_party_seats_won": {
+        "Workers Party of Britain": 1
+      },
+      "prior_total_votes": 5278,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "miles-platting-newton-heath",
+      "ward_name": "Miles Platting & Newton Heath",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.manchester.miles-platting-newton-heath.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 66.62,
+        "Independent": 11.36,
+        "Green": 10.48,
+        "Conservative": 6.78,
+        "Liberal Democrat": 4.76
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2816,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "moss-side",
+      "ward_name": "Moss Side",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.manchester.moss-side.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 45.1,
+        "Independent": 25.28,
+        "Green": 20.98,
+        "Conservative": 4.6,
+        "Liberal Democrat": 4.04
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3909,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "moston",
+      "ward_name": "Moston",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.manchester.moston.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 62.27,
+        "Green": 14.58,
+        "Conservative": 14.2,
+        "Liberal Democrat": 8.95
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3183,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "northenden",
+      "ward_name": "Northenden",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.manchester.northenden.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 63.45,
+        "Green": 18.91,
+        "Conservative": 11.66,
+        "Liberal Democrat": 5.98
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2744,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "old-moat",
+      "ward_name": "Old Moat",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.manchester.old-moat.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 64.51,
+        "Green": 24.12,
+        "Liberal Democrat": 7.76,
+        "Conservative": 3.6
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3221,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "piccadilly",
+      "ward_name": "Piccadilly",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.manchester.piccadilly.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 56.63,
+        "Green": 31.76,
+        "Liberal Democrat": 5.46,
+        "Conservative": 5.03,
+        "Communist Future": 1.13
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2566,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "rusholme",
+      "ward_name": "Rusholme",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.manchester.rusholme.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 43.37,
+        "Workers Party of Britain": 22.2,
+        "Independent": 16.1,
+        "Green": 11.14,
+        "Conservative": 3.86,
+        "Liberal Democrat": 3.34
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3708,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "sharston",
+      "ward_name": "Sharston",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.manchester.sharston.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 69.57,
+        "Conservative": 13.81,
+        "Green": 11.03,
+        "Liberal Democrat": 5.6
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2448,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "whalley-range",
+      "ward_name": "Whalley Range",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.manchester.whalley-range.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 51.17,
+        "Green": 24.06,
+        "Workers Party of Britain": 16.43,
+        "Liberal Democrat": 4.42,
+        "Conservative": 3.93
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 4073,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "withington",
+      "ward_name": "Withington",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.manchester.withington.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 44.46,
+        "Liberal Democrat": 29.81,
+        "Green": 23.0,
+        "Conservative": 2.73
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3630,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "woodhouse-park",
+      "ward_name": "Woodhouse Park",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.manchester.woodhouse-park.2024-05-02",
+      "prior_winning_party": "Green",
+      "prior_party_shares": {
+        "Green": 59.15,
+        "Labour": 33.32,
+        "Conservative": 4.87,
+        "Liberal Democrat": 2.66
+      },
+      "prior_party_seats_won": {
+        "Green": 1
+      },
+      "prior_total_votes": 2671,
+      "prior_winner_count": 1
+    }
+  ],
+  "n_wards_attempted": 31,
+  "n_wards_with_history": 31,
+  "n_wards_no_history": 0,
+  "prior_year_distribution": {
+    "2024": 28,
+    "2023": 3
+  }
+}

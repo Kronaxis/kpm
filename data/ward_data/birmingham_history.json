@@ -1,0 +1,1078 @@
+{
+  "council_slug": "birmingham",
+  "source": "https://candidates.democracyclub.org.uk/api/next/",
+  "fetched_at": "2026-05-10T21:12:25Z",
+  "wards": [
+    {
+      "ward_slug": "acocks-green",
+      "ward_name": "Acocks Green",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.birmingham.acocks-green.2022-05-05",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 50.01,
+        "Labour": 39.34,
+        "Conservative": 6.46,
+        "Green": 3.16,
+        "TUSC": 1.03
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 2
+      },
+      "prior_total_votes": 8160,
+      "prior_winner_count": 2
+    },
+    {
+      "ward_slug": "allens-cross",
+      "ward_name": "Allens Cross",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.birmingham.allens-cross.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 46.01,
+        "Conservative": 45.31,
+        "Green": 5.59,
+        "Liberal Democrat": 3.09
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2004,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "alum-rock",
+      "ward_name": "Alum Rock",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.birmingham.alum-rock.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 81.77,
+        "Liberal Democrat": 14.23,
+        "Conservative": 4.0
+      },
+      "prior_party_seats_won": {
+        "Labour": 2
+      },
+      "prior_total_votes": 8797,
+      "prior_winner_count": 2
+    },
+    {
+      "ward_slug": "aston",
+      "ward_name": "Aston",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.birmingham.aston.2022-05-05",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 49.71,
+        "Labour": 41.94,
+        "Breakthrough Party": 2.37,
+        "Conservative": 3.52,
+        "We Matter Party": 2.46
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 2
+      },
+      "prior_total_votes": 11173,
+      "prior_winner_count": 2
+    },
+    {
+      "ward_slug": "balsall-heath-west",
+      "ward_name": "Balsall Heath West",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.birmingham.balsall-heath-west.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 51.8,
+        "Conservative": 31.98,
+        "Liberal Democrat": 6.8,
+        "Green": 5.45,
+        "Workers Party of Britain": 3.96
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2220,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "bartley-green",
+      "ward_name": "Bartley Green",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.birmingham.bartley-green.2022-05-05",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 48.67,
+        "Labour": 43.77,
+        "Green": 3.62,
+        "Liberal Democrat": 3.95
+      },
+      "prior_party_seats_won": {
+        "Conservative": 2
+      },
+      "prior_total_votes": 7163,
+      "prior_winner_count": 2
+    },
+    {
+      "ward_slug": "billesley",
+      "ward_name": "Billesley",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.birmingham.billesley.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 52.61,
+        "Conservative": 32.57,
+        "Green": 7.79,
+        "Liberal Democrat": 5.85,
+        "Reform UK": 1.18
+      },
+      "prior_party_seats_won": {
+        "Labour": 2
+      },
+      "prior_total_votes": 7894,
+      "prior_winner_count": 2
+    },
+    {
+      "ward_slug": "birchfield",
+      "ward_name": "Birchfield",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.birmingham.birchfield.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 78.99,
+        "Conservative": 11.98,
+        "Liberal Democrat": 9.03
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1761,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "bordesley-green",
+      "ward_name": "Bordesley Green",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.birmingham.bordesley-green.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 67.84,
+        "Conservative": 18.09,
+        "Liberal Democrat": 14.08
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2195,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "bordesley-highgate",
+      "ward_name": "Bordesley & Highgate",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.birmingham.bordesley-highgate.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 57.28,
+        "Conservative": 19.26,
+        "Workers Party of Britain": 15.29,
+        "Green": 8.17
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1615,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "bournbrook-selly-park",
+      "ward_name": "Bournbrook & Selly Park",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.birmingham.bournbrook-selly-park.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 66.6,
+        "Green": 13.45,
+        "Conservative": 9.86,
+        "Liberal Democrat": 7.64,
+        "TUSC": 2.44
+      },
+      "prior_party_seats_won": {
+        "Labour": 2
+      },
+      "prior_total_votes": 5821,
+      "prior_winner_count": 2
+    },
+    {
+      "ward_slug": "brandwood-kings-heath",
+      "ward_name": "Brandwood & King's Heath",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.birmingham.brandwood-kings-heath.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 49.73,
+        "Liberal Democrat": 17.22,
+        "Conservative": 16.52,
+        "Green": 10.02,
+        "Independent": 4.41,
+        "Workers Party of Britain": 2.1
+      },
+      "prior_party_seats_won": {
+        "Labour": 2
+      },
+      "prior_total_votes": 11005,
+      "prior_winner_count": 2
+    },
+    {
+      "ward_slug": "bromford-hodge-hill",
+      "ward_name": "Bromford & Hodge Hill",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.birmingham.bromford-hodge-hill.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 77.36,
+        "Conservative": 14.37,
+        "Green": 3.36,
+        "Liberal Democrat": 4.91
+      },
+      "prior_party_seats_won": {
+        "Labour": 2
+      },
+      "prior_total_votes": 6255,
+      "prior_winner_count": 2
+    },
+    {
+      "ward_slug": "castle-vale",
+      "ward_name": "Castle Vale",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.birmingham.castle-vale.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 40.47,
+        "Green": 37.05,
+        "Conservative": 21.63,
+        "TUSC": 0.85
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1290,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "druids-heath-monyhull",
+      "ward_name": "Druids Heath & Monyhull",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.birmingham.druids-heath-monyhull.2022-05-05",
+      "prior_winning_party": "Green",
+      "prior_party_shares": {
+        "Green": 74.67,
+        "Labour": 17.94,
+        "Conservative": 6.44,
+        "Liberal Democrat": 0.95
+      },
+      "prior_party_seats_won": {
+        "Green": 1
+      },
+      "prior_total_votes": 2531,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "edgbaston",
+      "ward_name": "Edgbaston",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.birmingham.edgbaston.2022-05-05",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 46.0,
+        "Labour": 41.49,
+        "Green": 5.53,
+        "Liberal Democrat": 6.97
+      },
+      "prior_party_seats_won": {
+        "Conservative": 2
+      },
+      "prior_total_votes": 7083,
+      "prior_winner_count": 2
+    },
+    {
+      "ward_slug": "erdington",
+      "ward_name": "Erdington",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.birmingham.erdington.2022-05-05",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 53.36,
+        "Labour": 38.6,
+        "Green": 4.5,
+        "Liberal Democrat": 2.41,
+        "TUSC": 1.12
+      },
+      "prior_party_seats_won": {
+        "Conservative": 2
+      },
+      "prior_total_votes": 8463,
+      "prior_winner_count": 2
+    },
+    {
+      "ward_slug": "frankley-great-park",
+      "ward_name": "Frankley Great Park",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.birmingham.frankley-great-park.2022-05-05",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 60.97,
+        "Labour": 31.97,
+        "Green": 3.87,
+        "Liberal Democrat": 3.19
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 2224,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "garretts-green",
+      "ward_name": "Garretts Green",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.birmingham.garretts-green.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 67.48,
+        "Liberal Democrat": 22.61,
+        "Conservative": 9.91
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1928,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "gravelly-hill",
+      "ward_name": "Gravelly Hill",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.birmingham.gravelly-hill.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 51.83,
+        "Green": 23.31,
+        "Conservative": 21.07,
+        "Liberal Democrat": 2.18,
+        "TUSC": 1.61
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1557,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "hall-green-north",
+      "ward_name": "Hall Green North",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.birmingham.hall-green-north.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 55.02,
+        "Conservative": 29.91,
+        "Liberal Democrat": 10.44,
+        "Green": 4.62
+      },
+      "prior_party_seats_won": {
+        "Labour": 2
+      },
+      "prior_total_votes": 8093,
+      "prior_winner_count": 2
+    },
+    {
+      "ward_slug": "hall-green-south",
+      "ward_name": "Hall Green South",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.birmingham.hall-green-south.2022-05-05",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 51.63,
+        "Labour": 38.75,
+        "Green": 5.35,
+        "Liberal Democrat": 4.27
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 2764,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "handsworth",
+      "ward_name": "Handsworth",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.birmingham.handsworth.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 83.4,
+        "Conservative": 6.93,
+        "Green": 5.67,
+        "Liberal Democrat": 4.0
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1675,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "heartlands",
+      "ward_name": "Heartlands",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.birmingham.heartlands.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 79.81,
+        "Conservative": 13.56,
+        "Liberal Democrat": 6.63
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2095,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "highters-heath",
+      "ward_name": "Highter's Heath",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.birmingham.highters-heath.2022-05-05",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 54.81,
+        "Labour": 39.73,
+        "Green": 5.46
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 1996,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "holyhead",
+      "ward_name": "Holyhead",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.birmingham.holyhead.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 76.43,
+        "Independent": 13.84,
+        "Conservative": 6.28,
+        "Liberal Democrat": 3.45
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2117,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "kings-norton-north",
+      "ward_name": "King's Norton North",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.birmingham.kings-norton-north.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 55.43,
+        "Conservative": 38.88,
+        "Green": 3.77,
+        "Liberal Democrat": 1.93
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2441,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "kings-norton-south",
+      "ward_name": "King's Norton South",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.birmingham.kings-norton-south.2022-05-05",
+      "prior_winning_party": "Green",
+      "prior_party_shares": {
+        "Green": 50.9,
+        "Labour": 32.77,
+        "Conservative": 16.34
+      },
+      "prior_party_seats_won": {
+        "Green": 1
+      },
+      "prior_total_votes": 2234,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "kingstanding",
+      "ward_name": "Kingstanding",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.birmingham.kingstanding.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 46.19,
+        "Conservative": 45.99,
+        "Liberal Democrat": 2.55,
+        "Green": 4.02,
+        "TUSC": 0.9,
+        "We Matter Party": 0.34
+      },
+      "prior_party_seats_won": {
+        "Labour": 1,
+        "Conservative": 1
+      },
+      "prior_total_votes": 5566,
+      "prior_winner_count": 2
+    },
+    {
+      "ward_slug": "ladywood",
+      "ward_name": "Ladywood",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.birmingham.ladywood.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 67.2,
+        "Conservative": 14.63,
+        "Green": 7.75,
+        "Liberal Democrat": 8.83,
+        "TUSC": 1.59
+      },
+      "prior_party_seats_won": {
+        "Labour": 2
+      },
+      "prior_total_votes": 5332,
+      "prior_winner_count": 2
+    },
+    {
+      "ward_slug": "longbridge-west-heath",
+      "ward_name": "Longbridge & West Heath",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.birmingham.longbridge-west-heath.2022-05-05",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 51.86,
+        "Labour": 34.98,
+        "Green": 7.55,
+        "Liberal Democrat": 4.4,
+        "TUSC": 1.22
+      },
+      "prior_party_seats_won": {
+        "Conservative": 2
+      },
+      "prior_total_votes": 7736,
+      "prior_winner_count": 2
+    },
+    {
+      "ward_slug": "lozells",
+      "ward_name": "Lozells",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.birmingham.lozells.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 70.73,
+        "Conservative": 25.0,
+        "Green": 4.27
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2764,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "moseley",
+      "ward_name": "Moseley",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.birmingham.moseley.2022-05-05",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 45.14,
+        "Labour": 42.66,
+        "Green": 5.1,
+        "Conservative": 7.1
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 1,
+        "Labour": 1
+      },
+      "prior_total_votes": 10838,
+      "prior_winner_count": 2
+    },
+    {
+      "ward_slug": "newtown",
+      "ward_name": "Newtown",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.birmingham.newtown.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 58.05,
+        "Conservative": 15.03,
+        "Liberal Democrat": 14.98,
+        "We Matter Party": 11.94
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1776,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "north-edgbaston",
+      "ward_name": "North Edgbaston",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.birmingham.north-edgbaston.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 63.22,
+        "Conservative": 28.55,
+        "Liberal Democrat": 6.73,
+        "TUSC": 1.51
+      },
+      "prior_party_seats_won": {
+        "Labour": 2
+      },
+      "prior_total_votes": 7167,
+      "prior_winner_count": 2
+    },
+    {
+      "ward_slug": "northfield",
+      "ward_name": "Northfield",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.birmingham.northfield.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 56.55,
+        "Conservative": 34.74,
+        "Green": 4.5,
+        "Liberal Democrat": 4.21
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2801,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "oscott",
+      "ward_name": "Oscott",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.birmingham.oscott.2022-05-05",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 47.91,
+        "Labour": 43.46,
+        "Liberal Democrat": 8.63
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1,
+        "Labour": 1
+      },
+      "prior_total_votes": 6226,
+      "prior_winner_count": 2
+    },
+    {
+      "ward_slug": "perry-barr",
+      "ward_name": "Perry Barr",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.birmingham.perry-barr.2022-05-05",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 53.16,
+        "Labour": 38.61,
+        "Conservative": 8.23
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 2
+      },
+      "prior_total_votes": 7763,
+      "prior_winner_count": 2
+    },
+    {
+      "ward_slug": "perry-common",
+      "ward_name": "Perry Common",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.birmingham.perry-common.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 52.66,
+        "Conservative": 40.38,
+        "Liberal Democrat": 3.07,
+        "Green": 2.66,
+        "TUSC": 1.24
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1694,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "pype-hayes",
+      "ward_name": "Pype Hayes",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.birmingham.pype-hayes.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 47.75,
+        "Conservative": 42.92,
+        "Green": 5.5,
+        "Liberal Democrat": 2.36,
+        "TUSC": 1.47
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1908,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "quinton",
+      "ward_name": "Quinton",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.birmingham.quinton.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 47.35,
+        "Conservative": 45.07,
+        "Green": 3.13,
+        "Liberal Democrat": 4.44
+      },
+      "prior_party_seats_won": {
+        "Labour": 2
+      },
+      "prior_total_votes": 9318,
+      "prior_winner_count": 2
+    },
+    {
+      "ward_slug": "shard-end",
+      "ward_name": "Shard End",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.birmingham.shard-end.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 60.78,
+        "Conservative": 26.41,
+        "Green": 7.12,
+        "Liberal Democrat": 5.69
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1405,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "small-heath",
+      "ward_name": "Small Heath",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.birmingham.small-heath.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 47.54,
+        "Liberal Democrat": 30.9,
+        "Conservative": 21.56
+      },
+      "prior_party_seats_won": {
+        "Labour": 2
+      },
+      "prior_total_votes": 8724,
+      "prior_winner_count": 2
+    },
+    {
+      "ward_slug": "soho-jewellery-quarter",
+      "ward_name": "Soho & Jewellery Quarter",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.birmingham.soho-jewellery-quarter.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 72.65,
+        "Green": 7.56,
+        "Conservative": 11.13,
+        "Liberal Democrat": 8.66
+      },
+      "prior_party_seats_won": {
+        "Labour": 2
+      },
+      "prior_total_votes": 6256,
+      "prior_winner_count": 2
+    },
+    {
+      "ward_slug": "south-yardley",
+      "ward_name": "South Yardley",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.birmingham.south-yardley.2022-05-05",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 55.69,
+        "Labour": 27.01,
+        "Conservative": 11.54,
+        "Green": 4.72,
+        "TUSC": 1.05
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "prior_total_votes": 1907,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "sparkbrook-balsall-heath-east",
+      "ward_name": "Sparkbrook & Balsall Heath East",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.birmingham.sparkbrook-balsall-heath-east.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 69.94,
+        "Conservative": 23.38,
+        "Green": 2.54,
+        "Liberal Democrat": 4.15
+      },
+      "prior_party_seats_won": {
+        "Labour": 2
+      },
+      "prior_total_votes": 7328,
+      "prior_winner_count": 2
+    },
+    {
+      "ward_slug": "sparkhill",
+      "ward_name": "Sparkhill",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.birmingham.sparkhill.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 77.63,
+        "Conservative": 16.76,
+        "Liberal Democrat": 5.61
+      },
+      "prior_party_seats_won": {
+        "Labour": 2
+      },
+      "prior_total_votes": 7612,
+      "prior_winner_count": 2
+    },
+    {
+      "ward_slug": "stockland-green",
+      "ward_name": "Stockland Green",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.birmingham.stockland-green.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 63.78,
+        "Conservative": 24.62,
+        "Green": 5.87,
+        "Liberal Democrat": 3.91,
+        "TUSC": 1.81
+      },
+      "prior_party_seats_won": {
+        "Labour": 2
+      },
+      "prior_total_votes": 6132,
+      "prior_winner_count": 2
+    },
+    {
+      "ward_slug": "sutton-four-oaks",
+      "ward_name": "Sutton Four Oaks",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.birmingham.sutton-four-oaks.2022-05-05",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 66.13,
+        "Labour": 18.03,
+        "Liberal Democrat": 9.81,
+        "Green": 6.02
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 2507,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "sutton-reddicap",
+      "ward_name": "Sutton Reddicap",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.birmingham.sutton-reddicap.2022-05-05",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 60.98,
+        "Labour": 28.98,
+        "Green": 10.04
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 1922,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "sutton-roughley",
+      "ward_name": "Sutton Roughley",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.birmingham.sutton-roughley.2022-05-05",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 62.43,
+        "Labour": 28.36,
+        "Liberal Democrat": 9.21
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 2595,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "sutton-vesey",
+      "ward_name": "Sutton Vesey",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.birmingham.sutton-vesey.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 60.47,
+        "Conservative": 33.79,
+        "Liberal Democrat": 5.74
+      },
+      "prior_party_seats_won": {
+        "Labour": 2
+      },
+      "prior_total_votes": 10059,
+      "prior_winner_count": 2
+    },
+    {
+      "ward_slug": "sutton-walmley-minworth",
+      "ward_name": "Sutton Walmley & Minworth",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.birmingham.sutton-walmley-minworth.2022-05-05",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 61.04,
+        "Labour": 21.31,
+        "Liberal Democrat": 11.91,
+        "Green": 5.74
+      },
+      "prior_party_seats_won": {
+        "Conservative": 2
+      },
+      "prior_total_votes": 6692,
+      "prior_winner_count": 2
+    },
+    {
+      "ward_slug": "sutton-wylde-green",
+      "ward_name": "Sutton Wylde Green",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.birmingham.sutton-wylde-green.2022-05-05",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 57.56,
+        "Labour": 24.35,
+        "Liberal Democrat": 11.44,
+        "Green": 6.65
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 2587,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "tyseley-hay-mills",
+      "ward_name": "Tyseley & Hay Mills",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.birmingham.tyseley-hay-mills.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 74.46,
+        "Liberal Democrat": 10.29,
+        "Conservative": 8.66,
+        "Green": 6.6
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1789,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "ward-end",
+      "ward_name": "Ward End",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.birmingham.ward-end.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 43.65,
+        "Liberal Democrat": 34.52,
+        "Conservative": 16.82,
+        "Green": 5.01
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2717,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "weoley-selly-oak",
+      "ward_name": "Weoley & Selly Oak",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.birmingham.weoley-selly-oak.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 51.76,
+        "Conservative": 35.13,
+        "Green": 7.19,
+        "Liberal Democrat": 5.92
+      },
+      "prior_party_seats_won": {
+        "Labour": 2
+      },
+      "prior_total_votes": 9043,
+      "prior_winner_count": 2
+    },
+    {
+      "ward_slug": "yardley-east",
+      "ward_name": "Yardley East",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.birmingham.yardley-east.2022-05-05",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 58.97,
+        "Labour": 32.62,
+        "Conservative": 8.41
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "prior_total_votes": 2069,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "yardley-west-stechford",
+      "ward_name": "Yardley West & Stechford",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.birmingham.yardley-west-stechford.2022-05-05",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 70.99,
+        "Labour": 25.53,
+        "Conservative": 3.49
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "prior_total_votes": 2809,
+      "prior_winner_count": 1
+    }
+  ],
+  "n_wards_attempted": 62,
+  "n_wards_with_history": 59,
+  "n_wards_no_history": 3,
+  "prior_year_distribution": {
+    "2022": 59
+  }
+}

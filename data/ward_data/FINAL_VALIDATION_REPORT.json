@@ -1,0 +1,711 @@
+{
+  "generated_at": "2026-05-11T13:16:42Z",
+  "sample_n": 42,
+  "methodology_hits": {
+    "v17.0": 20,
+    "v17.1": 23,
+    "v17.3": 23,
+    "v17.6": 26,
+    "v17.7-io": 26,
+    "v17.8": 26,
+    "v17.9": 26,
+    "v15.1": 31,
+    "v17.10": 28
+  },
+  "methodology_n": {
+    "v15.1": 42,
+    "v17.0": 38,
+    "v17.1": 38,
+    "v17.3": 38,
+    "v17.6": 38,
+    "v17.7-io": 38,
+    "v17.8": 38,
+    "v17.9": 38,
+    "v17.10": 38
+  },
+  "methodology_hashes": {
+    "KPM-2.2 v15.1 (current canonical scorecard)": "52df676e792c\u2026",
+    "KPM-v17.0": "e38adc8efdd564f8bbd36fd0c78f111f835e86a41b7ceb8225aa8158d289b71f",
+    "KPM-v17.1": "6da92625051696defe71b8ea720109ab1689a68f86aa08cbb9b22a1ca70efc06",
+    "KPM-v17.3": "467c29426306194d9f9ec0226f15e5a3c444d4b85637ec6e4370d69e635e88ba",
+    "KPM-v17.6": "141c405a9c9861e09cd067fd20d5204edc4862b5741b5ca74341ed042e8822c1",
+    "KPM-v17.7-io": "3d9435e5c4bd4d745a7785759def9202e69ee70b31f449d8b76cb9c4ae1564df",
+    "KPM-v17.8": "f71a4cd17ea60143a646c6bffd5433e7dac332e83a899e6c37c6cee19405f7d4",
+    "KPM-v17.9": "0df615a23ef16b2d61f788bb12341ecdd74fd5d3657f096b5d27a66b7ac32ff2",
+    "KPM-v17.10 (PRODUCTION)": "2ea86b8d1e25ee68ebf66c6f59496e2480a43dba2a81ff17012ce0094531f018"
+  },
+  "council_predictions": [
+    {
+      "council": "Adur",
+      "slug": "adur",
+      "actual": "Labour",
+      "preds": {
+        "v15.1": "No overall control",
+        "v17.0": "Labour",
+        "v17.1": "Labour",
+        "v17.3": "Labour",
+        "v17.6": "Labour",
+        "v17.7-io": "Labour",
+        "v17.8": "Labour",
+        "v17.9": "Labour",
+        "v17.10": "No overall control"
+      }
+    },
+    {
+      "council": "Barking and Dagenham",
+      "slug": "barking-and-dagenham",
+      "actual": "Labour",
+      "preds": {
+        "v15.1": "Labour",
+        "v17.0": "Labour",
+        "v17.1": "Labour",
+        "v17.3": "Labour",
+        "v17.6": "Labour",
+        "v17.7-io": "Labour",
+        "v17.8": "Labour",
+        "v17.9": "Labour",
+        "v17.10": "Labour"
+      }
+    },
+    {
+      "council": "Barnet",
+      "slug": "barnet",
+      "actual": "No overall control",
+      "preds": {
+        "v15.1": "No overall control",
+        "v17.0": "Labour",
+        "v17.1": "Labour",
+        "v17.3": "Labour",
+        "v17.6": "Labour",
+        "v17.7-io": "Labour",
+        "v17.8": "Labour",
+        "v17.9": "Labour",
+        "v17.10": "No overall control"
+      }
+    },
+    {
+      "council": "Barnsley",
+      "slug": "barnsley",
+      "actual": "Reform UK",
+      "preds": {
+        "v15.1": "No overall control",
+        "v17.0": "Labour",
+        "v17.1": "Labour",
+        "v17.3": "Labour",
+        "v17.6": "Reform UK",
+        "v17.7-io": "Reform UK",
+        "v17.8": "Reform UK",
+        "v17.9": "Reform UK",
+        "v17.10": "Reform UK"
+      }
+    },
+    {
+      "council": "Basildon",
+      "slug": "basildon",
+      "actual": "No overall control",
+      "preds": {
+        "v15.1": "No overall control",
+        "v17.0": "Conservative",
+        "v17.1": "Conservative",
+        "v17.3": "Conservative",
+        "v17.6": "Conservative",
+        "v17.7-io": "Conservative",
+        "v17.8": "Conservative",
+        "v17.9": "Conservative",
+        "v17.10": "Conservative"
+      }
+    },
+    {
+      "council": "Birmingham",
+      "slug": "birmingham",
+      "actual": "No overall control",
+      "preds": {
+        "v15.1": "No overall control",
+        "v17.0": "Labour",
+        "v17.1": "No overall control",
+        "v17.3": "No overall control",
+        "v17.6": "No overall control",
+        "v17.7-io": "No overall control",
+        "v17.8": "No overall control",
+        "v17.9": "No overall control",
+        "v17.10": "No overall control"
+      }
+    },
+    {
+      "council": "Bolton",
+      "slug": "bolton",
+      "actual": "No overall control",
+      "preds": {
+        "v15.1": "Labour",
+        "v17.0": "No overall control",
+        "v17.1": "No overall control",
+        "v17.3": "No overall control",
+        "v17.6": "No overall control",
+        "v17.7-io": "No overall control",
+        "v17.8": "No overall control",
+        "v17.9": "No overall control",
+        "v17.10": "No overall control"
+      }
+    },
+    {
+      "council": "Bradford",
+      "slug": "bradford",
+      "actual": "No overall control",
+      "preds": {
+        "v15.1": "Labour",
+        "v17.0": "No overall control",
+        "v17.1": "No overall control",
+        "v17.3": "No overall control",
+        "v17.6": "No overall control",
+        "v17.7-io": "No overall control",
+        "v17.8": "No overall control",
+        "v17.9": "No overall control",
+        "v17.10": "No overall control"
+      }
+    },
+    {
+      "council": "Brent",
+      "slug": "brent",
+      "actual": "No overall control",
+      "preds": {
+        "v15.1": "No overall control",
+        "v17.0": "?",
+        "v17.1": "?",
+        "v17.3": "?",
+        "v17.6": "?",
+        "v17.7-io": "?",
+        "v17.8": "?",
+        "v17.9": "?",
+        "v17.10": "?"
+      }
+    },
+    {
+      "council": "Bromley",
+      "slug": "bromley",
+      "actual": "Conservative",
+      "preds": {
+        "v15.1": "No overall control",
+        "v17.0": "?",
+        "v17.1": "?",
+        "v17.3": "?",
+        "v17.6": "?",
+        "v17.7-io": "?",
+        "v17.8": "?",
+        "v17.9": "?",
+        "v17.10": "?"
+      }
+    },
+    {
+      "council": "Bury",
+      "slug": "bury",
+      "actual": "Labour",
+      "preds": {
+        "v15.1": "Labour",
+        "v17.0": "Labour",
+        "v17.1": "Labour",
+        "v17.3": "No overall control",
+        "v17.6": "No overall control",
+        "v17.7-io": "No overall control",
+        "v17.8": "No overall control",
+        "v17.9": "No overall control",
+        "v17.10": "Labour"
+      }
+    },
+    {
+      "council": "Calderdale",
+      "slug": "calderdale",
+      "actual": "Reform UK",
+      "preds": {
+        "v15.1": "Reform UK",
+        "v17.0": "Labour",
+        "v17.1": "No overall control",
+        "v17.3": "No overall control",
+        "v17.6": "No overall control",
+        "v17.7-io": "No overall control",
+        "v17.8": "No overall control",
+        "v17.9": "No overall control",
+        "v17.10": "Reform UK"
+      }
+    },
+    {
+      "council": "Cheltenham",
+      "slug": "cheltenham",
+      "actual": "Liberal Democrat",
+      "preds": {
+        "v15.1": "Liberal Democrat",
+        "v17.0": "Liberal Democrat",
+        "v17.1": "Liberal Democrat",
+        "v17.3": "Liberal Democrat",
+        "v17.6": "Liberal Democrat",
+        "v17.7-io": "Liberal Democrat",
+        "v17.8": "Liberal Democrat",
+        "v17.9": "Liberal Democrat",
+        "v17.10": "Liberal Democrat"
+      }
+    },
+    {
+      "council": "Coventry",
+      "slug": "coventry",
+      "actual": "No overall control",
+      "preds": {
+        "v15.1": "No overall control",
+        "v17.0": "Labour",
+        "v17.1": "Labour",
+        "v17.3": "Labour",
+        "v17.6": "Labour",
+        "v17.7-io": "Labour",
+        "v17.8": "Labour",
+        "v17.9": "Labour",
+        "v17.10": "Labour"
+      }
+    },
+    {
+      "council": "Dudley",
+      "slug": "dudley",
+      "actual": "No overall control",
+      "preds": {
+        "v15.1": "No overall control",
+        "v17.0": "?",
+        "v17.1": "?",
+        "v17.3": "?",
+        "v17.6": "?",
+        "v17.7-io": "?",
+        "v17.8": "?",
+        "v17.9": "?",
+        "v17.10": "?"
+      }
+    },
+    {
+      "council": "Eastleigh",
+      "slug": "eastleigh",
+      "actual": "Liberal Democrat",
+      "preds": {
+        "v15.1": "Liberal Democrat",
+        "v17.0": "Liberal Democrat",
+        "v17.1": "Liberal Democrat",
+        "v17.3": "Liberal Democrat",
+        "v17.6": "Liberal Democrat",
+        "v17.7-io": "Liberal Democrat",
+        "v17.8": "Liberal Democrat",
+        "v17.9": "Liberal Democrat",
+        "v17.10": "Liberal Democrat"
+      }
+    },
+    {
+      "council": "Gateshead",
+      "slug": "gateshead",
+      "actual": "Reform UK",
+      "preds": {
+        "v15.1": "Reform UK",
+        "v17.0": "Labour",
+        "v17.1": "Labour",
+        "v17.3": "Labour",
+        "v17.6": "Labour",
+        "v17.7-io": "Labour",
+        "v17.8": "Labour",
+        "v17.9": "Labour",
+        "v17.10": "Labour"
+      }
+    },
+    {
+      "council": "Hartlepool",
+      "slug": "hartlepool",
+      "actual": "No overall control",
+      "preds": {
+        "v15.1": "No overall control",
+        "v17.0": "Labour",
+        "v17.1": "Labour",
+        "v17.3": "No overall control",
+        "v17.6": "No overall control",
+        "v17.7-io": "No overall control",
+        "v17.8": "No overall control",
+        "v17.9": "No overall control",
+        "v17.10": "No overall control"
+      }
+    },
+    {
+      "council": "Kingston upon Thames",
+      "slug": "kingston-upon-thames",
+      "actual": "Liberal Democrat",
+      "preds": {
+        "v15.1": "Liberal Democrat",
+        "v17.0": "Liberal Democrat",
+        "v17.1": "Liberal Democrat",
+        "v17.3": "Liberal Democrat",
+        "v17.6": "Liberal Democrat",
+        "v17.7-io": "Liberal Democrat",
+        "v17.8": "Liberal Democrat",
+        "v17.9": "Liberal Democrat",
+        "v17.10": "Liberal Democrat"
+      }
+    },
+    {
+      "council": "Kirklees",
+      "slug": "kirklees",
+      "actual": "No overall control",
+      "preds": {
+        "v15.1": "No overall control",
+        "v17.0": "No overall control",
+        "v17.1": "No overall control",
+        "v17.3": "No overall control",
+        "v17.6": "No overall control",
+        "v17.7-io": "No overall control",
+        "v17.8": "No overall control",
+        "v17.9": "No overall control",
+        "v17.10": "No overall control"
+      }
+    },
+    {
+      "council": "Knowsley",
+      "slug": "knowsley",
+      "actual": "Labour",
+      "preds": {
+        "v15.1": "Labour",
+        "v17.0": "Labour",
+        "v17.1": "Labour",
+        "v17.3": "Labour",
+        "v17.6": "Labour",
+        "v17.7-io": "Labour",
+        "v17.8": "Labour",
+        "v17.9": "Labour",
+        "v17.10": "Labour"
+      }
+    },
+    {
+      "council": "Leeds",
+      "slug": "leeds",
+      "actual": "No overall control",
+      "preds": {
+        "v15.1": "No overall control",
+        "v17.0": "Labour",
+        "v17.1": "No overall control",
+        "v17.3": "No overall control",
+        "v17.6": "No overall control",
+        "v17.7-io": "No overall control",
+        "v17.8": "No overall control",
+        "v17.9": "No overall control",
+        "v17.10": "No overall control"
+      }
+    },
+    {
+      "council": "Manchester",
+      "slug": "manchester",
+      "actual": "Labour",
+      "preds": {
+        "v15.1": "Labour",
+        "v17.0": "Labour",
+        "v17.1": "Labour",
+        "v17.3": "Labour",
+        "v17.6": "Labour",
+        "v17.7-io": "Labour",
+        "v17.8": "Labour",
+        "v17.9": "Labour",
+        "v17.10": "Labour"
+      }
+    },
+    {
+      "council": "Merton",
+      "slug": "merton",
+      "actual": "Labour",
+      "preds": {
+        "v15.1": "Labour",
+        "v17.0": "No overall control",
+        "v17.1": "No overall control",
+        "v17.3": "No overall control",
+        "v17.6": "No overall control",
+        "v17.7-io": "No overall control",
+        "v17.8": "No overall control",
+        "v17.9": "No overall control",
+        "v17.10": "No overall control"
+      }
+    },
+    {
+      "council": "Newcastle upon Tyne",
+      "slug": "newcastle-upon-tyne",
+      "actual": "No overall control",
+      "preds": {
+        "v15.1": "Labour",
+        "v17.0": "No overall control",
+        "v17.1": "No overall control",
+        "v17.3": "No overall control",
+        "v17.6": "No overall control",
+        "v17.7-io": "No overall control",
+        "v17.8": "No overall control",
+        "v17.9": "No overall control",
+        "v17.10": "No overall control"
+      }
+    },
+    {
+      "council": "Oldham",
+      "slug": "oldham",
+      "actual": "No overall control",
+      "preds": {
+        "v15.1": "Labour",
+        "v17.0": "Independent",
+        "v17.1": "No overall control",
+        "v17.3": "No overall control",
+        "v17.6": "No overall control",
+        "v17.7-io": "No overall control",
+        "v17.8": "No overall control",
+        "v17.9": "No overall control",
+        "v17.10": "Labour"
+      }
+    },
+    {
+      "council": "Richmond upon Thames",
+      "slug": "richmond-upon-thames",
+      "actual": "Liberal Democrat",
+      "preds": {
+        "v15.1": "Liberal Democrat",
+        "v17.0": "Liberal Democrat",
+        "v17.1": "Liberal Democrat",
+        "v17.3": "Liberal Democrat",
+        "v17.6": "Liberal Democrat",
+        "v17.7-io": "Liberal Democrat",
+        "v17.8": "Liberal Democrat",
+        "v17.9": "Liberal Democrat",
+        "v17.10": "Liberal Democrat"
+      }
+    },
+    {
+      "council": "Rochdale",
+      "slug": "rochdale",
+      "actual": "Labour",
+      "preds": {
+        "v15.1": "Labour",
+        "v17.0": "Labour",
+        "v17.1": "Labour",
+        "v17.3": "Labour",
+        "v17.6": "Labour",
+        "v17.7-io": "Labour",
+        "v17.8": "Labour",
+        "v17.9": "Labour",
+        "v17.10": "Labour"
+      }
+    },
+    {
+      "council": "Salford",
+      "slug": "salford",
+      "actual": "Labour",
+      "preds": {
+        "v15.1": "Labour",
+        "v17.0": "Labour",
+        "v17.1": "Labour",
+        "v17.3": "Labour",
+        "v17.6": "Labour",
+        "v17.7-io": "Labour",
+        "v17.8": "Labour",
+        "v17.9": "Labour",
+        "v17.10": "Labour"
+      }
+    },
+    {
+      "council": "Sandwell",
+      "slug": "sandwell",
+      "actual": "Reform UK",
+      "preds": {
+        "v15.1": "Labour",
+        "v17.0": "Labour",
+        "v17.1": "Labour",
+        "v17.3": "Labour",
+        "v17.6": "Reform UK",
+        "v17.7-io": "Reform UK",
+        "v17.8": "Reform UK",
+        "v17.9": "Reform UK",
+        "v17.10": "Reform UK"
+      }
+    },
+    {
+      "council": "Sefton",
+      "slug": "sefton",
+      "actual": "Labour",
+      "preds": {
+        "v15.1": "Labour",
+        "v17.0": "No overall control",
+        "v17.1": "No overall control",
+        "v17.3": "No overall control",
+        "v17.6": "No overall control",
+        "v17.7-io": "No overall control",
+        "v17.8": "No overall control",
+        "v17.9": "No overall control",
+        "v17.10": "No overall control"
+      }
+    },
+    {
+      "council": "Sheffield",
+      "slug": "sheffield",
+      "actual": "No overall control",
+      "preds": {
+        "v15.1": "No overall control",
+        "v17.0": "No overall control",
+        "v17.1": "No overall control",
+        "v17.3": "No overall control",
+        "v17.6": "No overall control",
+        "v17.7-io": "No overall control",
+        "v17.8": "No overall control",
+        "v17.9": "No overall control",
+        "v17.10": "No overall control"
+      }
+    },
+    {
+      "council": "South Cambridgeshire",
+      "slug": "south-cambridgeshire",
+      "actual": "Liberal Democrat",
+      "preds": {
+        "v15.1": "Liberal Democrat",
+        "v17.0": "Liberal Democrat",
+        "v17.1": "Liberal Democrat",
+        "v17.3": "Liberal Democrat",
+        "v17.6": "Liberal Democrat",
+        "v17.7-io": "Liberal Democrat",
+        "v17.8": "Liberal Democrat",
+        "v17.9": "Liberal Democrat",
+        "v17.10": "Liberal Democrat"
+      }
+    },
+    {
+      "council": "St Helens",
+      "slug": "st-helens",
+      "actual": "Reform UK",
+      "preds": {
+        "v15.1": "Labour",
+        "v17.0": "?",
+        "v17.1": "?",
+        "v17.3": "?",
+        "v17.6": "?",
+        "v17.7-io": "?",
+        "v17.8": "?",
+        "v17.9": "?",
+        "v17.10": "?"
+      }
+    },
+    {
+      "council": "Stockport",
+      "slug": "stockport",
+      "actual": "Liberal Democrat",
+      "preds": {
+        "v15.1": "No overall control",
+        "v17.0": "No overall control",
+        "v17.1": "No overall control",
+        "v17.3": "No overall control",
+        "v17.6": "No overall control",
+        "v17.7-io": "No overall control",
+        "v17.8": "No overall control",
+        "v17.9": "No overall control",
+        "v17.10": "No overall control"
+      }
+    },
+    {
+      "council": "Sunderland",
+      "slug": "sunderland",
+      "actual": "Reform UK",
+      "preds": {
+        "v15.1": "Reform UK",
+        "v17.0": "Labour",
+        "v17.1": "Labour",
+        "v17.3": "Labour",
+        "v17.6": "Reform UK",
+        "v17.7-io": "Reform UK",
+        "v17.8": "Reform UK",
+        "v17.9": "Reform UK",
+        "v17.10": "Reform UK"
+      }
+    },
+    {
+      "council": "Sutton",
+      "slug": "sutton",
+      "actual": "Liberal Democrat",
+      "preds": {
+        "v15.1": "Liberal Democrat",
+        "v17.0": "Liberal Democrat",
+        "v17.1": "Liberal Democrat",
+        "v17.3": "Liberal Democrat",
+        "v17.6": "Liberal Democrat",
+        "v17.7-io": "Liberal Democrat",
+        "v17.8": "Liberal Democrat",
+        "v17.9": "Liberal Democrat",
+        "v17.10": "Liberal Democrat"
+      }
+    },
+    {
+      "council": "Tameside",
+      "slug": "tameside",
+      "actual": "No overall control",
+      "preds": {
+        "v15.1": "No overall control",
+        "v17.0": "Labour",
+        "v17.1": "Labour",
+        "v17.3": "Labour",
+        "v17.6": "Labour",
+        "v17.7-io": "Labour",
+        "v17.8": "Labour",
+        "v17.9": "Labour",
+        "v17.10": "No overall control"
+      }
+    },
+    {
+      "council": "Trafford",
+      "slug": "trafford",
+      "actual": "Labour",
+      "preds": {
+        "v15.1": "Labour",
+        "v17.0": "Labour",
+        "v17.1": "Labour",
+        "v17.3": "Labour",
+        "v17.6": "Labour",
+        "v17.7-io": "Labour",
+        "v17.8": "Labour",
+        "v17.9": "Labour",
+        "v17.10": "Labour"
+      }
+    },
+    {
+      "council": "Wakefield",
+      "slug": "wakefield",
+      "actual": "Reform UK",
+      "preds": {
+        "v15.1": "Reform UK",
+        "v17.0": "Labour",
+        "v17.1": "Labour",
+        "v17.3": "Labour",
+        "v17.6": "Labour",
+        "v17.7-io": "Labour",
+        "v17.8": "Reform UK",
+        "v17.9": "Reform UK",
+        "v17.10": "Reform UK"
+      }
+    },
+    {
+      "council": "Wigan",
+      "slug": "wigan",
+      "actual": "Labour",
+      "preds": {
+        "v15.1": "Labour",
+        "v17.0": "Labour",
+        "v17.1": "Labour",
+        "v17.3": "Labour",
+        "v17.6": "Labour",
+        "v17.7-io": "Labour",
+        "v17.8": "Reform UK",
+        "v17.9": "Reform UK",
+        "v17.10": "Reform UK"
+      }
+    },
+    {
+      "council": "Wolverhampton",
+      "slug": "wolverhampton",
+      "actual": "No overall control",
+      "preds": {
+        "v15.1": "Labour",
+        "v17.0": "Labour",
+        "v17.1": "Labour",
+        "v17.3": "Labour",
+        "v17.6": "Labour",
+        "v17.7-io": "Labour",
+        "v17.8": "Reform UK",
+        "v17.9": "Reform UK",
+        "v17.10": "Reform UK"
+      }
+    }
+  ]
+}

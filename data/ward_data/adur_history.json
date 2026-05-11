@@ -1,0 +1,187 @@
+{
+  "council_slug": "adur",
+  "source": "https://candidates.democracyclub.org.uk/api/next/",
+  "fetched_at": "2026-05-11T00:05:09Z",
+  "wards": [
+    {
+      "ward_slug": "buckingham",
+      "ward_name": "Buckingham",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.adur.buckingham.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 50.86,
+        "Conservative": 31.67,
+        "Liberal Democrat": 12.25,
+        "Green": 5.23
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1339,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "churchill",
+      "ward_name": "Churchill",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.adur.churchill.2022-05-05",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 51.9,
+        "Labour": 36.53,
+        "Green": 11.57
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 1158,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "eastbrook",
+      "ward_name": "Eastbrook",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.adur.eastbrook.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 58.55,
+        "Conservative": 33.2,
+        "Green": 8.25
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1018,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "hillside",
+      "ward_name": "Hillside",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.adur.hillside.2022-05-05",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 50.54,
+        "Labour": 49.46
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 1106,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "manor",
+      "ward_name": "Manor",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.adur.manor.2024-05-02",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 52.29,
+        "Labour": 33.82,
+        "Green": 8.96,
+        "Liberal Democrat": 4.94
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 1094,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "marine",
+      "ward_name": "Marine",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.adur.marine.2024-05-02",
+      "prior_winning_party": "Independent",
+      "prior_party_shares": {
+        "Independent": 67.71,
+        "Labour": 20.54,
+        "Green": 8.71,
+        "Liberal Democrat": 3.05
+      },
+      "prior_party_seats_won": {
+        "Independent": 1
+      },
+      "prior_total_votes": 1378,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "mash-barn",
+      "ward_name": "Mash Barn",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.adur.mash-barn.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 63.29,
+        "Conservative": 28.6,
+        "Green": 8.12
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1035,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "peverel",
+      "ward_name": "Peverel",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.adur.peverel.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 49.09,
+        "Conservative": 44.13,
+        "Green": 6.78
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1047,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "southwick-green",
+      "ward_name": "Southwick Green",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.adur.southwick-green.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 64.14,
+        "Conservative": 22.86,
+        "Liberal Democrat": 7.07,
+        "Green": 5.92
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1216,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "st-marys",
+      "ward_name": "St Mary's",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.adur.st-marys.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 76.01,
+        "Conservative": 13.24,
+        "Green": 10.75
+      },
+      "prior_party_seats_won": {
+        "Labour": 2
+      },
+      "prior_total_votes": 2372,
+      "prior_winner_count": 2
+    }
+  ],
+  "n_wards_attempted": 12,
+  "n_wards_with_history": 10,
+  "n_wards_no_history": 2,
+  "prior_year_distribution": {
+    "2024": 8,
+    "2022": 2
+  }
+}

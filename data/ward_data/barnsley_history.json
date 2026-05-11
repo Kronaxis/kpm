@@ -1,0 +1,316 @@
+{
+  "council_slug": "barnsley",
+  "source": "https://candidates.democracyclub.org.uk/api/next/",
+  "fetched_at": "2026-05-10T22:48:51Z",
+  "wards": [
+    {
+      "ward_slug": "central",
+      "ward_name": "Central",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.barnsley.central.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 58.23,
+        "Green": 16.74,
+        "Conservative": 14.38,
+        "Liberal Democrat": 10.64
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1738,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "cudworth",
+      "ward_name": "Cudworth",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.barnsley.cudworth.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 72.88,
+        "Conservative": 11.66,
+        "Liberal Democrat": 8.75,
+        "Green": 6.72
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1578,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "darton-west",
+      "ward_name": "Darton West",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.barnsley.darton-west.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 45.11,
+        "Green": 20.79,
+        "Reform UK": 17.18,
+        "Liberal Democrat": 8.53,
+        "Conservative": 8.4
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2381,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "dearne-north",
+      "ward_name": "Dearne North",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.barnsley.dearne-north.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 69.68,
+        "English Democrats": 14.55,
+        "Conservative": 9.38,
+        "Liberal Democrat": 6.39
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1471,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "dearne-south",
+      "ward_name": "Dearne South",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.barnsley.dearne-south.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 60.12,
+        "Social Democratic Party": 22.46,
+        "Conservative": 7.43,
+        "English Democrats": 5.62,
+        "Liberal Democrat": 4.37
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1763,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "hoyland-milton",
+      "ward_name": "Hoyland Milton",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.barnsley.hoyland-milton.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 46.15,
+        "Reform UK": 29.46,
+        "Conservative": 8.07,
+        "Liberal Democrat": 7.4,
+        "Green": 6.85,
+        "TUSC": 2.07
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2366,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "kingstone",
+      "ward_name": "Kingstone",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.barnsley.kingstone.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 38.76,
+        "Barnsley Independent Group": 32.0,
+        "Conservative": 9.15,
+        "Green": 7.24,
+        "Liberal Democrat": 4.78,
+        "Northern Independence Party": 3.89,
+        "Freedom Alliance- Integrity, Society, Economy": 2.27,
+        "Social Democratic Party": 1.91
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1672,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "monk-bretton",
+      "ward_name": "Monk Bretton",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.barnsley.monk-bretton.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 51.01,
+        "Independent": 38.75,
+        "Conservative": 6.52,
+        "Liberal Democrat": 3.71
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2023,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "north-east",
+      "ward_name": "North East",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.barnsley.north-east.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 53.87,
+        "Independent": 22.0,
+        "Yorkshire Party": 10.63,
+        "Conservative": 8.19,
+        "Liberal Democrat": 5.31
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2014,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "old-town",
+      "ward_name": "Old Town",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.barnsley.old-town.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 57.01,
+        "Conservative": 14.73,
+        "Green": 13.02,
+        "Liberal Democrat": 9.89,
+        "TUSC": 5.35
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1982,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "penistone-east",
+      "ward_name": "Penistone East",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.barnsley.penistone-east.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 42.1,
+        "Conservative": 37.82,
+        "Liberal Democrat": 10.57,
+        "Green": 9.5
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3641,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "penistone-west",
+      "ward_name": "Penistone West",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.barnsley.penistone-west.2024-05-02",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 39.13,
+        "Labour": 29.36,
+        "Conservative": 12.37,
+        "Reform UK": 11.87,
+        "Green": 7.28
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "prior_total_votes": 3614,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "rockingham",
+      "ward_name": "Rockingham",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.barnsley.rockingham.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 36.17,
+        "Independent": 29.91,
+        "Reform UK": 18.7,
+        "Conservative": 9.98,
+        "Liberal Democrat": 5.24
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2444,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "royston",
+      "ward_name": "Royston",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.barnsley.royston.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 58.58,
+        "Independent": 23.82,
+        "Conservative": 10.12,
+        "Liberal Democrat": 4.71,
+        "TUSC": 2.76
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1847,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "stairfoot",
+      "ward_name": "Stairfoot",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.barnsley.stairfoot.2023-05-04",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 61.45,
+        "Conservative": 22.45,
+        "Liberal Democrat": 16.09
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1746,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "wombwell",
+      "ward_name": "Wombwell",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.barnsley.wombwell.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 65.68,
+        "Reform UK": 15.2,
+        "Conservative": 7.72,
+        "Green": 7.14,
+        "Liberal Democrat": 4.27
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2086,
+      "prior_winner_count": 1
+    }
+  ],
+  "n_wards_attempted": 18,
+  "n_wards_with_history": 16,
+  "n_wards_no_history": 2,
+  "prior_year_distribution": {
+    "2024": 14,
+    "2022": 1,
+    "2023": 1
+  }
+}

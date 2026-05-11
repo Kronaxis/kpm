@@ -1,0 +1,471 @@
+{
+  "council_slug": "sheffield",
+  "wards": [
+    {
+      "ward_slug": "beauchief-greenhill",
+      "ward_name": "Beauchief & Greenhill",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.sheffield.beauchief-greenhill.2023-05-04",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 46.05,
+        "Labour": 31.4,
+        "Green": 9.47,
+        "Conservative": 7.91,
+        "Reform UK": 3.76,
+        "Trade Unionist and Socialist Coalition": 1.42
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "prior_total_votes": 4793,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "beighton",
+      "ward_name": "Beighton",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.sheffield.beighton.2023-05-04",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 49.38,
+        "Labour": 34.11,
+        "Conservative": 9.65,
+        "Green": 4.26,
+        "Trade Unionist and Socialist Coalition": 2.6
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "prior_total_votes": 3805,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "broomhill-sharrow-vale",
+      "ward_name": "Broomhill & Sharrow Vale",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.sheffield.broomhill-sharrow-vale.2023-05-04",
+      "prior_winning_party": "Green",
+      "prior_party_shares": {
+        "Green": 51.73,
+        "Labour": 33.91,
+        "Liberal Democrat": 6.48,
+        "Conservative": 5.11,
+        "Trade Unionist and Socialist Coalition": 2.76
+      },
+      "prior_party_seats_won": {
+        "Green": 1
+      },
+      "prior_total_votes": 5028,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "burngreave",
+      "ward_name": "Burngreave",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.sheffield.burngreave.2023-05-04",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 66.97,
+        "Green": 12.73,
+        "Liberal Democrat": 9.15,
+        "Conservative": 6.82,
+        "Trade Unionist and Socialist Coalition": 2.3,
+        "Reform UK": 2.04
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3433,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "city",
+      "ward_name": "City",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.sheffield.city.2023-05-04",
+      "prior_winning_party": "Green",
+      "prior_party_shares": {
+        "Green": 53.41,
+        "Labour": 29.88,
+        "Liberal Democrat": 5.25,
+        "Conservative": 4.87,
+        "Trade Unionist and Socialist Coalition": 4.44,
+        "Yorkshire Party": 2.15
+      },
+      "prior_party_seats_won": {
+        "Green": 1
+      },
+      "prior_total_votes": 2095,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "crookes-crosspool",
+      "ward_name": "Crookes & Crosspool",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.sheffield.crookes-crosspool.2023-05-04",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 41.21,
+        "Labour": 38.39,
+        "Green": 13.69,
+        "Conservative": 5.02,
+        "Trade Unionist and Socialist Coalition": 1.7
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "prior_total_votes": 6635,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "darnall",
+      "ward_name": "Darnall",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.sheffield.darnall.2023-05-04",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 68.14,
+        "Liberal Democrat": 13.73,
+        "Conservative": 9.81,
+        "Green": 5.39,
+        "Trade Unionist and Socialist Coalition": 2.93
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3211,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "dore-totley",
+      "ward_name": "Dore & Totley",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.sheffield.dore-totley.2023-05-04",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 56.06,
+        "Labour": 17.36,
+        "Conservative": 14.42,
+        "Green": 11.37,
+        "Trade Unionist and Socialist Coalition": 0.79
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "prior_total_votes": 6678,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "east-ecclesfield",
+      "ward_name": "East Ecclesfield",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.sheffield.east-ecclesfield.2023-05-04",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 41.07,
+        "Labour": 38.52,
+        "Conservative": 11.8,
+        "Green": 6.2,
+        "Trade Unionist and Socialist Coalition": 2.41
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "prior_total_votes": 4239,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "ecclesall",
+      "ward_name": "Ecclesall",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.sheffield.ecclesall.2023-05-04",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 40.67,
+        "Green": 32.06,
+        "Labour": 20.05,
+        "Conservative": 6.01,
+        "Trade Unionist and Socialist Coalition": 1.21
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "prior_total_votes": 8359,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "fulwood",
+      "ward_name": "Fulwood",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.sheffield.fulwood.2023-05-04",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 52.19,
+        "Labour": 27.56,
+        "Green": 11.45,
+        "Conservative": 7.61,
+        "Trade Unionist and Socialist Coalition": 1.19
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "prior_total_votes": 6567,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "gleadless-valley",
+      "ward_name": "Gleadless Valley",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.sheffield.gleadless-valley.2023-05-04",
+      "prior_winning_party": "Green",
+      "prior_party_shares": {
+        "Green": 45.49,
+        "Labour": 37.56,
+        "Conservative": 7.04,
+        "Liberal Democrat": 6.17,
+        "Trade Unionist and Socialist Coalition": 3.74
+      },
+      "prior_party_seats_won": {
+        "Green": 1
+      },
+      "prior_total_votes": 4603,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "graves-park",
+      "ward_name": "Graves Park",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.sheffield.graves-park.2023-05-04",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 40.12,
+        "Labour": 35.67,
+        "Green": 14.4,
+        "Conservative": 7.78,
+        "Trade Unionist and Socialist Coalition": 2.03
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "prior_total_votes": 5554,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "hillsborough",
+      "ward_name": "Hillsborough",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.sheffield.hillsborough.2023-05-04",
+      "prior_winning_party": "Green",
+      "prior_party_shares": {
+        "Green": 46.08,
+        "Labour": 38.47,
+        "Conservative": 8.46,
+        "Liberal Democrat": 4.98,
+        "Trade Unionist and Socialist Coalition": 2.01
+      },
+      "prior_party_seats_won": {
+        "Green": 1
+      },
+      "prior_total_votes": 5282,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "manor-castle",
+      "ward_name": "Manor Castle",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.sheffield.manor-castle.2023-05-04",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 49.65,
+        "Green": 22.1,
+        "Yorkshire Party": 7.75,
+        "Conservative": 5.51,
+        "Liberal Democrat": 8.12,
+        "Trade Unionist and Socialist Coalition": 3.05,
+        "Independent": 3.82
+      },
+      "prior_party_seats_won": {
+        "Labour": 2
+      },
+      "prior_total_votes": 5603,
+      "prior_winner_count": 2
+    },
+    {
+      "ward_slug": "mosborough",
+      "ward_name": "Mosborough",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.sheffield.mosborough.2023-05-04",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 43.07,
+        "Labour": 37.24,
+        "Conservative": 11.97,
+        "Green": 5.18,
+        "Trade Unionist and Socialist Coalition": 2.53
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "prior_total_votes": 4151,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "nether-edge-sharrow",
+      "ward_name": "Nether Edge & Sharrow",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.sheffield.nether-edge-sharrow.2023-05-04",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 47.41,
+        "Green": 37.61,
+        "Liberal Democrat": 8.01,
+        "Conservative": 4.27,
+        "Trade Unionist and Socialist Coalition": 2.7
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 6480,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "park-arbourthorne",
+      "ward_name": "Park & Arbourthorne",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.sheffield.park-arbourthorne.2023-05-04",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 49.89,
+        "Conservative": 18.55,
+        "Green": 16.97,
+        "Liberal Democrat": 9.81,
+        "Trade Unionist and Socialist Coalition": 4.78
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3099,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "richmond",
+      "ward_name": "Richmond",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.sheffield.richmond.2023-05-04",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 52.26,
+        "Conservative": 17.85,
+        "Green": 9.54,
+        "Liberal Democrat": 9.07,
+        "Reform UK": 7.78,
+        "Trade Unionist and Socialist Coalition": 3.51
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3188,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "stannington",
+      "ward_name": "Stannington",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.sheffield.stannington.2023-05-04",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 52.37,
+        "Labour": 23.47,
+        "Conservative": 13.29,
+        "Green": 9.37,
+        "Trade Unionist and Socialist Coalition": 1.51
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "prior_total_votes": 5314,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "stocksbridge-upper-don",
+      "ward_name": "Stocksbridge & Upper Don",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.sheffield.stocksbridge-upper-don.2023-05-04",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 51.48,
+        "Conservative": 34.43,
+        "Green": 7.5,
+        "Liberal Democrat": 5.67,
+        "Trade Unionist and Socialist Coalition": 0.92
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 5202,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "walkley",
+      "ward_name": "Walkley",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.sheffield.walkley.2023-05-04",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 50.3,
+        "Green": 32.1,
+        "Liberal Democrat": 6.87,
+        "Conservative": 4.92,
+        "Trade Unionist and Socialist Coalition": 2.94,
+        "Reform UK": 2.87
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 5505,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "west-ecclesfield",
+      "ward_name": "West Ecclesfield",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.sheffield.west-ecclesfield.2023-05-04",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 45.24,
+        "Labour": 30.12,
+        "Conservative": 9.51,
+        "Reform UK": 8.29,
+        "Green": 5.53,
+        "Trade Unionist and Socialist Coalition": 1.32
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "prior_total_votes": 4103,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "woodhouse",
+      "ward_name": "Woodhouse",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.sheffield.woodhouse.2023-05-04",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 55.53,
+        "Conservative": 20.93,
+        "Liberal Democrat": 9.54,
+        "Green": 9.44,
+        "Trade Unionist and Socialist Coalition": 4.56
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3072,
+      "prior_winner_count": 1
+    }
+  ],
+  "n_wards_attempted": 24,
+  "n_wards_with_history": 24
+}

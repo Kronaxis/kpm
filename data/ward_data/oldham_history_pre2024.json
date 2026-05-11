@@ -1,0 +1,154 @@
+{
+  "council_slug": "oldham",
+  "wards": [
+    {
+      "ward_slug": "alexandra",
+      "ward_name": "Alexandra",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.oldham.alexandra.2023-05-04",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 76.95,
+        "Liberal Democrat": 8.81,
+        "Independent": 4.56,
+        "Northern Heart": 4.27,
+        "Conservative": 5.4
+      },
+      "prior_party_seats_won": {
+        "Labour": 3
+      },
+      "prior_total_votes": 5389,
+      "prior_winner_count": 3
+    },
+    {
+      "ward_slug": "chadderton-central",
+      "ward_name": "Chadderton Central",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.oldham.chadderton-central.2023-05-04",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 66.24,
+        "Conservative": 20.08,
+        "Northern Heart": 8.57,
+        "Liberal Democrat": 5.11
+      },
+      "prior_party_seats_won": {
+        "Labour": 3
+      },
+      "prior_total_votes": 7874,
+      "prior_winner_count": 3
+    },
+    {
+      "ward_slug": "chadderton-north",
+      "ward_name": "Chadderton North",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.oldham.chadderton-north.2023-05-04",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 49.59,
+        "Conservative": 41.36,
+        "Liberal Democrat": 9.05
+      },
+      "prior_party_seats_won": {
+        "Labour": 3
+      },
+      "prior_total_votes": 7580,
+      "prior_winner_count": 3
+    },
+    {
+      "ward_slug": "coldhurst",
+      "ward_name": "Coldhurst",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.oldham.coldhurst.2023-05-04",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 53.43,
+        "Independent": 38.0,
+        "Liberal Democrat": 5.33,
+        "Conservative": 3.24
+      },
+      "prior_party_seats_won": {
+        "Labour": 3
+      },
+      "prior_total_votes": 13358,
+      "prior_winner_count": 3
+    },
+    {
+      "ward_slug": "crompton",
+      "ward_name": "Crompton",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.oldham.crompton.2023-05-04",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 54.56,
+        "Independent": 12.05,
+        "Labour": 21.52,
+        "Conservative": 11.87
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 3
+      },
+      "prior_total_votes": 6107,
+      "prior_winner_count": 3
+    },
+    {
+      "ward_slug": "failsworth-east",
+      "ward_name": "Failsworth East",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.oldham.failsworth-east.2023-05-04",
+      "prior_winning_party": "Failsworth Independent Party",
+      "prior_party_shares": {
+        "Failsworth Independent Party": 58.82,
+        "Labour": 30.82,
+        "Conservative": 5.39,
+        "Liberal Democrat": 4.97
+      },
+      "prior_party_seats_won": {
+        "Failsworth Independent Party": 3
+      },
+      "prior_total_votes": 4568,
+      "prior_winner_count": 3
+    },
+    {
+      "ward_slug": "failsworth-west",
+      "ward_name": "Failsworth West",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.oldham.failsworth-west.2023-05-04",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Independent": 44.46,
+        "Labour": 43.13,
+        "Failsworth Independent Party": 7.19,
+        "Conservative": 3.36,
+        "Liberal Democrat": 1.86
+      },
+      "prior_party_seats_won": {
+        "Independent": 1,
+        "Labour": 2
+      },
+      "prior_total_votes": 5690,
+      "prior_winner_count": 3
+    },
+    {
+      "ward_slug": "hollinwood",
+      "ward_name": "Hollinwood",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.oldham.hollinwood.2023-05-04",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 45.28,
+        "Labour": 41.13,
+        "Independent": 7.49,
+        "National Housing Party United Kingdom": 3.07,
+        "Liberal Democrat": 3.03
+      },
+      "prior_party_seats_won": {
+        "Conservative": 3
+      },
+      "prior_total_votes": 6672,
+      "prior_winner_count": 3
+    }
+  ],
+  "n_wards_attempted": 17,
+  "n_wards_with_history": 8
+}

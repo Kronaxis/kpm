@@ -1,0 +1,769 @@
+{
+  "council_slug": "hartlepool",
+  "election_date": "2026-05-07",
+  "source": "https://candidates.democracyclub.org.uk/api/next/",
+  "fetched_at": "2026-05-10T21:50:52Z",
+  "wards": [
+    {
+      "ward_slug": "burn-valley",
+      "ward_name": "Burn Valley",
+      "ballot_id": "local.hartlepool.burn-valley.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Graham Harrison",
+          "votes": 847
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Graham Harrison",
+          "votes": 847,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Owen Craig Riddle",
+          "votes": 740,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "India Robertson",
+          "votes": 252,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Bryan Thompson",
+          "votes": 165,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Lucas Hennells-Barber",
+          "votes": 57,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 41.1,
+        "Labour": 35.9,
+        "Green": 12.23,
+        "Conservative": 8.01,
+        "Liberal Democrat": 2.77
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 2061,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T21:51:08Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05013038",
+        "qual_l4_pct": 26.79,
+        "no_qual_pct": 22.45,
+        "muslim_pct": 2.6,
+        "no_religion_pct": 41.0,
+        "age_under_35_pct": 40.76,
+        "age_65_plus_pct": 22.75,
+        "social_rented_pct": 43.36,
+        "white_british_pct": 92.61
+      }
+    },
+    {
+      "ward_slug": "de-bruce",
+      "ward_name": "De Bruce",
+      "ballot_id": "local.hartlepool.de-bruce.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Nick Anderson",
+          "votes": 1080
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Nick Anderson",
+          "votes": 1080,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Rachel Jayne Creevy",
+          "votes": 459,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Jasmine Jade Khan",
+          "votes": 146,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Lydia Dorelle Waller",
+          "votes": 114,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 60.03,
+        "Labour": 25.51,
+        "Green": 8.12,
+        "Conservative": 6.34
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 1799,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T21:51:10Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05013039",
+        "qual_l4_pct": 17.7,
+        "no_qual_pct": 27.92,
+        "muslim_pct": 0.46,
+        "no_religion_pct": 44.97,
+        "age_under_35_pct": 44.72,
+        "age_65_plus_pct": 20.34,
+        "social_rented_pct": 76.51,
+        "white_british_pct": 96.12
+      }
+    },
+    {
+      "ward_slug": "fens-greatham",
+      "ward_name": "Fens & Greatham",
+      "ballot_id": "local.hartlepool.fens-greatham.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Dave Bruce",
+          "votes": 1226
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Dave Bruce",
+          "votes": 1226,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Mark Joseph Hanson",
+          "votes": 857,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Bob Buchan",
+          "votes": 373,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Lisa Marie Arnell",
+          "votes": 173,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 46.63,
+        "Labour": 32.6,
+        "Conservative": 14.19,
+        "Green": 6.58
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 2629,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T21:51:12Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05013040",
+        "qual_l4_pct": 25.24,
+        "no_qual_pct": 21.36,
+        "muslim_pct": 0.36,
+        "no_religion_pct": 31.88,
+        "age_under_35_pct": 29.72,
+        "age_65_plus_pct": 35.2,
+        "social_rented_pct": 17.77,
+        "white_british_pct": 98.35
+      }
+    },
+    {
+      "ward_slug": "foggy-furze",
+      "ward_name": "Foggy Furze",
+      "ballot_id": "local.hartlepool.foggy-furze.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Rob Stevenson",
+          "votes": 1001
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Rob Stevenson",
+          "votes": 1001,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Melanie Morley",
+          "votes": 470,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Connor Stallard",
+          "votes": 324,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Mike Cherrington",
+          "votes": 163,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Christopher Groves",
+          "votes": 154,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 47.4,
+        "Labour": 22.25,
+        "Liberal Democrat": 15.34,
+        "Green": 7.72,
+        "Conservative": 7.29
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 2112,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T21:51:13Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05013041",
+        "qual_l4_pct": 20.56,
+        "no_qual_pct": 26.35,
+        "muslim_pct": 1.57,
+        "no_religion_pct": 39.75,
+        "age_under_35_pct": 39.26,
+        "age_65_plus_pct": 23.9,
+        "social_rented_pct": 32.61,
+        "white_british_pct": 93.83
+      }
+    },
+    {
+      "ward_slug": "hart",
+      "ward_name": "Hart",
+      "ballot_id": "local.hartlepool.hart.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Brian Cowie",
+          "votes": 1128
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Brian Cowie",
+          "votes": 1128,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Jake Ethan Swinburne",
+          "votes": 535,
+          "elected": false
+        },
+        {
+          "party": "Independent",
+          "name": "Rob Cook",
+          "votes": 205,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Michael Brookes",
+          "votes": 189,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "David Nicholson",
+          "votes": 186,
+          "elected": false
+        },
+        {
+          "party": "Independent",
+          "name": "Jo Banks",
+          "votes": 132,
+          "elected": false
+        },
+        {
+          "party": "Independent",
+          "name": "Stuart Alan Campbell",
+          "votes": 68,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Barry McKinstray",
+          "votes": 46,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 45.32,
+        "Labour": 21.49,
+        "Independent": 16.27,
+        "Green": 7.59,
+        "Conservative": 7.47,
+        "Liberal Democrat": 1.85
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 2489,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T21:51:15Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05013042",
+        "qual_l4_pct": 33.32,
+        "no_qual_pct": 14.35,
+        "muslim_pct": 0.22,
+        "no_religion_pct": 36.05,
+        "age_under_35_pct": 41.0,
+        "age_65_plus_pct": 18.72,
+        "social_rented_pct": 19.78,
+        "white_british_pct": 97.28
+      }
+    },
+    {
+      "ward_slug": "headland-harbour",
+      "ward_name": "Headland & Harbour",
+      "ballot_id": "local.hartlepool.headland-harbour.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Scott Gaitey",
+          "votes": 1150
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Scott Gaitey",
+          "votes": 1150,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Amanda Davis",
+          "votes": 549,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Jessica Louise Ingham",
+          "votes": 223,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "John Mawhinney",
+          "votes": 175,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Nathan Maddison McLauchlan",
+          "votes": 73,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 53.0,
+        "Labour": 25.3,
+        "Green": 10.28,
+        "Conservative": 8.06,
+        "Liberal Democrat": 3.36
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 2170,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T21:51:17Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05013043",
+        "qual_l4_pct": 22.38,
+        "no_qual_pct": 26.91,
+        "muslim_pct": 0.95,
+        "no_religion_pct": 43.37,
+        "age_under_35_pct": 39.57,
+        "age_65_plus_pct": 20.72,
+        "social_rented_pct": 67.62,
+        "white_british_pct": 94.68
+      }
+    },
+    {
+      "ward_slug": "manor-house",
+      "ward_name": "Manor House",
+      "ballot_id": "local.hartlepool.manor-house.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Ronald Buglass",
+          "votes": 1041
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Ronald Buglass",
+          "votes": 1041,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Pamela Claire Hargreaves",
+          "votes": 354,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Tom Casey",
+          "votes": 174,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 66.35,
+        "Labour": 22.56,
+        "Green": 11.09
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 1569,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T21:51:18Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05013044",
+        "qual_l4_pct": 16.68,
+        "no_qual_pct": 29.46,
+        "muslim_pct": 1.01,
+        "no_religion_pct": 49.54,
+        "age_under_35_pct": 47.73,
+        "age_65_plus_pct": 17.11,
+        "social_rented_pct": 87.39,
+        "white_british_pct": 96.35
+      }
+    },
+    {
+      "ward_slug": "rossmere",
+      "ward_name": "Rossmere",
+      "ballot_id": "local.hartlepool.rossmere.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Christine Wiley",
+          "votes": 1017
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Christine Wiley",
+          "votes": 1017,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Moss Boddy",
+          "votes": 307,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Matthew James Hartley",
+          "votes": 144,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Veronica Nicholson",
+          "votes": 110,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 64.45,
+        "Labour": 19.46,
+        "Green": 9.13,
+        "Conservative": 6.97
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 1578,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T21:51:20Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05013045",
+        "qual_l4_pct": 18.05,
+        "no_qual_pct": 29.06,
+        "muslim_pct": 0.67,
+        "no_religion_pct": 45.75,
+        "age_under_35_pct": 43.09,
+        "age_65_plus_pct": 19.47,
+        "social_rented_pct": 80.15,
+        "white_british_pct": 96.89
+      }
+    },
+    {
+      "ward_slug": "rural-west",
+      "ward_name": "Rural West",
+      "ballot_id": "local.hartlepool.rural-west.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Richie Hughes",
+          "votes": 1309
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Richie Hughes",
+          "votes": 1309,
+          "elected": true
+        },
+        {
+          "party": "Conservative",
+          "name": "Thomas Cassidy",
+          "votes": 840,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Sara Kadry Mohamed Hamouda",
+          "votes": 578,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Simon Niall Crute",
+          "votes": 304,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 43.19,
+        "Conservative": 27.71,
+        "Labour": 19.07,
+        "Green": 10.03
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 3031,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T21:51:22Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05013046",
+        "qual_l4_pct": 42.31,
+        "no_qual_pct": 11.41,
+        "muslim_pct": 0.93,
+        "no_religion_pct": 27.65,
+        "age_under_35_pct": 33.05,
+        "age_65_plus_pct": 27.18,
+        "social_rented_pct": 4.89,
+        "white_british_pct": 94.45
+      }
+    },
+    {
+      "ward_slug": "seaton",
+      "ward_name": "Seaton",
+      "ballot_id": "local.hartlepool.seaton.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Peter Storey",
+          "votes": 1062
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Peter Storey",
+          "votes": 1062,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Nicholas Brian Cain",
+          "votes": 486,
+          "elected": false
+        },
+        {
+          "party": "Independent",
+          "name": "Gordon Cranney",
+          "votes": 410,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Mia Brown",
+          "votes": 167,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "John Harrison",
+          "votes": 148,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Michael Noppen",
+          "votes": 65,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 45.42,
+        "Labour": 20.79,
+        "Independent": 17.54,
+        "Green": 7.14,
+        "Conservative": 6.33,
+        "Liberal Democrat": 2.78
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 2338,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T21:51:23Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05013047",
+        "qual_l4_pct": 29.7,
+        "no_qual_pct": 17.85,
+        "muslim_pct": 0.51,
+        "no_religion_pct": 31.89,
+        "age_under_35_pct": 35.66,
+        "age_65_plus_pct": 27.47,
+        "social_rented_pct": 14.9,
+        "white_british_pct": 97.25
+      }
+    },
+    {
+      "ward_slug": "victoria",
+      "ward_name": "Victoria",
+      "ballot_id": "local.hartlepool.victoria.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Adam Gaines",
+          "votes": 766
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Adam Gaines",
+          "votes": 766,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Gary Allen",
+          "votes": 553,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Connor James Dorrian",
+          "votes": 319,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Rodney Pangbourne",
+          "votes": 123,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 43.5,
+        "Labour": 31.4,
+        "Green": 18.11,
+        "Conservative": 6.98
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 1761,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T21:52:09Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05013049",
+        "qual_l4_pct": 22.45,
+        "no_qual_pct": 26.78,
+        "muslim_pct": 5.78,
+        "no_religion_pct": 43.33,
+        "age_under_35_pct": 43.86,
+        "age_65_plus_pct": 17.67,
+        "social_rented_pct": 44.49,
+        "white_british_pct": 86.76
+      }
+    }
+  ],
+  "n_wards_attempted": 12,
+  "n_wards_with_results": 11,
+  "n_wards_no_results": 1
+}

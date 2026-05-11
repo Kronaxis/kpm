@@ -1,0 +1,66 @@
+{
+  "council_slug": "south-cambridgeshire",
+  "source": "https://candidates.democracyclub.org.uk/api/next/",
+  "fetched_at": "2026-05-11T01:29:42Z",
+  "wards": [
+    {
+      "ward_slug": "balsham",
+      "ward_name": "Balsham",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.south-cambridgeshire.balsham.2022-05-05",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 54.2,
+        "Conservative": 31.1,
+        "Labour": 7.78,
+        "Green": 6.93
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "prior_total_votes": 1299,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "bar-hill",
+      "ward_name": "Bar Hill",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.south-cambridgeshire.bar-hill.2022-05-05",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 48.23,
+        "Liberal Democrat": 43.58,
+        "Green": 8.18
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 1161,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "caxton-papworth",
+      "ward_name": "Caxton & Papworth",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.south-cambridgeshire.caxton-papworth.2022-05-05",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 49.6,
+        "Liberal Democrat": 38.74,
+        "Green": 11.66
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1,
+        "Liberal Democrat": 1
+      },
+      "prior_total_votes": 3472,
+      "prior_winner_count": 2
+    }
+  ],
+  "n_wards_attempted": 4,
+  "n_wards_with_history": 3,
+  "n_wards_no_history": 1,
+  "prior_year_distribution": {
+    "2022": 3
+  }
+}

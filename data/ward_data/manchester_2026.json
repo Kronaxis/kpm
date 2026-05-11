@@ -1,0 +1,2310 @@
+{
+  "council_slug": "manchester",
+  "election_date": "2026-05-07",
+  "source": "https://candidates.democracyclub.org.uk/api/next/",
+  "fetched_at": "2026-05-10T20:59:50Z",
+  "wards": [
+    {
+      "ward_slug": "ancoats-beswick",
+      "ward_name": "Ancoats & Beswick",
+      "ballot_id": "local.manchester.ancoats-beswick.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Green",
+          "name": "Hussayn Salem",
+          "votes": 1776
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Green",
+          "name": "Hussayn Salem",
+          "votes": 1776,
+          "elected": true
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Luke Allan",
+          "votes": 1095,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Irene Cecilia Robinson",
+          "votes": 785,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Elizabeth Grace Drinkwater",
+          "votes": 498,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Saadmun Abdullah",
+          "votes": 78,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Green": 41.97,
+        "Liberal Democrat": 25.87,
+        "Labour": 18.55,
+        "Reform UK": 11.77,
+        "Conservative": 1.84
+      },
+      "party_seats_won": {
+        "Green": 1
+      },
+      "winning_party": "Green",
+      "total_votes": 4232,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T20:59:52Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05011350",
+        "qual_l4_pct": 59.96,
+        "no_qual_pct": 13.32,
+        "muslim_pct": 8.82,
+        "no_religion_pct": 49.12,
+        "age_under_35_pct": 65.76,
+        "age_65_plus_pct": 6.22,
+        "social_rented_pct": 44.85,
+        "white_british_pct": 56.43
+      }
+    },
+    {
+      "ward_slug": "ardwick",
+      "ward_name": "Ardwick",
+      "ballot_id": "local.manchester.ardwick.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Green",
+          "name": "Alex-Salik Imran",
+          "votes": 1607
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Green",
+          "name": "Alex-Salik Imran",
+          "votes": 1607,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Tina Hewitson",
+          "votes": 1128,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Charlie Stott",
+          "votes": 295,
+          "elected": false
+        },
+        {
+          "party": "Workers Party of Britain",
+          "name": "Saqib Athar",
+          "votes": 170,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Princetta Monica Nicol",
+          "votes": 161,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Joe Lynch",
+          "votes": 119,
+          "elected": false
+        },
+        {
+          "party": "Communist Party of Britain",
+          "name": "Alex Francis-Palmer",
+          "votes": 30,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Green": 45.78,
+        "Labour": 32.14,
+        "Reform UK": 8.4,
+        "Workers Party of Britain": 4.84,
+        "Conservative": 4.59,
+        "Liberal Democrat": 3.39,
+        "Communist Party of Britain": 0.85
+      },
+      "party_seats_won": {
+        "Green": 1
+      },
+      "winning_party": "Green",
+      "total_votes": 3510,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T20:59:53Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05011351",
+        "qual_l4_pct": 35.6,
+        "no_qual_pct": 17.3,
+        "muslim_pct": 31.67,
+        "no_religion_pct": 26.39,
+        "age_under_35_pct": 66.74,
+        "age_65_plus_pct": 5.72,
+        "social_rented_pct": 92.06,
+        "white_british_pct": 24.68
+      }
+    },
+    {
+      "ward_slug": "baguley",
+      "ward_name": "Baguley",
+      "ballot_id": "local.manchester.baguley.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Sian Astley",
+          "votes": 1329
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Sian Astley",
+          "votes": 1329,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Paul Gerrard Andrews",
+          "votes": 906,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Grace Buczkowska",
+          "votes": 597,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Luke Berry",
+          "votes": 245,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Bernie Ryan",
+          "votes": 122,
+          "elected": false
+        },
+        {
+          "party": "TUSC",
+          "name": "Lynn Worthington",
+          "votes": 53,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 40.87,
+        "Labour": 27.86,
+        "Green": 18.36,
+        "Conservative": 7.53,
+        "Liberal Democrat": 3.75,
+        "TUSC": 1.63
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 3252,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T20:59:55Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05011352",
+        "qual_l4_pct": 25.83,
+        "no_qual_pct": 24.28,
+        "muslim_pct": 5.17,
+        "no_religion_pct": 38.54,
+        "age_under_35_pct": 47.71,
+        "age_65_plus_pct": 13.47,
+        "social_rented_pct": 88.88,
+        "white_british_pct": 70.19
+      }
+    },
+    {
+      "ward_slug": "brooklands",
+      "ward_name": "Brooklands",
+      "ballot_id": "local.manchester.brooklands.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Steven John Hodgkiss",
+          "votes": 1198
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Steven John Hodgkiss",
+          "votes": 1198,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Sue Cooley",
+          "votes": 1190,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Amy Bower",
+          "votes": 767,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Stephen Paul Carlton-Woods",
+          "votes": 377,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Martha O'Donoghue",
+          "votes": 182,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 32.26,
+        "Labour": 32.04,
+        "Green": 20.65,
+        "Conservative": 10.15,
+        "Liberal Democrat": 4.9
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 3714,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T20:59:57Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05011353",
+        "qual_l4_pct": 31.09,
+        "no_qual_pct": 20.9,
+        "muslim_pct": 5.79,
+        "no_religion_pct": 39.11,
+        "age_under_35_pct": 43.45,
+        "age_65_plus_pct": 17.44,
+        "social_rented_pct": 67.05,
+        "white_british_pct": 74.53
+      }
+    },
+    {
+      "ward_slug": "burnage",
+      "ward_name": "Burnage",
+      "ballot_id": "local.manchester.burnage.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Green",
+          "name": "Asma Alam",
+          "votes": 2257
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Green",
+          "name": "Asma Alam",
+          "votes": 2257,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Murtaza Ranjha Iqbal",
+          "votes": 1446,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Heather McDonagh",
+          "votes": 837,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Michael Paul Nash-Whitmore",
+          "votes": 152,
+          "elected": false
+        },
+        {
+          "party": "Workers Party of Britain",
+          "name": "Muhammad Nadeem Tahir",
+          "votes": 110,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Bhupinder Kumar",
+          "votes": 107,
+          "elected": false
+        },
+        {
+          "party": "Independent",
+          "name": "Tenisha Nantume",
+          "votes": 24,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Green": 45.75,
+        "Labour": 29.31,
+        "Reform UK": 16.97,
+        "Liberal Democrat": 3.08,
+        "Workers Party of Britain": 2.23,
+        "Conservative": 2.17,
+        "Independent": 0.49
+      },
+      "party_seats_won": {
+        "Green": 1
+      },
+      "winning_party": "Green",
+      "total_votes": 4933,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T20:59:58Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05011354",
+        "qual_l4_pct": 33.39,
+        "no_qual_pct": 22.73,
+        "muslim_pct": 34.08,
+        "no_religion_pct": 23.58,
+        "age_under_35_pct": 49.21,
+        "age_65_plus_pct": 13.18,
+        "social_rented_pct": 65.84,
+        "white_british_pct": 45.84
+      }
+    },
+    {
+      "ward_slug": "charlestown",
+      "ward_name": "Charlestown",
+      "ballot_id": "local.manchester.charlestown.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Dylan Anthony Evans",
+          "votes": 1566
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Dylan Anthony Evans",
+          "votes": 1566,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Veronica Kirkpatrick",
+          "votes": 1202,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Ali Wood",
+          "votes": 652,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Charles William Turner",
+          "votes": 172,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 43.6,
+        "Labour": 33.46,
+        "Green": 18.15,
+        "Liberal Democrat": 4.79
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 3592,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T21:00:24Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05011355",
+        "qual_l4_pct": 27.41,
+        "no_qual_pct": 25.19,
+        "muslim_pct": 7.67,
+        "no_religion_pct": 27.94,
+        "age_under_35_pct": 47.21,
+        "age_65_plus_pct": 14.13,
+        "social_rented_pct": 82.7,
+        "white_british_pct": 60.81
+      }
+    },
+    {
+      "ward_slug": "cheetham",
+      "ward_name": "Cheetham",
+      "ballot_id": "local.manchester.cheetham.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Labour",
+          "name": "Naeem Hassan",
+          "votes": 1398
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Labour",
+          "name": "Naeem Hassan",
+          "votes": 1398,
+          "elected": true
+        },
+        {
+          "party": "Green",
+          "name": "Brian Arthur Candeland",
+          "votes": 1090,
+          "elected": false
+        },
+        {
+          "party": "Independent",
+          "name": "Mohammed Dawud Ali",
+          "votes": 943,
+          "elected": false
+        },
+        {
+          "party": "Workers Party of Britain",
+          "name": "Sabeena Khan",
+          "votes": 323,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Samuel Augusten Jacob",
+          "votes": 270,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Roderick George Donald Morrison",
+          "votes": 121,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Labour": 33.73,
+        "Green": 26.3,
+        "Independent": 22.75,
+        "Workers Party of Britain": 7.79,
+        "Reform UK": 6.51,
+        "Liberal Democrat": 2.92
+      },
+      "party_seats_won": {
+        "Labour": 1
+      },
+      "winning_party": "Labour",
+      "total_votes": 4145,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T21:00:50Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05011356",
+        "qual_l4_pct": 35.11,
+        "no_qual_pct": 24.97,
+        "muslim_pct": 54.26,
+        "no_religion_pct": 14.85,
+        "age_under_35_pct": 58.65,
+        "age_65_plus_pct": 6.55,
+        "social_rented_pct": 54.13,
+        "white_british_pct": 19.17
+      }
+    },
+    {
+      "ward_slug": "chorlton",
+      "ward_name": "Chorlton",
+      "ballot_id": "local.manchester.chorlton.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Green",
+          "name": "Chantal Lyn Kerr-Sheppard",
+          "votes": 2549
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Green",
+          "name": "Chantal Lyn Kerr-Sheppard",
+          "votes": 2549,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "John Hacking",
+          "votes": 2374,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Jorge Garcia de Bustos",
+          "votes": 295,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Rhona Brown",
+          "votes": 247,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Ian Carter",
+          "votes": 147,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Green": 45.42,
+        "Labour": 42.3,
+        "Conservative": 5.26,
+        "Liberal Democrat": 4.4,
+        "Reform UK": 2.62
+      },
+      "party_seats_won": {
+        "Green": 1
+      },
+      "winning_party": "Green",
+      "total_votes": 5612,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T21:00:51Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05011357",
+        "qual_l4_pct": 64.96,
+        "no_qual_pct": 9.33,
+        "muslim_pct": 9.52,
+        "no_religion_pct": 51.77,
+        "age_under_35_pct": 43.08,
+        "age_65_plus_pct": 13.95,
+        "social_rented_pct": 16.27,
+        "white_british_pct": 70.4
+      }
+    },
+    {
+      "ward_slug": "clayton-openshaw",
+      "ward_name": "Clayton & Openshaw",
+      "ballot_id": "local.manchester.clayton-openshaw.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Labour",
+          "name": "Thomas Frederick Robinson",
+          "votes": 1308
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Labour",
+          "name": "Thomas Frederick Robinson",
+          "votes": 1308,
+          "elected": true
+        },
+        {
+          "party": "Green",
+          "name": "Sean Charles Duggan",
+          "votes": 1013,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Jacob Wilfred Barlow",
+          "votes": 996,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Ramzi Swaray-Kella",
+          "votes": 180,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Zinette Bates",
+          "votes": 151,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Labour": 35.86,
+        "Green": 27.77,
+        "Reform UK": 27.3,
+        "Conservative": 4.93,
+        "Liberal Democrat": 4.14
+      },
+      "party_seats_won": {
+        "Labour": 1
+      },
+      "winning_party": "Labour",
+      "total_votes": 3648,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T21:01:18Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05011359",
+        "qual_l4_pct": 28.33,
+        "no_qual_pct": 27.14,
+        "muslim_pct": 13.46,
+        "no_religion_pct": 27.86,
+        "age_under_35_pct": 52.77,
+        "age_65_plus_pct": 10.15,
+        "social_rented_pct": 82.06,
+        "white_british_pct": 45.02
+      }
+    },
+    {
+      "ward_slug": "crumpsall",
+      "ward_name": "Crumpsall",
+      "ballot_id": "local.manchester.crumpsall.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Labour",
+          "name": "Jawad Amin",
+          "votes": 1425
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Labour",
+          "name": "Jawad Amin",
+          "votes": 1425,
+          "elected": true
+        },
+        {
+          "party": "Green",
+          "name": "Robert Nicolson Pollitt",
+          "votes": 1073,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Iftikhar Butt Ahmed",
+          "votes": 587,
+          "elected": false
+        },
+        {
+          "party": "Workers Party of Britain",
+          "name": "Mini Majid",
+          "votes": 246,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Amaan Hashmi",
+          "votes": 123,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Labour": 41.26,
+        "Green": 31.07,
+        "Reform UK": 16.99,
+        "Workers Party of Britain": 7.12,
+        "Liberal Democrat": 3.56
+      },
+      "party_seats_won": {
+        "Labour": 1
+      },
+      "winning_party": "Labour",
+      "total_votes": 3454,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T21:01:19Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05011360",
+        "qual_l4_pct": 28.67,
+        "no_qual_pct": 27.67,
+        "muslim_pct": 53.4,
+        "no_religion_pct": 9.98,
+        "age_under_35_pct": 52.83,
+        "age_65_plus_pct": 11.45,
+        "social_rented_pct": 33.78,
+        "white_british_pct": 24.36
+      }
+    },
+    {
+      "ward_slug": "deansgate",
+      "ward_name": "Deansgate",
+      "ballot_id": "local.manchester.deansgate.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Green",
+          "name": "Sarah Elizabeth Wakefield",
+          "votes": 1380
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Green",
+          "name": "Sarah Elizabeth Wakefield",
+          "votes": 1380,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Joan Elizabeth Davies",
+          "votes": 801,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "John Richard Bridges",
+          "votes": 380,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "David Anthony Bryan",
+          "votes": 226,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Daniel James Bell",
+          "votes": 120,
+          "elected": false
+        },
+        {
+          "party": "Social Democratic Party",
+          "name": "Connor Sanders",
+          "votes": 5,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Green": 47.39,
+        "Labour": 27.51,
+        "Liberal Democrat": 13.05,
+        "Reform UK": 7.76,
+        "Conservative": 4.12,
+        "Social Democratic Party": 0.17
+      },
+      "party_seats_won": {
+        "Green": 1
+      },
+      "winning_party": "Green",
+      "total_votes": 2912,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T21:01:21Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05011361",
+        "qual_l4_pct": 60.22,
+        "no_qual_pct": 3.27,
+        "muslim_pct": 8.55,
+        "no_religion_pct": 54.37,
+        "age_under_35_pct": 80.88,
+        "age_65_plus_pct": 1.97,
+        "social_rented_pct": 8.03,
+        "white_british_pct": 49.06
+      }
+    },
+    {
+      "ward_slug": "didsbury-east",
+      "ward_name": "Didsbury East",
+      "ballot_id": "local.manchester.didsbury-east.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Labour",
+          "name": "Andrew Simcock",
+          "votes": 2104
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Labour",
+          "name": "Andrew Simcock",
+          "votes": 2104,
+          "elected": true
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Bryn Coombe",
+          "votes": 1474,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Laurence Blackwell-Jones",
+          "votes": 1443,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Nigel Hedley Greenhalgh",
+          "votes": 476,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Parveen Khan",
+          "votes": 156,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Labour": 37.22,
+        "Liberal Democrat": 26.07,
+        "Green": 25.53,
+        "Reform UK": 8.42,
+        "Conservative": 2.76
+      },
+      "party_seats_won": {
+        "Labour": 1
+      },
+      "winning_party": "Labour",
+      "total_votes": 5653,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T21:01:23Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05011362",
+        "qual_l4_pct": 62.19,
+        "no_qual_pct": 9.82,
+        "muslim_pct": 13.93,
+        "no_religion_pct": 38.5,
+        "age_under_35_pct": 44.14,
+        "age_65_plus_pct": 16.77,
+        "social_rented_pct": 13.04,
+        "white_british_pct": 64.32
+      }
+    },
+    {
+      "ward_slug": "didsbury-west",
+      "ward_name": "Didsbury West",
+      "ballot_id": "local.manchester.didsbury-west.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Liberal Democrat",
+          "name": "John Leech",
+          "votes": 2504
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Liberal Democrat",
+          "name": "John Leech",
+          "votes": 2504,
+          "elected": true
+        },
+        {
+          "party": "Green",
+          "name": "Adam Snape",
+          "votes": 1547,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Ben Williams",
+          "votes": 1220,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Martin William Sykes",
+          "votes": 342,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Barakat Elkhalifa",
+          "votes": 54,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Liberal Democrat": 44.19,
+        "Green": 27.3,
+        "Labour": 21.53,
+        "Reform UK": 6.03,
+        "Conservative": 0.95
+      },
+      "party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "winning_party": "Liberal Democrat",
+      "total_votes": 5667,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T21:01:24Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05011363",
+        "qual_l4_pct": 71.04,
+        "no_qual_pct": 6.99,
+        "muslim_pct": 6.58,
+        "no_religion_pct": 49.03,
+        "age_under_35_pct": 50.32,
+        "age_65_plus_pct": 13.24,
+        "social_rented_pct": 15.72,
+        "white_british_pct": 69.66
+      }
+    },
+    {
+      "ward_slug": "fallowfield",
+      "ward_name": "Fallowfield",
+      "ballot_id": "local.manchester.fallowfield.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Green",
+          "name": "Sufyaan Jasat",
+          "votes": 1328
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Green",
+          "name": "Sufyaan Jasat",
+          "votes": 1328,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Ali Raza Ilyas",
+          "votes": 710,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Racheal Burns",
+          "votes": 293,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Luke David Barker",
+          "votes": 105,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "John Patrick Bryans Commons",
+          "votes": 79,
+          "elected": false
+        },
+        {
+          "party": "Workers Party of Britain",
+          "name": "Raluca Khajeh",
+          "votes": 37,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Green": 52.04,
+        "Labour": 27.82,
+        "Reform UK": 11.48,
+        "Conservative": 4.11,
+        "Liberal Democrat": 3.1,
+        "Workers Party of Britain": 1.45
+      },
+      "party_seats_won": {
+        "Green": 1
+      },
+      "winning_party": "Green",
+      "total_votes": 2552,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T21:01:26Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05011364",
+        "qual_l4_pct": 26.71,
+        "no_qual_pct": 13.88,
+        "muslim_pct": 22.8,
+        "no_religion_pct": 37.23,
+        "age_under_35_pct": 70.78,
+        "age_65_plus_pct": 6.6,
+        "social_rented_pct": 62.91,
+        "white_british_pct": 48.1
+      }
+    },
+    {
+      "ward_slug": "gorton-abbey-hey",
+      "ward_name": "Gorton & Abbey Hey",
+      "ballot_id": "local.manchester.gorton-abbey-hey.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Green",
+          "name": "Chris Ogden",
+          "votes": 1489
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Green",
+          "name": "Chris Ogden",
+          "votes": 1489,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "John Hughes",
+          "votes": 1196,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Paul Lajszczak",
+          "votes": 1117,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Jackie Pearcey",
+          "votes": 169,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Shahab Raz",
+          "votes": 87,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Green": 36.69,
+        "Labour": 29.47,
+        "Reform UK": 27.53,
+        "Liberal Democrat": 4.16,
+        "Conservative": 2.14
+      },
+      "party_seats_won": {
+        "Green": 1
+      },
+      "winning_party": "Green",
+      "total_votes": 4058,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T21:01:27Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05011365",
+        "qual_l4_pct": 24.7,
+        "no_qual_pct": 28.08,
+        "muslim_pct": 17.09,
+        "no_religion_pct": 27.01,
+        "age_under_35_pct": 50.19,
+        "age_65_plus_pct": 11.63,
+        "social_rented_pct": 60.68,
+        "white_british_pct": 46.63
+      }
+    },
+    {
+      "ward_slug": "harpurhey",
+      "ward_name": "Harpurhey",
+      "ballot_id": "local.manchester.harpurhey.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Labour",
+          "name": "David Godfrey",
+          "votes": 1135
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Labour",
+          "name": "David Godfrey",
+          "votes": 1135,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "John Okelly David",
+          "votes": 788,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Finn White",
+          "votes": 735,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Gareth Joseph Brown",
+          "votes": 210,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Maria Theresa Turner",
+          "votes": 132,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Labour": 37.83,
+        "Reform UK": 26.27,
+        "Green": 24.5,
+        "Conservative": 7.0,
+        "Liberal Democrat": 4.4
+      },
+      "party_seats_won": {
+        "Labour": 1
+      },
+      "winning_party": "Labour",
+      "total_votes": 3000,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T21:01:29Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05011366",
+        "qual_l4_pct": 27.3,
+        "no_qual_pct": 28.72,
+        "muslim_pct": 15.54,
+        "no_religion_pct": 25.15,
+        "age_under_35_pct": 52.18,
+        "age_65_plus_pct": 9.97,
+        "social_rented_pct": 83.46,
+        "white_british_pct": 43.25
+      }
+    },
+    {
+      "ward_slug": "higher-blackley",
+      "ward_name": "Higher Blackley",
+      "ballot_id": "local.manchester.higher-blackley.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Martin Power",
+          "votes": 1084
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Martin Power",
+          "votes": 1084,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Olusegun Adelaja Ogunbambo",
+          "votes": 942,
+          "elected": false
+        },
+        {
+          "party": "Independent",
+          "name": "Dean Luke Booth",
+          "votes": 710,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Brad Bowes",
+          "votes": 621,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Peter George Matthews",
+          "votes": 146,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 30.94,
+        "Labour": 26.89,
+        "Independent": 20.27,
+        "Green": 17.73,
+        "Liberal Democrat": 4.17
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 3503,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T21:01:55Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05011367",
+        "qual_l4_pct": 23.76,
+        "no_qual_pct": 28.06,
+        "muslim_pct": 11.6,
+        "no_religion_pct": 28.05,
+        "age_under_35_pct": 47.05,
+        "age_65_plus_pct": 14.96,
+        "social_rented_pct": 74.06,
+        "white_british_pct": 64.38
+      }
+    },
+    {
+      "ward_slug": "hulme",
+      "ward_name": "Hulme",
+      "ballot_id": "local.manchester.hulme.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Green",
+          "name": "Bernard Joseph Ekbery",
+          "votes": 2059
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Green",
+          "name": "Bernard Joseph Ekbery",
+          "votes": 2059,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Lee-Ann Mary Igbon",
+          "votes": 1257,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Nigel Arthur Slack",
+          "votes": 285,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Robin Francis Grayson",
+          "votes": 156,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Green": 54.8,
+        "Labour": 33.46,
+        "Reform UK": 7.59,
+        "Liberal Democrat": 4.15
+      },
+      "party_seats_won": {
+        "Green": 1
+      },
+      "winning_party": "Green",
+      "total_votes": 3757,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T21:01:56Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05011368",
+        "qual_l4_pct": 45.87,
+        "no_qual_pct": 9.32,
+        "muslim_pct": 16.33,
+        "no_religion_pct": 43.81,
+        "age_under_35_pct": 70.99,
+        "age_65_plus_pct": 3.91,
+        "social_rented_pct": 71.39,
+        "white_british_pct": 47.02
+      }
+    },
+    {
+      "ward_slug": "levenshulme",
+      "ward_name": "Levenshulme",
+      "ballot_id": "local.manchester.levenshulme.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Green",
+          "name": "Fesl Reza-Khan",
+          "votes": 3073
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Green",
+          "name": "Fesl Reza-Khan",
+          "votes": 3073,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Dzidra Noor",
+          "votes": 1052,
+          "elected": false
+        },
+        {
+          "party": "Workers Party of Britain",
+          "name": "Muhammad Iqbal",
+          "votes": 649,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Christian Sky",
+          "votes": 378,
+          "elected": false
+        },
+        {
+          "party": "Independent",
+          "name": "Jeremy Edward Hoad",
+          "votes": 286,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Liaqat Ali",
+          "votes": 68,
+          "elected": false
+        },
+        {
+          "party": "TUSC",
+          "name": "Emma Woods",
+          "votes": 33,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Green": 55.48,
+        "Labour": 18.99,
+        "Workers Party of Britain": 11.72,
+        "Reform UK": 6.82,
+        "Independent": 5.16,
+        "Liberal Democrat": 1.23,
+        "TUSC": 0.6
+      },
+      "party_seats_won": {
+        "Green": 1
+      },
+      "winning_party": "Green",
+      "total_votes": 5539,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T21:02:23Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05011369",
+        "qual_l4_pct": 36.95,
+        "no_qual_pct": 22.97,
+        "muslim_pct": 49.18,
+        "no_religion_pct": 22.88,
+        "age_under_35_pct": 52.4,
+        "age_65_plus_pct": 8.26,
+        "social_rented_pct": 30.61,
+        "white_british_pct": 31.01
+      }
+    },
+    {
+      "ward_slug": "longsight",
+      "ward_name": "Longsight",
+      "ballot_id": "local.manchester.longsight.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Green",
+          "name": "Asif Iqbal Ranjha",
+          "votes": 2307
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Green",
+          "name": "Asif Iqbal Ranjha",
+          "votes": 2307,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Abid Chohan",
+          "votes": 1524,
+          "elected": false
+        },
+        {
+          "party": "Workers Party of Britain",
+          "name": "Tanvir Marth",
+          "votes": 460,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Michael Madade Chahwanda",
+          "votes": 384,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Kobe Ryan Bibbon",
+          "votes": 93,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Faran Sikandar",
+          "votes": 83,
+          "elected": false
+        },
+        {
+          "party": "Communist League Election Campaign",
+          "name": "Hugo Wils",
+          "votes": 12,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Green": 47.44,
+        "Labour": 31.34,
+        "Workers Party of Britain": 9.46,
+        "Reform UK": 7.9,
+        "Liberal Democrat": 1.91,
+        "Conservative": 1.71,
+        "Communist League Election Campaign": 0.25
+      },
+      "party_seats_won": {
+        "Green": 1
+      },
+      "winning_party": "Green",
+      "total_votes": 4863,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T21:02:24Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05011370",
+        "qual_l4_pct": 26.18,
+        "no_qual_pct": 29.32,
+        "muslim_pct": 57.51,
+        "no_religion_pct": 11.5,
+        "age_under_35_pct": 55.74,
+        "age_65_plus_pct": 7.76,
+        "social_rented_pct": 74.37,
+        "white_british_pct": 18.48
+      }
+    },
+    {
+      "ward_slug": "miles-platting-newton-heath",
+      "ward_name": "Miles Platting & Newton Heath",
+      "ballot_id": "local.manchester.miles-platting-newton-heath.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Tom Alexander Grendon Lane",
+          "votes": 1243
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Tom Alexander Grendon Lane",
+          "votes": 1243,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Carmine Geatano Grimshaw",
+          "votes": 1166,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Pascal Dylan Checkley",
+          "votes": 884,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Adeyemi Joseph Ajayi",
+          "votes": 196,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Andrew Stephen Weston",
+          "votes": 137,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 34.28,
+        "Labour": 32.16,
+        "Green": 24.38,
+        "Conservative": 5.41,
+        "Liberal Democrat": 3.78
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 3626,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T21:02:26Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05011371",
+        "qual_l4_pct": 26.71,
+        "no_qual_pct": 29.35,
+        "muslim_pct": 8.74,
+        "no_religion_pct": 29.79,
+        "age_under_35_pct": 49.16,
+        "age_65_plus_pct": 12.94,
+        "social_rented_pct": 94.12,
+        "white_british_pct": 58.39
+      }
+    },
+    {
+      "ward_slug": "moss-side",
+      "ward_name": "Moss Side",
+      "ballot_id": "local.manchester.moss-side.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Green",
+          "name": "Thirza Amina Asanga-Rae",
+          "votes": 2371
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Green",
+          "name": "Thirza Amina Asanga-Rae",
+          "votes": 2371,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Erinma Bell",
+          "votes": 1356,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Martin McKinnon",
+          "votes": 189,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Jake Christopher David Fountain",
+          "votes": 110,
+          "elected": false
+        },
+        {
+          "party": "Workers Party of Britain",
+          "name": "Nadia Dara",
+          "votes": 108,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Lynne Williams",
+          "votes": 65,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Green": 56.47,
+        "Labour": 32.29,
+        "Reform UK": 4.5,
+        "Conservative": 2.62,
+        "Workers Party of Britain": 2.57,
+        "Liberal Democrat": 1.55
+      },
+      "party_seats_won": {
+        "Green": 1
+      },
+      "winning_party": "Green",
+      "total_votes": 4199,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T21:02:28Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05011372",
+        "qual_l4_pct": 33.05,
+        "no_qual_pct": 22.17,
+        "muslim_pct": 48.3,
+        "no_religion_pct": 17.45,
+        "age_under_35_pct": 63.34,
+        "age_65_plus_pct": 6.93,
+        "social_rented_pct": 85.74,
+        "white_british_pct": 18.21
+      }
+    },
+    {
+      "ward_slug": "moston",
+      "ward_name": "Moston",
+      "ballot_id": "local.manchester.moston.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Blake Steven Fisher",
+          "votes": 1683
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Blake Steven Fisher",
+          "votes": 1683,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Paula Elizabeth Appleby",
+          "votes": 1498,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Diane Lilian Kosandiak",
+          "votes": 753,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Norman Lewis",
+          "votes": 188,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 40.83,
+        "Labour": 36.34,
+        "Green": 18.27,
+        "Liberal Democrat": 4.56
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 4122,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T21:02:29Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05011373",
+        "qual_l4_pct": 26.05,
+        "no_qual_pct": 24.59,
+        "muslim_pct": 7.82,
+        "no_religion_pct": 28.61,
+        "age_under_35_pct": 46.6,
+        "age_65_plus_pct": 15.66,
+        "social_rented_pct": 43.88,
+        "white_british_pct": 61.34
+      }
+    },
+    {
+      "ward_slug": "northenden",
+      "ward_name": "Northenden",
+      "ballot_id": "local.manchester.northenden.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Labour",
+          "name": "Angela Jane Moran",
+          "votes": 1465
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Labour",
+          "name": "Angela Jane Moran",
+          "votes": 1465,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Chris Soobhug",
+          "votes": 1094,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Tol\u00fa Ajayi",
+          "votes": 851,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Stephen James McHugh",
+          "votes": 253,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Mark Clayton",
+          "votes": 178,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Labour": 38.14,
+        "Reform UK": 28.48,
+        "Green": 22.16,
+        "Conservative": 6.59,
+        "Liberal Democrat": 4.63
+      },
+      "party_seats_won": {
+        "Labour": 1
+      },
+      "winning_party": "Labour",
+      "total_votes": 3841,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T21:02:31Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05011374",
+        "qual_l4_pct": 32.47,
+        "no_qual_pct": 22.71,
+        "muslim_pct": 6.61,
+        "no_religion_pct": 40.0,
+        "age_under_35_pct": 46.92,
+        "age_65_plus_pct": 15.05,
+        "social_rented_pct": 71.77,
+        "white_british_pct": 70.87
+      }
+    },
+    {
+      "ward_slug": "old-moat",
+      "ward_name": "Old Moat",
+      "ballot_id": "local.manchester.old-moat.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Green",
+          "name": "Sam Easterby-Smith",
+          "votes": 1829
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Green",
+          "name": "Sam Easterby-Smith",
+          "votes": 1829,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Suzannah Mary Reeves",
+          "votes": 1189,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Kierin McCorkell",
+          "votes": 394,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Tracey Pook",
+          "votes": 209,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Sarah Haynes",
+          "votes": 115,
+          "elected": false
+        },
+        {
+          "party": "Social Democratic Party",
+          "name": "Sebastian Moore",
+          "votes": 28,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Green": 48.59,
+        "Labour": 31.59,
+        "Reform UK": 10.47,
+        "Liberal Democrat": 5.55,
+        "Conservative": 3.06,
+        "Social Democratic Party": 0.74
+      },
+      "party_seats_won": {
+        "Green": 1
+      },
+      "winning_party": "Green",
+      "total_votes": 3764,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T21:02:33Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05011375",
+        "qual_l4_pct": 41.19,
+        "no_qual_pct": 13.42,
+        "muslim_pct": 17.35,
+        "no_religion_pct": 43.0,
+        "age_under_35_pct": 62.51,
+        "age_65_plus_pct": 9.6,
+        "social_rented_pct": 56.57,
+        "white_british_pct": 56.48
+      }
+    },
+    {
+      "ward_slug": "piccadilly",
+      "ward_name": "Piccadilly",
+      "ballot_id": "local.manchester.piccadilly.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Green",
+          "name": "Ross Steven",
+          "votes": 1684
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Green",
+          "name": "Ross Steven",
+          "votes": 1684,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Fiona Moinuddin",
+          "votes": 1030,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Kaleem Antony Aksar",
+          "votes": 325,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Peter Thomas Beckett",
+          "votes": 172,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Paraic Thomas Delahunt",
+          "votes": 96,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Green": 50.92,
+        "Labour": 31.15,
+        "Liberal Democrat": 9.83,
+        "Reform UK": 5.2,
+        "Conservative": 2.9
+      },
+      "party_seats_won": {
+        "Green": 1
+      },
+      "winning_party": "Green",
+      "total_votes": 3307,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T21:02:34Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05011376",
+        "qual_l4_pct": 65.04,
+        "no_qual_pct": 5.21,
+        "muslim_pct": 5.56,
+        "no_religion_pct": 59.62,
+        "age_under_35_pct": 75.35,
+        "age_65_plus_pct": 2.88,
+        "social_rented_pct": 18.65,
+        "white_british_pct": 52.28
+      }
+    },
+    {
+      "ward_slug": "rusholme",
+      "ward_name": "Rusholme",
+      "ballot_id": "local.manchester.rusholme.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Green",
+          "name": "Shams Syed",
+          "votes": 1919
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Green",
+          "name": "Shams Syed",
+          "votes": 1919,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Rabnawaz Akbar",
+          "votes": 1066,
+          "elected": false
+        },
+        {
+          "party": "Workers Party of Britain",
+          "name": "Mohhamed Bilal",
+          "votes": 579,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Norman Hesketh-Hart",
+          "votes": 155,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Jason Peter McLeod",
+          "votes": 122,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Greg Sammons",
+          "votes": 120,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Green": 48.45,
+        "Labour": 26.91,
+        "Workers Party of Britain": 14.62,
+        "Reform UK": 3.91,
+        "Conservative": 3.08,
+        "Liberal Democrat": 3.03
+      },
+      "party_seats_won": {
+        "Green": 1
+      },
+      "winning_party": "Green",
+      "total_votes": 3961,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T21:03:00Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05011377",
+        "qual_l4_pct": 30.88,
+        "no_qual_pct": 16.6,
+        "muslim_pct": 43.61,
+        "no_religion_pct": 25.77,
+        "age_under_35_pct": 67.93,
+        "age_65_plus_pct": 6.68,
+        "social_rented_pct": 45.01,
+        "white_british_pct": 29.48
+      }
+    },
+    {
+      "ward_slug": "sharston",
+      "ward_name": "Sharston",
+      "ballot_id": "local.manchester.sharston.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "David Maurice McCullough",
+          "votes": 1203
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "David Maurice McCullough",
+          "votes": 1203,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Richard Caulfield",
+          "votes": 1009,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Peter Searby",
+          "votes": 577,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Gary Curran",
+          "votes": 226,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Paul Anthony Jones",
+          "votes": 132,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 38.23,
+        "Labour": 32.06,
+        "Green": 18.33,
+        "Conservative": 7.18,
+        "Liberal Democrat": 4.19
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 3147,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T21:03:02Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05011378",
+        "qual_l4_pct": 25.15,
+        "no_qual_pct": 26.84,
+        "muslim_pct": 6.76,
+        "no_religion_pct": 39.26,
+        "age_under_35_pct": 48.46,
+        "age_65_plus_pct": 15.14,
+        "social_rented_pct": 94.51,
+        "white_british_pct": 70.26
+      }
+    },
+    {
+      "ward_slug": "whalley-range",
+      "ward_name": "Whalley Range",
+      "ballot_id": "local.manchester.whalley-range.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Green",
+          "name": "Ati Zafar",
+          "votes": 2498
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Green",
+          "name": "Ati Zafar",
+          "votes": 2498,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Aftab Razaq",
+          "votes": 1407,
+          "elected": false
+        },
+        {
+          "party": "Workers Party of Britain",
+          "name": "Sameera Ashraf",
+          "votes": 266,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Lee Montague-Trenchard",
+          "votes": 206,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Seb Bate",
+          "votes": 135,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Andrew Runnacles Chadwick",
+          "votes": 124,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Green": 53.88,
+        "Labour": 30.35,
+        "Workers Party of Britain": 5.74,
+        "Reform UK": 4.44,
+        "Liberal Democrat": 2.91,
+        "Conservative": 2.67
+      },
+      "party_seats_won": {
+        "Green": 1
+      },
+      "winning_party": "Green",
+      "total_votes": 4636,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T21:03:23Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05011379",
+        "qual_l4_pct": 48.56,
+        "no_qual_pct": 17.33,
+        "muslim_pct": 37.36,
+        "no_religion_pct": 29.92,
+        "age_under_35_pct": 51.4,
+        "age_65_plus_pct": 9.97,
+        "social_rented_pct": 43.78,
+        "white_british_pct": 32.93
+      }
+    },
+    {
+      "ward_slug": "withington",
+      "ward_name": "Withington",
+      "ballot_id": "local.manchester.withington.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Green",
+          "name": "Beth Hartness",
+          "votes": 1604
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Green",
+          "name": "Beth Hartness",
+          "votes": 1604,
+          "elected": true
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "April Preston",
+          "votes": 1056,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Angela Gartside",
+          "votes": 843,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Charlie Southwood",
+          "votes": 362,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Sarah Garcia de Bustos",
+          "votes": 64,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Green": 40.82,
+        "Liberal Democrat": 26.88,
+        "Labour": 21.46,
+        "Reform UK": 9.21,
+        "Conservative": 1.63
+      },
+      "party_seats_won": {
+        "Green": 1
+      },
+      "winning_party": "Green",
+      "total_votes": 3929,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T21:03:25Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05011380",
+        "qual_l4_pct": 39.06,
+        "no_qual_pct": 9.44,
+        "muslim_pct": 14.43,
+        "no_religion_pct": 46.97,
+        "age_under_35_pct": 68.33,
+        "age_65_plus_pct": 9.2,
+        "social_rented_pct": 31.35,
+        "white_british_pct": 60.6
+      }
+    },
+    {
+      "ward_slug": "woodhouse-park",
+      "ward_name": "Woodhouse Park",
+      "ballot_id": "local.manchester.woodhouse-park.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Green",
+          "name": "Astrid Johnson",
+          "votes": 1411
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Green",
+          "name": "Astrid Johnson",
+          "votes": 1411,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Brian Darral O'Neil",
+          "votes": 1015,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Roger Beattie",
+          "votes": 438,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Eric Houghton",
+          "votes": 91,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Anna Coombe",
+          "votes": 55,
+          "elected": false
+        },
+        {
+          "party": "Independent",
+          "name": "Emily Elzbieta Chomicz",
+          "votes": 30,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Green": 46.41,
+        "Reform UK": 33.39,
+        "Labour": 14.41,
+        "Conservative": 2.99,
+        "Liberal Democrat": 1.81,
+        "Independent": 0.99
+      },
+      "party_seats_won": {
+        "Green": 1
+      },
+      "winning_party": "Green",
+      "total_votes": 3040,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T21:03:27Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05011381",
+        "qual_l4_pct": 21.8,
+        "no_qual_pct": 27.79,
+        "muslim_pct": 4.77,
+        "no_religion_pct": 38.82,
+        "age_under_35_pct": 47.55,
+        "age_65_plus_pct": 14.29,
+        "social_rented_pct": 94.97,
+        "white_british_pct": 72.68
+      }
+    }
+  ],
+  "n_wards_attempted": 32,
+  "n_wards_with_results": 31,
+  "n_wards_no_results": 1
+}

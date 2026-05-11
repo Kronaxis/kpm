@@ -1,0 +1,391 @@
+{
+  "council_slug": "wigan",
+  "source": "https://candidates.democracyclub.org.uk/api/next/",
+  "fetched_at": "2026-05-11T01:30:55Z",
+  "wards": [
+    {
+      "ward_slug": "abram",
+      "ward_name": "Abram",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.wigan.abram.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 56.28,
+        "Independent": 31.03,
+        "Conservative": 7.95,
+        "Liberal Democrat": 4.74
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2404,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "aspull-new-springs-whelley",
+      "ward_name": "Aspull, New Springs & Whelley",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.wigan.aspull-new-springs-whelley.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 64.87,
+        "Conservative": 19.94,
+        "Green": 15.19
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2673,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "astley",
+      "ward_name": "Astley",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.wigan.astley.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 52.6,
+        "Independent Network": 25.3,
+        "Conservative": 22.1
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3407,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "atherton-south-lilford",
+      "ward_name": "Atherton South & Lilford",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.wigan.atherton-south-lilford.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 48.26,
+        "Independent Network": 39.21,
+        "Conservative": 12.53
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2938,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "douglas",
+      "ward_name": "Douglas",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.wigan.douglas.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 69.68,
+        "Green": 15.36,
+        "Conservative": 14.96
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1979,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "golborne-lowton-west",
+      "ward_name": "Golborne & Lowton West",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.wigan.golborne-lowton-west.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 63.39,
+        "Leigh & Atherton Independents": 16.94,
+        "Conservative": 15.6,
+        "Liberal Democrat": 4.07
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2480,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "hindley",
+      "ward_name": "Hindley",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.wigan.hindley.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 42.38,
+        "Independent Network": 21.72,
+        "Reform UK": 13.18,
+        "Independent": 12.68,
+        "Green": 4.06,
+        "Conservative": 3.72,
+        "Liberal Democrat": 2.26
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2390,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "hindley-green",
+      "ward_name": "Hindley Green",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.wigan.hindley-green.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 49.66,
+        "Independent": 27.63,
+        "Reform UK": 15.45,
+        "Conservative": 5.16,
+        "Liberal Democrat": 2.09
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2537,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "ince",
+      "ward_name": "Ince",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.wigan.ince.2024-05-02",
+      "prior_winning_party": "Independent",
+      "prior_party_shares": {
+        "Independent": 48.39,
+        "Labour": 44.5,
+        "Conservative": 7.11
+      },
+      "prior_party_seats_won": {
+        "Independent": 1
+      },
+      "prior_total_votes": 2180,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "leigh-central-higher-folds",
+      "ward_name": "Leigh Central & Higher Folds",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.wigan.leigh-central-higher-folds.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 52.23,
+        "Leigh & Atherton Independents": 24.75,
+        "Conservative": 11.7,
+        "Green": 8.46,
+        "Liberal Democrat": 2.85
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2529,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "leigh-south",
+      "ward_name": "Leigh South",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.wigan.leigh-south.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 51.72,
+        "Leigh & Atherton Independents": 19.51,
+        "Conservative": 17.37,
+        "Liberal Democrat": 6.74,
+        "Green": 4.67
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2850,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "leigh-west",
+      "ward_name": "Leigh West",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.wigan.leigh-west.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 60.65,
+        "Leigh & Atherton Independents": 18.1,
+        "Conservative": 11.96,
+        "Green": 9.3
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2625,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "lowton-east",
+      "ward_name": "Lowton East",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.wigan.lowton-east.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 54.15,
+        "Conservative": 45.85
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 4024,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "orrell",
+      "ward_name": "Orrell",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.wigan.orrell.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 52.18,
+        "Conservative": 29.99,
+        "Reform UK": 13.79,
+        "Liberal Democrat": 4.04
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3068,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "pemberton",
+      "ward_name": "Pemberton",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.wigan.pemberton.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 59.49,
+        "Independent": 26.34,
+        "Conservative": 8.58,
+        "Liberal Democrat": 5.6
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1982,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "shevington-with-lower-ground-moor",
+      "ward_name": "Shevington with Lower Ground & Moor",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.wigan.shevington-with-lower-ground-moor.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 51.41,
+        "Wigan Independents": 22.19,
+        "Conservative": 16.22,
+        "Liberal Democrat": 5.74,
+        "Workers Party of Britain": 4.44
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3083,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "standish-with-langtree",
+      "ward_name": "Standish with Langtree",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.wigan.standish-with-langtree.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 42.99,
+        "Standish Independents": 34.55,
+        "Conservative": 19.33,
+        "Liberal Democrat": 3.12
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3745,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "tyldesley-mosley-common",
+      "ward_name": "Tyldesley & Mosley Common",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.wigan.tyldesley-mosley-common.2024-05-02",
+      "prior_winning_party": "Independent Network",
+      "prior_party_shares": {
+        "Independent Network": 52.37,
+        "Labour": 37.15,
+        "Conservative": 10.49
+      },
+      "prior_party_seats_won": {
+        "Independent Network": 1
+      },
+      "prior_total_votes": 2937,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "wigan-central",
+      "ward_name": "Wigan Central",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.wigan.wigan-central.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 48.24,
+        "Independent": 27.26,
+        "Conservative": 14.49,
+        "Green": 6.56,
+        "Liberal Democrat": 3.45
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2898,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "wigan-west",
+      "ward_name": "Wigan West",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.wigan.wigan-west.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 67.87,
+        "Liberal Democrat": 16.73,
+        "Conservative": 15.4
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2415,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "winstanley",
+      "ward_name": "Winstanley",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.wigan.winstanley.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 57.03,
+        "Reform UK": 19.79,
+        "Conservative": 10.06,
+        "Green": 8.12,
+        "Liberal Democrat": 5.01
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2476,
+      "prior_winner_count": 1
+    }
+  ],
+  "n_wards_attempted": 23,
+  "n_wards_with_history": 21,
+  "n_wards_no_history": 2,
+  "prior_year_distribution": {
+    "2024": 21
+  }
+}

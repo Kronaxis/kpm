@@ -1,0 +1,10 @@
+{
+  "council_slug": "chorley",
+  "election_date": "2026-05-07",
+  "source": "https://candidates.democracyclub.org.uk/api/next/",
+  "fetched_at": "2026-05-11T13:14:08Z",
+  "wards": [],
+  "n_wards_attempted": 14,
+  "n_wards_with_results": 0,
+  "n_wards_no_results": 14
+}

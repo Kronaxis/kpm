@@ -1,0 +1,284 @@
+{
+  "council_slug": "bradford",
+  "source": "https://candidates.democracyclub.org.uk/api/next/",
+  "fetched_at": "2026-05-10T22:41:47Z",
+  "wards": [
+    {
+      "ward_slug": "baildon",
+      "ward_name": "Baildon",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.bradford.baildon.2024-05-02",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 45.2,
+        "Labour": 38.19,
+        "Independent": 9.74,
+        "Green": 4.55,
+        "Liberal Democrat": 2.32
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 5033,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "bradford-moor",
+      "ward_name": "Bradford Moor",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.bradford.bradford-moor.2023-05-04",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 55.98,
+        "Liberal Democrat": 37.08,
+        "Conservative": 4.12,
+        "Yorkshire Party": 1.46,
+        "Green": 1.35
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 4657,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "city",
+      "ward_name": "City",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.bradford.city.2024-05-02",
+      "prior_winning_party": "Independent",
+      "prior_party_shares": {
+        "Independent": 52.47,
+        "Labour": 34.16,
+        "Green": 7.08,
+        "Conservative": 6.3
+      },
+      "prior_party_seats_won": {
+        "Independent": 1
+      },
+      "prior_total_votes": 4239,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "eccleshill",
+      "ward_name": "Eccleshill",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.bradford.eccleshill.2024-05-02",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 35.25,
+        "Labour": 33.86,
+        "Conservative": 12.05,
+        "Green": 8.53,
+        "Yorkshire Party": 8.38,
+        "TUSC": 1.92
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "prior_total_votes": 3435,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "keighley-central",
+      "ward_name": "Keighley Central",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.bradford.keighley-central.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 51.47,
+        "Independent": 33.5,
+        "Conservative": 8.83,
+        "Green": 4.15,
+        "Liberal Democrat": 2.04
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 5638,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "keighley-east",
+      "ward_name": "Keighley East",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.bradford.keighley-east.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 37.61,
+        "Conservative": 33.32,
+        "Independent": 11.83,
+        "Green": 8.72,
+        "Liberal Democrat": 7.13,
+        "Social Democratic Party": 1.4
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 4151,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "keighley-west",
+      "ward_name": "Keighley West",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.bradford.keighley-west.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 39.67,
+        "Conservative": 31.02,
+        "Green": 14.35,
+        "Reform UK": 9.52,
+        "Yorkshire Party": 3.62,
+        "Liberal Democrat": 1.83
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3121,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "little-horton",
+      "ward_name": "Little Horton",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.bradford.little-horton.2023-05-04",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 85.73,
+        "Yorkshire Party": 4.28,
+        "Conservative": 3.94,
+        "Green": 3.23,
+        "Liberal Democrat": 2.82
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3223,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "manningham",
+      "ward_name": "Manningham",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.bradford.manningham.2024-05-02",
+      "prior_winning_party": "Independent",
+      "prior_party_shares": {
+        "Independent": 76.84,
+        "Labour": 16.85,
+        "Green": 3.62,
+        "Conservative": 2.7
+      },
+      "prior_party_seats_won": {
+        "Independent": 1
+      },
+      "prior_total_votes": 5336,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "queensbury",
+      "ward_name": "Queensbury",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.bradford.queensbury.2024-05-02",
+      "prior_winning_party": "Independent",
+      "prior_party_shares": {
+        "Independent": 53.61,
+        "Labour": 23.13,
+        "Conservative": 14.45,
+        "Green": 7.02,
+        "Liberal Democrat": 1.79
+      },
+      "prior_party_seats_won": {
+        "Independent": 1
+      },
+      "prior_total_votes": 3973,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "shipley",
+      "ward_name": "Shipley",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.bradford.shipley.2024-05-02",
+      "prior_winning_party": "Green",
+      "prior_party_shares": {
+        "Green": 63.57,
+        "Labour": 20.81,
+        "Conservative": 7.06,
+        "Independent": 4.03,
+        "Reform UK": 3.25,
+        "Liberal Democrat": 1.29
+      },
+      "prior_party_seats_won": {
+        "Green": 1
+      },
+      "prior_total_votes": 5114,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "toller",
+      "ward_name": "Toller",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.bradford.toller.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 80.69,
+        "Independent": 7.95,
+        "Green": 5.3,
+        "Conservative": 4.68,
+        "Liberal Democrat": 1.38
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 4568,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "wharfedale",
+      "ward_name": "Wharfedale",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.bradford.wharfedale.2024-05-02",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 41.11,
+        "Labour": 39.67,
+        "Green": 8.98,
+        "Liberal Democrat": 7.05,
+        "Yorkshire Party": 3.18
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 4653,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "wyke",
+      "ward_name": "Wyke",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.bradford.wyke.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 43.27,
+        "Conservative": 20.34,
+        "Reform UK": 13.65,
+        "Green": 8.15,
+        "Liberal Democrat": 7.48,
+        "British Democratic Party": 7.11
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2674,
+      "prior_winner_count": 1
+    }
+  ],
+  "n_wards_attempted": 26,
+  "n_wards_with_history": 14,
+  "n_wards_no_history": 12,
+  "prior_year_distribution": {
+    "2024": 11,
+    "2023": 2,
+    "2022": 1
+  }
+}

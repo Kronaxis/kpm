@@ -1,0 +1,366 @@
+{
+  "council_slug": "camden",
+  "source": "https://candidates.democracyclub.org.uk/api/next/",
+  "fetched_at": "2026-05-11T13:18:38Z",
+  "wards": [
+    {
+      "ward_slug": "belsize",
+      "ward_name": "Belsize",
+      "prior_year": 2022,
+      "prior_ballot_id": "wikipedia.camden.belsize.2022-05-05",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 44.89,
+        "Conservative": 33.58,
+        "Labour": 21.53
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "prior_total_votes": 9480,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "bloomsbury",
+      "ward_name": "Bloomsbury",
+      "prior_year": 2022,
+      "prior_ballot_id": "wikipedia.camden.bloomsbury.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 66.41,
+        "Liberal Democrat": 16.03,
+        "Conservative": 17.55
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 6062,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "camden-square",
+      "ward_name": "Camden Square",
+      "prior_year": 2022,
+      "prior_ballot_id": "wikipedia.camden.camden-square.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 76.63,
+        "Liberal Democrat": 13.7,
+        "Conservative": 9.67
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3372,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "camden-town",
+      "ward_name": "Camden Town",
+      "prior_year": 2022,
+      "prior_ballot_id": "wikipedia.camden.camden-town.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 68.97,
+        "Green": 10.5,
+        "Conservative": 11.72,
+        "Liberal Democrat": 8.81
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2723,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "fortune-green",
+      "ward_name": "Fortune Green",
+      "prior_year": 2022,
+      "prior_ballot_id": "wikipedia.camden.fortune-green.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Liberal Democrat": 42.31,
+        "Labour": 45.53,
+        "Conservative": 12.16
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 9146,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "frognal",
+      "ward_name": "Frognal",
+      "prior_year": 2022,
+      "prior_ballot_id": "wikipedia.camden.frognal.2022-05-05",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 51.2,
+        "Labour": 26.6,
+        "Green": 7.79,
+        "Liberal Democrat": 14.4
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 3541,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "gospel-oak",
+      "ward_name": "Gospel Oak",
+      "prior_year": 2022,
+      "prior_ballot_id": "wikipedia.camden.gospel-oak.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 67.38,
+        "Liberal Democrat": 15.53,
+        "Conservative": 16.04,
+        "Independent": 1.06
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 8411,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "hampstead-town",
+      "ward_name": "Hampstead Town",
+      "prior_year": 2022,
+      "prior_ballot_id": "wikipedia.camden.hampstead-town.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Conservative": 39.35,
+        "Labour": 39.85,
+        "Liberal Democrat": 20.79
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 5021,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "haverstock",
+      "ward_name": "Haverstock",
+      "prior_year": 2022,
+      "prior_ballot_id": "wikipedia.camden.haverstock.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 57.96,
+        "Green": 8.56,
+        "Liberal Democrat": 14.75,
+        "Conservative": 11.95,
+        "Independent": 6.79
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 7514,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "highgate",
+      "ward_name": "Highgate",
+      "prior_year": 2022,
+      "prior_ballot_id": "wikipedia.camden.highgate.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Green": 38.31,
+        "Labour": 46.03,
+        "Conservative": 10.68,
+        "Liberal Democrat": 4.98
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 11370,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "holborn-and-covent-garden",
+      "ward_name": "Holborn and Covent Garden",
+      "prior_year": 2022,
+      "prior_ballot_id": "wikipedia.camden.holborn-and-covent-garden.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 71.91,
+        "Conservative": 14.53,
+        "Liberal Democrat": 10.64,
+        "Independent": 2.92
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 7331,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "kentish-town-north",
+      "ward_name": "Kentish Town North",
+      "prior_year": 2022,
+      "prior_ballot_id": "wikipedia.camden.kentish-town-north.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 68.17,
+        "Green": 16.02,
+        "Liberal Democrat": 8.62,
+        "Conservative": 7.19
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 4200,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "kentish-town-south",
+      "ward_name": "Kentish Town South",
+      "prior_year": 2022,
+      "prior_ballot_id": "wikipedia.camden.kentish-town-south.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 68.22,
+        "Green": 14.93,
+        "Liberal Democrat": 7.65,
+        "Conservative": 9.19
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 7515,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "kilburn",
+      "ward_name": "Kilburn",
+      "prior_year": 2022,
+      "prior_ballot_id": "wikipedia.camden.kilburn.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 68.21,
+        "Conservative": 17.63,
+        "Liberal Democrat": 14.16
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 6703,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "king's-cross",
+      "ward_name": "King's Cross",
+      "prior_year": 2022,
+      "prior_ballot_id": "wikipedia.camden.king's-cross.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 69.36,
+        "Green": 7.66,
+        "Conservative": 12.59,
+        "Liberal Democrat": 10.39
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 5447,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "primrose-hill",
+      "ward_name": "Primrose Hill",
+      "prior_year": 2022,
+      "prior_ballot_id": "wikipedia.camden.primrose-hill.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 47.56,
+        "Conservative": 31.94,
+        "Green": 7.18,
+        "Liberal Democrat": 9.55,
+        "Independent": 3.76
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 9011,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "regent's-park",
+      "ward_name": "Regent's Park",
+      "prior_year": 2022,
+      "prior_ballot_id": "wikipedia.camden.regent's-park.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 67.26,
+        "Green": 6.22,
+        "Conservative": 17.03,
+        "Liberal Democrat": 9.49
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 6798,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "south-hampstead",
+      "ward_name": "South Hampstead",
+      "prior_year": 2022,
+      "prior_ballot_id": "wikipedia.camden.south-hampstead.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 54.56,
+        "Conservative": 31.71,
+        "Liberal Democrat": 13.73
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 9001,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "st-pancras-and-somers-town",
+      "ward_name": "St Pancras and Somers Town",
+      "prior_year": 2022,
+      "prior_ballot_id": "wikipedia.camden.st-pancras-and-somers-town.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 77.75,
+        "Conservative": 12.4,
+        "Liberal Democrat": 9.85
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 7097,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "west-hampstead",
+      "ward_name": "West Hampstead",
+      "prior_year": 2022,
+      "prior_ballot_id": "wikipedia.camden.west-hampstead.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 46.08,
+        "Liberal Democrat": 37.53,
+        "Conservative": 16.39
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 8237,
+      "prior_winner_count": 1
+    }
+  ],
+  "n_wards_attempted": 6,
+  "n_wards_with_history": 20,
+  "n_wards_no_history": 6,
+  "prior_year_distribution": {},
+  "merged_wikipedia_at": "2026-05-11T13:43:45Z",
+  "n_wikipedia_wards_added": 20
+}

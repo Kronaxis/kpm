@@ -1,0 +1,10 @@
+{
+  "council_slug": "north-east-lincolnshire",
+  "election_date": "2026-05-07",
+  "source": "https://candidates.democracyclub.org.uk/api/next/",
+  "fetched_at": "2026-05-11T00:10:25Z",
+  "wards": [],
+  "n_wards_attempted": 15,
+  "n_wards_with_results": 0,
+  "n_wards_no_results": 15
+}

@@ -1,0 +1,337 @@
+{
+  "council_slug": "bolton",
+  "wards": [
+    {
+      "ward_slug": "astley-bridge",
+      "ward_name": "Astley Bridge",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.bolton.astley-bridge.2023-05-04",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 47.75,
+        "Labour": 40.85,
+        "Green": 3.75,
+        "Liberal Democrat": 5.4,
+        "Reform UK and Bolton For Change": 2.24
+      },
+      "prior_party_seats_won": {
+        "Conservative": 2,
+        "Labour": 1
+      },
+      "prior_total_votes": 11141,
+      "prior_winner_count": 3
+    },
+    {
+      "ward_slug": "bradshaw",
+      "ward_name": "Bradshaw",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.bolton.bradshaw.2023-05-04",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 51.75,
+        "Labour": 35.3,
+        "Liberal Democrat": 9.92,
+        "Reform UK and Bolton For Change": 3.03
+      },
+      "prior_party_seats_won": {
+        "Conservative": 3
+      },
+      "prior_total_votes": 9336,
+      "prior_winner_count": 3
+    },
+    {
+      "ward_slug": "breightmet",
+      "ward_name": "Breightmet",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.bolton.breightmet.2023-05-04",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 44.06,
+        "Conservative": 42.87,
+        "Reform UK and Bolton For Change": 11.42,
+        "Liberal Democrat": 1.65
+      },
+      "prior_party_seats_won": {
+        "Labour": 2,
+        "Conservative": 1
+      },
+      "prior_total_votes": 8563,
+      "prior_winner_count": 3
+    },
+    {
+      "ward_slug": "bromley-cross",
+      "ward_name": "Bromley Cross",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.bolton.bromley-cross.2023-05-04",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 52.24,
+        "Labour": 33.23,
+        "Green": 3.31,
+        "Reform UK and Bolton For Change": 6.41,
+        "Liberal Democrat": 4.82
+      },
+      "prior_party_seats_won": {
+        "Conservative": 3
+      },
+      "prior_total_votes": 10362,
+      "prior_winner_count": 3
+    },
+    {
+      "ward_slug": "farnworth-north",
+      "ward_name": "Farnworth North",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.bolton.farnworth-north.2023-05-04",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 60.23,
+        "Conservative": 15.24,
+        "Reform UK and Bolton For Change": 17.33,
+        "Green": 3.1,
+        "Liberal Democrat": 4.1
+      },
+      "prior_party_seats_won": {
+        "Labour": 3
+      },
+      "prior_total_votes": 7780,
+      "prior_winner_count": 3
+    },
+    {
+      "ward_slug": "farnworth-south",
+      "ward_name": "Farnworth South",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.bolton.farnworth-south.2023-05-04",
+      "prior_winning_party": "Farnworth and Kearsley First Party",
+      "prior_party_shares": {
+        "Farnworth and Kearsley First Party": 39.15,
+        "Labour": 43.57,
+        "Reform UK and Bolton For Change": 6.33,
+        "Conservative": 6.48,
+        "Liberal Democrat": 4.47
+      },
+      "prior_party_seats_won": {
+        "Farnworth and Kearsley First Party": 2,
+        "Labour": 1
+      },
+      "prior_total_votes": 6020,
+      "prior_winner_count": 3
+    },
+    {
+      "ward_slug": "great-lever",
+      "ward_name": "Great Lever",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.bolton.great-lever.2023-05-04",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 60.45,
+        "Conservative": 31.36,
+        "Green": 2.51,
+        "Reform UK and Bolton For Change": 2.97,
+        "Liberal Democrat": 2.72
+      },
+      "prior_party_seats_won": {
+        "Labour": 3
+      },
+      "prior_total_votes": 11160,
+      "prior_winner_count": 3
+    },
+    {
+      "ward_slug": "halliwell",
+      "ward_name": "Halliwell",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.bolton.halliwell.2023-05-04",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 48.58,
+        "Conservative": 42.55,
+        "Reform UK and Bolton For Change": 4.63,
+        "Green": 1.39,
+        "Liberal Democrat": 2.85
+      },
+      "prior_party_seats_won": {
+        "Labour": 3
+      },
+      "prior_total_votes": 12297,
+      "prior_winner_count": 3
+    },
+    {
+      "ward_slug": "horwich-south-blackrod",
+      "ward_name": "Horwich South & Blackrod",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.bolton.horwich-south-blackrod.2023-05-04",
+      "prior_winning_party": "Horwich & Blackrod First Independents",
+      "prior_party_shares": {
+        "Horwich & Blackrod First Independents": 47.26,
+        "Labour": 25.4,
+        "Conservative": 20.83,
+        "Green": 2.39,
+        "Reform UK and Bolton For Change": 1.31,
+        "Liberal Democrat": 2.8
+      },
+      "prior_party_seats_won": {
+        "Horwich & Blackrod First Independents": 3
+      },
+      "prior_total_votes": 8609,
+      "prior_winner_count": 3
+    },
+    {
+      "ward_slug": "hulton",
+      "ward_name": "Hulton",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.bolton.hulton.2023-05-04",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 43.06,
+        "Conservative": 42.41,
+        "Green": 3.72,
+        "Reform UK and Bolton For Change": 5.76,
+        "Liberal Democrat": 5.06
+      },
+      "prior_party_seats_won": {
+        "Labour": 2,
+        "Conservative": 1
+      },
+      "prior_total_votes": 9729,
+      "prior_winner_count": 3
+    },
+    {
+      "ward_slug": "kearsley",
+      "ward_name": "Kearsley",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.bolton.kearsley.2023-05-04",
+      "prior_winning_party": "One Kearsley",
+      "prior_party_shares": {
+        "One Kearsley": 58.51,
+        "Farnworth and Kearsley First Party": 10.52,
+        "Labour": 17.69,
+        "Conservative": 9.48,
+        "Reform UK and Bolton For Change": 2.76,
+        "Liberal Democrat": 1.04
+      },
+      "prior_party_seats_won": {
+        "One Kearsley": 3
+      },
+      "prior_total_votes": 6519,
+      "prior_winner_count": 3
+    },
+    {
+      "ward_slug": "little-lever-darcy-lever",
+      "ward_name": "Little Lever & Darcy Lever",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.bolton.little-lever-darcy-lever.2023-05-04",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 36.98,
+        "Labour": 30.58,
+        "Little Lever & Darcy Lever First": 15.36,
+        "Reform UK and Bolton For Change": 13.78,
+        "Liberal Democrat": 3.29
+      },
+      "prior_party_seats_won": {
+        "Conservative": 2,
+        "Labour": 1
+      },
+      "prior_total_votes": 8112,
+      "prior_winner_count": 3
+    },
+    {
+      "ward_slug": "queens-park-central",
+      "ward_name": "Queens Park & Central",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.bolton.queens-park-central.2023-05-04",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 71.69,
+        "Conservative": 14.54,
+        "Reform UK and Bolton For Change": 5.99,
+        "Liberal Democrat": 6.29,
+        "Northern Heart": 1.49
+      },
+      "prior_party_seats_won": {
+        "Labour": 3
+      },
+      "prior_total_votes": 6776,
+      "prior_winner_count": 3
+    },
+    {
+      "ward_slug": "rumworth",
+      "ward_name": "Rumworth",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.bolton.rumworth.2023-05-04",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 51.64,
+        "Conservative": 41.69,
+        "Green": 4.8,
+        "Reform UK and Bolton For Change": 1.17,
+        "Liberal Democrat": 0.71
+      },
+      "prior_party_seats_won": {
+        "Labour": 3
+      },
+      "prior_total_votes": 13968,
+      "prior_winner_count": 3
+    },
+    {
+      "ward_slug": "smithills",
+      "ward_name": "Smithills",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.bolton.smithills.2023-05-04",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 54.96,
+        "Labour": 26.2,
+        "Conservative": 12.25,
+        "Green": 2.86,
+        "Reform UK and Bolton For Change": 3.74
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 3
+      },
+      "prior_total_votes": 10004,
+      "prior_winner_count": 3
+    },
+    {
+      "ward_slug": "tonge-with-the-haulgh",
+      "ward_name": "Tonge with the Haulgh",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.bolton.tonge-with-the-haulgh.2023-05-04",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 56.37,
+        "Conservative": 28.75,
+        "Reform UK and Bolton For Change": 6.81,
+        "Liberal Democrat": 6.56,
+        "Northern Heart": 1.51
+      },
+      "prior_party_seats_won": {
+        "Labour": 3
+      },
+      "prior_total_votes": 7743,
+      "prior_winner_count": 3
+    },
+    {
+      "ward_slug": "westhoughton-north-hunger-hill",
+      "ward_name": "Westhoughton North & Hunger Hill",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.bolton.westhoughton-north-hunger-hill.2023-05-04",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Liberal Democrat": 34.1,
+        "Conservative": 34.91,
+        "Labour": 22.83,
+        "Westhoughton First Independents": 4.23,
+        "Reform UK and Bolton For Change": 2.07,
+        "Green": 1.86
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 1,
+        "Conservative": 2
+      },
+      "prior_total_votes": 9282,
+      "prior_winner_count": 3
+    }
+  ],
+  "n_wards_attempted": 17,
+  "n_wards_with_history": 17
+}

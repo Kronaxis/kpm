@@ -1,0 +1,276 @@
+{
+  "council_slug": "barnsley",
+  "wards": [
+    {
+      "ward_slug": "central",
+      "ward_name": "Central",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.barnsley.central.2023-05-04",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 46.82,
+        "Yorkshire Party": 25.24,
+        "Conservative": 9.74,
+        "Green": 8.47,
+        "Independent": 5.09,
+        "Liberal Democrat": 4.65
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1807,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "cudworth",
+      "ward_name": "Cudworth",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.barnsley.cudworth.2023-05-04",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 69.08,
+        "Conservative": 15.07,
+        "Green": 8.99,
+        "Liberal Democrat": 6.87
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1646,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "darton-west",
+      "ward_name": "Darton West",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.barnsley.darton-west.2023-05-04",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 41.41,
+        "Green": 29.21,
+        "Conservative": 12.79,
+        "Yorkshire Party": 11.6,
+        "Liberal Democrat": 5.0
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2362,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "dearne-north",
+      "ward_name": "Dearne North",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.barnsley.dearne-north.2023-05-04",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 72.78,
+        "Conservative": 10.56,
+        "English Constitution Party": 8.19,
+        "Liberal Democrat": 7.36,
+        "Social Democratic Party": 1.11
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1440,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "dearne-south",
+      "ward_name": "Dearne South",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.barnsley.dearne-south.2023-05-04",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 59.49,
+        "Social Democratic Party": 24.89,
+        "Conservative": 9.04,
+        "Liberal Democrat": 4.52,
+        "English Constitution Party": 2.06
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1792,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "hoyland-milton",
+      "ward_name": "Hoyland Milton",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.barnsley.hoyland-milton.2023-05-04",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 42.69,
+        "Reform UK": 17.69,
+        "Conservative": 11.85,
+        "Independent": 11.53,
+        "Liberal Democrat": 7.26,
+        "Green": 6.01,
+        "Trade Unionist and Socialist Coalition": 2.96
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2464,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "monk-bretton",
+      "ward_name": "Monk Bretton",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.barnsley.monk-bretton.2023-05-04",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 50.38,
+        "Independent": 36.26,
+        "Conservative": 8.68,
+        "Liberal Democrat": 4.68
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2096,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "north-east",
+      "ward_name": "North East",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.barnsley.north-east.2023-05-04",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 53.37,
+        "Independent": 23.07,
+        "Conservative": 10.23,
+        "Yorkshire Party": 9.39,
+        "Liberal Democrat": 3.94
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2003,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "old-town",
+      "ward_name": "Old Town",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.barnsley.old-town.2023-05-04",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 51.97,
+        "Conservative": 15.22,
+        "Independent": 12.79,
+        "Green": 11.23,
+        "Liberal Democrat": 6.08,
+        "Trade Unionist and Socialist Coalition": 2.72
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2057,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "penistone-east",
+      "ward_name": "Penistone East",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.barnsley.penistone-east.2023-05-04",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 42.38,
+        "Conservative": 35.67,
+        "Liberal Democrat": 12.85,
+        "Green": 5.05,
+        "Independent": 4.05
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3782,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "penistone-west",
+      "ward_name": "Penistone West",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.barnsley.penistone-west.2023-05-04",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 45.88,
+        "Labour": 23.04,
+        "Conservative": 17.72,
+        "Green": 7.62,
+        "Independent": 5.75
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "prior_total_votes": 3516,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "rockingham",
+      "ward_name": "Rockingham",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.barnsley.rockingham.2023-05-04",
+      "prior_winning_party": "Independent",
+      "prior_party_shares": {
+        "Independent": 38.85,
+        "Labour": 29.14,
+        "Conservative": 13.27,
+        "Reform UK": 10.47,
+        "Green": 3.74,
+        "Liberal Democrat": 3.74,
+        "Trade Unionist and Socialist Coalition": 0.79
+      },
+      "prior_party_seats_won": {
+        "Independent": 1
+      },
+      "prior_total_votes": 2646,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "royston",
+      "ward_name": "Royston",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.barnsley.royston.2023-05-04",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 58.81,
+        "Independent": 19.01,
+        "Conservative": 14.13,
+        "Liberal Democrat": 5.04,
+        "Trade Unionist and Socialist Coalition": 3.01
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1925,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "wombwell",
+      "ward_name": "Wombwell",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.barnsley.wombwell.2023-05-04",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 69.46,
+        "Reform UK": 11.45,
+        "Conservative": 11.35,
+        "Liberal Democrat": 7.74
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2053,
+      "prior_winner_count": 1
+    }
+  ],
+  "n_wards_attempted": 14,
+  "n_wards_with_history": 14
+}

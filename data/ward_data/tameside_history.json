@@ -1,0 +1,318 @@
+{
+  "council_slug": "tameside",
+  "source": "https://candidates.democracyclub.org.uk/api/next/",
+  "fetched_at": "2026-05-10T23:33:20Z",
+  "wards": [
+    {
+      "ward_slug": "ashton-hurst",
+      "ward_name": "Ashton Hurst",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.tameside.ashton-hurst.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 43.68,
+        "Conservative": 36.52,
+        "Green": 19.81
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2681,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "ashton-waterloo",
+      "ward_name": "Ashton Waterloo",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.tameside.ashton-waterloo.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 52.43,
+        "Green": 47.57
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2651,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "audenshaw",
+      "ward_name": "Audenshaw",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.tameside.audenshaw.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 59.66,
+        "Green": 40.34
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2749,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "denton-north-east",
+      "ward_name": "Denton North East",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.tameside.denton-north-east.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 67.42,
+        "Green": 32.58
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2081,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "denton-south",
+      "ward_name": "Denton South",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.tameside.denton-south.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 68.2,
+        "Conservative": 20.18,
+        "Green": 11.63
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2374,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "denton-west",
+      "ward_name": "Denton West",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.tameside.denton-west.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 67.42,
+        "Conservative": 18.46,
+        "Green": 14.12
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2882,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "droylsden-east",
+      "ward_name": "Droylsden East",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.tameside.droylsden-east.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 58.35,
+        "Conservative": 18.69,
+        "Green": 12.52,
+        "Liberal Democrat": 10.44
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2317,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "droylsden-west",
+      "ward_name": "Droylsden West",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.tameside.droylsden-west.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 61.76,
+        "Conservative": 19.2,
+        "Green": 19.03
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2312,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "dukinfield",
+      "ward_name": "Dukinfield",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.tameside.dukinfield.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 63.22,
+        "Green": 36.78
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2121,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "dukinfield-stalybridge",
+      "ward_name": "Dukinfield Stalybridge",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.tameside.dukinfield-stalybridge.2023-05-04",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 55.13,
+        "Conservative": 38.49,
+        "Green": 6.38
+      },
+      "prior_party_seats_won": {
+        "Labour": 3
+      },
+      "prior_total_votes": 6641,
+      "prior_winner_count": 3
+    },
+    {
+      "ward_slug": "hyde-godley",
+      "ward_name": "Hyde Godley",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.tameside.hyde-godley.2024-05-02",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 44.23,
+        "Labour": 38.07,
+        "Green": 17.7
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 2808,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "hyde-newton",
+      "ward_name": "Hyde Newton",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.tameside.hyde-newton.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 52.62,
+        "Conservative": 21.85,
+        "Liberal Democrat": 13.04,
+        "Workers Party of Britain": 12.49
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2178,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "hyde-werneth",
+      "ward_name": "Hyde Werneth",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.tameside.hyde-werneth.2024-05-02",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 38.15,
+        "Labour": 34.46,
+        "Green": 17.95,
+        "Independent": 9.45
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 3387,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "longdendale",
+      "ward_name": "Longdendale",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.tameside.longdendale.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 60.2,
+        "Conservative": 23.01,
+        "Green": 16.79
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2555,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "mossley",
+      "ward_name": "Mossley",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.tameside.mossley.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 62.93,
+        "Conservative": 19.47,
+        "Green": 17.6
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2722,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "stalybridge-north",
+      "ward_name": "Stalybridge North",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.tameside.stalybridge-north.2024-05-02",
+      "prior_winning_party": "Independent",
+      "prior_party_shares": {
+        "Independent": 44.66,
+        "Labour": 40.23,
+        "Conservative": 15.11
+      },
+      "prior_party_seats_won": {
+        "Independent": 1
+      },
+      "prior_total_votes": 2620,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "stalybridge-south",
+      "ward_name": "Stalybridge South",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.tameside.stalybridge-south.2024-05-02",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 48.43,
+        "Labour": 37.62,
+        "Green": 13.95
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 2802,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "st-peters",
+      "ward_name": "St Peter's",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.tameside.st-peters.2024-05-02",
+      "prior_winning_party": "Independent",
+      "prior_party_shares": {
+        "Independent": 56.12,
+        "Labour": 43.88
+      },
+      "prior_party_seats_won": {
+        "Independent": 1
+      },
+      "prior_total_votes": 2844,
+      "prior_winner_count": 1
+    }
+  ],
+  "n_wards_attempted": 18,
+  "n_wards_with_history": 18,
+  "n_wards_no_history": 0,
+  "prior_year_distribution": {
+    "2024": 17,
+    "2023": 1
+  }
+}

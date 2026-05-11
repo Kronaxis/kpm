@@ -1,0 +1,1300 @@
+{
+  "council_slug": "stockport",
+  "election_date": "2026-05-07",
+  "source": "https://candidates.democracyclub.org.uk/api/next/",
+  "fetched_at": "2026-05-10T23:25:03Z",
+  "wards": [
+    {
+      "ward_slug": "bramhall-north",
+      "ward_name": "Bramhall North",
+      "ballot_id": "local.stockport.bramhall-north.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Taya Rose Clarke",
+          "votes": 2188
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Taya Rose Clarke",
+          "votes": 2188,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Rajinder Pal Singh",
+          "votes": 1145,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Archana Prasad",
+          "votes": 804,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Nathaniel Butler",
+          "votes": 483,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Jake Stewart Thomas",
+          "votes": 200,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Liberal Democrat": 45.39,
+        "Reform UK": 23.76,
+        "Conservative": 16.68,
+        "Green": 10.02,
+        "Labour": 4.15
+      },
+      "party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "winning_party": "Liberal Democrat",
+      "total_votes": 4820,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:25:23Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000779",
+        "qual_l4_pct": 48.69,
+        "no_qual_pct": 10.65,
+        "muslim_pct": 4.58,
+        "no_religion_pct": 35.78,
+        "age_under_35_pct": 33.37,
+        "age_65_plus_pct": 28.48,
+        "social_rented_pct": 8.17,
+        "white_british_pct": 82.8
+      }
+    },
+    {
+      "ward_slug": "bramhall-south-woodford",
+      "ward_name": "Bramhall South & Woodford",
+      "ballot_id": "local.stockport.bramhall-south-woodford.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Dallas Ann Jones",
+          "votes": 2417
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Dallas Ann Jones",
+          "votes": 2417,
+          "elected": true
+        },
+        {
+          "party": "Conservative",
+          "name": "Ste Mulvenna",
+          "votes": 2114,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Stephen George Speakman",
+          "votes": 776,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Thomas James Price",
+          "votes": 393,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Phil Matley",
+          "votes": 134,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Liberal Democrat": 41.43,
+        "Conservative": 36.24,
+        "Reform UK": 13.3,
+        "Green": 6.74,
+        "Labour": 2.3
+      },
+      "party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "winning_party": "Liberal Democrat",
+      "total_votes": 5834,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:25:25Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000780",
+        "qual_l4_pct": 49.74,
+        "no_qual_pct": 9.72,
+        "muslim_pct": 3.02,
+        "no_religion_pct": 33.96,
+        "age_under_35_pct": 32.53,
+        "age_65_plus_pct": 32.0,
+        "social_rented_pct": 5.45,
+        "white_british_pct": 87.63
+      }
+    },
+    {
+      "ward_slug": "bredbury-green-romiley",
+      "ward_name": "Bredbury Green & Romiley",
+      "ballot_id": "local.stockport.bredbury-green-romiley.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Angie Clark",
+          "votes": 2097
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Angie Clark",
+          "votes": 2097,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Stuart Michael Reeves",
+          "votes": 1362,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Matilda Simon",
+          "votes": 475,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Pat Bentley",
+          "votes": 430,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Aron Thomas Thornley",
+          "votes": 239,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Liberal Democrat": 45.56,
+        "Reform UK": 29.59,
+        "Green": 10.32,
+        "Conservative": 9.34,
+        "Labour": 5.19
+      },
+      "party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "winning_party": "Liberal Democrat",
+      "total_votes": 4603,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:25:37Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000782",
+        "qual_l4_pct": 30.89,
+        "no_qual_pct": 19.0,
+        "muslim_pct": 1.02,
+        "no_religion_pct": 41.13,
+        "age_under_35_pct": 35.61,
+        "age_65_plus_pct": 29.04,
+        "social_rented_pct": 39.68,
+        "white_british_pct": 92.15
+      }
+    },
+    {
+      "ward_slug": "bredbury-woodley",
+      "ward_name": "Bredbury & Woodley",
+      "ballot_id": "local.stockport.bredbury-woodley.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Niki Meerman",
+          "votes": 2013
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Niki Meerman",
+          "votes": 2013,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Mark Kelly",
+          "votes": 1734,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Charlotte Allen",
+          "votes": 408,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Charlie Stewart",
+          "votes": 252,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "William Robert Law",
+          "votes": 246,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Liberal Democrat": 43.26,
+        "Reform UK": 37.27,
+        "Green": 8.77,
+        "Labour": 5.42,
+        "Conservative": 5.29
+      },
+      "party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "winning_party": "Liberal Democrat",
+      "total_votes": 4653,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:25:39Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000781",
+        "qual_l4_pct": 27.66,
+        "no_qual_pct": 17.62,
+        "muslim_pct": 1.04,
+        "no_religion_pct": 41.24,
+        "age_under_35_pct": 36.76,
+        "age_65_plus_pct": 25.67,
+        "social_rented_pct": 20.67,
+        "white_british_pct": 93.2
+      }
+    },
+    {
+      "ward_slug": "cheadle-west-gatley",
+      "ward_name": "Cheadle West & Gatley",
+      "ballot_id": "local.stockport.cheadle-west-gatley.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Ian Hunter",
+          "votes": 2299
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Ian Hunter",
+          "votes": 2299,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Denise Yvonne Fletcher",
+          "votes": 971,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Stephanie Wyatt",
+          "votes": 709,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Penny Davis",
+          "votes": 650,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Carl Carrigan",
+          "votes": 349,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Liberal Democrat": 46.18,
+        "Reform UK": 19.51,
+        "Green": 14.24,
+        "Conservative": 13.06,
+        "Labour": 7.01
+      },
+      "party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "winning_party": "Liberal Democrat",
+      "total_votes": 4978,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:26:42Z",
+      "census": {
+        "matched": false,
+        "note": "no Census ward found by name"
+      }
+    },
+    {
+      "ward_slug": "davenport-cale-green",
+      "ward_name": "Davenport & Cale Green",
+      "ballot_id": "local.stockport.davenport-cale-green.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Alice Delemare",
+          "votes": 1323
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Alice Delemare",
+          "votes": 1323,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Wendy Margaret Wild",
+          "votes": 1081,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Alan Livingstone",
+          "votes": 1063,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Andrew Robert Glassford",
+          "votes": 954,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Nathan Lumb",
+          "votes": 191,
+          "elected": false
+        },
+        {
+          "party": "Your Party",
+          "name": "Ashley Walker",
+          "votes": 54,
+          "elected": false
+        },
+        {
+          "party": "Party Of Women",
+          "name": "Tara Louise Hughes",
+          "votes": 47,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Liberal Democrat": 28.07,
+        "Labour": 22.94,
+        "Reform UK": 22.55,
+        "Green": 20.24,
+        "Conservative": 4.05,
+        "Your Party": 1.15,
+        "Party Of Women": 1.0
+      },
+      "party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "winning_party": "Liberal Democrat",
+      "total_votes": 4713,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:26:44Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000787",
+        "qual_l4_pct": 32.75,
+        "no_qual_pct": 18.97,
+        "muslim_pct": 6.39,
+        "no_religion_pct": 46.77,
+        "age_under_35_pct": 46.14,
+        "age_65_plus_pct": 14.92,
+        "social_rented_pct": 45.47,
+        "white_british_pct": 80.68
+      }
+    },
+    {
+      "ward_slug": "edgeley",
+      "ward_name": "Edgeley",
+      "ballot_id": "local.stockport.edgeley.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Edgeley Community Association",
+          "name": "Jess Meller",
+          "votes": 1770
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Edgeley Community Association",
+          "name": "Jess Meller",
+          "votes": 1770,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Peter Marsh",
+          "votes": 731,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Will York",
+          "votes": 666,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Mike Naylor",
+          "votes": 419,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Robbie Cowbury",
+          "votes": 151,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Stephen Wear",
+          "votes": 88,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Edgeley Community Association": 46.27,
+        "Reform UK": 19.11,
+        "Green": 17.41,
+        "Labour": 10.95,
+        "Liberal Democrat": 3.95,
+        "Conservative": 2.3
+      },
+      "party_seats_won": {
+        "Edgeley Community Association": 1
+      },
+      "winning_party": "Edgeley Community Association",
+      "total_votes": 3825,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:26:45Z",
+      "census": {
+        "matched": false,
+        "note": "no Census ward found by name"
+      }
+    },
+    {
+      "ward_slug": "hazel-grove",
+      "ward_name": "Hazel Grove",
+      "ballot_id": "local.stockport.hazel-grove.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Wendy Meikle",
+          "votes": 1742
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Wendy Meikle",
+          "votes": 1742,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "John Howard Kelly",
+          "votes": 1662,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Tim Morley",
+          "votes": 524,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Dave Shearman",
+          "votes": 470,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Johnny White",
+          "votes": 261,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Liberal Democrat": 37.39,
+        "Reform UK": 35.67,
+        "Conservative": 11.25,
+        "Green": 10.09,
+        "Labour": 5.6
+      },
+      "party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "winning_party": "Liberal Democrat",
+      "total_votes": 4659,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:27:11Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000789",
+        "qual_l4_pct": 35.51,
+        "no_qual_pct": 14.57,
+        "muslim_pct": 2.33,
+        "no_religion_pct": 37.83,
+        "age_under_35_pct": 36.59,
+        "age_65_plus_pct": 27.34,
+        "social_rented_pct": 13.06,
+        "white_british_pct": 88.81
+      }
+    },
+    {
+      "ward_slug": "heald-green",
+      "ward_name": "Heald Green",
+      "ballot_id": "local.stockport.heald-green.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Independent",
+          "name": "Anna Mary Charles-Jones",
+          "votes": 1780
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Independent",
+          "name": "Anna Mary Charles-Jones",
+          "votes": 1780,
+          "elected": true
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Nasser Shaikh",
+          "votes": 1372,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Carl Anthony McCabe",
+          "votes": 972,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Emma McCarthy",
+          "votes": 434,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Minara Cook",
+          "votes": 222,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Kath Priestley",
+          "votes": 196,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Independent": 35.77,
+        "Liberal Democrat": 27.57,
+        "Reform UK": 19.53,
+        "Green": 8.72,
+        "Conservative": 4.46,
+        "Labour": 3.94
+      },
+      "party_seats_won": {
+        "Independent": 1
+      },
+      "winning_party": "Independent",
+      "total_votes": 4976,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:27:39Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000790",
+        "qual_l4_pct": 36.68,
+        "no_qual_pct": 16.42,
+        "muslim_pct": 22.02,
+        "no_religion_pct": 25.18,
+        "age_under_35_pct": 38.89,
+        "age_65_plus_pct": 25.98,
+        "social_rented_pct": 9.44,
+        "white_british_pct": 65.69
+      }
+    },
+    {
+      "ward_slug": "heatons-north",
+      "ward_name": "Heatons North",
+      "ballot_id": "local.stockport.heatons-north.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Labour",
+          "name": "Jo Williams",
+          "votes": 1743
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Labour",
+          "name": "Jo Williams",
+          "votes": 1743,
+          "elected": true
+        },
+        {
+          "party": "Green",
+          "name": "Helena Julia Mellish",
+          "votes": 1613,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "John Dennis Wilson",
+          "votes": 840,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Timothy Cho",
+          "votes": 584,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Alex Hartley",
+          "votes": 409,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Labour": 33.59,
+        "Green": 31.08,
+        "Reform UK": 16.19,
+        "Conservative": 11.25,
+        "Liberal Democrat": 7.88
+      },
+      "party_seats_won": {
+        "Labour": 1
+      },
+      "winning_party": "Labour",
+      "total_votes": 5189,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:27:49Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000791",
+        "qual_l4_pct": 50.94,
+        "no_qual_pct": 12.49,
+        "muslim_pct": 7.69,
+        "no_religion_pct": 39.75,
+        "age_under_35_pct": 38.37,
+        "age_65_plus_pct": 21.49,
+        "social_rented_pct": 17.53,
+        "white_british_pct": 77.34
+      }
+    },
+    {
+      "ward_slug": "heatons-south",
+      "ward_name": "Heatons South",
+      "ballot_id": "local.stockport.heatons-south.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Labour",
+          "name": "Dean Fitzpatrick",
+          "votes": 2138
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Labour",
+          "name": "Dean Fitzpatrick",
+          "votes": 2138,
+          "elected": true
+        },
+        {
+          "party": "Green",
+          "name": "Jake Welsh",
+          "votes": 1276,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Mark Wilkinson",
+          "votes": 950,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Joel Tennuchi",
+          "votes": 460,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Marcel Ridyard",
+          "votes": 391,
+          "elected": false
+        },
+        {
+          "party": "TUSC",
+          "name": "Libby Williams",
+          "votes": 32,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Labour": 40.75,
+        "Green": 24.32,
+        "Reform UK": 18.11,
+        "Conservative": 8.77,
+        "Liberal Democrat": 7.45,
+        "TUSC": 0.61
+      },
+      "party_seats_won": {
+        "Labour": 1
+      },
+      "winning_party": "Labour",
+      "total_votes": 5247,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:27:51Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000792",
+        "qual_l4_pct": 49.07,
+        "no_qual_pct": 12.15,
+        "muslim_pct": 11.92,
+        "no_religion_pct": 36.96,
+        "age_under_35_pct": 37.79,
+        "age_65_plus_pct": 20.51,
+        "social_rented_pct": 15.05,
+        "white_british_pct": 72.92
+      }
+    },
+    {
+      "ward_slug": "manor",
+      "ward_name": "Manor",
+      "ballot_id": "local.stockport.manor.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Brian John Battle",
+          "votes": 1521
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Brian John Battle",
+          "votes": 1521,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Sue Glithero",
+          "votes": 1003,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Jason Jones",
+          "votes": 893,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Daniel Brown",
+          "votes": 633,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "John Peter Bates",
+          "votes": 147,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 36.24,
+        "Labour": 23.9,
+        "Liberal Democrat": 21.28,
+        "Green": 15.08,
+        "Conservative": 3.5
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 4197,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:27:52Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000793",
+        "qual_l4_pct": 27.06,
+        "no_qual_pct": 16.1,
+        "muslim_pct": 1.52,
+        "no_religion_pct": 46.67,
+        "age_under_35_pct": 43.04,
+        "age_65_plus_pct": 16.89,
+        "social_rented_pct": 28.26,
+        "white_british_pct": 90.93
+      }
+    },
+    {
+      "ward_slug": "marple-north",
+      "ward_name": "Marple North",
+      "ballot_id": "local.stockport.marple-north.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Megan Axon",
+          "votes": 2754
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Megan Axon",
+          "votes": 2754,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Matthew Haydon Sharp",
+          "votes": 922,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "John Bright",
+          "votes": 694,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Nigel Noble",
+          "votes": 590,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Peter Black",
+          "votes": 312,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Liberal Democrat": 52.24,
+        "Reform UK": 17.49,
+        "Green": 13.16,
+        "Conservative": 11.19,
+        "Labour": 5.92
+      },
+      "party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "winning_party": "Liberal Democrat",
+      "total_votes": 5272,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:28:19Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000794",
+        "qual_l4_pct": 49.62,
+        "no_qual_pct": 9.48,
+        "muslim_pct": 0.53,
+        "no_religion_pct": 40.21,
+        "age_under_35_pct": 31.54,
+        "age_65_plus_pct": 31.53,
+        "social_rented_pct": 9.2,
+        "white_british_pct": 94.0
+      }
+    },
+    {
+      "ward_slug": "marple-south-high-lane",
+      "ward_name": "Marple South & High Lane",
+      "ballot_id": "local.stockport.marple-south-high-lane.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Dominic Warner",
+          "votes": 2267
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Dominic Warner",
+          "votes": 2267,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Carl Rydings",
+          "votes": 1214,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Rebecca Hurst",
+          "votes": 593,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Annette Claire Finnie",
+          "votes": 507,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Brian Anthony Wild",
+          "votes": 214,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Liberal Democrat": 47.28,
+        "Reform UK": 25.32,
+        "Green": 12.37,
+        "Conservative": 10.57,
+        "Labour": 4.46
+      },
+      "party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "winning_party": "Liberal Democrat",
+      "total_votes": 4795,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:28:45Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000795",
+        "qual_l4_pct": 37.02,
+        "no_qual_pct": 15.11,
+        "muslim_pct": 0.88,
+        "no_religion_pct": 38.52,
+        "age_under_35_pct": 30.39,
+        "age_65_plus_pct": 34.37,
+        "social_rented_pct": 17.87,
+        "white_british_pct": 94.02
+      }
+    },
+    {
+      "ward_slug": "norbury-woodsmoor",
+      "ward_name": "Norbury & Woodsmoor",
+      "ballot_id": "local.stockport.norbury-woodsmoor.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Dominic Francis Thomas Hardwick",
+          "votes": 2227
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Dominic Francis Thomas Hardwick",
+          "votes": 2227,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Oliver Speakman",
+          "votes": 1276,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "John Wright",
+          "votes": 575,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Jessica Hett",
+          "votes": 546,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Colin Devine",
+          "votes": 295,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Liberal Democrat": 45.27,
+        "Reform UK": 25.94,
+        "Conservative": 11.69,
+        "Green": 11.1,
+        "Labour": 6.0
+      },
+      "party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "winning_party": "Liberal Democrat",
+      "total_votes": 4919,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:28:46Z",
+      "census": {
+        "matched": false,
+        "note": "no Census ward found by name"
+      }
+    },
+    {
+      "ward_slug": "offerton",
+      "ward_name": "Offerton",
+      "ballot_id": "local.stockport.offerton.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Jamie Hirst",
+          "votes": 1736
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Jamie Hirst",
+          "votes": 1736,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Stuart Philip Kirby",
+          "votes": 1481,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Helen Hibbert",
+          "votes": 908,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Suzi M\u00e4kinen",
+          "votes": 500,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Andrew Stephen Lord",
+          "votes": 234,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Liberal Democrat": 35.73,
+        "Reform UK": 30.48,
+        "Labour": 18.69,
+        "Green": 10.29,
+        "Conservative": 4.82
+      },
+      "party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "winning_party": "Liberal Democrat",
+      "total_votes": 4859,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:28:56Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000796",
+        "qual_l4_pct": 28.25,
+        "no_qual_pct": 17.76,
+        "muslim_pct": 2.39,
+        "no_religion_pct": 40.91,
+        "age_under_35_pct": 39.16,
+        "age_65_plus_pct": 22.49,
+        "social_rented_pct": 38.46,
+        "white_british_pct": 90.02
+      }
+    },
+    {
+      "ward_slug": "reddish-north",
+      "ward_name": "Reddish North",
+      "ballot_id": "local.stockport.reddish-north.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Green",
+          "name": "David White",
+          "votes": 1588
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Green",
+          "name": "David White",
+          "votes": 1588,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Dan Cole",
+          "votes": 1446,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Dan Farley",
+          "votes": 959,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Karl Seppman",
+          "votes": 185,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Heather Lauren Smith",
+          "votes": 179,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Green": 36.45,
+        "Reform UK": 33.19,
+        "Labour": 22.01,
+        "Conservative": 4.25,
+        "Liberal Democrat": 4.11
+      },
+      "party_seats_won": {
+        "Green": 1
+      },
+      "winning_party": "Green",
+      "total_votes": 4357,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:28:58Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000797",
+        "qual_l4_pct": 26.66,
+        "no_qual_pct": 20.45,
+        "muslim_pct": 4.89,
+        "no_religion_pct": 41.46,
+        "age_under_35_pct": 45.09,
+        "age_65_plus_pct": 15.72,
+        "social_rented_pct": 29.22,
+        "white_british_pct": 82.25
+      }
+    },
+    {
+      "ward_slug": "reddish-south",
+      "ward_name": "Reddish South",
+      "ballot_id": "local.stockport.reddish-south.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Green",
+          "name": "Laura Smith",
+          "votes": 2515
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Green",
+          "name": "Laura Smith",
+          "votes": 2515,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "John Paul Jones",
+          "votes": 1526,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Papa Andoh-Kweku",
+          "votes": 540,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Hassan Sajjad",
+          "votes": 192,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Eileen V. Campbell",
+          "votes": 164,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Green": 50.94,
+        "Reform UK": 30.91,
+        "Labour": 10.94,
+        "Conservative": 3.89,
+        "Liberal Democrat": 3.32
+      },
+      "party_seats_won": {
+        "Green": 1
+      },
+      "winning_party": "Green",
+      "total_votes": 4937,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:28:59Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000798",
+        "qual_l4_pct": 32.52,
+        "no_qual_pct": 17.29,
+        "muslim_pct": 3.46,
+        "no_religion_pct": 41.46,
+        "age_under_35_pct": 40.35,
+        "age_65_plus_pct": 18.55,
+        "social_rented_pct": 26.97,
+        "white_british_pct": 84.35
+      }
+    }
+  ],
+  "n_wards_attempted": 21,
+  "n_wards_with_results": 18,
+  "n_wards_no_results": 3
+}

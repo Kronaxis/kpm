@@ -1,0 +1,271 @@
+{
+  "council_slug": "merton",
+  "source": "https://candidates.democracyclub.org.uk/api/next/",
+  "fetched_at": "2026-05-11T03:04:58Z",
+  "wards": [
+    {
+      "ward_slug": "abbey",
+      "ward_name": "Abbey",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.merton.abbey.2022-05-05",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 36.17,
+        "Labour": 34.02,
+        "Conservative": 25.89,
+        "Green": 3.92
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 2,
+        "Labour": 1
+      },
+      "prior_total_votes": 9968,
+      "prior_winner_count": 3
+    },
+    {
+      "ward_slug": "cannon-hill",
+      "ward_name": "Cannon Hill",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.merton.cannon-hill.2022-05-05",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Liberal Democrat": 34.43,
+        "Conservative": 34.15,
+        "Labour": 28.58,
+        "Green": 2.84
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 1,
+        "Conservative": 2
+      },
+      "prior_total_votes": 10531,
+      "prior_winner_count": 3
+    },
+    {
+      "ward_slug": "colliers-wood",
+      "ward_name": "Colliers Wood",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.merton.colliers-wood.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 60.48,
+        "Green": 17.77,
+        "Conservative": 12.92,
+        "Liberal Democrat": 8.83
+      },
+      "prior_party_seats_won": {
+        "Labour": 3
+      },
+      "prior_total_votes": 8729,
+      "prior_winner_count": 3
+    },
+    {
+      "ward_slug": "cricket-green",
+      "ward_name": "Cricket Green",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.merton.cricket-green.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 73.04,
+        "Conservative": 15.37,
+        "Green": 3.72,
+        "Liberal Democrat": 6.78,
+        "TUSC": 1.09
+      },
+      "prior_party_seats_won": {
+        "Labour": 3
+      },
+      "prior_total_votes": 7363,
+      "prior_winner_count": 3
+    },
+    {
+      "ward_slug": "figges-marsh",
+      "ward_name": "Figge's Marsh",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.merton.figges-marsh.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 78.95,
+        "Conservative": 11.52,
+        "Green": 3.12,
+        "Liberal Democrat": 5.22,
+        "TUSC": 1.18
+      },
+      "prior_party_seats_won": {
+        "Labour": 3
+      },
+      "prior_total_votes": 7089,
+      "prior_winner_count": 3
+    },
+    {
+      "ward_slug": "hillside",
+      "ward_name": "Hillside",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.merton.hillside.2022-05-05",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 40.87,
+        "Conservative": 40.17,
+        "Labour": 18.96
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 1,
+        "Conservative": 1
+      },
+      "prior_total_votes": 5163,
+      "prior_winner_count": 2
+    },
+    {
+      "ward_slug": "merton-park",
+      "ward_name": "Merton Park",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.merton.merton-park.2022-05-05",
+      "prior_winning_party": "Merton Park Ward Independent Residents",
+      "prior_party_shares": {
+        "Merton Park Ward Independent Residents": 59.89,
+        "Labour": 17.97,
+        "Conservative": 11.37,
+        "Liberal Democrat": 7.87,
+        "Green": 2.9
+      },
+      "prior_party_seats_won": {
+        "Merton Park Ward Independent Residents": 2
+      },
+      "prior_total_votes": 5971,
+      "prior_winner_count": 2
+    },
+    {
+      "ward_slug": "pollards-hill",
+      "ward_name": "Pollards Hill",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.merton.pollards-hill.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 77.8,
+        "Conservative": 14.99,
+        "Green": 2.46,
+        "Liberal Democrat": 4.75
+      },
+      "prior_party_seats_won": {
+        "Labour": 3
+      },
+      "prior_total_votes": 7071,
+      "prior_winner_count": 3
+    },
+    {
+      "ward_slug": "raynes-park",
+      "ward_name": "Raynes Park",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.merton.raynes-park.2022-05-05",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 45.88,
+        "Conservative": 32.26,
+        "Labour": 18.26,
+        "Green": 3.6
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 3
+      },
+      "prior_total_votes": 11699,
+      "prior_winner_count": 3
+    },
+    {
+      "ward_slug": "st-helier",
+      "ward_name": "St Helier",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.merton.st-helier.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 59.71,
+        "Conservative": 19.38,
+        "Green": 14.54,
+        "Liberal Democrat": 6.36
+      },
+      "prior_party_seats_won": {
+        "Labour": 3
+      },
+      "prior_total_votes": 6553,
+      "prior_winner_count": 3
+    },
+    {
+      "ward_slug": "village",
+      "ward_name": "Village",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.merton.village.2022-05-05",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 50.94,
+        "Liberal Democrat": 32.61,
+        "Labour": 12.58,
+        "Green": 3.88
+      },
+      "prior_party_seats_won": {
+        "Conservative": 3
+      },
+      "prior_total_votes": 11171,
+      "prior_winner_count": 3
+    },
+    {
+      "ward_slug": "wandle",
+      "ward_name": "Wandle",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.merton.wandle.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Liberal Democrat": 33.22,
+        "Labour": 34.12,
+        "Conservative": 22.91,
+        "Green": 9.75
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 1,
+        "Labour": 1
+      },
+      "prior_total_votes": 4299,
+      "prior_winner_count": 2
+    },
+    {
+      "ward_slug": "west-barnes",
+      "ward_name": "West Barnes",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.merton.west-barnes.2022-05-05",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 44.61,
+        "Conservative": 30.8,
+        "Labour": 20.33,
+        "Green": 4.26
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 3
+      },
+      "prior_total_votes": 10345,
+      "prior_winner_count": 3
+    },
+    {
+      "ward_slug": "wimbledon-town-dundonald",
+      "ward_name": "Wimbledon Town & Dundonald",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.merton.wimbledon-town-dundonald.2022-05-05",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 56.55,
+        "Conservative": 24.9,
+        "Labour": 14.15,
+        "Green": 4.4
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 3
+      },
+      "prior_total_votes": 13002,
+      "prior_winner_count": 3
+    }
+  ],
+  "n_wards_attempted": 18,
+  "n_wards_with_history": 14,
+  "n_wards_no_history": 4,
+  "prior_year_distribution": {
+    "2022": 14
+  }
+}

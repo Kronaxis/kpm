@@ -1,0 +1,210 @@
+{
+  "council_slug": "hartlepool",
+  "source": "https://candidates.democracyclub.org.uk/api/next/",
+  "fetched_at": "2026-05-10T22:03:17Z",
+  "wards": [
+    {
+      "ward_slug": "burn-valley",
+      "ward_name": "Burn Valley",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.hartlepool.burn-valley.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 54.51,
+        "Conservative": 20.11,
+        "Reform UK": 16.01,
+        "Independent": 9.37
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1686,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "de-bruce",
+      "ward_name": "De Bruce",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.hartlepool.de-bruce.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 54.85,
+        "Conservative": 23.88,
+        "Reform UK": 21.27
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1382,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "fens-greatham",
+      "ward_name": "Fens & Greatham",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.hartlepool.fens-greatham.2024-05-02",
+      "prior_winning_party": "Independent",
+      "prior_party_shares": {
+        "Independent": 42.51,
+        "Labour": 29.95,
+        "Conservative": 14.93,
+        "Reform UK": 12.61
+      },
+      "prior_party_seats_won": {
+        "Independent": 1
+      },
+      "prior_total_votes": 2077,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "foggy-furze",
+      "ward_name": "Foggy Furze",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.hartlepool.foggy-furze.2023-05-04",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 52.39,
+        "Conservative": 27.41,
+        "Liberal Democrat": 12.75,
+        "Reform UK": 7.44
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1357,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "hart",
+      "ward_name": "Hart",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.hartlepool.hart.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 42.63,
+        "Conservative": 31.88,
+        "Reform UK": 12.37,
+        "Independent": 13.13
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1973,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "headland-harbour",
+      "ward_name": "Headland & Harbour",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.hartlepool.headland-harbour.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 51.4,
+        "Conservative": 20.21,
+        "Reform UK": 13.47,
+        "Independent": 14.93
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1648,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "manor-house",
+      "ward_name": "Manor House",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.hartlepool.manor-house.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 58.8,
+        "Reform UK": 20.13,
+        "Conservative": 15.05,
+        "Independent": 6.02
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1063,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "rossmere",
+      "ward_name": "Rossmere",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.hartlepool.rossmere.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 54.4,
+        "Conservative": 23.05,
+        "Reform UK": 22.55
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1193,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "rural-west",
+      "ward_name": "Rural West",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.hartlepool.rural-west.2024-05-02",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 48.07,
+        "Labour": 33.45,
+        "Reform UK": 13.61,
+        "Green": 4.86
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 2490,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "seaton",
+      "ward_name": "Seaton",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.hartlepool.seaton.2024-05-02",
+      "prior_winning_party": "Independent",
+      "prior_party_shares": {
+        "Independent": 58.87,
+        "Labour": 19.61,
+        "Conservative": 12.07,
+        "Reform UK": 7.48,
+        "Green": 1.97
+      },
+      "prior_party_seats_won": {
+        "Independent": 1
+      },
+      "prior_total_votes": 1831,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "victoria",
+      "ward_name": "Victoria",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.hartlepool.victoria.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 64.73,
+        "Conservative": 19.66,
+        "Reform UK": 15.61
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1358,
+      "prior_winner_count": 1
+    }
+  ],
+  "n_wards_attempted": 11,
+  "n_wards_with_history": 11,
+  "n_wards_no_history": 0,
+  "prior_year_distribution": {
+    "2024": 10,
+    "2023": 1
+  }
+}

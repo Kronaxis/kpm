@@ -1,0 +1,520 @@
+{
+  "council_slug": "sheffield",
+  "source": "https://candidates.democracyclub.org.uk/api/next/",
+  "fetched_at": "2026-05-10T21:36:19Z",
+  "wards": [
+    {
+      "ward_slug": "beauchief-greenhill",
+      "ward_name": "Beauchief & Greenhill",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.sheffield.beauchief-greenhill.2024-05-02",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 42.68,
+        "Labour": 31.86,
+        "Green": 12.65,
+        "Conservative": 8.73,
+        "Heritage Party": 2.29,
+        "TUSC": 1.78
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "prior_total_votes": 4538,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "beighton",
+      "ward_name": "Beighton",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.sheffield.beighton.2024-05-02",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 37.38,
+        "Labour": 37.32,
+        "Conservative": 15.97,
+        "Green": 7.03,
+        "TUSC": 2.29
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "prior_total_votes": 3625,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "broomhill-sharrow-vale",
+      "ward_name": "Broomhill & Sharrow Vale",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.sheffield.broomhill-sharrow-vale.2024-05-02",
+      "prior_winning_party": "Green",
+      "prior_party_shares": {
+        "Green": 48.61,
+        "Labour": 35.22,
+        "Liberal Democrat": 6.41,
+        "Conservative": 5.02,
+        "TUSC": 2.47,
+        "Independent": 2.27
+      },
+      "prior_party_seats_won": {
+        "Green": 1
+      },
+      "prior_total_votes": 5540,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "burngreave",
+      "ward_name": "Burngreave",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.sheffield.burngreave.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 45.09,
+        "Green": 22.64,
+        "Independent": 15.5,
+        "Liberal Democrat": 7.65,
+        "Conservative": 6.1,
+        "TUSC": 3.01
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3948,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "city",
+      "ward_name": "City",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.sheffield.city.2024-05-02",
+      "prior_winning_party": "Green",
+      "prior_party_shares": {
+        "Green": 51.36,
+        "Labour": 33.97,
+        "Conservative": 6.11,
+        "Liberal Democrat": 5.32,
+        "TUSC": 3.24
+      },
+      "prior_party_seats_won": {
+        "Green": 1
+      },
+      "prior_total_votes": 2652,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "crookes-crosspool",
+      "ward_name": "Crookes & Crosspool",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.sheffield.crookes-crosspool.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 48.31,
+        "Liberal Democrat": 31.93,
+        "Green": 14.19,
+        "Conservative": 4.45,
+        "TUSC": 1.12
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 6852,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "darnall",
+      "ward_name": "Darnall",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.sheffield.darnall.2024-05-02",
+      "prior_winning_party": "Independent",
+      "prior_party_shares": {
+        "Independent": 52.94,
+        "Labour": 26.96,
+        "Liberal Democrat": 8.68,
+        "Green": 6.85,
+        "Conservative": 4.56
+      },
+      "prior_party_seats_won": {
+        "Independent": 1
+      },
+      "prior_total_votes": 4537,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "dore-totley",
+      "ward_name": "Dore & Totley",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.sheffield.dore-totley.2024-05-02",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 51.26,
+        "Labour": 21.71,
+        "Conservative": 13.73,
+        "Green": 12.43,
+        "TUSC": 0.87
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "prior_total_votes": 6404,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "east-ecclesfield",
+      "ward_name": "East Ecclesfield",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.sheffield.east-ecclesfield.2024-05-02",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 42.77,
+        "Labour": 38.26,
+        "Conservative": 10.66,
+        "Green": 6.08,
+        "TUSC": 2.22
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "prior_total_votes": 4456,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "ecclesall",
+      "ward_name": "Ecclesall",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.sheffield.ecclesall.2024-05-02",
+      "prior_winning_party": "Green",
+      "prior_party_shares": {
+        "Green": 37.73,
+        "Liberal Democrat": 32.99,
+        "Labour": 22.96,
+        "Conservative": 5.43,
+        "TUSC": 0.89
+      },
+      "prior_party_seats_won": {
+        "Green": 1
+      },
+      "prior_total_votes": 8340,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "firth-park",
+      "ward_name": "Firth Park",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.sheffield.firth-park.2023-05-04",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 54.85,
+        "Green": 15.33,
+        "Conservative": 13.55,
+        "Liberal Democrat": 6.95,
+        "Social Democratic Party": 6.39,
+        "TUSC": 2.93
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2864,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "fulwood",
+      "ward_name": "Fulwood",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.sheffield.fulwood.2024-05-02",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 48.23,
+        "Labour": 26.3,
+        "Green": 15.93,
+        "Conservative": 8.27,
+        "TUSC": 1.27
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "prior_total_votes": 6121,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "gleadless-valley",
+      "ward_name": "Gleadless Valley",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.sheffield.gleadless-valley.2024-05-02",
+      "prior_winning_party": "Green",
+      "prior_party_shares": {
+        "Green": 52.16,
+        "Labour": 34.05,
+        "Conservative": 5.95,
+        "Liberal Democrat": 5.04,
+        "TUSC": 2.8
+      },
+      "prior_party_seats_won": {
+        "Green": 1
+      },
+      "prior_total_votes": 4720,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "graves-park",
+      "ward_name": "Graves Park",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.sheffield.graves-park.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 36.35,
+        "Liberal Democrat": 34.53,
+        "Green": 19.4,
+        "Conservative": 7.37,
+        "TUSC": 2.34
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 5375,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "hillsborough",
+      "ward_name": "Hillsborough",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.sheffield.hillsborough.2024-05-02",
+      "prior_winning_party": "Green",
+      "prior_party_shares": {
+        "Green": 51.35,
+        "Labour": 33.21,
+        "Conservative": 6.84,
+        "Liberal Democrat": 4.01,
+        "Heritage Party": 2.37,
+        "TUSC": 2.22
+      },
+      "prior_party_seats_won": {
+        "Green": 1
+      },
+      "prior_total_votes": 5309,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "manor-castle",
+      "ward_name": "Manor Castle",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.sheffield.manor-castle.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 57.61,
+        "Green": 18.47,
+        "Conservative": 9.43,
+        "Independent": 5.36,
+        "Liberal Democrat": 5.21,
+        "TUSC": 3.92
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3265,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "mosborough",
+      "ward_name": "Mosborough",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.sheffield.mosborough.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 48.61,
+        "Liberal Democrat": 36.38,
+        "Conservative": 10.75,
+        "Green": 3.58,
+        "TUSC": 0.67
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 4186,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "nether-edge-sharrow",
+      "ward_name": "Nether Edge & Sharrow",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.sheffield.nether-edge-sharrow.2024-05-02",
+      "prior_winning_party": "Green",
+      "prior_party_shares": {
+        "Green": 40.84,
+        "Labour": 39.11,
+        "Liberal Democrat": 7.69,
+        "Independent": 5.85,
+        "Conservative": 3.88,
+        "TUSC": 2.64
+      },
+      "prior_party_seats_won": {
+        "Green": 1
+      },
+      "prior_total_votes": 6518,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "park-arbourthorne",
+      "ward_name": "Park & Arbourthorne",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.sheffield.park-arbourthorne.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 50.84,
+        "Green": 15.37,
+        "Conservative": 14.77,
+        "Liberal Democrat": 8.64,
+        "Social Democratic Party": 5.54,
+        "TUSC": 4.84
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3161,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "richmond",
+      "ward_name": "Richmond",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.sheffield.richmond.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 53.7,
+        "Reform UK": 15.6,
+        "Conservative": 12.46,
+        "Green": 10.53,
+        "Liberal Democrat": 3.85,
+        "TUSC": 3.85
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3218,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "shiregreen-brightside",
+      "ward_name": "Shiregreen & Brightside",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.sheffield.shiregreen-brightside.2023-05-04",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 59.4,
+        "Conservative": 18.83,
+        "Green": 10.99,
+        "Liberal Democrat": 8.35,
+        "Communist Party of Britain": 2.42
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2729,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "stannington",
+      "ward_name": "Stannington",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.sheffield.stannington.2024-05-02",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 40.22,
+        "Labour": 32.62,
+        "Green": 14.21,
+        "Conservative": 10.7,
+        "TUSC": 2.26
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "prior_total_votes": 4871,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "stocksbridge-upper-don",
+      "ward_name": "Stocksbridge & Upper Don",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.sheffield.stocksbridge-upper-don.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 49.57,
+        "Conservative": 27.71,
+        "Green": 12.54,
+        "Liberal Democrat": 8.22,
+        "TUSC": 1.96
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 4840,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "walkley",
+      "ward_name": "Walkley",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.sheffield.walkley.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 50.2,
+        "Green": 32.07,
+        "Liberal Democrat": 5.8,
+        "Conservative": 5.33,
+        "TUSC": 2.99,
+        "Heritage Party": 2.38,
+        "Communist Party of Britain": 1.24
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 5556,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "west-ecclesfield",
+      "ward_name": "West Ecclesfield",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.sheffield.west-ecclesfield.2024-05-02",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 40.43,
+        "Labour": 38.53,
+        "Conservative": 11.31,
+        "Green": 7.01,
+        "TUSC": 2.72
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "prior_total_votes": 4111,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "woodhouse",
+      "ward_name": "Woodhouse",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.sheffield.woodhouse.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 57.83,
+        "Conservative": 14.47,
+        "Green": 9.94,
+        "Independent": 8.69,
+        "Liberal Democrat": 6.23,
+        "TUSC": 2.84
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3130,
+      "prior_winner_count": 1
+    }
+  ],
+  "n_wards_attempted": 26,
+  "n_wards_with_history": 26,
+  "n_wards_no_history": 0,
+  "prior_year_distribution": {
+    "2024": 24,
+    "2023": 2
+  }
+}

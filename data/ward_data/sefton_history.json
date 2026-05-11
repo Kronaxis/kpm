@@ -1,0 +1,419 @@
+{
+  "council_slug": "sefton",
+  "source": "https://candidates.democracyclub.org.uk/api/next/",
+  "fetched_at": "2026-05-11T03:19:05Z",
+  "wards": [
+    {
+      "ward_slug": "ainsdale",
+      "ward_name": "Ainsdale",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.sefton.ainsdale.2024-05-02",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 51.47,
+        "Labour": 31.04,
+        "Conservative": 13.71,
+        "Green": 3.77
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "prior_total_votes": 3843,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "birkdale",
+      "ward_name": "Birkdale",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.sefton.birkdale.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 41.61,
+        "Liberal Democrat": 39.34,
+        "Conservative": 14.18,
+        "Green": 4.87
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3449,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "blundellsands",
+      "ward_name": "Blundellsands",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.sefton.blundellsands.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 68.34,
+        "Conservative": 16.65,
+        "Independent": 8.2,
+        "Liberal Democrat": 6.81
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3291,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "cambridge",
+      "ward_name": "Cambridge",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.sefton.cambridge.2024-05-02",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 36.48,
+        "Conservative": 31.48,
+        "Labour": 25.64,
+        "Green": 6.41
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "prior_total_votes": 3183,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "dukes",
+      "ward_name": "Duke's",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.sefton.dukes.2024-05-02",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 41.72,
+        "Liberal Democrat": 29.26,
+        "Labour": 23.12,
+        "Green": 5.9
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 3305,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "ford",
+      "ward_name": "Ford",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.sefton.ford.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 80.93,
+        "Independent": 9.82,
+        "Conservative": 6.3,
+        "Liberal Democrat": 2.94
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1904,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "kew",
+      "ward_name": "Kew",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.sefton.kew.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 43.81,
+        "Liberal Democrat": 36.06,
+        "Conservative": 14.19,
+        "Green": 5.94
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3100,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "litherland",
+      "ward_name": "Litherland",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.sefton.litherland.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 73.97,
+        "Independent": 12.07,
+        "Green": 6.88,
+        "Conservative": 4.8,
+        "Liberal Democrat": 2.28
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2063,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "meols",
+      "ward_name": "Meols",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.sefton.meols.2024-05-02",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 46.3,
+        "Labour": 27.52,
+        "Conservative": 19.55,
+        "Green": 6.63
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "prior_total_votes": 3136,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "norwood",
+      "ward_name": "Norwood",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.sefton.norwood.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 55.34,
+        "Conservative": 17.16,
+        "Liberal Democrat": 16.11,
+        "Green": 11.39
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2687,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "church",
+      "ward_name": "Church",
+      "prior_year": 2024,
+      "prior_ballot_id": "wikipedia.sefton.church.2024-05-02",
+      "prior_winning_party": "Green",
+      "prior_party_shares": {
+        "Green": 50.25,
+        "Labour": 46.51,
+        "Conservative": 3.24
+      },
+      "prior_party_seats_won": {
+        "Green": 1
+      },
+      "prior_total_votes": 2810,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "derby",
+      "ward_name": "Derby",
+      "prior_year": 2024,
+      "prior_ballot_id": "wikipedia.sefton.derby.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 78.88,
+        "Reform UK": 6.09,
+        "Green": 5.69,
+        "Conservative": 4.54,
+        "TUSC": 2.75,
+        "Liberal Democrat": 2.05
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2003,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "harington",
+      "ward_name": "Harington",
+      "prior_year": 2024,
+      "prior_ballot_id": "wikipedia.sefton.harington.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 45.72,
+        "Conservative": 27.72,
+        "Formby Residents Action Group": 15.62,
+        "Green": 6.92,
+        "Liberal Democrat": 4.02
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3528,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "linacre",
+      "ward_name": "Linacre",
+      "prior_year": 2024,
+      "prior_ballot_id": "wikipedia.sefton.linacre.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 85.54,
+        "Liberal Democrat": 8.18,
+        "Conservative": 6.28
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1639,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "manor",
+      "ward_name": "Manor",
+      "prior_year": 2024,
+      "prior_ballot_id": "wikipedia.sefton.manor.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 62.85,
+        "Conservative": 18.16,
+        "Green": 10.86,
+        "Liberal Democrat": 8.14
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2864,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "molyneux",
+      "ward_name": "Molyneux",
+      "prior_year": 2024,
+      "prior_ballot_id": "wikipedia.sefton.molyneux.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 75.02,
+        "Conservative": 9.24,
+        "Green": 8.0,
+        "Liberal Democrat": 7.75
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2750,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "netherton-and-orrell",
+      "ward_name": "Netherton and Orrell",
+      "prior_year": 2024,
+      "prior_ballot_id": "wikipedia.sefton.netherton-and-orrell.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 77.88,
+        "Green": 6.04,
+        "Freedom Alliance": 5.71,
+        "Conservative": 5.38,
+        "Liberal Democrat": 2.62,
+        "TUSC": 2.38
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2102,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "park",
+      "ward_name": "Park",
+      "prior_year": 2024,
+      "prior_ballot_id": "wikipedia.sefton.park.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 58.06,
+        "Lydiate and Maghull Community Independents": 22.96,
+        "Conservative": 9.81,
+        "Green": 6.45,
+        "Liberal Democrat": 2.72
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2792,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "ravenmeols",
+      "ward_name": "Ravenmeols",
+      "prior_year": 2024,
+      "prior_ballot_id": "wikipedia.sefton.ravenmeols.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 56.8,
+        "Formby Residents Action Group": 23.93,
+        "Conservative": 9.91,
+        "Green": 6.49,
+        "Liberal Democrat": 2.87
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3097,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "st.-oswald",
+      "ward_name": "St. Oswald",
+      "prior_year": 2024,
+      "prior_ballot_id": "wikipedia.sefton.st.-oswald.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 78.59,
+        "TUSC": 7.86,
+        "Green": 7.36,
+        "Conservative": 6.19
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1616,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "sudell",
+      "ward_name": "Sudell",
+      "prior_year": 2024,
+      "prior_ballot_id": "wikipedia.sefton.sudell.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 58.93,
+        "Lydiate and Maghull Community Independents": 20.76,
+        "Conservative": 11.55,
+        "Green": 4.4,
+        "Liberal Democrat": 3.57,
+        "Independent": 0.79
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2910,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "victoria",
+      "ward_name": "Victoria",
+      "prior_year": 2024,
+      "prior_ballot_id": "wikipedia.sefton.victoria.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 68.74,
+        "Liberal Democrat": 13.02,
+        "Green": 10.95,
+        "Conservative": 7.29
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3471,
+      "prior_winner_count": 1
+    }
+  ],
+  "n_wards_attempted": 22,
+  "n_wards_with_history": 10,
+  "n_wards_no_history": 12,
+  "prior_year_distribution": {
+    "2024": 10
+  },
+  "merged_wikipedia_at": "2026-05-11T12:54:30Z",
+  "n_wikipedia_wards_added": 12
+}

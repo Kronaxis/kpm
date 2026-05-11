@@ -1,0 +1,463 @@
+{
+  "council_slug": "enfield",
+  "source": "https://candidates.democracyclub.org.uk/api/next/",
+  "fetched_at": "2026-05-11T13:16:22Z",
+  "wards": [
+    {
+      "ward_slug": "arnos-grove",
+      "ward_name": "Arnos Grove",
+      "prior_year": 2022,
+      "prior_ballot_id": "wikipedia.enfield.arnos-grove.2022-05-05",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 41.73,
+        "Labour": 31.62,
+        "Liberal Democrat": 16.27,
+        "Green": 10.39
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 1088,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "bowes",
+      "ward_name": "Bowes",
+      "prior_year": 2022,
+      "prior_ballot_id": "wikipedia.enfield.bowes.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 46.96,
+        "Conservative": 30.7,
+        "Green": 12.44,
+        "Liberal Democrat": 9.9
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1101,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "brimsdown",
+      "ward_name": "Brimsdown",
+      "prior_year": 2022,
+      "prior_ballot_id": "wikipedia.enfield.brimsdown.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 56.87,
+        "Conservative": 25.07,
+        "Green": 11.32,
+        "Liberal Democrat": 6.74
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1113,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "bullsmoor",
+      "ward_name": "Bullsmoor",
+      "prior_year": 2022,
+      "prior_ballot_id": "wikipedia.enfield.bullsmoor.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 52.27,
+        "Conservative": 30.4,
+        "Green": 9.6,
+        "Liberal Democrat": 7.73
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1125,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "bush-hill-park",
+      "ward_name": "Bush Hill Park",
+      "prior_year": 2022,
+      "prior_ballot_id": "wikipedia.enfield.bush-hill-park.2022-05-05",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 48.25,
+        "Labour": 29.15,
+        "Green": 12.38,
+        "Liberal Democrat": 10.22
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 1115,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "carterhatch",
+      "ward_name": "Carterhatch",
+      "prior_year": 2022,
+      "prior_ballot_id": "wikipedia.enfield.carterhatch.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 61.15,
+        "Conservative": 23.4,
+        "Green": 9.62,
+        "Liberal Democrat": 5.83
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1081,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "cockfosters",
+      "ward_name": "Cockfosters",
+      "prior_year": 2022,
+      "prior_ballot_id": "wikipedia.enfield.cockfosters.2022-05-05",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 56.24,
+        "Labour": 24.68,
+        "Green": 10.04,
+        "Liberal Democrat": 9.04
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 1106,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "edmonton-green",
+      "ward_name": "Edmonton Green",
+      "prior_year": 2022,
+      "prior_ballot_id": "wikipedia.enfield.edmonton-green.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 53.04,
+        "Independent": 25.21,
+        "Conservative": 12.14,
+        "Green": 9.61
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1186,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "enfield-lock",
+      "ward_name": "Enfield Lock",
+      "prior_year": 2022,
+      "prior_ballot_id": "wikipedia.enfield.enfield-lock.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 54.35,
+        "Conservative": 24.41,
+        "Green": 12.69,
+        "Liberal Democrat": 8.54
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1229,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "grange-park",
+      "ward_name": "Grange Park",
+      "prior_year": 2022,
+      "prior_ballot_id": "wikipedia.enfield.grange-park.2022-05-05",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 53.08,
+        "Labour": 24.18,
+        "Liberal Democrat": 11.59,
+        "Green": 11.14
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 1104,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "haselbury",
+      "ward_name": "Haselbury",
+      "prior_year": 2022,
+      "prior_ballot_id": "wikipedia.enfield.haselbury.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 54.96,
+        "Conservative": 20.23,
+        "Green": 15.63,
+        "Liberal Democrat": 9.19
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1241,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "highfield",
+      "ward_name": "Highfield",
+      "prior_year": 2022,
+      "prior_ballot_id": "wikipedia.enfield.highfield.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 41.02,
+        "Conservative": 36.45,
+        "Liberal Democrat": 12.84,
+        "Green": 9.69
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1114,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "jubilee",
+      "ward_name": "Jubilee",
+      "prior_year": 2022,
+      "prior_ballot_id": "wikipedia.enfield.jubilee.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 56.82,
+        "Conservative": 24.83,
+        "Green": 10.84,
+        "Independent": 7.52
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1144,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "lower-edmonton",
+      "ward_name": "Lower Edmonton",
+      "prior_year": 2022,
+      "prior_ballot_id": "wikipedia.enfield.lower-edmonton.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 62.18,
+        "Conservative": 18.21,
+        "Green": 11.35,
+        "Liberal Democrat": 8.27
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1137,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "new-southgate",
+      "ward_name": "New Southgate",
+      "prior_year": 2022,
+      "prior_ballot_id": "wikipedia.enfield.new-southgate.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 48.91,
+        "Conservative": 26.11,
+        "Green": 15.61,
+        "Liberal Democrat": 9.37
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1057,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "oakwood",
+      "ward_name": "Oakwood",
+      "prior_year": 2022,
+      "prior_ballot_id": "wikipedia.enfield.oakwood.2022-05-05",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 48.08,
+        "Labour": 30.35,
+        "Green": 11.15,
+        "Liberal Democrat": 10.42
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 1094,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "palmers-green",
+      "ward_name": "Palmers Green",
+      "prior_year": 2022,
+      "prior_ballot_id": "wikipedia.enfield.palmers-green.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 48.39,
+        "Conservative": 27.61,
+        "Liberal Democrat": 13.07,
+        "Green": 10.93
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1025,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "ponders-end",
+      "ward_name": "Ponders End",
+      "prior_year": 2022,
+      "prior_ballot_id": "wikipedia.enfield.ponders-end.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 54.63,
+        "Conservative": 26.04,
+        "Green": 9.8,
+        "Liberal Democrat": 9.53
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1102,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "ridgeway",
+      "ward_name": "Ridgeway",
+      "prior_year": 2022,
+      "prior_ballot_id": "wikipedia.enfield.ridgeway.2022-05-05",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 52.46,
+        "Labour": 21.87,
+        "Green": 14.09,
+        "Liberal Democrat": 11.58
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 1157,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "southbury",
+      "ward_name": "Southbury",
+      "prior_year": 2022,
+      "prior_ballot_id": "wikipedia.enfield.southbury.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 45.52,
+        "Conservative": 32.49,
+        "Green": 13.76,
+        "Liberal Democrat": 8.24
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1105,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "southgate",
+      "ward_name": "Southgate",
+      "prior_year": 2022,
+      "prior_ballot_id": "wikipedia.enfield.southgate.2022-05-05",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 39.16,
+        "Labour": 27.87,
+        "Green": 25.96,
+        "Liberal Democrat": 7.01
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 1098,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "town",
+      "ward_name": "Town",
+      "prior_year": 2022,
+      "prior_ballot_id": "wikipedia.enfield.town.2022-05-05",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 41.53,
+        "Labour": 30.68,
+        "Green": 17.63,
+        "Liberal Democrat": 10.17
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 1180,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "upper-edmonton",
+      "ward_name": "Upper Edmonton",
+      "prior_year": 2022,
+      "prior_ballot_id": "wikipedia.enfield.upper-edmonton.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 66.79,
+        "Conservative": 16.92,
+        "Green": 9.63,
+        "Liberal Democrat": 6.66
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1111,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "whitewebbs",
+      "ward_name": "Whitewebbs",
+      "prior_year": 2022,
+      "prior_ballot_id": "wikipedia.enfield.whitewebbs.2022-05-05",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 39.41,
+        "Labour": 27.17,
+        "Liberal Democrat": 21.89,
+        "Green": 11.53
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 1119,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "winchmore-hill",
+      "ward_name": "Winchmore Hill",
+      "prior_year": 2022,
+      "prior_ballot_id": "wikipedia.enfield.winchmore-hill.2022-05-05",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 49.37,
+        "Labour": 25.9,
+        "Liberal Democrat": 12.55,
+        "Green": 12.18
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 1108,
+      "prior_winner_count": 1
+    }
+  ],
+  "n_wards_attempted": 11,
+  "n_wards_with_history": 25,
+  "n_wards_no_history": 11,
+  "prior_year_distribution": {},
+  "merged_wikipedia_at": "2026-05-11T13:44:22Z",
+  "n_wikipedia_wards_added": 25
+}

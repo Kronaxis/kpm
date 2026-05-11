@@ -1,0 +1,10 @@
+{
+  "council_slug": "basildon",
+  "source": "https://candidates.democracyclub.org.uk/api/next/",
+  "fetched_at": "2026-05-11T13:18:38Z",
+  "wards": [],
+  "n_wards_attempted": 0,
+  "n_wards_with_history": 0,
+  "n_wards_no_history": 0,
+  "prior_year_distribution": {}
+}

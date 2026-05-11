@@ -1,0 +1,227 @@
+{
+  "council_slug": "barking-and-dagenham",
+  "source": "https://candidates.democracyclub.org.uk/api/next/",
+  "fetched_at": "2026-05-11T01:18:43Z",
+  "wards": [
+    {
+      "ward_slug": "abbey",
+      "ward_name": "Abbey",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.barking-and-dagenham.abbey.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 71.23,
+        "Green": 20.72,
+        "Conservative": 8.05
+      },
+      "prior_party_seats_won": {
+        "Labour": 2
+      },
+      "prior_total_votes": 1366,
+      "prior_winner_count": 2
+    },
+    {
+      "ward_slug": "beam",
+      "ward_name": "Beam",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.barking-and-dagenham.beam.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 66.93,
+        "Conservative": 33.07
+      },
+      "prior_party_seats_won": {
+        "Labour": 3
+      },
+      "prior_total_votes": 3859,
+      "prior_winner_count": 3
+    },
+    {
+      "ward_slug": "becontree",
+      "ward_name": "Becontree",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.barking-and-dagenham.becontree.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 86.41,
+        "Conservative": 13.59
+      },
+      "prior_party_seats_won": {
+        "Labour": 2
+      },
+      "prior_total_votes": 2457,
+      "prior_winner_count": 2
+    },
+    {
+      "ward_slug": "eastbrook-rush-green",
+      "ward_name": "Eastbrook & Rush Green",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.barking-and-dagenham.eastbrook-rush-green.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 52.52,
+        "Conservative": 35.0,
+        "Independent": 12.48
+      },
+      "prior_party_seats_won": {
+        "Labour": 2
+      },
+      "prior_total_votes": 3189,
+      "prior_winner_count": 2
+    },
+    {
+      "ward_slug": "eastbury",
+      "ward_name": "Eastbury",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.barking-and-dagenham.eastbury.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 74.29,
+        "Conservative": 25.71
+      },
+      "prior_party_seats_won": {
+        "Labour": 3
+      },
+      "prior_total_votes": 5648,
+      "prior_winner_count": 3
+    },
+    {
+      "ward_slug": "heath",
+      "ward_name": "Heath",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.barking-and-dagenham.heath.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 73.57,
+        "Conservative": 26.43
+      },
+      "prior_party_seats_won": {
+        "Labour": 2
+      },
+      "prior_total_votes": 2558,
+      "prior_winner_count": 2
+    },
+    {
+      "ward_slug": "longbridge",
+      "ward_name": "Longbridge",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.barking-and-dagenham.longbridge.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 79.61,
+        "Conservative": 15.39,
+        "Liberal Democrat": 4.99
+      },
+      "prior_party_seats_won": {
+        "Labour": 3
+      },
+      "prior_total_votes": 7471,
+      "prior_winner_count": 3
+    },
+    {
+      "ward_slug": "mayesbrook",
+      "ward_name": "Mayesbrook",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.barking-and-dagenham.mayesbrook.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 77.18,
+        "Conservative": 22.82
+      },
+      "prior_party_seats_won": {
+        "Labour": 3
+      },
+      "prior_total_votes": 4926,
+      "prior_winner_count": 3
+    },
+    {
+      "ward_slug": "northbury",
+      "ward_name": "Northbury",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.barking-and-dagenham.northbury.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 79.34,
+        "Conservative": 6.76,
+        "Green": 13.91
+      },
+      "prior_party_seats_won": {
+        "Labour": 3
+      },
+      "prior_total_votes": 5372,
+      "prior_winner_count": 3
+    },
+    {
+      "ward_slug": "thames-view",
+      "ward_name": "Thames View",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.barking-and-dagenham.thames-view.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 75.67,
+        "Conservative": 14.92,
+        "Christian Peoples Alliance": 5.16,
+        "TUSC": 4.25
+      },
+      "prior_party_seats_won": {
+        "Labour": 2
+      },
+      "prior_total_votes": 1763,
+      "prior_winner_count": 2
+    },
+    {
+      "ward_slug": "valence",
+      "ward_name": "Valence",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.barking-and-dagenham.valence.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 88.24,
+        "Conservative": 11.76
+      },
+      "prior_party_seats_won": {
+        "Labour": 3
+      },
+      "prior_total_votes": 4845,
+      "prior_winner_count": 3
+    },
+    {
+      "ward_slug": "village",
+      "ward_name": "Village",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.barking-and-dagenham.village.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 84.75,
+        "Conservative": 15.25
+      },
+      "prior_party_seats_won": {
+        "Labour": 3
+      },
+      "prior_total_votes": 5914,
+      "prior_winner_count": 3
+    },
+    {
+      "ward_slug": "whalebone",
+      "ward_name": "Whalebone",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.barking-and-dagenham.whalebone.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 87.19,
+        "Conservative": 12.81
+      },
+      "prior_party_seats_won": {
+        "Labour": 3
+      },
+      "prior_total_votes": 5535,
+      "prior_winner_count": 3
+    }
+  ],
+  "n_wards_attempted": 14,
+  "n_wards_with_history": 13,
+  "n_wards_no_history": 1,
+  "prior_year_distribution": {
+    "2022": 13
+  }
+}

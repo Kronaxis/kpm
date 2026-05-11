@@ -1,0 +1,365 @@
+{
+  "council_slug": "rochdale",
+  "source": "https://candidates.democracyclub.org.uk/api/next/",
+  "fetched_at": "2026-05-10T23:02:36Z",
+  "wards": [
+    {
+      "ward_slug": "balderstone-kirkholt",
+      "ward_name": "Balderstone & Kirkholt",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.rochdale.balderstone-kirkholt.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 52.95,
+        "Workers Party of Britain": 19.26,
+        "Conservative": 14.53,
+        "Green": 7.31,
+        "Liberal Democrat": 5.95
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2051,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "bamford",
+      "ward_name": "Bamford",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.rochdale.bamford.2024-05-02",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 42.05,
+        "Labour": 25.64,
+        "Workers Party of Britain": 23.95,
+        "Green": 5.49,
+        "Liberal Democrat": 2.87
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 3315,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "castleton",
+      "ward_name": "Castleton",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.rochdale.castleton.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 34.75,
+        "Independent": 21.99,
+        "Conservative": 15.96,
+        "Workers Party of Britain": 15.11,
+        "Green": 7.07,
+        "Liberal Democrat": 5.1
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2587,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "central-rochdale",
+      "ward_name": "Central Rochdale",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.rochdale.central-rochdale.2023-05-04",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 72.91,
+        "Liberal Democrat": 17.62,
+        "Conservative": 9.47
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3411,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "east-middleton",
+      "ward_name": "East Middleton",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.rochdale.east-middleton.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 67.93,
+        "Middleton Independents Party": 24.4,
+        "Conservative": 6.3,
+        "Liberal Democrat": 1.38
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2906,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "healey",
+      "ward_name": "Healey",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.rochdale.healey.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 37.73,
+        "Conservative": 21.47,
+        "Workers Party of Britain": 20.54,
+        "Liberal Democrat": 16.92,
+        "Green": 3.34
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2878,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "hopwood-hall",
+      "ward_name": "Hopwood Hall",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.rochdale.hopwood-hall.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 50.06,
+        "Reform UK": 15.59,
+        "Conservative": 14.2,
+        "Middleton Independents Party": 12.39,
+        "Liberal Democrat": 7.76
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2437,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "kingsway",
+      "ward_name": "Kingsway",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.rochdale.kingsway.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 41.63,
+        "Workers Party of Britain": 28.21,
+        "Liberal Democrat": 11.23,
+        "Conservative": 10.33,
+        "Green": 8.59
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2875,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "littleborough-lakeside",
+      "ward_name": "Littleborough Lakeside",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.rochdale.littleborough-lakeside.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 54.87,
+        "Conservative": 36.15,
+        "Green": 6.95,
+        "Liberal Democrat": 1.38,
+        "Workers Party of Britain": 0.65
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2617,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "milkstone-deeplish",
+      "ward_name": "Milkstone & Deeplish",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.rochdale.milkstone-deeplish.2023-05-04",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 80.02,
+        "Liberal Democrat": 9.78,
+        "Conservative": 6.24,
+        "Green": 3.96
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2372,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "norden",
+      "ward_name": "Norden",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.rochdale.norden.2024-05-02",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 48.53,
+        "Labour": 32.44,
+        "Liberal Democrat": 7.81,
+        "Green": 6.3,
+        "Workers Party of Britain": 4.93
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 2984,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "north-heywood",
+      "ward_name": "North Heywood",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.rochdale.north-heywood.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 53.19,
+        "Reform UK": 21.51,
+        "Conservative": 16.08,
+        "Liberal Democrat": 5.75,
+        "Workers Party of Britain": 3.48
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1897,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "north-middleton",
+      "ward_name": "North Middleton",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.rochdale.north-middleton.2023-05-04",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 50.0,
+        "Middleton Independents Party": 40.78,
+        "Conservative": 9.22
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2472,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "smallbridge-firgrove",
+      "ward_name": "Smallbridge & Firgrove",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.rochdale.smallbridge-firgrove.2023-05-04",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 51.24,
+        "Liberal Democrat": 26.93,
+        "Conservative": 13.07,
+        "For Future's Sake - Freedom Alliance": 8.76
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2250,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "south-middleton",
+      "ward_name": "South Middleton",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.rochdale.south-middleton.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 50.99,
+        "Middleton Independents Party": 33.43,
+        "Conservative": 12.63,
+        "Liberal Democrat": 2.95
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3081,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "spotland-falinge",
+      "ward_name": "Spotland & Falinge",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.rochdale.spotland-falinge.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 42.57,
+        "Liberal Democrat": 27.86,
+        "Independent": 22.74,
+        "Conservative": 6.83
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3047,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "wardle-shore-west-littleborough",
+      "ward_name": "Wardle, Shore & West Littleborough",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.rochdale.wardle-shore-west-littleborough.2024-05-02",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 60.29,
+        "Labour": 17.59,
+        "Liberal Democrat": 12.61,
+        "Green": 7.56,
+        "Workers Party of Britain": 1.95
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 2513,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "west-heywood",
+      "ward_name": "West Heywood",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.rochdale.west-heywood.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 52.99,
+        "Conservative": 24.04,
+        "Liberal Democrat": 18.99,
+        "Workers Party of Britain": 3.97
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2038,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "west-middleton",
+      "ward_name": "West Middleton",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.rochdale.west-middleton.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 50.34,
+        "Middleton Independents Party": 37.71,
+        "Conservative": 7.57,
+        "Liberal Democrat": 4.38
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2034,
+      "prior_winner_count": 1
+    }
+  ],
+  "n_wards_attempted": 19,
+  "n_wards_with_history": 19,
+  "n_wards_no_history": 0,
+  "prior_year_distribution": {
+    "2024": 15,
+    "2023": 4
+  }
+}

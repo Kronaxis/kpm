@@ -1,0 +1,181 @@
+{
+  "council_slug": "kirklees",
+  "source": "https://candidates.democracyclub.org.uk/api/next/",
+  "fetched_at": "2026-05-11T03:16:55Z",
+  "wards": [
+    {
+      "ward_slug": "almondbury",
+      "ward_name": "Almondbury",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.kirklees.almondbury.2024-05-02",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 40.49,
+        "Labour": 23.86,
+        "Conservative": 23.18,
+        "Green": 12.48
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "prior_total_votes": 4120,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "ashbrow",
+      "ward_name": "Ashbrow",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.kirklees.ashbrow.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 47.83,
+        "Conservative": 19.5,
+        "Green": 15.63,
+        "Liberal Democrat": 13.06,
+        "TUSC": 3.98
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 4119,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "batley-east",
+      "ward_name": "Batley East",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.kirklees.batley-east.2024-05-02",
+      "prior_winning_party": "Independent",
+      "prior_party_shares": {
+        "Independent": 67.68,
+        "Labour": 15.9,
+        "Conservative": 7.27,
+        "Green": 6.44,
+        "Liberal Democrat": 2.7
+      },
+      "prior_party_seats_won": {
+        "Independent": 1
+      },
+      "prior_total_votes": 5666,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "batley-west",
+      "ward_name": "Batley West",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.kirklees.batley-west.2024-05-02",
+      "prior_winning_party": "Independent",
+      "prior_party_shares": {
+        "Independent": 51.98,
+        "Labour": 19.11,
+        "Liberal Democrat": 10.43,
+        "Conservative": 10.01,
+        "Green": 8.47
+      },
+      "prior_party_seats_won": {
+        "Independent": 1
+      },
+      "prior_total_votes": 5185,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "cleckheaton",
+      "ward_name": "Cleckheaton",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.kirklees.cleckheaton.2024-05-02",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 63.68,
+        "Conservative": 16.83,
+        "Labour": 14.3,
+        "Green": 5.19
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "prior_total_votes": 4433,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "dalton",
+      "ward_name": "Dalton",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.kirklees.dalton.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 44.3,
+        "Conservative": 21.82,
+        "Green": 16.89,
+        "Liberal Democrat": 9.86,
+        "Independent": 7.13
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3368,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "dewsbury-east",
+      "ward_name": "Dewsbury East",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.kirklees.dewsbury-east.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 40.66,
+        "Liberal Democrat": 22.77,
+        "Conservative": 20.09,
+        "Green": 16.49
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3773,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "dewsbury-south",
+      "ward_name": "Dewsbury South",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.kirklees.dewsbury-south.2024-05-02",
+      "prior_winning_party": "Independent",
+      "prior_party_shares": {
+        "Independent": 68.02,
+        "Labour": 19.24,
+        "Conservative": 8.24,
+        "Green": 2.81,
+        "Liberal Democrat": 1.7
+      },
+      "prior_party_seats_won": {
+        "Independent": 1
+      },
+      "prior_total_votes": 5525,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "dewsbury-west",
+      "ward_name": "Dewsbury West",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.kirklees.dewsbury-west.2024-05-02",
+      "prior_winning_party": "Independent",
+      "prior_party_shares": {
+        "Independent": 53.22,
+        "Labour": 23.79,
+        "Conservative": 14.64,
+        "Green": 5.43,
+        "Liberal Democrat": 2.93
+      },
+      "prior_party_seats_won": {
+        "Independent": 1
+      },
+      "prior_total_votes": 5842,
+      "prior_winner_count": 1
+    }
+  ],
+  "n_wards_attempted": 13,
+  "n_wards_with_history": 9,
+  "n_wards_no_history": 4,
+  "prior_year_distribution": {
+    "2024": 9
+  }
+}

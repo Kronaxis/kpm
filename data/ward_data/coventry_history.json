@@ -1,0 +1,131 @@
+{
+  "council_slug": "coventry",
+  "source": "https://candidates.democracyclub.org.uk/api/next/",
+  "fetched_at": "2026-05-11T13:10:50Z",
+  "wards": [
+    {
+      "ward_slug": "bablake",
+      "ward_name": "Bablake",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.coventry.bablake.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 38.34,
+        "Conservative": 36.34,
+        "Britain First": 9.01,
+        "Green": 6.94,
+        "Coventry Citizens Party": 4.61,
+        "Liberal Democrat": 3.73,
+        "TUSC": 1.02
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 4205,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "cheylesmore",
+      "ward_name": "Cheylesmore",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.coventry.cheylesmore.2022-05-05",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 47.0,
+        "Labour": 38.81,
+        "Green": 5.65,
+        "Liberal Democrat": 4.91,
+        "Coventry Citizens Party": 2.09,
+        "TUSC": 1.55
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 3932,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "earlsdon",
+      "ward_name": "Earlsdon",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.coventry.earlsdon.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 52.69,
+        "Conservative": 32.6,
+        "Liberal Democrat": 12.0,
+        "TUSC": 2.72
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 5102,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "foleshill",
+      "ward_name": "Foleshill",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.coventry.foleshill.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 46.86,
+        "Independent": 37.86,
+        "Conservative": 8.23,
+        "Coventry Citizens Party": 4.16,
+        "Liberal Democrat": 2.89
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 4326,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "longford",
+      "ward_name": "Longford",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.coventry.longford.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 60.91,
+        "Conservative": 19.82,
+        "Green": 9.07,
+        "Liberal Democrat": 5.56,
+        "Coventry Citizens Party": 4.64
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3254,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "lower-stoke",
+      "ward_name": "Lower Stoke",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.coventry.lower-stoke.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 61.53,
+        "Conservative": 18.66,
+        "Green": 8.21,
+        "Coventry Citizens Party": 4.71,
+        "Liberal Democrat": 4.05,
+        "TUSC": 2.85
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 4351,
+      "prior_winner_count": 1
+    }
+  ],
+  "n_wards_attempted": 17,
+  "n_wards_with_history": 6,
+  "n_wards_no_history": 11,
+  "prior_year_distribution": {
+    "2024": 4,
+    "2022": 2
+  }
+}

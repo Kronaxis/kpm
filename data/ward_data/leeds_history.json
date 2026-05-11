@@ -1,0 +1,660 @@
+{
+  "council_slug": "leeds",
+  "source": "https://candidates.democracyclub.org.uk/api/next/",
+  "fetched_at": "2026-05-10T22:04:24Z",
+  "wards": [
+    {
+      "ward_slug": "adel-wharfedale",
+      "ward_name": "Adel & Wharfedale",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.leeds.adel-wharfedale.2024-05-02",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 44.21,
+        "Labour": 34.61,
+        "Liberal Democrat": 11.32,
+        "Green": 6.79,
+        "Yorkshire Party": 3.08
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 7406,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "alwoodley",
+      "ward_name": "Alwoodley",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.leeds.alwoodley.2024-05-02",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 48.88,
+        "Labour": 34.15,
+        "Green": 7.5,
+        "Liberal Democrat": 6.94,
+        "Yorkshire Party": 2.54
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 6935,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "ardsley-robin-hood",
+      "ward_name": "Ardsley & Robin Hood",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.leeds.ardsley-robin-hood.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 41.37,
+        "Conservative": 26.87,
+        "Liberal Democrat": 16.75,
+        "Yorkshire Party": 8.29,
+        "Green": 4.82,
+        "Social Democratic Party": 1.88
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 5414,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "armley",
+      "ward_name": "Armley",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.leeds.armley.2024-05-02",
+      "prior_winning_party": "Green",
+      "prior_party_shares": {
+        "Green": 43.78,
+        "Labour": 42.29,
+        "Conservative": 6.65,
+        "Yorkshire Party": 4.25,
+        "Liberal Democrat": 2.18,
+        "Social Democratic Party": 0.85
+      },
+      "prior_party_seats_won": {
+        "Green": 1
+      },
+      "prior_total_votes": 4826,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "beeston-holbeck",
+      "ward_name": "Beeston & Holbeck",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.leeds.beeston-holbeck.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 52.96,
+        "Green": 22.83,
+        "Conservative": 11.96,
+        "Social Democratic Party": 5.16,
+        "Liberal Democrat": 4.73,
+        "TUSC": 2.36
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 4783,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "bramley-stanningley",
+      "ward_name": "Bramley & Stanningley",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.leeds.bramley-stanningley.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 60.84,
+        "Conservative": 14.37,
+        "Green": 11.85,
+        "Liberal Democrat": 11.08,
+        "Social Democratic Party": 1.86
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 4397,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "burmantofts-richmond-hill",
+      "ward_name": "Burmantofts & Richmond Hill",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.leeds.burmantofts-richmond-hill.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 65.52,
+        "Green": 8.64,
+        "Yorkshire Party": 7.83,
+        "Conservative": 7.81,
+        "Liberal Democrat": 7.55,
+        "TUSC": 1.93,
+        "Social Democratic Party": 0.71
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 4200,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "calverley-farsley",
+      "ward_name": "Calverley & Farsley",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.leeds.calverley-farsley.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 46.28,
+        "Conservative": 41.91,
+        "Green": 8.73,
+        "Liberal Democrat": 3.08
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 7593,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "chapel-allerton",
+      "ward_name": "Chapel Allerton",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.leeds.chapel-allerton.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 62.57,
+        "Green": 21.04,
+        "Conservative": 6.18,
+        "Alliance For Green Socialism": 3.36,
+        "Yorkshire Party": 3.2,
+        "Liberal Democrat": 2.51,
+        "Social Democratic Party": 1.13
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 6615,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "cross-gates-whinmoor",
+      "ward_name": "Cross Gates & Whinmoor",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.leeds.cross-gates-whinmoor.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 53.17,
+        "Conservative": 21.6,
+        "Reform UK": 8.56,
+        "Yorkshire Party": 5.83,
+        "Green": 5.49,
+        "Liberal Democrat": 5.35
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 5388,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "farnley-wortley",
+      "ward_name": "Farnley & Wortley",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.leeds.farnley-wortley.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 45.75,
+        "Green": 35.35,
+        "Conservative": 12.62,
+        "Liberal Democrat": 4.71,
+        "Social Democratic Party": 1.56
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 4857,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "garforth-swillington",
+      "ward_name": "Garforth & Swillington",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.leeds.garforth-swillington.2024-05-02",
+      "prior_winning_party": "Garforth and Swillington Independents Party",
+      "prior_party_shares": {
+        "Garforth and Swillington Independents Party": 54.32,
+        "Labour": 19.15,
+        "Conservative": 12.18,
+        "Reform UK": 5.26,
+        "Green": 4.17,
+        "Liberal Democrat": 3.27,
+        "Independent": 1.64
+      },
+      "prior_party_seats_won": {
+        "Garforth and Swillington Independents Party": 1
+      },
+      "prior_total_votes": 6386,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "gipton-harehills",
+      "ward_name": "Gipton & Harehills",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.leeds.gipton-harehills.2024-05-02",
+      "prior_winning_party": "Green",
+      "prior_party_shares": {
+        "Green": 51.56,
+        "Labour": 39.02,
+        "Conservative": 4.79,
+        "Liberal Democrat": 2.62,
+        "TUSC": 2.02
+      },
+      "prior_party_seats_won": {
+        "Green": 1
+      },
+      "prior_total_votes": 5954,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "guiseley-rawdon",
+      "ward_name": "Guiseley & Rawdon",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.leeds.guiseley-rawdon.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 46.58,
+        "Conservative": 35.96,
+        "Yorkshire Party": 8.69,
+        "Green": 4.69,
+        "Liberal Democrat": 4.08
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 7737,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "harewood",
+      "ward_name": "Harewood",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.leeds.harewood.2024-05-02",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 58.82,
+        "Labour": 25.35,
+        "Green": 10.97,
+        "Liberal Democrat": 4.86
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 6153,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "headingley-hyde-park",
+      "ward_name": "Headingley & Hyde Park",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.leeds.headingley-hyde-park.2024-05-02",
+      "prior_winning_party": "Green",
+      "prior_party_shares": {
+        "Green": 52.08,
+        "Labour": 41.73,
+        "Conservative": 2.34,
+        "TUSC": 1.39,
+        "Liberal Democrat": 1.39,
+        "Independent": 1.07
+      },
+      "prior_party_seats_won": {
+        "Green": 1
+      },
+      "prior_total_votes": 5123,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "horsforth",
+      "ward_name": "Horsforth",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.leeds.horsforth.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 56.65,
+        "Conservative": 25.45,
+        "Green": 7.29,
+        "Yorkshire Party": 5.34,
+        "Liberal Democrat": 4.74,
+        "Social Democratic Party": 0.53
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 7746,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "hunslet-riverside",
+      "ward_name": "Hunslet & Riverside",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.leeds.hunslet-riverside.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 46.19,
+        "Green": 41.99,
+        "Conservative": 5.02,
+        "Liberal Democrat": 3.76,
+        "Social Democratic Party": 2.17,
+        "TUSC": 0.87
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 4923,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "killingbeck-seacroft",
+      "ward_name": "Killingbeck & Seacroft",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.leeds.killingbeck-seacroft.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 61.28,
+        "Conservative": 11.55,
+        "Reform UK": 10.45,
+        "Green": 9.78,
+        "Liberal Democrat": 4.4,
+        "Social Democratic Party": 2.55
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 4163,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "kippax-methley",
+      "ward_name": "Kippax & Methley",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.leeds.kippax-methley.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 65.06,
+        "Conservative": 19.45,
+        "Green": 8.18,
+        "Liberal Democrat": 7.31
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 5487,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "kirkstall",
+      "ward_name": "Kirkstall",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.leeds.kirkstall.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 62.3,
+        "Green": 20.53,
+        "Conservative": 5.8,
+        "Liberal Democrat": 5.2,
+        "Independent": 3.68,
+        "TUSC": 2.49
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 5539,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "little-london-woodhouse",
+      "ward_name": "Little London & Woodhouse",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.leeds.little-london-woodhouse.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 59.81,
+        "Green": 22.03,
+        "Conservative": 8.1,
+        "Liberal Democrat": 7.09,
+        "TUSC": 2.97
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3668,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "middleton-park",
+      "ward_name": "Middleton Park",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.leeds.middleton-park.2024-05-02",
+      "prior_winning_party": "Social Democratic Party",
+      "prior_party_shares": {
+        "Social Democratic Party": 42.84,
+        "Labour": 37.29,
+        "Green": 9.15,
+        "Conservative": 7.56,
+        "Liberal Democrat": 3.16
+      },
+      "prior_party_seats_won": {
+        "Social Democratic Party": 1
+      },
+      "prior_total_votes": 4393,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "moortown",
+      "ward_name": "Moortown",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.leeds.moortown.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 53.46,
+        "Green": 18.03,
+        "Conservative": 13.78,
+        "Liberal Democrat": 9.42,
+        "Yorkshire Party": 4.78,
+        "Social Democratic Party": 0.54
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 7200,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "morley-north",
+      "ward_name": "Morley North",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.leeds.morley-north.2024-05-02",
+      "prior_winning_party": "Morley Borough Independents",
+      "prior_party_shares": {
+        "Morley Borough Independents": 37.83,
+        "Labour": 24.96,
+        "Independent": 16.29,
+        "Conservative": 12.73,
+        "Green": 4.65,
+        "Liberal Democrat": 3.22,
+        "Social Democratic Party": 0.31
+      },
+      "prior_party_seats_won": {
+        "Morley Borough Independents": 1
+      },
+      "prior_total_votes": 6125,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "morley-south",
+      "ward_name": "Morley South",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.leeds.morley-south.2024-05-02",
+      "prior_winning_party": "Morley Borough Independents",
+      "prior_party_shares": {
+        "Morley Borough Independents": 38.12,
+        "Labour": 31.31,
+        "Conservative": 9.61,
+        "Green": 8.94,
+        "Reform UK": 6.99,
+        "Independent": 3.3,
+        "Liberal Democrat": 1.6,
+        "Social Democratic Party": 0.14
+      },
+      "prior_party_seats_won": {
+        "Morley Borough Independents": 1
+      },
+      "prior_total_votes": 5826,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "otley-yeadon",
+      "ward_name": "Otley & Yeadon",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.leeds.otley-yeadon.2024-05-02",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 46.89,
+        "Labour": 26.11,
+        "Green": 15.01,
+        "Conservative": 6.66,
+        "Yorkshire Party": 5.32
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "prior_total_votes": 7368,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "pudsey",
+      "ward_name": "Pudsey",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.leeds.pudsey.2024-05-02",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 45.04,
+        "Labour": 40.04,
+        "Green": 5.86,
+        "Reform UK": 5.8,
+        "Liberal Democrat": 3.25
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 7435,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "rothwell",
+      "ward_name": "Rothwell",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.leeds.rothwell.2024-05-02",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 62.13,
+        "Labour": 21.99,
+        "Conservative": 5.97,
+        "Yorkshire Party": 5.77,
+        "Green": 3.39,
+        "Social Democratic Party": 0.75
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "prior_total_votes": 5698,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "roundhay",
+      "ward_name": "Roundhay",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.leeds.roundhay.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 55.36,
+        "Green": 26.66,
+        "Conservative": 11.51,
+        "Liberal Democrat": 4.66,
+        "Social Democratic Party": 1.81
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 7298,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "temple-newsam",
+      "ward_name": "Temple Newsam",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.leeds.temple-newsam.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 52.36,
+        "Conservative": 23.47,
+        "Reform UK": 10.3,
+        "Green": 7.19,
+        "Liberal Democrat": 6.05,
+        "Social Democratic Party": 0.63
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 5271,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "weetwood",
+      "ward_name": "Weetwood",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.leeds.weetwood.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 49.6,
+        "Liberal Democrat": 32.62,
+        "Green": 11.27,
+        "Conservative": 5.51,
+        "Social Democratic Party": 1.0
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 6728,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "wetherby",
+      "ward_name": "Wetherby",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.leeds.wetherby.2024-05-02",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 49.17,
+        "Green": 37.53,
+        "Labour": 9.71,
+        "Liberal Democrat": 3.02,
+        "Social Democratic Party": 0.57
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 7580,
+      "prior_winner_count": 1
+    }
+  ],
+  "n_wards_attempted": 33,
+  "n_wards_with_history": 33,
+  "n_wards_no_history": 0,
+  "prior_year_distribution": {
+    "2024": 33
+  }
+}

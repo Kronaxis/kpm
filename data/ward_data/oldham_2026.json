@@ -1,0 +1,1475 @@
+{
+  "council_slug": "oldham",
+  "election_date": "2026-05-07",
+  "source": "https://candidates.democracyclub.org.uk/api/next/",
+  "fetched_at": "2026-05-10T23:08:49Z",
+  "wards": [
+    {
+      "ward_slug": "alexandra",
+      "ward_name": "Alexandra",
+      "ballot_id": "local.oldham.alexandra.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "The Oldham Group Party",
+          "name": "Shabir Hussain",
+          "votes": 1552
+        }
+      ],
+      "candidates": [
+        {
+          "party": "The Oldham Group Party",
+          "name": "Shabir Hussain",
+          "votes": 1552,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Shaid Mushtaq",
+          "votes": 989,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Susan Brown",
+          "votes": 689,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Andrea Chaverra Valencia",
+          "votes": 228,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Martin Alexander Dinoff",
+          "votes": 85,
+          "elected": false
+        },
+        {
+          "party": "Independent",
+          "name": "Carol Hardie",
+          "votes": 46,
+          "elected": false
+        },
+        {
+          "party": "Northern Heart",
+          "name": "Anne Taylor",
+          "votes": 29,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "The Oldham Group Party": 42.9,
+        "Labour": 27.34,
+        "Reform UK": 19.04,
+        "Green": 6.3,
+        "Liberal Democrat": 2.35,
+        "Independent": 1.27,
+        "Northern Heart": 0.8
+      },
+      "party_seats_won": {
+        "The Oldham Group Party": 1
+      },
+      "winning_party": "The Oldham Group Party",
+      "total_votes": 3618,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:08:51Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000719",
+        "qual_l4_pct": 19.17,
+        "no_qual_pct": 33.58,
+        "muslim_pct": 42.29,
+        "no_religion_pct": 20.11,
+        "age_under_35_pct": 54.35,
+        "age_65_plus_pct": 10.66,
+        "social_rented_pct": 85.77,
+        "white_british_pct": 39.08
+      }
+    },
+    {
+      "ward_slug": "chadderton-central",
+      "ward_name": "Chadderton Central",
+      "ballot_id": "local.oldham.chadderton-central.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Labour",
+          "name": "Nazrul Islam",
+          "votes": 1215
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Labour",
+          "name": "Nazrul Islam",
+          "votes": 1215,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Alexander David William Lomas",
+          "votes": 1015,
+          "elected": false
+        },
+        {
+          "party": "Independent",
+          "name": "Mohammed Razon",
+          "votes": 892,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Suleman Hussain",
+          "votes": 456,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Katie Helen Gloster",
+          "votes": 149,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Iryna Kantorova",
+          "votes": 88,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Labour": 31.85,
+        "Reform UK": 26.61,
+        "Independent": 23.38,
+        "Green": 11.95,
+        "Liberal Democrat": 3.91,
+        "Conservative": 2.31
+      },
+      "party_seats_won": {
+        "Labour": 1
+      },
+      "winning_party": "Labour",
+      "total_votes": 3815,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:08:52Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000720",
+        "qual_l4_pct": 26.22,
+        "no_qual_pct": 21.98,
+        "muslim_pct": 18.15,
+        "no_religion_pct": 26.82,
+        "age_under_35_pct": 42.22,
+        "age_65_plus_pct": 20.32,
+        "social_rented_pct": 32.45,
+        "white_british_pct": 72.08
+      }
+    },
+    {
+      "ward_slug": "chadderton-north",
+      "ward_name": "Chadderton North",
+      "ballot_id": "local.oldham.chadderton-north.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Jon Ford",
+          "votes": 2107
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Jon Ford",
+          "votes": 2107,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Colin McLaren",
+          "votes": 948,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Paul Alexander Singleton",
+          "votes": 502,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Darren Lyon",
+          "votes": 285,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Prem Raghvani",
+          "votes": 141,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 52.9,
+        "Labour": 23.8,
+        "Green": 12.6,
+        "Conservative": 7.16,
+        "Liberal Democrat": 3.54
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 3983,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:08:54Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000721",
+        "qual_l4_pct": 26.47,
+        "no_qual_pct": 22.48,
+        "muslim_pct": 29.0,
+        "no_religion_pct": 20.6,
+        "age_under_35_pct": 44.1,
+        "age_65_plus_pct": 19.14,
+        "social_rented_pct": 32.07,
+        "white_british_pct": 62.89
+      }
+    },
+    {
+      "ward_slug": "chadderton-south",
+      "ward_name": "Chadderton South",
+      "ballot_id": "local.oldham.chadderton-south.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Rob Jackson",
+          "votes": 1833
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Rob Jackson",
+          "votes": 1833,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Kyle Phythian",
+          "votes": 709,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Stephanie Anne Beverley",
+          "votes": 539,
+          "elected": false
+        },
+        {
+          "party": "The Oldham Group Party",
+          "name": "Muhammad Irfan",
+          "votes": 351,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Stephen Davenport",
+          "votes": 256,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Brian Witt",
+          "votes": 103,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 48.35,
+        "Labour": 18.7,
+        "Green": 14.22,
+        "The Oldham Group Party": 9.26,
+        "Conservative": 6.75,
+        "Liberal Democrat": 2.72
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 3791,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:08:56Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000722",
+        "qual_l4_pct": 21.27,
+        "no_qual_pct": 24.23,
+        "muslim_pct": 10.89,
+        "no_religion_pct": 31.75,
+        "age_under_35_pct": 44.61,
+        "age_65_plus_pct": 17.95,
+        "social_rented_pct": 39.84,
+        "white_british_pct": 77.65
+      }
+    },
+    {
+      "ward_slug": "coldhurst",
+      "ward_name": "Coldhurst",
+      "ballot_id": "local.oldham.coldhurst.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Independent",
+          "name": "Mohammed Mohib Abu Taleb",
+          "votes": 1892
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Independent",
+          "name": "Mohammed Mohib Abu Taleb",
+          "votes": 1892,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Abdul Malik",
+          "votes": 1471,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Elaine Whittingham",
+          "votes": 473,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Tayba Nazir",
+          "votes": 464,
+          "elected": false
+        },
+        {
+          "party": "Independent",
+          "name": "Mohammed Ali",
+          "votes": 133,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Keith Pendlebury",
+          "votes": 128,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Independent": 44.4,
+        "Labour": 32.25,
+        "Reform UK": 10.37,
+        "Green": 10.17,
+        "Liberal Democrat": 2.81
+      },
+      "party_seats_won": {
+        "Independent": 1
+      },
+      "winning_party": "Independent",
+      "total_votes": 4561,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:08:57Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000723",
+        "qual_l4_pct": 18.1,
+        "no_qual_pct": 36.49,
+        "muslim_pct": 67.05,
+        "no_religion_pct": 8.81,
+        "age_under_35_pct": 58.19,
+        "age_65_plus_pct": 9.18,
+        "social_rented_pct": 85.1,
+        "white_british_pct": 18.62
+      }
+    },
+    {
+      "ward_slug": "crompton",
+      "ward_name": "Crompton",
+      "ballot_id": "local.oldham.crompton.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Peter Hanlon",
+          "votes": 1773
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Peter Hanlon",
+          "votes": 1773,
+          "elected": true
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Hazel Gloster",
+          "votes": 1036,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Chris Mills",
+          "votes": 250,
+          "elected": false
+        },
+        {
+          "party": "Independent",
+          "name": "Alicia Dunne",
+          "votes": 232,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Latif Choudhary",
+          "votes": 227,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Darren Lord",
+          "votes": 153,
+          "elected": false
+        },
+        {
+          "party": "Independent",
+          "name": "Shaun Michael Duffy",
+          "votes": 79,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 47.28,
+        "Liberal Democrat": 27.63,
+        "Green": 6.67,
+        "Independent": 8.29,
+        "Labour": 6.05,
+        "Conservative": 4.08
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 3750,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:08:59Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000724",
+        "qual_l4_pct": 25.55,
+        "no_qual_pct": 19.14,
+        "muslim_pct": 2.89,
+        "no_religion_pct": 26.4,
+        "age_under_35_pct": 34.54,
+        "age_65_plus_pct": 27.51,
+        "social_rented_pct": 20.18,
+        "white_british_pct": 92.16
+      }
+    },
+    {
+      "ward_slug": "failsworth-east",
+      "ward_name": "Failsworth East",
+      "ballot_id": "local.oldham.failsworth-east.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Andrew Barry Brooks",
+          "votes": 2050
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Andrew Barry Brooks",
+          "votes": 2050,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Chris Goodwin",
+          "votes": 474,
+          "elected": false
+        },
+        {
+          "party": "Failsworth Independent Party",
+          "name": "Neil Hindle",
+          "votes": 430,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Laurraine Demelchor",
+          "votes": 369,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Jane Louise Dronsfield",
+          "votes": 101,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Barbara Ann Beeley",
+          "votes": 60,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 58.84,
+        "Labour": 13.61,
+        "Failsworth Independent Party": 12.34,
+        "Green": 10.59,
+        "Conservative": 2.9,
+        "Liberal Democrat": 1.72
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 3484,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:09:01Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000725",
+        "qual_l4_pct": 22.9,
+        "no_qual_pct": 21.84,
+        "muslim_pct": 1.48,
+        "no_religion_pct": 32.56,
+        "age_under_35_pct": 38.28,
+        "age_65_plus_pct": 22.82,
+        "social_rented_pct": 30.95,
+        "white_british_pct": 91.83
+      }
+    },
+    {
+      "ward_slug": "failsworth-west",
+      "ward_name": "Failsworth West",
+      "ballot_id": "local.oldham.failsworth-west.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Mark Christopher Ruthven",
+          "votes": 1878
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Mark Christopher Ruthven",
+          "votes": 1878,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Peter Davis",
+          "votes": 584,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Andrew Kevin Jones",
+          "votes": 507,
+          "elected": false
+        },
+        {
+          "party": "Failsworth Independent Party",
+          "name": "Natalie Parren",
+          "votes": 205,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Roger Blackmore",
+          "votes": 95,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Bernard Akin",
+          "votes": 88,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 55.94,
+        "Labour": 17.4,
+        "Green": 15.1,
+        "Failsworth Independent Party": 6.11,
+        "Liberal Democrat": 2.83,
+        "Conservative": 2.62
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 3357,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:09:16Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000726",
+        "qual_l4_pct": 22.61,
+        "no_qual_pct": 23.34,
+        "muslim_pct": 2.3,
+        "no_religion_pct": 33.03,
+        "age_under_35_pct": 43.18,
+        "age_65_plus_pct": 20.47,
+        "social_rented_pct": 37.54,
+        "white_british_pct": 85.07
+      }
+    },
+    {
+      "ward_slug": "hollinwood",
+      "ward_name": "Hollinwood",
+      "ballot_id": "local.oldham.hollinwood.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Robert Barnes",
+          "votes": 1472
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Robert Barnes",
+          "votes": 1472,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Saniya Abid",
+          "votes": 866,
+          "elected": false
+        },
+        {
+          "party": "The Oldham Group Party",
+          "name": "Abdul Wahid",
+          "votes": 772,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Callum Holt",
+          "votes": 359,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Elizabeth Adamson",
+          "votes": 164,
+          "elected": false
+        },
+        {
+          "party": "National Housing Party United Kingdom",
+          "name": "John Lawrence",
+          "votes": 58,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 39.88,
+        "Labour": 23.46,
+        "The Oldham Group Party": 20.92,
+        "Green": 9.73,
+        "Liberal Democrat": 4.44,
+        "National Housing Party United Kingdom": 1.57
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 3691,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:09:18Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000727",
+        "qual_l4_pct": 19.19,
+        "no_qual_pct": 30.58,
+        "muslim_pct": 14.64,
+        "no_religion_pct": 35.77,
+        "age_under_35_pct": 50.13,
+        "age_65_plus_pct": 14.65,
+        "social_rented_pct": 76.45,
+        "white_british_pct": 71.51
+      }
+    },
+    {
+      "ward_slug": "medlock-vale",
+      "ward_name": "Medlock Vale",
+      "ballot_id": "local.oldham.medlock-vale.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Labour",
+          "name": "Junaid Hussain",
+          "votes": 1283
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Labour",
+          "name": "Junaid Hussain",
+          "votes": 1283,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Victor Flowers",
+          "votes": 983,
+          "elected": false
+        },
+        {
+          "party": "The Oldham Group Party",
+          "name": "Sharoon Zaman",
+          "votes": 777,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Cameron Lee Gates",
+          "votes": 432,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Shona Farnworth",
+          "votes": 198,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Labour": 34.93,
+        "Reform UK": 26.76,
+        "The Oldham Group Party": 21.15,
+        "Green": 11.76,
+        "Liberal Democrat": 5.39
+      },
+      "party_seats_won": {
+        "Labour": 1
+      },
+      "winning_party": "Labour",
+      "total_votes": 3673,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:09:19Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000728",
+        "qual_l4_pct": 20.59,
+        "no_qual_pct": 30.16,
+        "muslim_pct": 41.95,
+        "no_religion_pct": 19.58,
+        "age_under_35_pct": 53.05,
+        "age_65_plus_pct": 11.04,
+        "social_rented_pct": 56.01,
+        "white_british_pct": 43.48
+      }
+    },
+    {
+      "ward_slug": "royton-south",
+      "ward_name": "Royton South",
+      "ballot_id": "local.oldham.royton-south.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Tony Pinder",
+          "votes": 1922
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Tony Pinder",
+          "votes": 1922,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Kathryn Jane England",
+          "votes": 645,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Miranda Meadowcroft",
+          "votes": 368,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "William Hingston",
+          "votes": 267,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Lynne Christine Thompson",
+          "votes": 144,
+          "elected": false
+        },
+        {
+          "party": "Independent",
+          "name": "Anthony Prince",
+          "votes": 143,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 55.09,
+        "Labour": 18.49,
+        "Green": 10.55,
+        "Conservative": 7.65,
+        "Liberal Democrat": 4.13,
+        "Independent": 4.1
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 3489,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:09:57Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000730",
+        "qual_l4_pct": 25.79,
+        "no_qual_pct": 20.26,
+        "muslim_pct": 6.29,
+        "no_religion_pct": 28.52,
+        "age_under_35_pct": 37.87,
+        "age_65_plus_pct": 23.97,
+        "social_rented_pct": 24.4,
+        "white_british_pct": 86.6
+      }
+    },
+    {
+      "ward_slug": "saddleworth-north",
+      "ward_name": "Saddleworth North",
+      "ballot_id": "local.oldham.saddleworth-north.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "loan Williams",
+          "votes": 1752
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "loan Williams",
+          "votes": 1752,
+          "elected": true
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Michael Robert Thomas Powell",
+          "votes": 1289,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Luke Bywater",
+          "votes": 488,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Samuel Jacob Hollis",
+          "votes": 432,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Chris Fielding",
+          "votes": 330,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 40.83,
+        "Liberal Democrat": 30.04,
+        "Conservative": 11.37,
+        "Labour": 10.07,
+        "Green": 7.69
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 4291,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:09:58Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000731",
+        "qual_l4_pct": 41.22,
+        "no_qual_pct": 12.31,
+        "muslim_pct": 0.93,
+        "no_religion_pct": 33.82,
+        "age_under_35_pct": 32.46,
+        "age_65_plus_pct": 26.52,
+        "social_rented_pct": 12.98,
+        "white_british_pct": 95.13
+      }
+    },
+    {
+      "ward_slug": "saddleworth-south",
+      "ward_name": "Saddleworth South",
+      "ballot_id": "local.oldham.saddleworth-south.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Helen Louise Bishop",
+          "votes": 1594
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Helen Louise Bishop",
+          "votes": 1594,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Christopher John McManus",
+          "votes": 1592,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Archie Ross Duncan",
+          "votes": 602,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "David Hartington",
+          "votes": 417,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "George Simon Atkinson",
+          "votes": 344,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Liberal Democrat": 35.04,
+        "Reform UK": 35.0,
+        "Labour": 13.23,
+        "Conservative": 9.17,
+        "Green": 7.56
+      },
+      "party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "winning_party": "Liberal Democrat",
+      "total_votes": 4549,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:10:00Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000732",
+        "qual_l4_pct": 43.14,
+        "no_qual_pct": 13.0,
+        "muslim_pct": 0.68,
+        "no_religion_pct": 33.24,
+        "age_under_35_pct": 30.47,
+        "age_65_plus_pct": 30.22,
+        "social_rented_pct": 14.72,
+        "white_british_pct": 94.76
+      }
+    },
+    {
+      "ward_slug": "saddleworth-west-lees",
+      "ward_name": "Saddleworth West & Lees",
+      "ballot_id": "local.oldham.saddleworth-west-lees.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Peter Klonowski",
+          "votes": 1808
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Peter Klonowski",
+          "votes": 1808,
+          "elected": true
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Alicia Claire Marland",
+          "votes": 1636,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Dave Barter",
+          "votes": 279,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Joe Bardsley",
+          "votes": 238,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Lisa Hartington",
+          "votes": 143,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 44.05,
+        "Liberal Democrat": 39.86,
+        "Labour": 6.8,
+        "Green": 5.8,
+        "Conservative": 3.48
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 4104,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:10:13Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000733",
+        "qual_l4_pct": 29.72,
+        "no_qual_pct": 16.8,
+        "muslim_pct": 2.0,
+        "no_religion_pct": 31.25,
+        "age_under_35_pct": 37.16,
+        "age_65_plus_pct": 24.62,
+        "social_rented_pct": 16.86,
+        "white_british_pct": 93.29
+      }
+    },
+    {
+      "ward_slug": "shaw",
+      "ward_name": "Shaw",
+      "ballot_id": "local.oldham.shaw.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Steve Eyre",
+          "votes": 1555
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Steve Eyre",
+          "votes": 1555,
+          "elected": true
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Tom Penketh",
+          "votes": 955,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Hamid Ali",
+          "votes": 336,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Ben Jack Ingham",
+          "votes": 253,
+          "elected": false
+        },
+        {
+          "party": "Independent",
+          "name": "Sarah Howarth",
+          "votes": 177,
+          "elected": false
+        },
+        {
+          "party": "Independent",
+          "name": "Lee Navesey",
+          "votes": 175,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Adi Kohli",
+          "votes": 53,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 44.38,
+        "Liberal Democrat": 27.25,
+        "Labour": 9.59,
+        "Green": 7.22,
+        "Independent": 10.05,
+        "Conservative": 1.51
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 3504,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:10:14Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000736",
+        "qual_l4_pct": 25.62,
+        "no_qual_pct": 20.97,
+        "muslim_pct": 4.61,
+        "no_religion_pct": 30.85,
+        "age_under_35_pct": 38.58,
+        "age_65_plus_pct": 22.98,
+        "social_rented_pct": 35.7,
+        "white_british_pct": 88.68
+      }
+    },
+    {
+      "ward_slug": "st-james",
+      "ward_name": "St James'",
+      "ballot_id": "local.oldham.st-james.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Gary Tarbuck",
+          "votes": 1938
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Gary Tarbuck",
+          "votes": 1938,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Angela Carol Cosgrove",
+          "votes": 576,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Amir Jhandad",
+          "votes": 284,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Tom Noble",
+          "votes": 209,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Roger Hindle",
+          "votes": 158,
+          "elected": false
+        },
+        {
+          "party": "The Oldham Group Party",
+          "name": "Maqsood Hussain",
+          "votes": 22,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 60.81,
+        "Labour": 18.07,
+        "Green": 8.91,
+        "Conservative": 6.56,
+        "Liberal Democrat": 4.96,
+        "The Oldham Group Party": 0.69
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 3187,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:10:16Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000734",
+        "qual_l4_pct": 22.7,
+        "no_qual_pct": 22.13,
+        "muslim_pct": 3.57,
+        "no_religion_pct": 38.53,
+        "age_under_35_pct": 48.18,
+        "age_65_plus_pct": 14.0,
+        "social_rented_pct": 54.76,
+        "white_british_pct": 84.82
+      }
+    },
+    {
+      "ward_slug": "st-marys",
+      "ward_name": "St Mary's",
+      "ballot_id": "local.oldham.st-marys.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "The Oldham Group Party",
+          "name": "Sonny Shah Arstan",
+          "votes": 2554
+        }
+      ],
+      "candidates": [
+        {
+          "party": "The Oldham Group Party",
+          "name": "Sonny Shah Arstan",
+          "votes": 2554,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Aftab Hussain",
+          "votes": 1465,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Ivan Burnley-Davies",
+          "votes": 368,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Lina Maria Valencia",
+          "votes": 321,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Joe Gloster",
+          "votes": 110,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "The Oldham Group Party": 53.01,
+        "Labour": 30.41,
+        "Reform UK": 7.64,
+        "Green": 6.66,
+        "Liberal Democrat": 2.28
+      },
+      "party_seats_won": {
+        "The Oldham Group Party": 1
+      },
+      "winning_party": "The Oldham Group Party",
+      "total_votes": 4818,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:10:17Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000735",
+        "qual_l4_pct": 19.34,
+        "no_qual_pct": 34.84,
+        "muslim_pct": 64.87,
+        "no_religion_pct": 10.98,
+        "age_under_35_pct": 58.59,
+        "age_65_plus_pct": 8.54,
+        "social_rented_pct": 58.79,
+        "white_british_pct": 21.67
+      }
+    },
+    {
+      "ward_slug": "waterhead",
+      "ward_name": "Waterhead",
+      "ballot_id": "local.oldham.waterhead.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Paul Taylor",
+          "votes": 1459
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Paul Taylor",
+          "votes": 1459,
+          "elected": true
+        },
+        {
+          "party": "The Oldham Group Party",
+          "name": "Mir Ajawat",
+          "votes": 980,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Ali Aqeel Salamat",
+          "votes": 954,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Andrew Peter Sinclair",
+          "votes": 394,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Alison Caroline Bishop",
+          "votes": 266,
+          "elected": false
+        },
+        {
+          "party": "Independent",
+          "name": "Stuart Allsopp",
+          "votes": 132,
+          "elected": false
+        },
+        {
+          "party": "Independent",
+          "name": "Majid Khan",
+          "votes": 54,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 34.42,
+        "The Oldham Group Party": 23.12,
+        "Labour": 22.51,
+        "Green": 9.29,
+        "Liberal Democrat": 6.28,
+        "Independent": 4.39
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 4239,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:10:19Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000737",
+        "qual_l4_pct": 21.13,
+        "no_qual_pct": 27.63,
+        "muslim_pct": 30.16,
+        "no_religion_pct": 24.25,
+        "age_under_35_pct": 48.88,
+        "age_65_plus_pct": 13.8,
+        "social_rented_pct": 45.44,
+        "white_british_pct": 58.52
+      }
+    },
+    {
+      "ward_slug": "werneth",
+      "ward_name": "Werneth",
+      "ballot_id": "local.oldham.werneth.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Labour",
+          "name": "Fida Hussain",
+          "votes": 1748
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Labour",
+          "name": "Fida Hussain",
+          "votes": 1748,
+          "elected": true
+        },
+        {
+          "party": "Workers Party - Oldham Group",
+          "name": "Rangzib Nazir",
+          "votes": 1602,
+          "elected": false
+        },
+        {
+          "party": "Independent",
+          "name": "Mohammed Imran Ali",
+          "votes": 864,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Mycul Trelore",
+          "votes": 364,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Stuart Illingworth",
+          "votes": 247,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Rachel Pendlebury",
+          "votes": 102,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Labour": 35.48,
+        "Workers Party - Oldham Group": 32.51,
+        "Independent": 17.54,
+        "Green": 7.39,
+        "Reform UK": 5.01,
+        "Liberal Democrat": 2.07
+      },
+      "party_seats_won": {
+        "Labour": 1
+      },
+      "winning_party": "Labour",
+      "total_votes": 4927,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:10:21Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000738",
+        "qual_l4_pct": 22.45,
+        "no_qual_pct": 32.12,
+        "muslim_pct": 71.93,
+        "no_religion_pct": 6.43,
+        "age_under_35_pct": 57.08,
+        "age_65_plus_pct": 9.54,
+        "social_rented_pct": 51.74,
+        "white_british_pct": 14.78
+      }
+    }
+  ],
+  "n_wards_attempted": 20,
+  "n_wards_with_results": 19,
+  "n_wards_no_results": 1
+}

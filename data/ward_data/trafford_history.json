@@ -1,0 +1,367 @@
+{
+  "council_slug": "trafford",
+  "source": "https://candidates.democracyclub.org.uk/api/next/",
+  "fetched_at": "2026-05-11T00:04:31Z",
+  "wards": [
+    {
+      "ward_slug": "altrincham",
+      "ward_name": "Altrincham",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.trafford.altrincham.2024-05-02",
+      "prior_winning_party": "Green",
+      "prior_party_shares": {
+        "Green": 57.39,
+        "Conservative": 24.12,
+        "Labour": 15.43,
+        "Liberal Democrat": 3.07
+      },
+      "prior_party_seats_won": {
+        "Green": 1
+      },
+      "prior_total_votes": 3358,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "ashton-upon-mersey",
+      "ward_name": "Ashton upon Mersey",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.trafford.ashton-upon-mersey.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 54.81,
+        "Conservative": 26.87,
+        "Green": 13.01,
+        "Liberal Democrat": 5.3
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3450,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "broadheath",
+      "ward_name": "Broadheath",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.trafford.broadheath.2022-05-05",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 44.98,
+        "Conservative": 39.16,
+        "Liberal Democrat": 6.29,
+        "Green": 6.25,
+        "Independent": 3.32
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 4211,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "brooklands",
+      "ward_name": "Brooklands",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.trafford.brooklands.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 47.49,
+        "Conservative": 30.91,
+        "Green": 9.24,
+        "Reform UK": 6.66,
+        "Liberal Democrat": 5.69
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3830,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "bucklow-st-martins",
+      "ward_name": "Bucklow-St Martins",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.trafford.bucklow-st-martins.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 61.48,
+        "Conservative": 20.7,
+        "Green": 11.09,
+        "Liberal Democrat": 6.73
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1812,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "davyhulme",
+      "ward_name": "Davyhulme",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.trafford.davyhulme.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 53.07,
+        "Conservative": 27.49,
+        "Green": 10.09,
+        "Independent": 4.97,
+        "Liberal Democrat": 4.37
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3339,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "flixton",
+      "ward_name": "Flixton",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.trafford.flixton.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 56.76,
+        "Conservative": 21.05,
+        "Green": 12.46,
+        "Independent": 5.86,
+        "Liberal Democrat": 3.87
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3411,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "gorse-hill-cornbrook",
+      "ward_name": "Gorse Hill & Cornbrook",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.trafford.gorse-hill-cornbrook.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 60.94,
+        "Green": 16.35,
+        "Conservative": 11.78,
+        "Independent": 7.18,
+        "Liberal Democrat": 3.75
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2563,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "hale",
+      "ward_name": "Hale",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.trafford.hale.2024-05-02",
+      "prior_winning_party": "Green",
+      "prior_party_shares": {
+        "Green": 47.67,
+        "Conservative": 36.78,
+        "Labour": 11.87,
+        "Liberal Democrat": 3.68
+      },
+      "prior_party_seats_won": {
+        "Green": 1
+      },
+      "prior_total_votes": 3673,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "hale-barns-timperley-south",
+      "ward_name": "Hale Barns & Timperley South",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.trafford.hale-barns-timperley-south.2024-05-02",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 43.0,
+        "Liberal Democrat": 33.41,
+        "Labour": 10.43,
+        "Green": 6.92,
+        "Reform UK": 6.24
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 3221,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "longford",
+      "ward_name": "Longford",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.trafford.longford.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 57.6,
+        "Green": 22.14,
+        "Conservative": 9.89,
+        "Liberal Democrat": 7.35,
+        "TUSC": 3.02
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2913,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "manor",
+      "ward_name": "Manor",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.trafford.manor.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 40.9,
+        "Conservative": 40.02,
+        "Green": 8.84,
+        "Reform UK": 6.55,
+        "Liberal Democrat": 3.7
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3406,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "old-trafford",
+      "ward_name": "Old Trafford",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.trafford.old-trafford.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 60.11,
+        "Green": 31.31,
+        "Conservative": 4.46,
+        "Liberal Democrat": 4.12
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3229,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "sale-central",
+      "ward_name": "Sale Central",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.trafford.sale-central.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 60.44,
+        "Conservative": 21.33,
+        "Green": 9.52,
+        "Liberal Democrat": 8.71
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3342,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "sale-moor",
+      "ward_name": "Sale Moor",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.trafford.sale-moor.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 58.64,
+        "Conservative": 22.91,
+        "Green": 12.4,
+        "Liberal Democrat": 6.04
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3177,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "stretford-humphrey-park",
+      "ward_name": "Stretford & Humphrey Park",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.trafford.stretford-humphrey-park.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 60.01,
+        "Green": 18.4,
+        "Conservative": 16.89,
+        "Liberal Democrat": 4.7
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3386,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "timperley-central",
+      "ward_name": "Timperley Central",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.trafford.timperley-central.2024-05-02",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 50.0,
+        "Conservative": 20.77,
+        "Labour": 17.23,
+        "Reform UK": 6.78,
+        "Green": 5.23
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "prior_total_votes": 3616,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "timperley-north",
+      "ward_name": "Timperley North",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.trafford.timperley-north.2024-05-02",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 58.52,
+        "Labour": 18.94,
+        "Conservative": 16.03,
+        "Green": 6.51
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "prior_total_votes": 3980,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "urmston",
+      "ward_name": "Urmston",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.trafford.urmston.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 57.41,
+        "Conservative": 13.69,
+        "Green": 10.03,
+        "Reform UK": 8.08,
+        "Independent": 6.86,
+        "Liberal Democrat": 3.92
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3440,
+      "prior_winner_count": 1
+    }
+  ],
+  "n_wards_attempted": 21,
+  "n_wards_with_history": 19,
+  "n_wards_no_history": 2,
+  "prior_year_distribution": {
+    "2024": 18,
+    "2022": 1
+  }
+}

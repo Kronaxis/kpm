@@ -1,0 +1,306 @@
+{
+  "council_slug": "newcastle-upon-tyne",
+  "source": "https://candidates.democracyclub.org.uk/api/next/",
+  "fetched_at": "2026-05-10T22:07:47Z",
+  "wards": [
+    {
+      "ward_slug": "arthurs-hill",
+      "ward_name": "Arthur's Hill",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.newcastle-upon-tyne.arthurs-hill.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 50.49,
+        "Independent": 24.41,
+        "Green": 13.75,
+        "Conservative": 6.97,
+        "Liberal Democrat": 4.38
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1622,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "byker",
+      "ward_name": "Byker",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.newcastle-upon-tyne.byker.2024-05-02",
+      "prior_winning_party": "Green",
+      "prior_party_shares": {
+        "Green": 56.85,
+        "Labour": 35.58,
+        "Conservative": 5.06,
+        "Liberal Democrat": 2.51
+      },
+      "prior_party_seats_won": {
+        "Green": 1
+      },
+      "prior_total_votes": 2271,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "castle",
+      "ward_name": "Castle",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.newcastle-upon-tyne.castle.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 40.26,
+        "Liberal Democrat": 37.94,
+        "Conservative": 12.35,
+        "Green": 9.45
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3748,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "chapel",
+      "ward_name": "Chapel",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.newcastle-upon-tyne.chapel.2024-05-02",
+      "prior_winning_party": "Independent",
+      "prior_party_shares": {
+        "Independent": 70.53,
+        "Labour": 17.27,
+        "Conservative": 7.05,
+        "Liberal Democrat": 2.94,
+        "Green": 2.2
+      },
+      "prior_party_seats_won": {
+        "Independent": 1
+      },
+      "prior_total_votes": 3404,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "dene-south-gosforth",
+      "ward_name": "Dene & South Gosforth",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.newcastle-upon-tyne.dene-south-gosforth.2024-05-02",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 46.24,
+        "Labour": 32.14,
+        "Green": 13.85,
+        "Conservative": 7.76
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "prior_total_votes": 3674,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "elswick",
+      "ward_name": "Elswick",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.newcastle-upon-tyne.elswick.2024-05-02",
+      "prior_winning_party": "Green",
+      "prior_party_shares": {
+        "Green": 45.4,
+        "Labour": 41.32,
+        "Conservative": 8.81,
+        "Liberal Democrat": 4.46
+      },
+      "prior_party_seats_won": {
+        "Green": 1
+      },
+      "prior_total_votes": 2621,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "fawdon-west-gosforth",
+      "ward_name": "Fawdon & West Gosforth",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.newcastle-upon-tyne.fawdon-west-gosforth.2024-05-02",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 59.57,
+        "Labour": 24.88,
+        "Green": 7.51,
+        "Conservative": 8.04
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 2
+      },
+      "prior_total_votes": 5261,
+      "prior_winner_count": 2
+    },
+    {
+      "ward_slug": "gosforth",
+      "ward_name": "Gosforth",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.newcastle-upon-tyne.gosforth.2024-05-02",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 33.72,
+        "Liberal Democrat": 31.04,
+        "Labour": 22.95,
+        "Green": 8.44,
+        "The North East Party": 3.86
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 4149,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "kenton",
+      "ward_name": "Kenton",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.newcastle-upon-tyne.kenton.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 65.28,
+        "Liberal Democrat": 13.16,
+        "Green": 10.86,
+        "Conservative": 7.61,
+        "TUSC": 3.09
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2523,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "manor-park",
+      "ward_name": "Manor Park",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.newcastle-upon-tyne.manor-park.2024-05-02",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 56.43,
+        "Labour": 25.98,
+        "Green": 12.59,
+        "Conservative": 5.0
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "prior_total_votes": 3218,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "monument",
+      "ward_name": "Monument",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.newcastle-upon-tyne.monument.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 56.9,
+        "Green": 24.27,
+        "Conservative": 9.98,
+        "Liberal Democrat": 8.85
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1413,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "ouseburn",
+      "ward_name": "Ouseburn",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.newcastle-upon-tyne.ouseburn.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 48.39,
+        "Liberal Democrat": 34.99,
+        "Green": 14.6,
+        "Conservative": 2.02
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2178,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "walker",
+      "ward_name": "Walker",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.newcastle-upon-tyne.walker.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 69.79,
+        "Conservative": 12.88,
+        "Green": 9.38,
+        "Liberal Democrat": 7.94
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1801,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "walkergate",
+      "ward_name": "Walkergate",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.newcastle-upon-tyne.walkergate.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 58.59,
+        "Green": 17.44,
+        "Conservative": 12.0,
+        "Liberal Democrat": 11.96
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2700,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "west-fenham",
+      "ward_name": "West Fenham",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.newcastle-upon-tyne.west-fenham.2024-05-02",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 46.85,
+        "Labour": 34.03,
+        "Green": 11.88,
+        "Conservative": 7.23
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "prior_total_votes": 2668,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "wingrove",
+      "ward_name": "Wingrove",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.newcastle-upon-tyne.wingrove.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 39.51,
+        "Independent": 31.68,
+        "Green": 15.27,
+        "Conservative": 7.28,
+        "Liberal Democrat": 6.26
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3065,
+      "prior_winner_count": 1
+    }
+  ],
+  "n_wards_attempted": 23,
+  "n_wards_with_history": 16,
+  "n_wards_no_history": 7,
+  "prior_year_distribution": {
+    "2024": 16
+  }
+}

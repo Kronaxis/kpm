@@ -1,0 +1,233 @@
+{
+  "council_slug": "eastleigh",
+  "source": "https://candidates.democracyclub.org.uk/api/next/",
+  "fetched_at": "2026-05-10T22:01:54Z",
+  "wards": [
+    {
+      "ward_slug": "bishopstoke",
+      "ward_name": "Bishopstoke",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.eastleigh.bishopstoke.2024-05-02",
+      "prior_winning_party": "Independent",
+      "prior_party_shares": {
+        "Independent": 56.12,
+        "Liberal Democrat": 24.22,
+        "Conservative": 9.91,
+        "Labour": 9.74
+      },
+      "prior_party_seats_won": {
+        "Independent": 1
+      },
+      "prior_total_votes": 2956,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "botley",
+      "ward_name": "Botley",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.eastleigh.botley.2024-05-02",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 63.11,
+        "Conservative": 26.43,
+        "Green": 10.46
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "prior_total_votes": 1816,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "bursledon-hound-north",
+      "ward_name": "Bursledon & Hound North",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.eastleigh.bursledon-hound-north.2024-05-02",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 67.44,
+        "Conservative": 19.24,
+        "Labour": 8.15,
+        "Green": 5.16
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "prior_total_votes": 1975,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "chandlers-ford",
+      "ward_name": "Chandler's Ford",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.eastleigh.chandlers-ford.2024-05-02",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 50.16,
+        "Conservative": 31.8,
+        "Labour": 9.58,
+        "Green": 8.46
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "prior_total_votes": 2849,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "eastleigh-central",
+      "ward_name": "Eastleigh Central",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.eastleigh.eastleigh-central.2024-05-02",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 37.36,
+        "Labour": 33.39,
+        "Conservative": 13.76,
+        "Reform UK": 7.94,
+        "Green": 7.55
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "prior_total_votes": 2318,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "eastleigh-north",
+      "ward_name": "Eastleigh North",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.eastleigh.eastleigh-north.2024-05-02",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Conservative": 24.21,
+        "Liberal Democrat": 45.62,
+        "Labour": 18.48,
+        "Green": 11.69
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "prior_total_votes": 2078,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "eastleigh-south",
+      "ward_name": "Eastleigh South",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.eastleigh.eastleigh-south.2024-05-02",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 46.51,
+        "Labour": 20.4,
+        "Conservative": 12.38,
+        "Reform UK": 11.72,
+        "Green": 8.99
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "prior_total_votes": 1946,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "fair-oak-horton-heath",
+      "ward_name": "Fair Oak & Horton Heath",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.eastleigh.fair-oak-horton-heath.2024-05-02",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 48.47,
+        "Liberal Democrat": 32.68,
+        "Green": 10.49,
+        "Labour": 8.35
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 3136,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "hamble-netley",
+      "ward_name": "Hamble & Netley",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.eastleigh.hamble-netley.2024-05-02",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 58.76,
+        "Conservative": 14.88,
+        "Independent": 13.08,
+        "Green": 6.78,
+        "Labour": 6.5
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "prior_total_votes": 2568,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "hiltingbury",
+      "ward_name": "Hiltingbury",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.eastleigh.hiltingbury.2024-05-02",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 51.78,
+        "Conservative": 34.96,
+        "Green": 8.49,
+        "Labour": 4.78
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "prior_total_votes": 3453,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "west-end-north",
+      "ward_name": "West End North",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.eastleigh.west-end-north.2023-05-04",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 56.88,
+        "Conservative": 26.73,
+        "Green": 9.13,
+        "Labour": 6.51,
+        "TUSC": 0.74
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "prior_total_votes": 1489,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "west-end-south",
+      "ward_name": "West End South",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.eastleigh.west-end-south.2023-05-04",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 54.28,
+        "Conservative": 30.55,
+        "Labour": 8.86,
+        "Green": 6.32
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "prior_total_votes": 1614,
+      "prior_winner_count": 1
+    }
+  ],
+  "n_wards_attempted": 12,
+  "n_wards_with_history": 12,
+  "n_wards_no_history": 0,
+  "prior_year_distribution": {
+    "2024": 10,
+    "2023": 2
+  }
+}

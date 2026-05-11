@@ -1,0 +1,1231 @@
+{
+  "council_slug": "wolverhampton",
+  "election_date": "2026-05-07",
+  "source": "https://candidates.democracyclub.org.uk/api/next/",
+  "fetched_at": "2026-05-10T22:30:32Z",
+  "wards": [
+    {
+      "ward_slug": "bilston-north",
+      "ward_name": "Bilston North",
+      "ballot_id": "local.wolverhampton.bilston-north.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Anita Stanley",
+          "votes": 1439
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Anita Stanley",
+          "votes": 1439,
+          "elected": true
+        },
+        {
+          "party": "Green",
+          "name": "Harry Singh",
+          "votes": 962,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Luke Matthew Guy",
+          "votes": 690,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Audrey Okere",
+          "votes": 301,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 42.42,
+        "Green": 28.36,
+        "Labour": 20.34,
+        "Conservative": 8.87
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 3392,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T22:30:33Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05001322",
+        "qual_l4_pct": 19.6,
+        "no_qual_pct": 30.1,
+        "muslim_pct": 1.86,
+        "no_religion_pct": 29.59,
+        "age_under_35_pct": 43.17,
+        "age_65_plus_pct": 19.92,
+        "social_rented_pct": 48.78,
+        "white_british_pct": 61.54
+      }
+    },
+    {
+      "ward_slug": "bilston-south",
+      "ward_name": "Bilston South",
+      "ballot_id": "local.wolverhampton.bilston-south.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Micky Thomas",
+          "votes": 1369
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Micky Thomas",
+          "votes": 1369,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Jilly Wildman",
+          "votes": 823,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Tajinder Singh",
+          "votes": 495,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Dawn Barbara McNeil",
+          "votes": 302,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 45.8,
+        "Labour": 27.53,
+        "Green": 16.56,
+        "Conservative": 10.1
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 2989,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T22:30:35Z",
+      "census": {
+        "matched": false,
+        "note": "no Census ward found by name"
+      }
+    },
+    {
+      "ward_slug": "blakenhall",
+      "ward_name": "Blakenhall",
+      "ballot_id": "local.wolverhampton.blakenhall.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Labour",
+          "name": "Tersaim Singh",
+          "votes": 1278
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Labour",
+          "name": "Tersaim Singh",
+          "votes": 1278,
+          "elected": true
+        },
+        {
+          "party": "Green",
+          "name": "Vikas Chopra",
+          "votes": 541,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Adam Ansari",
+          "votes": 412,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Adrian Perry",
+          "votes": 397,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Patrick Neil Bentley",
+          "votes": 122,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Labour": 46.47,
+        "Green": 19.67,
+        "Conservative": 14.98,
+        "Reform UK": 14.44,
+        "Liberal Democrat": 4.44
+      },
+      "party_seats_won": {
+        "Labour": 1
+      },
+      "winning_party": "Labour",
+      "total_votes": 2750,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T22:31:04Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05001323",
+        "qual_l4_pct": 26.04,
+        "no_qual_pct": 30.49,
+        "muslim_pct": 4.3,
+        "no_religion_pct": 12.22,
+        "age_under_35_pct": 43.41,
+        "age_65_plus_pct": 19.62,
+        "social_rented_pct": 28.92,
+        "white_british_pct": 17.42
+      }
+    },
+    {
+      "ward_slug": "bushbury-north",
+      "ward_name": "Bushbury North",
+      "ballot_id": "local.wolverhampton.bushbury-north.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Susan Lawrence",
+          "votes": 1365
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Susan Lawrence",
+          "votes": 1365,
+          "elected": true
+        },
+        {
+          "party": "Conservative",
+          "name": "Andrew William McNeil",
+          "votes": 713,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Gary Edwards",
+          "votes": 658,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Sarabjit Singh",
+          "votes": 438,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Ann Jenkins",
+          "votes": 143,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 41.15,
+        "Conservative": 21.5,
+        "Labour": 19.84,
+        "Green": 13.2,
+        "Liberal Democrat": 4.31
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 3317,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T22:31:14Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05001324",
+        "qual_l4_pct": 21.96,
+        "no_qual_pct": 25.67,
+        "muslim_pct": 2.41,
+        "no_religion_pct": 33.51,
+        "age_under_35_pct": 40.1,
+        "age_65_plus_pct": 23.01,
+        "social_rented_pct": 44.09,
+        "white_british_pct": 77.3
+      }
+    },
+    {
+      "ward_slug": "bushbury-south-low-hill",
+      "ward_name": "Bushbury South & Low Hill",
+      "ballot_id": "local.wolverhampton.bushbury-south-low-hill.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Armin Berenjian",
+          "votes": 921
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Armin Berenjian",
+          "votes": 921,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Paul Ian Brookfield",
+          "votes": 756,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Cade George Hatton",
+          "votes": 362,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Anthony Charles Gething",
+          "votes": 219,
+          "elected": false
+        },
+        {
+          "party": "Independent",
+          "name": "Shane P Slater",
+          "votes": 81,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 39.38,
+        "Labour": 32.32,
+        "Green": 15.48,
+        "Conservative": 9.36,
+        "Independent": 3.46
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 2339,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T22:31:23Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05001325",
+        "qual_l4_pct": 23.52,
+        "no_qual_pct": 27.18,
+        "muslim_pct": 4.2,
+        "no_religion_pct": 34.35,
+        "age_under_35_pct": 52.24,
+        "age_65_plus_pct": 11.87,
+        "social_rented_pct": 78.7,
+        "white_british_pct": 51.88
+      }
+    },
+    {
+      "ward_slug": "east-park",
+      "ward_name": "East Park",
+      "ballot_id": "local.wolverhampton.east-park.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Dave Evans",
+          "votes": 1029
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Dave Evans",
+          "votes": 1029,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Louise Margaret Miles",
+          "votes": 868,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Taliesin Quinn Damien Edwards",
+          "votes": 368,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Joe Stepien",
+          "votes": 240,
+          "elected": false
+        },
+        {
+          "party": "Independent",
+          "name": "Steve Hall",
+          "votes": 82,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 39.78,
+        "Labour": 33.55,
+        "Green": 14.22,
+        "Conservative": 9.28,
+        "Independent": 3.17
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 2587,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T22:31:33Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05001326",
+        "qual_l4_pct": 19.42,
+        "no_qual_pct": 31.56,
+        "muslim_pct": 3.92,
+        "no_religion_pct": 31.81,
+        "age_under_35_pct": 44.77,
+        "age_65_plus_pct": 18.02,
+        "social_rented_pct": 77.05,
+        "white_british_pct": 58.07
+      }
+    },
+    {
+      "ward_slug": "ettingshall-north",
+      "ward_name": "Ettingshall North",
+      "ballot_id": "local.wolverhampton.ettingshall-north.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Labour",
+          "name": "Jeszemma Rose Howl",
+          "votes": 1032
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Labour",
+          "name": "Jeszemma Rose Howl",
+          "votes": 1032,
+          "elected": true
+        },
+        {
+          "party": "Green",
+          "name": "Manpreet Singh",
+          "votes": 665,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Gareth Walker",
+          "votes": 644,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Surrinder Kumar Ram",
+          "votes": 228,
+          "elected": false
+        },
+        {
+          "party": "Independent",
+          "name": "Tracy Cooper",
+          "votes": 82,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Labour": 38.93,
+        "Green": 25.08,
+        "Reform UK": 24.29,
+        "Conservative": 8.6,
+        "Independent": 3.09
+      },
+      "party_seats_won": {
+        "Labour": 1
+      },
+      "winning_party": "Labour",
+      "total_votes": 2651,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T22:31:35Z",
+      "census": {
+        "matched": false,
+        "note": "no Census ward found by name"
+      }
+    },
+    {
+      "ward_slug": "ettingshall-south-spring-vale",
+      "ward_name": "Ettingshall South & Spring Vale",
+      "ballot_id": "local.wolverhampton.ettingshall-south-spring-vale.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Rob Greenway",
+          "votes": 1632
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Rob Greenway",
+          "votes": 1632,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Jasbinder Dehar",
+          "votes": 1020,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Si\u00e2n Kumar",
+          "votes": 423,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Manish Kumar",
+          "votes": 382,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 47.21,
+        "Labour": 29.51,
+        "Conservative": 12.24,
+        "Green": 11.05
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 3457,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T22:31:36Z",
+      "census": {
+        "matched": false,
+        "note": "no Census ward found by name"
+      }
+    },
+    {
+      "ward_slug": "fallings-park",
+      "ward_name": "Fallings Park",
+      "ballot_id": "local.wolverhampton.fallings-park.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Stu Goldsmith",
+          "votes": 1230
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Stu Goldsmith",
+          "votes": 1230,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Chris Burden",
+          "votes": 842,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Julia Dickens",
+          "votes": 416,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Tony Wortley",
+          "votes": 300,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Peter Nixon",
+          "votes": 152,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 41.84,
+        "Labour": 28.64,
+        "Conservative": 14.15,
+        "Green": 10.2,
+        "Liberal Democrat": 5.17
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 2940,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T22:31:38Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05001328",
+        "qual_l4_pct": 21.23,
+        "no_qual_pct": 26.37,
+        "muslim_pct": 2.05,
+        "no_religion_pct": 34.95,
+        "age_under_35_pct": 44.18,
+        "age_65_plus_pct": 18.34,
+        "social_rented_pct": 55.29,
+        "white_british_pct": 69.83
+      }
+    },
+    {
+      "ward_slug": "graiseley",
+      "ward_name": "Graiseley",
+      "ballot_id": "local.wolverhampton.graiseley.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Labour",
+          "name": "Gurbax Kaur",
+          "votes": 1126
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Labour",
+          "name": "Gurbax Kaur",
+          "votes": 1126,
+          "elected": true
+        },
+        {
+          "party": "Green",
+          "name": "Suki Bains",
+          "votes": 676,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Sarp Dayanik",
+          "votes": 661,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Prabhjot Kaur Saini",
+          "votes": 349,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Jessica Pringle",
+          "votes": 185,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Labour": 37.57,
+        "Green": 22.56,
+        "Reform UK": 22.06,
+        "Conservative": 11.64,
+        "Liberal Democrat": 6.17
+      },
+      "party_seats_won": {
+        "Labour": 1
+      },
+      "winning_party": "Labour",
+      "total_votes": 2997,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T22:31:40Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05001329",
+        "qual_l4_pct": 27.95,
+        "no_qual_pct": 25.65,
+        "muslim_pct": 11.66,
+        "no_religion_pct": 22.9,
+        "age_under_35_pct": 44.53,
+        "age_65_plus_pct": 16.14,
+        "social_rented_pct": 45.95,
+        "white_british_pct": 37.99
+      }
+    },
+    {
+      "ward_slug": "heath-town",
+      "ward_name": "Heath Town",
+      "ballot_id": "local.wolverhampton.heath-town.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Labour",
+          "name": "Rob Siarkiewicz",
+          "votes": 744
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Labour",
+          "name": "Rob Siarkiewicz",
+          "votes": 744,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Ash Singh",
+          "votes": 666,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Hardeep Singh",
+          "votes": 559,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Niall Wood",
+          "votes": 270,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Labour": 33.23,
+        "Reform UK": 29.75,
+        "Green": 24.97,
+        "Conservative": 12.06
+      },
+      "party_seats_won": {
+        "Labour": 1
+      },
+      "winning_party": "Labour",
+      "total_votes": 2239,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T22:31:42Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05001330",
+        "qual_l4_pct": 27.91,
+        "no_qual_pct": 24.9,
+        "muslim_pct": 9.28,
+        "no_religion_pct": 24.81,
+        "age_under_35_pct": 51.18,
+        "age_65_plus_pct": 11.95,
+        "social_rented_pct": 89.3,
+        "white_british_pct": 39.44
+      }
+    },
+    {
+      "ward_slug": "merry-hill",
+      "ward_name": "Merry Hill",
+      "ballot_id": "local.wolverhampton.merry-hill.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Im Stanley",
+          "votes": 1331
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Im Stanley",
+          "votes": 1331,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Carol Lesley Hyatt",
+          "votes": 1147,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Andy Simpkins",
+          "votes": 888,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Paul Anthony Darke",
+          "votes": 506,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 34.38,
+        "Labour": 29.62,
+        "Conservative": 22.93,
+        "Green": 13.07
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 3872,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T22:31:43Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05001331",
+        "qual_l4_pct": 30.78,
+        "no_qual_pct": 19.36,
+        "muslim_pct": 2.25,
+        "no_religion_pct": 30.25,
+        "age_under_35_pct": 39.17,
+        "age_65_plus_pct": 22.23,
+        "social_rented_pct": 41.92,
+        "white_british_pct": 69.1
+      }
+    },
+    {
+      "ward_slug": "park",
+      "ward_name": "Park",
+      "ballot_id": "local.wolverhampton.park.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Labour",
+          "name": "Craig John Collingswood",
+          "votes": 1089
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Labour",
+          "name": "Craig John Collingswood",
+          "votes": 1089,
+          "elected": true
+        },
+        {
+          "party": "Green",
+          "name": "Mohammed Naseem",
+          "votes": 1046,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Kat Stanley",
+          "votes": 600,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Harpreet Singh Multani",
+          "votes": 454,
+          "elected": false
+        },
+        {
+          "party": "Independent",
+          "name": "Jamie Salvin",
+          "votes": 144,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Bryan Hamer Lewis",
+          "votes": 141,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Labour": 31.35,
+        "Green": 30.11,
+        "Reform UK": 17.27,
+        "Conservative": 13.07,
+        "Independent": 4.15,
+        "Liberal Democrat": 4.06
+      },
+      "party_seats_won": {
+        "Labour": 1
+      },
+      "winning_party": "Labour",
+      "total_votes": 3474,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T22:32:14Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05001333",
+        "qual_l4_pct": 36.85,
+        "no_qual_pct": 20.68,
+        "muslim_pct": 12.81,
+        "no_religion_pct": 23.85,
+        "age_under_35_pct": 41.19,
+        "age_65_plus_pct": 18.88,
+        "social_rented_pct": 27.33,
+        "white_british_pct": 41.54
+      }
+    },
+    {
+      "ward_slug": "penn",
+      "ward_name": "Penn",
+      "ballot_id": "local.wolverhampton.penn.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Conservative",
+          "name": "Stephanie Mary Haynes",
+          "votes": 1576
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Conservative",
+          "name": "Stephanie Mary Haynes",
+          "votes": 1576,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Kashmire Darren Singh Hawker",
+          "votes": 1236,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Pete Kelly",
+          "votes": 1113,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Fareed Enver",
+          "votes": 492,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Conservative": 35.68,
+        "Labour": 27.98,
+        "Reform UK": 25.2,
+        "Green": 11.14
+      },
+      "party_seats_won": {
+        "Conservative": 1
+      },
+      "winning_party": "Conservative",
+      "total_votes": 4417,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T22:32:15Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05001334",
+        "qual_l4_pct": 37.96,
+        "no_qual_pct": 16.47,
+        "muslim_pct": 2.26,
+        "no_religion_pct": 23.22,
+        "age_under_35_pct": 36.67,
+        "age_65_plus_pct": 25.26,
+        "social_rented_pct": 8.87,
+        "white_british_pct": 56.91
+      }
+    },
+    {
+      "ward_slug": "st-peters",
+      "ward_name": "St Peters",
+      "ballot_id": "local.wolverhampton.st-peters.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Labour",
+          "name": "Qaiser Azeem",
+          "votes": 1133
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Labour",
+          "name": "Qaiser Azeem",
+          "votes": 1133,
+          "elected": true
+        },
+        {
+          "party": "Green",
+          "name": "Adetoyese Anifalaje",
+          "votes": 668,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "James Taylor",
+          "votes": 264,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Gillian Elizabeth Alexandria Timms",
+          "votes": 193,
+          "elected": false
+        },
+        {
+          "party": "Independent",
+          "name": "Muhammad Sarfaraz Qayyum",
+          "votes": 112,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Labour": 47.81,
+        "Green": 28.19,
+        "Reform UK": 11.14,
+        "Conservative": 8.14,
+        "Independent": 4.73
+      },
+      "party_seats_won": {
+        "Labour": 1
+      },
+      "winning_party": "Labour",
+      "total_votes": 2370,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T22:32:25Z",
+      "census": {
+        "matched": false,
+        "note": "no Census ward found by name"
+      }
+    },
+    {
+      "ward_slug": "tettenhall-wightwick",
+      "ward_name": "Tettenhall Wightwick",
+      "ballot_id": "local.wolverhampton.tettenhall-wightwick.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Conservative",
+          "name": "Jonathan Mark Crofts",
+          "votes": 1558
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Conservative",
+          "name": "Jonathan Mark Crofts",
+          "votes": 1558,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Heather Chell",
+          "votes": 1368,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Calvin Bissitt",
+          "votes": 726,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Don Gwinnett",
+          "votes": 574,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Conservative": 36.87,
+        "Reform UK": 32.37,
+        "Labour": 17.18,
+        "Green": 13.58
+      },
+      "party_seats_won": {
+        "Conservative": 1
+      },
+      "winning_party": "Conservative",
+      "total_votes": 4226,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T22:32:46Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05001338",
+        "qual_l4_pct": 37.48,
+        "no_qual_pct": 18.75,
+        "muslim_pct": 2.09,
+        "no_religion_pct": 27.71,
+        "age_under_35_pct": 31.94,
+        "age_65_plus_pct": 33.92,
+        "social_rented_pct": 22.09,
+        "white_british_pct": 71.88
+      }
+    },
+    {
+      "ward_slug": "wednesfield-north",
+      "ward_name": "Wednesfield North",
+      "ballot_id": "local.wolverhampton.wednesfield-north.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Simon Kelsey",
+          "votes": 1607
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Simon Kelsey",
+          "votes": 1607,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Andrew Foster",
+          "votes": 583,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Robin Mark Hacking",
+          "votes": 395,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Nasia Ibrahim Ijas",
+          "votes": 318,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "David Murray",
+          "votes": 144,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 52.74,
+        "Labour": 19.13,
+        "Conservative": 12.96,
+        "Green": 10.44,
+        "Liberal Democrat": 4.73
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 3047,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T22:32:48Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05001339",
+        "qual_l4_pct": 19.24,
+        "no_qual_pct": 28.15,
+        "muslim_pct": 0.75,
+        "no_religion_pct": 34.42,
+        "age_under_35_pct": 38.42,
+        "age_65_plus_pct": 26.08,
+        "social_rented_pct": 45.44,
+        "white_british_pct": 84.91
+      }
+    },
+    {
+      "ward_slug": "wednesfield-south",
+      "ward_name": "Wednesfield South",
+      "ballot_id": "local.wolverhampton.wednesfield-south.2026-05-07",
+      "winner_count": 2,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Christopher Edmunds",
+          "votes": 1383
+        },
+        {
+          "party": "Reform UK",
+          "name": "Corey Kendrick",
+          "votes": 1291
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Christopher Edmunds",
+          "votes": 1383,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Corey Kendrick",
+          "votes": 1291,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Harjinder Kaur",
+          "votes": 950,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Gursharan Singh",
+          "votes": 919,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Peter Dickens",
+          "votes": 516,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Andy Randle",
+          "votes": 463,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Monika Kapoor",
+          "votes": 429,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 44.93,
+        "Labour": 31.41,
+        "Conservative": 16.45,
+        "Green": 7.21
+      },
+      "party_seats_won": {
+        "Reform UK": 2
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 5951,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T22:32:50Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05001340",
+        "qual_l4_pct": 20.67,
+        "no_qual_pct": 27.21,
+        "muslim_pct": 0.93,
+        "no_religion_pct": 32.45,
+        "age_under_35_pct": 41.61,
+        "age_65_plus_pct": 21.09,
+        "social_rented_pct": 45.14,
+        "white_british_pct": 69.63
+      }
+    }
+  ],
+  "n_wards_attempted": 20,
+  "n_wards_with_results": 18,
+  "n_wards_no_results": 2
+}

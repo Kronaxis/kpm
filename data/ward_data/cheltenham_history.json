@@ -1,0 +1,361 @@
+{
+  "council_slug": "cheltenham",
+  "source": "https://candidates.democracyclub.org.uk/api/next/",
+  "fetched_at": "2026-05-10T22:58:42Z",
+  "wards": [
+    {
+      "ward_slug": "all-saints",
+      "ward_name": "All Saints",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.cheltenham.all-saints.2024-05-02",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 57.7,
+        "Conservative": 20.82,
+        "Green": 14.17,
+        "Labour": 7.32
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 2
+      },
+      "prior_total_votes": 2993,
+      "prior_winner_count": 2
+    },
+    {
+      "ward_slug": "battledown",
+      "ward_name": "Battledown",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.cheltenham.battledown.2024-05-02",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 48.72,
+        "Conservative": 37.53,
+        "Green": 9.9,
+        "Labour": 3.84
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 2
+      },
+      "prior_total_votes": 3251,
+      "prior_winner_count": 2
+    },
+    {
+      "ward_slug": "benhall-the-reddings-fiddlers-green",
+      "ward_name": "Benhall, the Reddings & Fiddler's Green",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.cheltenham.benhall-the-reddings-fiddlers-green.2024-05-02",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 55.67,
+        "Conservative": 29.9,
+        "Green": 10.65,
+        "Labour": 3.79
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 2
+      },
+      "prior_total_votes": 3776,
+      "prior_winner_count": 2
+    },
+    {
+      "ward_slug": "charlton-kings",
+      "ward_name": "Charlton Kings",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.cheltenham.charlton-kings.2024-05-02",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 54.94,
+        "Conservative": 28.39,
+        "Green": 11.9,
+        "Labour": 4.76
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 2
+      },
+      "prior_total_votes": 3529,
+      "prior_winner_count": 2
+    },
+    {
+      "ward_slug": "charlton-park",
+      "ward_name": "Charlton Park",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.cheltenham.charlton-park.2024-05-02",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 60.66,
+        "Conservative": 26.49,
+        "Green": 7.9,
+        "Labour": 2.96,
+        "Independent": 1.99
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 2
+      },
+      "prior_total_votes": 3711,
+      "prior_winner_count": 2
+    },
+    {
+      "ward_slug": "college",
+      "ward_name": "College",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.cheltenham.college.2024-05-02",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 54.14,
+        "Green": 20.13,
+        "Conservative": 19.94,
+        "Labour": 5.78
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 2
+      },
+      "prior_total_votes": 3164,
+      "prior_winner_count": 2
+    },
+    {
+      "ward_slug": "hesters-way",
+      "ward_name": "Hesters Way",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.cheltenham.hesters-way.2024-05-02",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 42.78,
+        "Green": 29.73,
+        "Labour": 8.57,
+        "Conservative": 15.64,
+        "TUSC": 3.28
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 2
+      },
+      "prior_total_votes": 1739,
+      "prior_winner_count": 2
+    },
+    {
+      "ward_slug": "lansdown",
+      "ward_name": "Lansdown",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.cheltenham.lansdown.2024-05-02",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 44.47,
+        "Conservative": 31.21,
+        "Green": 13.5,
+        "Labour": 5.79,
+        "Independent": 5.04
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 2
+      },
+      "prior_total_votes": 2919,
+      "prior_winner_count": 2
+    },
+    {
+      "ward_slug": "leckhampton",
+      "ward_name": "Leckhampton",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.cheltenham.leckhampton.2024-05-02",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 54.62,
+        "Conservative": 29.49,
+        "Green": 11.3,
+        "Labour": 3.14,
+        "Independent": 1.46
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 2
+      },
+      "prior_total_votes": 3984,
+      "prior_winner_count": 2
+    },
+    {
+      "ward_slug": "oakley",
+      "ward_name": "Oakley",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.cheltenham.oakley.2024-05-02",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 58.29,
+        "Conservative": 22.58,
+        "Labour": 7.82,
+        "Green": 11.31
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 2
+      },
+      "prior_total_votes": 1918,
+      "prior_winner_count": 2
+    },
+    {
+      "ward_slug": "park",
+      "ward_name": "Park",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.cheltenham.park.2024-05-02",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 50.16,
+        "Conservative": 36.13,
+        "Green": 9.43,
+        "Labour": 4.28
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 2
+      },
+      "prior_total_votes": 3742,
+      "prior_winner_count": 2
+    },
+    {
+      "ward_slug": "pittville",
+      "ward_name": "Pittville",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.cheltenham.pittville.2024-05-02",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 53.54,
+        "Conservative": 27.37,
+        "Green": 14.27,
+        "Labour": 4.82
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 2
+      },
+      "prior_total_votes": 3321,
+      "prior_winner_count": 2
+    },
+    {
+      "ward_slug": "prestbury",
+      "ward_name": "Prestbury",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.cheltenham.prestbury.2024-05-02",
+      "prior_winning_party": "Green",
+      "prior_party_shares": {
+        "People Against Bureaucracy Group": 25.8,
+        "Green": 38.59,
+        "Conservative": 24.05,
+        "Liberal Democrat": 11.57
+      },
+      "prior_party_seats_won": {
+        "People Against Bureaucracy Group": 1,
+        "Green": 1
+      },
+      "prior_total_votes": 3597,
+      "prior_winner_count": 2
+    },
+    {
+      "ward_slug": "springbank",
+      "ward_name": "Springbank",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.cheltenham.springbank.2024-05-02",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 69.91,
+        "Conservative": 19.58,
+        "Green": 10.5
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 2
+      },
+      "prior_total_votes": 2114,
+      "prior_winner_count": 2
+    },
+    {
+      "ward_slug": "st-marks",
+      "ward_name": "St Mark's",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.cheltenham.st-marks.2024-05-02",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 57.55,
+        "Conservative": 19.94,
+        "Labour": 9.02,
+        "Green": 13.48
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 2
+      },
+      "prior_total_votes": 2462,
+      "prior_winner_count": 2
+    },
+    {
+      "ward_slug": "st-pauls",
+      "ward_name": "St Paul's",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.cheltenham.st-pauls.2024-05-02",
+      "prior_winning_party": "Green",
+      "prior_party_shares": {
+        "Green": 44.24,
+        "Liberal Democrat": 27.95,
+        "Labour": 10.55,
+        "Conservative": 9.95,
+        "Independent": 4.91,
+        "TUSC": 2.41
+      },
+      "prior_party_seats_won": {
+        "Green": 2
+      },
+      "prior_total_votes": 2161,
+      "prior_winner_count": 2
+    },
+    {
+      "ward_slug": "st-peters",
+      "ward_name": "St Peter's",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.cheltenham.st-peters.2024-05-02",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 59.45,
+        "Conservative": 15.91,
+        "Labour": 8.73,
+        "Green": 15.91
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 2
+      },
+      "prior_total_votes": 2565,
+      "prior_winner_count": 2
+    },
+    {
+      "ward_slug": "up-hatherley",
+      "ward_name": "Up Hatherley",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.cheltenham.up-hatherley.2024-05-02",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 59.76,
+        "Conservative": 25.93,
+        "Green": 10.02,
+        "Labour": 4.29
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 2
+      },
+      "prior_total_votes": 3633,
+      "prior_winner_count": 2
+    },
+    {
+      "ward_slug": "warden-hill",
+      "ward_name": "Warden Hill",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.cheltenham.warden-hill.2024-05-02",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 59.9,
+        "Conservative": 29.18,
+        "Green": 7.63,
+        "Labour": 3.29
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 2
+      },
+      "prior_total_votes": 3252,
+      "prior_winner_count": 2
+    }
+  ],
+  "n_wards_attempted": 19,
+  "n_wards_with_history": 19,
+  "n_wards_no_history": 0,
+  "prior_year_distribution": {
+    "2024": 19
+  }
+}

@@ -1,0 +1,365 @@
+{
+  "council_slug": "bolton",
+  "source": "https://candidates.democracyclub.org.uk/api/next/",
+  "fetched_at": "2026-05-10T23:00:20Z",
+  "wards": [
+    {
+      "ward_slug": "astley-bridge",
+      "ward_name": "Astley Bridge",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.bolton.astley-bridge.2024-05-02",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 37.98,
+        "Labour": 37.96,
+        "Green": 13.51,
+        "Reform UK and Bolton For Change": 10.54
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 4107,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "bradshaw",
+      "ward_name": "Bradshaw",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.bolton.bradshaw.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 40.35,
+        "Conservative": 39.0,
+        "Reform UK and Bolton For Change": 12.17,
+        "Green": 4.97,
+        "Liberal Democrat": 3.51
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3559,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "breightmet",
+      "ward_name": "Breightmet",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.bolton.breightmet.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 42.44,
+        "Conservative": 37.09,
+        "Reform UK and Bolton For Change": 13.95,
+        "Green": 4.56,
+        "Liberal Democrat": 1.97
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3047,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "bromley-cross",
+      "ward_name": "Bromley Cross",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.bolton.bromley-cross.2024-05-02",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 46.31,
+        "Labour": 35.7,
+        "Reform UK and Bolton For Change": 9.67,
+        "Green": 5.36,
+        "Liberal Democrat": 2.97
+      },
+      "prior_party_seats_won": {
+        "Conservative": 1
+      },
+      "prior_total_votes": 3807,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "farnworth-north",
+      "ward_name": "Farnworth North",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.bolton.farnworth-north.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 32.78,
+        "Farnworth and Kearsley First Party": 25.27,
+        "Conservative": 18.77,
+        "Reform UK and Bolton For Change": 10.76,
+        "Green": 9.86,
+        "Liberal Democrat": 2.56
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2770,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "farnworth-south",
+      "ward_name": "Farnworth South",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.bolton.farnworth-south.2024-05-02",
+      "prior_winning_party": "Farnworth and Kearsley First Party",
+      "prior_party_shares": {
+        "Farnworth and Kearsley First Party": 43.07,
+        "Labour": 33.22,
+        "Reform UK and Bolton For Change": 12.9,
+        "Conservative": 4.64,
+        "Green": 4.64,
+        "Liberal Democrat": 1.55
+      },
+      "prior_party_seats_won": {
+        "Farnworth and Kearsley First Party": 1
+      },
+      "prior_total_votes": 2264,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "great-lever",
+      "ward_name": "Great Lever",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.bolton.great-lever.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 48.38,
+        "Green": 32.09,
+        "Reform UK and Bolton For Change": 11.29,
+        "Conservative": 8.24
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3144,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "halliwell",
+      "ward_name": "Halliwell",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.bolton.halliwell.2024-05-02",
+      "prior_winning_party": "Green",
+      "prior_party_shares": {
+        "Green": 45.14,
+        "Labour": 37.73,
+        "Reform UK and Bolton For Change": 7.94,
+        "Liberal Democrat": 5.28,
+        "Conservative": 3.91
+      },
+      "prior_party_seats_won": {
+        "Green": 1
+      },
+      "prior_total_votes": 3374,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "horwich-north",
+      "ward_name": "Horwich North",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.bolton.horwich-north.2023-05-04",
+      "prior_winning_party": "Horwich & Blackrod First Independents",
+      "prior_party_shares": {
+        "Horwich & Blackrod First Independents": 44.58,
+        "Labour": 35.33,
+        "Conservative": 12.97,
+        "Green": 2.08,
+        "Liberal Democrat": 3.66,
+        "Reform UK and Bolton For Change": 1.38
+      },
+      "prior_party_seats_won": {
+        "Horwich & Blackrod First Independents": 3
+      },
+      "prior_total_votes": 11468,
+      "prior_winner_count": 3
+    },
+    {
+      "ward_slug": "horwich-south-blackrod",
+      "ward_name": "Horwich South & Blackrod",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.bolton.horwich-south-blackrod.2024-05-02",
+      "prior_winning_party": "Horwich & Blackrod First Independents",
+      "prior_party_shares": {
+        "Horwich & Blackrod First Independents": 48.41,
+        "Labour": 28.2,
+        "Conservative": 12.98,
+        "Reform UK and Bolton For Change": 4.43,
+        "Green": 3.5,
+        "Liberal Democrat": 2.47
+      },
+      "prior_party_seats_won": {
+        "Horwich & Blackrod First Independents": 1
+      },
+      "prior_total_votes": 3113,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "hulton",
+      "ward_name": "Hulton",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.bolton.hulton.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 29.86,
+        "Conservative": 20.29,
+        "Independent": 19.35,
+        "Workers Party of Britain": 13.44,
+        "Reform UK and Bolton For Change": 8.71,
+        "Green": 5.69,
+        "Liberal Democrat": 2.66
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 4062,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "kearsley",
+      "ward_name": "Kearsley",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.bolton.kearsley.2024-05-02",
+      "prior_winning_party": "Farnworth and Kearsley First Party",
+      "prior_party_shares": {
+        "Farnworth and Kearsley First Party": 49.94,
+        "Labour": 34.77,
+        "Reform UK and Bolton For Change": 6.07,
+        "Conservative": 5.79,
+        "Green": 2.12,
+        "Liberal Democrat": 1.3
+      },
+      "prior_party_seats_won": {
+        "Farnworth and Kearsley First Party": 1
+      },
+      "prior_total_votes": 2453,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "little-lever-darcy-lever",
+      "ward_name": "Little Lever & Darcy Lever",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.bolton.little-lever-darcy-lever.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 37.74,
+        "Conservative": 27.06,
+        "Independent": 19.33,
+        "Reform UK and Bolton For Change": 12.35,
+        "Liberal Democrat": 3.52
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3182,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "queens-park-central",
+      "ward_name": "Queens Park & Central",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.bolton.queens-park-central.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 43.66,
+        "Workers Party of Britain": 29.27,
+        "Reform UK and Bolton For Change": 7.68,
+        "Green": 7.65,
+        "Conservative": 5.84,
+        "Liberal Democrat": 3.27,
+        "Independent": 2.64
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2877,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "rumworth",
+      "ward_name": "Rumworth",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.bolton.rumworth.2024-05-02",
+      "prior_winning_party": "Independent",
+      "prior_party_shares": {
+        "Independent": 48.25,
+        "Labour": 30.16,
+        "Green": 13.34,
+        "Conservative": 3.71,
+        "Reform UK and Bolton For Change": 3.37,
+        "Liberal Democrat": 1.16
+      },
+      "prior_party_seats_won": {
+        "Independent": 1
+      },
+      "prior_total_votes": 4124,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "smithills",
+      "ward_name": "Smithills",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.bolton.smithills.2024-05-02",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 45.91,
+        "Labour": 23.34,
+        "Green": 12.17,
+        "Reform UK and Bolton For Change": 9.92,
+        "Conservative": 8.67
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "prior_total_votes": 3681,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "tonge-with-the-haulgh",
+      "ward_name": "Tonge with the Haulgh",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.bolton.tonge-with-the-haulgh.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 44.75,
+        "Reform UK and Bolton For Change": 28.47,
+        "Conservative": 16.01,
+        "Green": 6.88,
+        "Liberal Democrat": 3.89
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2905,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "westhoughton-north-hunger-hill",
+      "ward_name": "Westhoughton North & Hunger Hill",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.bolton.westhoughton-north-hunger-hill.2024-05-02",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 33.84,
+        "Conservative": 25.06,
+        "Labour": 23.1,
+        "Reform UK and Bolton For Change": 9.35,
+        "Westhoughton First Independents": 5.62,
+        "Green": 3.04
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "prior_total_votes": 3360,
+      "prior_winner_count": 1
+    }
+  ],
+  "n_wards_attempted": 18,
+  "n_wards_with_history": 18,
+  "n_wards_no_history": 0,
+  "prior_year_distribution": {
+    "2024": 17,
+    "2023": 1
+  }
+}

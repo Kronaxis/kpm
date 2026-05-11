@@ -1,0 +1,1111 @@
+{
+  "council_slug": "bury",
+  "election_date": "2026-05-07",
+  "source": "https://candidates.democracyclub.org.uk/api/next/",
+  "fetched_at": "2026-05-10T23:20:41Z",
+  "wards": [
+    {
+      "ward_slug": "besses",
+      "ward_name": "Besses",
+      "ballot_id": "local.bury.besses.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Labour",
+          "name": "Noel Bayley",
+          "votes": 1130
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Labour",
+          "name": "Noel Bayley",
+          "votes": 1130,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Elizabeth Melanie Clark",
+          "votes": 1028,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Tom Gray",
+          "votes": 567,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Pat Grant",
+          "votes": 246,
+          "elected": false
+        },
+        {
+          "party": "Bury Independents",
+          "name": "Martyn John West",
+          "votes": 213,
+          "elected": false
+        },
+        {
+          "party": "English Democrats",
+          "name": "Stephen Morris",
+          "votes": 50,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Labour": 34.94,
+        "Reform UK": 31.79,
+        "Green": 17.53,
+        "Conservative": 7.61,
+        "Bury Independents": 6.59,
+        "English Democrats": 1.55
+      },
+      "party_seats_won": {
+        "Labour": 1
+      },
+      "winning_party": "Labour",
+      "total_votes": 3234,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:20:42Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05014152",
+        "qual_l4_pct": 30.29,
+        "no_qual_pct": 18.53,
+        "muslim_pct": 5.39,
+        "no_religion_pct": 34.64,
+        "age_under_35_pct": 44.83,
+        "age_65_plus_pct": 16.49,
+        "social_rented_pct": 50.37,
+        "white_british_pct": 76.47
+      }
+    },
+    {
+      "ward_slug": "bury-east",
+      "ward_name": "Bury East",
+      "ballot_id": "local.bury.bury-east.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Labour",
+          "name": "Ayesha Arif",
+          "votes": 1051
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Labour",
+          "name": "Ayesha Arif",
+          "votes": 1051,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Nick Haslam",
+          "votes": 916,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Maisie Cunningham",
+          "votes": 509,
+          "elected": false
+        },
+        {
+          "party": "Workers Party of Britain",
+          "name": "Bilal Zahoor",
+          "votes": 439,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Hasan Rahman",
+          "votes": 193,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Labour": 33.82,
+        "Reform UK": 29.47,
+        "Green": 16.38,
+        "Workers Party of Britain": 14.12,
+        "Conservative": 6.21
+      },
+      "party_seats_won": {
+        "Labour": 1
+      },
+      "winning_party": "Labour",
+      "total_votes": 3108,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:20:44Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05014153",
+        "qual_l4_pct": 23.16,
+        "no_qual_pct": 27.3,
+        "muslim_pct": 31.39,
+        "no_religion_pct": 25.23,
+        "age_under_35_pct": 49.5,
+        "age_65_plus_pct": 13.24,
+        "social_rented_pct": 53.51,
+        "white_british_pct": 53.37
+      }
+    },
+    {
+      "ward_slug": "bury-west",
+      "ward_name": "Bury West",
+      "ballot_id": "local.bury.bury-west.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "David Hill",
+          "votes": 1449
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "David Hill",
+          "votes": 1449,
+          "elected": true
+        },
+        {
+          "party": "Conservative",
+          "name": "Jackie Harris",
+          "votes": 1306,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Helen Jane Varnom",
+          "votes": 685,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Elle Riley",
+          "votes": 530,
+          "elected": false
+        },
+        {
+          "party": "Together for Bury",
+          "name": "Carol Anne Bernstein",
+          "votes": 204,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 34.71,
+        "Conservative": 31.29,
+        "Labour": 16.41,
+        "Green": 12.7,
+        "Together for Bury": 4.89
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 4174,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:20:46Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05014154",
+        "qual_l4_pct": 32.84,
+        "no_qual_pct": 16.44,
+        "muslim_pct": 5.14,
+        "no_religion_pct": 28.94,
+        "age_under_35_pct": 35.51,
+        "age_65_plus_pct": 28.89,
+        "social_rented_pct": 18.91,
+        "white_british_pct": 87.19
+      }
+    },
+    {
+      "ward_slug": "elton",
+      "ward_name": "Elton",
+      "ballot_id": "local.bury.elton.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Jack Bernard Rydeheard",
+          "votes": 1619
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Jack Bernard Rydeheard",
+          "votes": 1619,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "James Ferguson",
+          "votes": 1103,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Gary Joseph Kirkley",
+          "votes": 485,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Mazhar Aslam",
+          "votes": 469,
+          "elected": false
+        },
+        {
+          "party": "Bury Independents",
+          "name": "Michael Hankey",
+          "votes": 298,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 40.74,
+        "Labour": 27.76,
+        "Green": 12.2,
+        "Conservative": 11.8,
+        "Bury Independents": 7.5
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 3974,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:20:47Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05014155",
+        "qual_l4_pct": 31.66,
+        "no_qual_pct": 16.81,
+        "muslim_pct": 5.88,
+        "no_religion_pct": 32.34,
+        "age_under_35_pct": 40.7,
+        "age_65_plus_pct": 21.12,
+        "social_rented_pct": 22.21,
+        "white_british_pct": 86.36
+      }
+    },
+    {
+      "ward_slug": "north-manor",
+      "ward_name": "North Manor",
+      "ballot_id": "local.bury.north-manor.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Labour",
+          "name": "Julie Anne Southworth",
+          "votes": 1563
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Labour",
+          "name": "Julie Anne Southworth",
+          "votes": 1563,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Mike Hankins",
+          "votes": 1308,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Roger Charles Arthur Brown",
+          "votes": 1182,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Charlie Allen",
+          "votes": 370,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Labour": 35.34,
+        "Reform UK": 29.57,
+        "Conservative": 26.72,
+        "Green": 8.37
+      },
+      "party_seats_won": {
+        "Labour": 1
+      },
+      "winning_party": "Labour",
+      "total_votes": 4423,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:21:10Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05014158",
+        "qual_l4_pct": 41.5,
+        "no_qual_pct": 12.62,
+        "muslim_pct": 0.94,
+        "no_religion_pct": 29.32,
+        "age_under_35_pct": 30.11,
+        "age_65_plus_pct": 32.74,
+        "social_rented_pct": 8.79,
+        "white_british_pct": 94.18
+      }
+    },
+    {
+      "ward_slug": "pilkington-park",
+      "ward_name": "Pilkington Park",
+      "ballot_id": "local.bury.pilkington-park.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Shadman Zaman",
+          "votes": 1345
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Shadman Zaman",
+          "votes": 1345,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "John Joseph Mallon",
+          "votes": 987,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Peter John Freeman",
+          "votes": 703,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "John Fitzpatrick",
+          "votes": 525,
+          "elected": false
+        },
+        {
+          "party": "Together for Bury",
+          "name": "Russell Stewart Bernstein",
+          "votes": 342,
+          "elected": false
+        },
+        {
+          "party": "Communist Party of Britain",
+          "name": "Dan Ross",
+          "votes": 14,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 34.35,
+        "Labour": 25.2,
+        "Conservative": 17.95,
+        "Green": 13.41,
+        "Together for Bury": 8.73,
+        "Communist Party of Britain": 0.36
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 3916,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:21:12Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05014159",
+        "qual_l4_pct": 41.19,
+        "no_qual_pct": 15.38,
+        "muslim_pct": 6.19,
+        "no_religion_pct": 23.59,
+        "age_under_35_pct": 35.12,
+        "age_65_plus_pct": 27.7,
+        "social_rented_pct": 9.81,
+        "white_british_pct": 77.72
+      }
+    },
+    {
+      "ward_slug": "radcliffe-east",
+      "ward_name": "Radcliffe East",
+      "ballot_id": "local.bury.radcliffe-east.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Radcliffe First",
+          "name": "Carol Ann Birchmore",
+          "votes": 1293
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Radcliffe First",
+          "name": "Carol Ann Birchmore",
+          "votes": 1293,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Oscar David Kelly",
+          "votes": 799,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Sally McGill",
+          "votes": 325,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Mark Alexander Carrigan",
+          "votes": 309,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Azhar Ismaeel Mehboob",
+          "votes": 95,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Radcliffe First": 45.83,
+        "Reform UK": 28.32,
+        "Labour": 11.52,
+        "Green": 10.95,
+        "Conservative": 3.37
+      },
+      "party_seats_won": {
+        "Radcliffe First": 1
+      },
+      "winning_party": "Radcliffe First",
+      "total_votes": 2821,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:21:13Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05014160",
+        "qual_l4_pct": 24.86,
+        "no_qual_pct": 19.21,
+        "muslim_pct": 6.5,
+        "no_religion_pct": 35.35,
+        "age_under_35_pct": 46.41,
+        "age_65_plus_pct": 15.07,
+        "social_rented_pct": 31.82,
+        "white_british_pct": 82.92
+      }
+    },
+    {
+      "ward_slug": "radcliffe-north-ainsworth",
+      "ward_name": "Radcliffe North & Ainsworth",
+      "ballot_id": "local.bury.radcliffe-north-ainsworth.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Paul Davies",
+          "votes": 1371
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Paul Davies",
+          "votes": 1371,
+          "elected": true
+        },
+        {
+          "party": "Radcliffe First",
+          "name": "Donald Berry",
+          "votes": 1360,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Andrew McAnulty",
+          "votes": 424,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Phil Smith",
+          "votes": 363,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Lilly Beards",
+          "votes": 307,
+          "elected": false
+        },
+        {
+          "party": "Communist Party of Britain",
+          "name": "Eddy Redmund",
+          "votes": 8,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 35.77,
+        "Radcliffe First": 35.48,
+        "Labour": 11.06,
+        "Conservative": 9.47,
+        "Green": 8.01,
+        "Communist Party of Britain": 0.21
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 3833,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:21:39Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05014161",
+        "qual_l4_pct": 26.35,
+        "no_qual_pct": 19.51,
+        "muslim_pct": 2.25,
+        "no_religion_pct": 31.69,
+        "age_under_35_pct": 36.62,
+        "age_65_plus_pct": 24.43,
+        "social_rented_pct": 36.04,
+        "white_british_pct": 91.27
+      }
+    },
+    {
+      "ward_slug": "radcliffe-west",
+      "ward_name": "Radcliffe West",
+      "ballot_id": "local.bury.radcliffe-west.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Radcliffe First",
+          "name": "Judi Sheppard",
+          "votes": 1058
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Radcliffe First",
+          "name": "Judi Sheppard",
+          "votes": 1058,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Glyn Stuart Marsden",
+          "votes": 888,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Josh Harcup",
+          "votes": 436,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Reece Bowey",
+          "votes": 305,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Keith Worthington",
+          "votes": 156,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Radcliffe First": 37.21,
+        "Reform UK": 31.23,
+        "Labour": 15.34,
+        "Green": 10.73,
+        "Conservative": 5.49
+      },
+      "party_seats_won": {
+        "Radcliffe First": 1
+      },
+      "winning_party": "Radcliffe First",
+      "total_votes": 2843,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:21:41Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05014162",
+        "qual_l4_pct": 25.46,
+        "no_qual_pct": 21.45,
+        "muslim_pct": 4.65,
+        "no_religion_pct": 36.28,
+        "age_under_35_pct": 45.59,
+        "age_65_plus_pct": 15.67,
+        "social_rented_pct": 45.8,
+        "white_british_pct": 83.48
+      }
+    },
+    {
+      "ward_slug": "ramsbottom",
+      "ward_name": "Ramsbottom",
+      "ballot_id": "local.bury.ramsbottom.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Labour",
+          "name": "Charlotte Louise Hunt",
+          "votes": 1634
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Labour",
+          "name": "Charlotte Louise Hunt",
+          "votes": 1634,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Zach Jacob Campbell-Robinson",
+          "votes": 1318,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Ann Schofield",
+          "votes": 600,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Alex Mays",
+          "votes": 507,
+          "elected": false
+        },
+        {
+          "party": "Independent",
+          "name": "Jonathan Moss",
+          "votes": 323,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Martyn Bristow",
+          "votes": 119,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Labour": 36.3,
+        "Reform UK": 29.28,
+        "Conservative": 13.33,
+        "Green": 11.26,
+        "Independent": 7.18,
+        "Liberal Democrat": 2.64
+      },
+      "party_seats_won": {
+        "Labour": 1
+      },
+      "winning_party": "Labour",
+      "total_votes": 4501,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:21:48Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05014163",
+        "qual_l4_pct": 39.3,
+        "no_qual_pct": 13.64,
+        "muslim_pct": 2.39,
+        "no_religion_pct": 36.2,
+        "age_under_35_pct": 37.78,
+        "age_65_plus_pct": 20.66,
+        "social_rented_pct": 19.91,
+        "white_british_pct": 91.71
+      }
+    },
+    {
+      "ward_slug": "redvales",
+      "ward_name": "Redvales",
+      "ballot_id": "local.bury.redvales.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Workers Party of Britain",
+          "name": "Shabaz Imtiaz Shamim",
+          "votes": 1029
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Workers Party of Britain",
+          "name": "Shabaz Imtiaz Shamim",
+          "votes": 1029,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Nikki Frith",
+          "votes": 788,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Tony Davies",
+          "votes": 771,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Usma Khan",
+          "votes": 445,
+          "elected": false
+        },
+        {
+          "party": "Bury Independents",
+          "name": "Alice Sugden",
+          "votes": 232,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Geoff Baron",
+          "votes": 224,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Workers Party of Britain": 29.49,
+        "Labour": 22.59,
+        "Reform UK": 22.1,
+        "Green": 12.75,
+        "Bury Independents": 6.65,
+        "Conservative": 6.42
+      },
+      "party_seats_won": {
+        "Workers Party of Britain": 1
+      },
+      "winning_party": "Workers Party of Britain",
+      "total_votes": 3489,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:21:49Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05014164",
+        "qual_l4_pct": 26.86,
+        "no_qual_pct": 23.34,
+        "muslim_pct": 32.66,
+        "no_religion_pct": 22.78,
+        "age_under_35_pct": 46.19,
+        "age_65_plus_pct": 15.49,
+        "social_rented_pct": 49.36,
+        "white_british_pct": 54.06
+      }
+    },
+    {
+      "ward_slug": "sedgley",
+      "ward_name": "Sedgley",
+      "ballot_id": "local.bury.sedgley.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Labour",
+          "name": "Richard Gold",
+          "votes": 1139
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Labour",
+          "name": "Richard Gold",
+          "votes": 1139,
+          "elected": true
+        },
+        {
+          "party": "Conservative",
+          "name": "Avi Schwartz",
+          "votes": 844,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Dacey Rose Prentice",
+          "votes": 796,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Rachel Carys Webster",
+          "votes": 666,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Labour": 33.06,
+        "Conservative": 24.5,
+        "Reform UK": 23.11,
+        "Green": 19.33
+      },
+      "party_seats_won": {
+        "Labour": 1
+      },
+      "winning_party": "Labour",
+      "total_votes": 3445,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:21:51Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05014165",
+        "qual_l4_pct": 37.53,
+        "no_qual_pct": 16.89,
+        "muslim_pct": 13.6,
+        "no_religion_pct": 15.1,
+        "age_under_35_pct": 51.4,
+        "age_65_plus_pct": 15.29,
+        "social_rented_pct": 20.0,
+        "white_british_pct": 65.83
+      }
+    },
+    {
+      "ward_slug": "st-marys",
+      "ward_name": "St. Mary's",
+      "ballot_id": "local.bury.st-marys.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Labour",
+          "name": "Eamonn O'Brien",
+          "votes": 1884
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Labour",
+          "name": "Eamonn O'Brien",
+          "votes": 1884,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Luke James Broadfoot",
+          "votes": 998,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Max Wyatt Sampson",
+          "votes": 838,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Ann Buckley",
+          "votes": 415,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Labour": 45.56,
+        "Reform UK": 24.14,
+        "Green": 20.27,
+        "Conservative": 10.04
+      },
+      "party_seats_won": {
+        "Labour": 1
+      },
+      "winning_party": "Labour",
+      "total_votes": 4135,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:21:53Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05014166",
+        "qual_l4_pct": 41.83,
+        "no_qual_pct": 17.27,
+        "muslim_pct": 7.18,
+        "no_religion_pct": 32.23,
+        "age_under_35_pct": 39.41,
+        "age_65_plus_pct": 20.37,
+        "social_rented_pct": 35.48,
+        "white_british_pct": 74.16
+      }
+    },
+    {
+      "ward_slug": "tottington",
+      "ward_name": "Tottington",
+      "ballot_id": "local.bury.tottington.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Independent",
+          "name": "Yvonne Susan Wright",
+          "votes": 1566
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Independent",
+          "name": "Yvonne Susan Wright",
+          "votes": 1566,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Liz Cronshaw",
+          "votes": 1099,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Andrew Paul Luxton",
+          "votes": 528,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Drew Keanu Bell",
+          "votes": 360,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Chloe King",
+          "votes": 232,
+          "elected": false
+        },
+        {
+          "party": "Together for Bury",
+          "name": "Greg Keeley",
+          "votes": 49,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Independent": 40.85,
+        "Reform UK": 28.66,
+        "Conservative": 13.77,
+        "Labour": 9.39,
+        "Green": 6.05,
+        "Together for Bury": 1.28
+      },
+      "party_seats_won": {
+        "Independent": 1
+      },
+      "winning_party": "Independent",
+      "total_votes": 3834,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:22:18Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05014167",
+        "qual_l4_pct": 33.34,
+        "no_qual_pct": 14.23,
+        "muslim_pct": 1.18,
+        "no_religion_pct": 31.29,
+        "age_under_35_pct": 35.66,
+        "age_65_plus_pct": 24.58,
+        "social_rented_pct": 9.02,
+        "white_british_pct": 93.64
+      }
+    },
+    {
+      "ward_slug": "unsworth",
+      "ward_name": "Unsworth",
+      "ballot_id": "local.bury.unsworth.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Jerome Samuel Magnus Roith",
+          "votes": 1340
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Jerome Samuel Magnus Roith",
+          "votes": 1340,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Katherine Thorpe",
+          "votes": 1018,
+          "elected": false
+        },
+        {
+          "party": "Bury Independents",
+          "name": "Steve Middleton",
+          "votes": 702,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Samantha Davies",
+          "votes": 418,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Max Blackwell Pickup",
+          "votes": 398,
+          "elected": false
+        },
+        {
+          "party": "Workers Party of Britain",
+          "name": "Mehwish Nasir",
+          "votes": 43,
+          "elected": false
+        },
+        {
+          "party": "Communist Party of Britain",
+          "name": "Chris Malkin",
+          "votes": 11,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 34.1,
+        "Labour": 25.9,
+        "Bury Independents": 17.86,
+        "Conservative": 10.64,
+        "Green": 10.13,
+        "Workers Party of Britain": 1.09,
+        "Communist Party of Britain": 0.28
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 3930,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T23:22:20Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05014168",
+        "qual_l4_pct": 31.78,
+        "no_qual_pct": 17.46,
+        "muslim_pct": 7.19,
+        "no_religion_pct": 25.85,
+        "age_under_35_pct": 36.93,
+        "age_65_plus_pct": 24.14,
+        "social_rented_pct": 22.51,
+        "white_british_pct": 83.03
+      }
+    }
+  ],
+  "n_wards_attempted": 17,
+  "n_wards_with_results": 15,
+  "n_wards_no_results": 2
+}

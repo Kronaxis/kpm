@@ -1,0 +1,164 @@
+{
+  "council_slug": "sunderland",
+  "source": "https://candidates.democracyclub.org.uk/api/next/",
+  "fetched_at": "2026-05-11T04:34:48Z",
+  "wards": [
+    {
+      "ward_slug": "fulwell",
+      "ward_name": "Fulwell",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.sunderland.fulwell.2023-05-04",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 48.09,
+        "Conservative": 26.52,
+        "Labour": 18.38,
+        "Reform UK": 3.22,
+        "Green": 2.76,
+        "The Official Monster Raving Loony Party": 1.02
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "prior_total_votes": 3907,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "ryhope",
+      "ward_name": "Ryhope",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.sunderland.ryhope.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 53.72,
+        "Reform UK": 25.99,
+        "Conservative": 13.67,
+        "Liberal Democrat": 6.62
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2524,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "southwick",
+      "ward_name": "Southwick",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.sunderland.southwick.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 54.99,
+        "Reform UK": 21.83,
+        "Conservative": 10.94,
+        "Green": 6.7,
+        "Liberal Democrat": 5.54
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2075,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "washington-central",
+      "ward_name": "Washington Central",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.sunderland.washington-central.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 62.87,
+        "Conservative": 16.72,
+        "Reform UK": 12.03,
+        "Green": 5.0,
+        "Liberal Democrat": 3.38
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2661,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "washington-east",
+      "ward_name": "Washington East",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.sunderland.washington-east.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 56.65,
+        "Conservative": 19.09,
+        "Reform UK": 16.17,
+        "Liberal Democrat": 8.09
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2881,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "washington-north",
+      "ward_name": "Washington North",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.sunderland.washington-north.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 64.04,
+        "Reform UK": 22.04,
+        "Conservative": 8.25,
+        "Liberal Democrat": 5.67
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2169,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "washington-south",
+      "ward_name": "Washington South",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.sunderland.washington-south.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 51.75,
+        "Conservative": 29.62,
+        "Reform UK": 12.71,
+        "Green": 3.19,
+        "Liberal Democrat": 2.73
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3005,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "washington-west",
+      "ward_name": "Washington West",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.sunderland.washington-west.2023-05-04",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 56.84,
+        "Conservative": 21.12,
+        "Green": 8.45,
+        "Liberal Democrat": 8.15,
+        "Reform UK": 5.45
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2699,
+      "prior_winner_count": 1
+    }
+  ],
+  "n_wards_attempted": 24,
+  "n_wards_with_history": 8,
+  "n_wards_no_history": 16,
+  "prior_year_distribution": {
+    "2023": 2,
+    "2024": 6
+  }
+}

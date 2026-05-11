@@ -1,0 +1,1325 @@
+{
+  "council_slug": "bolton",
+  "election_date": "2026-05-07",
+  "source": "https://candidates.democracyclub.org.uk/api/next/",
+  "fetched_at": "2026-05-10T22:35:17Z",
+  "wards": [
+    {
+      "ward_slug": "astley-bridge",
+      "ward_name": "Astley Bridge",
+      "ballot_id": "local.bolton.astley-bridge.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Ryan Bailey",
+          "votes": 1635
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Ryan Bailey",
+          "votes": 1635,
+          "elected": true
+        },
+        {
+          "party": "Conservative",
+          "name": "John Walsh",
+          "votes": 1248,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Lee Thorne",
+          "votes": 1147,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Phil Warren",
+          "votes": 807,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Sarita Chohan",
+          "votes": 106,
+          "elected": false
+        },
+        {
+          "party": "Independent",
+          "name": "Peter Brett Hopkinson",
+          "votes": 53,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 32.73,
+        "Conservative": 24.98,
+        "Green": 22.96,
+        "Labour": 16.15,
+        "Liberal Democrat": 2.12,
+        "Independent": 1.06
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 4996,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T22:35:19Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000650",
+        "qual_l4_pct": 30.72,
+        "no_qual_pct": 17.54,
+        "muslim_pct": 15.76,
+        "no_religion_pct": 27.22,
+        "age_under_35_pct": 39.18,
+        "age_65_plus_pct": 22.23,
+        "social_rented_pct": 27.31,
+        "white_british_pct": 76.53
+      }
+    },
+    {
+      "ward_slug": "bradshaw",
+      "ward_name": "Bradshaw",
+      "ballot_id": "local.bolton.bradshaw.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Conservative",
+          "name": "Les Webb",
+          "votes": 1801
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Conservative",
+          "name": "Les Webb",
+          "votes": 1801,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Sandra Harris",
+          "votes": 1712,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Peter Dennis Firth",
+          "votes": 745,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Jennifer Entwistle",
+          "votes": 423,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Christine Anne Strawbridge",
+          "votes": 130,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Conservative": 37.44,
+        "Reform UK": 35.59,
+        "Labour": 15.49,
+        "Green": 8.79,
+        "Liberal Democrat": 2.7
+      },
+      "party_seats_won": {
+        "Conservative": 1
+      },
+      "winning_party": "Conservative",
+      "total_votes": 4811,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T22:35:20Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000651",
+        "qual_l4_pct": 32.52,
+        "no_qual_pct": 16.91,
+        "muslim_pct": 1.14,
+        "no_religion_pct": 29.32,
+        "age_under_35_pct": 35.35,
+        "age_65_plus_pct": 30.58,
+        "social_rented_pct": 26.77,
+        "white_british_pct": 91.25
+      }
+    },
+    {
+      "ward_slug": "breightmet",
+      "ward_name": "Breightmet",
+      "ballot_id": "local.bolton.breightmet.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Mike Tucker",
+          "votes": 1890
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Mike Tucker",
+          "votes": 1890,
+          "elected": true
+        },
+        {
+          "party": "Conservative",
+          "name": "Adele Kay Warren",
+          "votes": 974,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Kate Elizabeth Taylor",
+          "votes": 605,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Gillian Fernley",
+          "votes": 413,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Derek John Gradwell",
+          "votes": 80,
+          "elected": false
+        },
+        {
+          "party": "Independent",
+          "name": "Wendy Ann Hopkinson",
+          "votes": 33,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 47.31,
+        "Conservative": 24.38,
+        "Labour": 15.14,
+        "Green": 10.34,
+        "Liberal Democrat": 2.0,
+        "Independent": 0.83
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 3995,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T22:35:22Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000652",
+        "qual_l4_pct": 20.23,
+        "no_qual_pct": 25.88,
+        "muslim_pct": 3.43,
+        "no_religion_pct": 36.04,
+        "age_under_35_pct": 42.73,
+        "age_65_plus_pct": 20.52,
+        "social_rented_pct": 68.85,
+        "white_british_pct": 86.16
+      }
+    },
+    {
+      "ward_slug": "bromley-cross",
+      "ward_name": "Bromley Cross",
+      "ballot_id": "local.bolton.bromley-cross.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Conservative",
+          "name": "Charlotte Anne Cadden",
+          "votes": 1794
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Conservative",
+          "name": "Charlotte Anne Cadden",
+          "votes": 1794,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Jayden Cain",
+          "votes": 1669,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Joe Burton",
+          "votes": 718,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Bill Lovat",
+          "votes": 597,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Jim Priest",
+          "votes": 164,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Conservative": 36.3,
+        "Reform UK": 33.77,
+        "Green": 14.53,
+        "Labour": 12.08,
+        "Liberal Democrat": 3.32
+      },
+      "party_seats_won": {
+        "Conservative": 1
+      },
+      "winning_party": "Conservative",
+      "total_votes": 4942,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T22:35:24Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000653",
+        "qual_l4_pct": 39.84,
+        "no_qual_pct": 12.06,
+        "muslim_pct": 0.95,
+        "no_religion_pct": 31.61,
+        "age_under_35_pct": 34.43,
+        "age_65_plus_pct": 25.82,
+        "social_rented_pct": 8.75,
+        "white_british_pct": 94.31
+      }
+    },
+    {
+      "ward_slug": "farnworth-north",
+      "ward_name": "Farnworth North",
+      "ballot_id": "local.bolton.farnworth-north.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Labour",
+          "name": "Nadeem Ayub",
+          "votes": 1131
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Labour",
+          "name": "Nadeem Ayub",
+          "votes": 1131,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Rees Gibbon",
+          "votes": 1109,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Philip Kochitty",
+          "votes": 648,
+          "elected": false
+        },
+        {
+          "party": "Farnworth and Kearsley First Party",
+          "name": "Sandra Baker",
+          "votes": 642,
+          "elected": false
+        },
+        {
+          "party": "Independent",
+          "name": "Champak Mistry",
+          "votes": 235,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Ryan Cain",
+          "votes": 103,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Andrew John Tonge",
+          "votes": 35,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Labour": 28.98,
+        "Reform UK": 28.41,
+        "Green": 16.6,
+        "Farnworth and Kearsley First Party": 16.45,
+        "Independent": 6.02,
+        "Conservative": 2.64,
+        "Liberal Democrat": 0.9
+      },
+      "party_seats_won": {
+        "Labour": 1
+      },
+      "winning_party": "Labour",
+      "total_votes": 3903,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T22:35:25Z",
+      "census": {
+        "matched": false,
+        "note": "no Census ward found by name"
+      }
+    },
+    {
+      "ward_slug": "farnworth-south",
+      "ward_name": "Farnworth South",
+      "ballot_id": "local.bolton.farnworth-south.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Julie Pattison",
+          "votes": 1220
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Julie Pattison",
+          "votes": 1220,
+          "elected": true
+        },
+        {
+          "party": "Farnworth and Kearsley First Party",
+          "name": "Paul Sanders",
+          "votes": 956,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Wesley McArdle",
+          "votes": 343,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "David Wright",
+          "votes": 338,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Kubbar Alom",
+          "votes": 59,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Jennifer Louise Tonge",
+          "votes": 40,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 41.27,
+        "Farnworth and Kearsley First Party": 32.34,
+        "Labour": 11.6,
+        "Green": 11.43,
+        "Conservative": 2.0,
+        "Liberal Democrat": 1.35
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 2956,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T22:35:35Z",
+      "census": {
+        "matched": false,
+        "note": "no Census ward found by name"
+      }
+    },
+    {
+      "ward_slug": "great-lever",
+      "ward_name": "Great Lever",
+      "ballot_id": "local.bolton.great-lever.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Labour",
+          "name": "Mohammed Iqbal",
+          "votes": 1918
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Labour",
+          "name": "Mohammed Iqbal",
+          "votes": 1918,
+          "elected": true
+        },
+        {
+          "party": "Green",
+          "name": "Mahboob Alom",
+          "votes": 1239,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Gus Heyes",
+          "votes": 755,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Yusuf Butt",
+          "votes": 159,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Rishikesh Ratilal Chohan",
+          "votes": 116,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Labour": 45.81,
+        "Green": 29.59,
+        "Reform UK": 18.03,
+        "Conservative": 3.8,
+        "Liberal Democrat": 2.77
+      },
+      "party_seats_won": {
+        "Labour": 1
+      },
+      "winning_party": "Labour",
+      "total_votes": 4187,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T22:35:37Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000656",
+        "qual_l4_pct": 22.3,
+        "no_qual_pct": 31.86,
+        "muslim_pct": 53.13,
+        "no_religion_pct": 14.47,
+        "age_under_35_pct": 54.95,
+        "age_65_plus_pct": 12.13,
+        "social_rented_pct": 58.45,
+        "white_british_pct": 28.22
+      }
+    },
+    {
+      "ward_slug": "halliwell",
+      "ward_name": "Halliwell",
+      "ballot_id": "local.bolton.halliwell.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Green",
+          "name": "Baggy Khan",
+          "votes": 1752
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Green",
+          "name": "Baggy Khan",
+          "votes": 1752,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Safwaan Patel",
+          "votes": 1444,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Philip Booth",
+          "votes": 744,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Elizabeth Anne Elliott",
+          "votes": 136,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Caroline Anne Turner-Preece",
+          "votes": 115,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Green": 41.8,
+        "Labour": 34.45,
+        "Reform UK": 17.75,
+        "Conservative": 3.25,
+        "Liberal Democrat": 2.74
+      },
+      "party_seats_won": {
+        "Green": 1
+      },
+      "winning_party": "Green",
+      "total_votes": 4191,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T22:35:39Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000657",
+        "qual_l4_pct": 20.88,
+        "no_qual_pct": 31.83,
+        "muslim_pct": 45.12,
+        "no_religion_pct": 17.68,
+        "age_under_35_pct": 51.91,
+        "age_65_plus_pct": 11.89,
+        "social_rented_pct": 75.32,
+        "white_british_pct": 35.44
+      }
+    },
+    {
+      "ward_slug": "horwich-north",
+      "ward_name": "Horwich North",
+      "ballot_id": "local.bolton.horwich-north.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Horwich & Blackrod First Independents",
+          "name": "Andrea Jane Finney",
+          "votes": 1905
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Horwich & Blackrod First Independents",
+          "name": "Andrea Jane Finney",
+          "votes": 1905,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Stephen Martindale",
+          "votes": 1243,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Helena Carman",
+          "votes": 585,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Graham Dawson",
+          "votes": 536,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Carol Forshaw",
+          "votes": 257,
+          "elected": false
+        },
+        {
+          "party": "Independent",
+          "name": "Charlotte Chloe Minnie Moncado-Sears",
+          "votes": 252,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Scott Turner-Preece",
+          "votes": 74,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Horwich & Blackrod First Independents": 39.26,
+        "Reform UK": 25.62,
+        "Green": 12.06,
+        "Labour": 11.05,
+        "Conservative": 5.3,
+        "Independent": 5.19,
+        "Liberal Democrat": 1.53
+      },
+      "party_seats_won": {
+        "Horwich & Blackrod First Independents": 1
+      },
+      "winning_party": "Horwich & Blackrod First Independents",
+      "total_votes": 4852,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T22:36:30Z",
+      "census": {
+        "matched": false,
+        "note": "no Census ward found by name"
+      }
+    },
+    {
+      "ward_slug": "horwich-south-blackrod",
+      "ward_name": "Horwich South & Blackrod",
+      "ballot_id": "local.bolton.horwich-south-blackrod.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Horwich & Blackrod First Independents",
+          "name": "Peter Wright",
+          "votes": 1775
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Horwich & Blackrod First Independents",
+          "name": "Peter Wright",
+          "votes": 1775,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Matthew Kyle",
+          "votes": 1060,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Joshua Johnathan Callum Cook",
+          "votes": 378,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Michael Jarvis",
+          "votes": 375,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Paul Norris",
+          "votes": 293,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "John William Strawbridge",
+          "votes": 79,
+          "elected": false
+        },
+        {
+          "party": "Independent",
+          "name": "Antony Moncado-Sears",
+          "votes": 49,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Horwich & Blackrod First Independents": 44.28,
+        "Reform UK": 26.44,
+        "Labour": 9.43,
+        "Green": 9.35,
+        "Conservative": 7.31,
+        "Liberal Democrat": 1.97,
+        "Independent": 1.22
+      },
+      "party_seats_won": {
+        "Horwich & Blackrod First Independents": 1
+      },
+      "winning_party": "Horwich & Blackrod First Independents",
+      "total_votes": 4009,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T22:36:32Z",
+      "census": {
+        "matched": false,
+        "note": "no Census ward found by name"
+      }
+    },
+    {
+      "ward_slug": "hulton",
+      "ward_name": "Hulton",
+      "ballot_id": "local.bolton.hulton.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Derek Bullock",
+          "votes": 1939
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Derek Bullock",
+          "votes": 1939,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Emma Julia Schofield",
+          "votes": 979,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Alan Johnson",
+          "votes": 947,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Shafi Patel",
+          "votes": 470,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Linda Christine Maher",
+          "votes": 160,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 43.14,
+        "Labour": 21.78,
+        "Green": 21.07,
+        "Conservative": 10.46,
+        "Liberal Democrat": 3.56
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 4495,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T22:36:33Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000662",
+        "qual_l4_pct": 28.21,
+        "no_qual_pct": 22.46,
+        "muslim_pct": 26.28,
+        "no_religion_pct": 19.08,
+        "age_under_35_pct": 43.69,
+        "age_65_plus_pct": 19.66,
+        "social_rented_pct": 33.47,
+        "white_british_pct": 61.43
+      }
+    },
+    {
+      "ward_slug": "kearsley",
+      "ward_name": "Kearsley",
+      "ballot_id": "local.bolton.kearsley.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Roger Pedley",
+          "votes": 1564
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Roger Pedley",
+          "votes": 1564,
+          "elected": true
+        },
+        {
+          "party": "Farnworth and Kearsley First Party",
+          "name": "Tracey Wilkinson",
+          "votes": 1155,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "George Butler",
+          "votes": 255,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Tony Peers",
+          "votes": 176,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Glenys Ratcliffe",
+          "votes": 103,
+          "elected": false
+        },
+        {
+          "party": "Advance UK",
+          "name": "Jack Tebay",
+          "votes": 71,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "David Charles Tyas Cooper",
+          "votes": 49,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 46.37,
+        "Farnworth and Kearsley First Party": 34.24,
+        "Labour": 7.56,
+        "Green": 5.22,
+        "Conservative": 3.05,
+        "Advance UK": 2.1,
+        "Liberal Democrat": 1.45
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 3373,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T22:36:35Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000663",
+        "qual_l4_pct": 22.47,
+        "no_qual_pct": 22.45,
+        "muslim_pct": 2.54,
+        "no_religion_pct": 33.32,
+        "age_under_35_pct": 39.96,
+        "age_65_plus_pct": 20.87,
+        "social_rented_pct": 38.1,
+        "white_british_pct": 89.96
+      }
+    },
+    {
+      "ward_slug": "little-lever-darcy-lever",
+      "ward_name": "Little Lever & Darcy Lever",
+      "ballot_id": "local.bolton.little-lever-darcy-lever.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Derek Wunderley",
+          "votes": 2040
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Derek Wunderley",
+          "votes": 2040,
+          "elected": true
+        },
+        {
+          "party": "Conservative",
+          "name": "David Michael Meehan",
+          "votes": 924,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Rach Gilmour",
+          "votes": 618,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Ben Dolata",
+          "votes": 345,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Susan Mary Martin",
+          "votes": 143,
+          "elected": false
+        },
+        {
+          "party": "TUSC",
+          "name": "Fin Cozens-Stott",
+          "votes": 40,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 49.64,
+        "Conservative": 22.48,
+        "Labour": 15.04,
+        "Green": 8.39,
+        "Liberal Democrat": 3.48,
+        "TUSC": 0.97
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 4110,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T22:36:37Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000664",
+        "qual_l4_pct": 22.14,
+        "no_qual_pct": 20.55,
+        "muslim_pct": 2.11,
+        "no_religion_pct": 30.96,
+        "age_under_35_pct": 36.79,
+        "age_65_plus_pct": 25.18,
+        "social_rented_pct": 27.49,
+        "white_british_pct": 91.77
+      }
+    },
+    {
+      "ward_slug": "queens-park-central",
+      "ward_name": "Queens Park & Central",
+      "ballot_id": "local.bolton.queens-park-central.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Green",
+          "name": "Zan Arif",
+          "votes": 1090
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Green",
+          "name": "Zan Arif",
+          "votes": 1090,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Richard Silvester",
+          "votes": 1044,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Nimesh Vara",
+          "votes": 609,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Richard Elliott",
+          "votes": 206,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Rebekah Susan Mary Fairhurst",
+          "votes": 160,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Green": 35.06,
+        "Labour": 33.58,
+        "Reform UK": 19.59,
+        "Conservative": 6.63,
+        "Liberal Democrat": 5.15
+      },
+      "party_seats_won": {
+        "Green": 1
+      },
+      "winning_party": "Green",
+      "total_votes": 3109,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T22:36:38Z",
+      "census": {
+        "matched": false,
+        "note": "no Census ward found by name"
+      }
+    },
+    {
+      "ward_slug": "rumworth",
+      "ward_name": "Rumworth",
+      "ballot_id": "local.bolton.rumworth.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Green",
+          "name": "Ismail Ibrahim",
+          "votes": 2346
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Green",
+          "name": "Ismail Ibrahim",
+          "votes": 2346,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Sajid Ali",
+          "votes": 1659,
+          "elected": false
+        },
+        {
+          "party": "Reform UK",
+          "name": "Gansham Hiriji Patel",
+          "votes": 463,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Gillian Elizabeth Wroe",
+          "votes": 137,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Shahjahan Shah",
+          "votes": 119,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Green": 49.66,
+        "Labour": 35.12,
+        "Reform UK": 9.8,
+        "Liberal Democrat": 2.9,
+        "Conservative": 2.52
+      },
+      "party_seats_won": {
+        "Green": 1
+      },
+      "winning_party": "Green",
+      "total_votes": 4724,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T22:36:40Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000665",
+        "qual_l4_pct": 20.79,
+        "no_qual_pct": 34.67,
+        "muslim_pct": 66.77,
+        "no_religion_pct": 7.43,
+        "age_under_35_pct": 53.23,
+        "age_65_plus_pct": 10.54,
+        "social_rented_pct": 54.28,
+        "white_british_pct": 17.67
+      }
+    },
+    {
+      "ward_slug": "smithills",
+      "ward_name": "Smithills",
+      "ballot_id": "local.bolton.smithills.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Sue Priest",
+          "votes": 1713
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Liberal Democrat",
+          "name": "Sue Priest",
+          "votes": 1713,
+          "elected": true
+        },
+        {
+          "party": "Reform UK",
+          "name": "Simon Roscoe",
+          "votes": 1565,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Elora Hunt",
+          "votes": 563,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Liam O'Callaghan",
+          "votes": 533,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Raymond Ndokwo",
+          "votes": 184,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Liberal Democrat": 37.58,
+        "Reform UK": 34.34,
+        "Green": 12.35,
+        "Labour": 11.69,
+        "Conservative": 4.04
+      },
+      "party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "winning_party": "Liberal Democrat",
+      "total_votes": 4558,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T22:36:42Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000666",
+        "qual_l4_pct": 31.59,
+        "no_qual_pct": 18.64,
+        "muslim_pct": 12.0,
+        "no_religion_pct": 28.96,
+        "age_under_35_pct": 42.77,
+        "age_65_plus_pct": 19.27,
+        "social_rented_pct": 30.67,
+        "white_british_pct": 75.79
+      }
+    },
+    {
+      "ward_slug": "tonge-with-the-haulgh",
+      "ward_name": "Tonge with the Haulgh",
+      "ballot_id": "local.bolton.tonge-with-the-haulgh.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "Trevor Jones",
+          "votes": 2089
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "Trevor Jones",
+          "votes": 2089,
+          "elected": true
+        },
+        {
+          "party": "Labour",
+          "name": "Nick Peel",
+          "votes": 1329,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Gaynor Margaret Richards",
+          "votes": 600,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Hafiz Tahir-Mahmood Butt",
+          "votes": 251,
+          "elected": false
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Rebecca Forrest",
+          "votes": 166,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 47.1,
+        "Labour": 29.97,
+        "Green": 13.53,
+        "Conservative": 5.66,
+        "Liberal Democrat": 3.74
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 4435,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T22:36:43Z",
+      "census": {
+        "matched": true,
+        "ons_gss_code": "E05000667",
+        "qual_l4_pct": 22.42,
+        "no_qual_pct": 26.56,
+        "muslim_pct": 10.87,
+        "no_religion_pct": 32.32,
+        "age_under_35_pct": 45.32,
+        "age_65_plus_pct": 18.36,
+        "social_rented_pct": 53.05,
+        "white_british_pct": 74.73
+      }
+    },
+    {
+      "ward_slug": "westhoughton-north-hunger-hill",
+      "ward_name": "Westhoughton North & Hunger Hill",
+      "ballot_id": "local.bolton.westhoughton-north-hunger-hill.2026-05-07",
+      "winner_count": 1,
+      "elected": [
+        {
+          "party": "Reform UK",
+          "name": "David Lewis",
+          "votes": 1781
+        }
+      ],
+      "candidates": [
+        {
+          "party": "Reform UK",
+          "name": "David Lewis",
+          "votes": 1781,
+          "elected": true
+        },
+        {
+          "party": "Liberal Democrat",
+          "name": "Neil Maher",
+          "votes": 1071,
+          "elected": false
+        },
+        {
+          "party": "Conservative",
+          "name": "Martin Tighe",
+          "votes": 964,
+          "elected": false
+        },
+        {
+          "party": "Green",
+          "name": "Louise Warburton",
+          "votes": 439,
+          "elected": false
+        },
+        {
+          "party": "Labour",
+          "name": "Paul Leslie Saunders",
+          "votes": 403,
+          "elected": false
+        }
+      ],
+      "party_shares": {
+        "Reform UK": 38.24,
+        "Liberal Democrat": 22.99,
+        "Conservative": 20.7,
+        "Green": 9.42,
+        "Labour": 8.65
+      },
+      "party_seats_won": {
+        "Reform UK": 1
+      },
+      "winning_party": "Reform UK",
+      "total_votes": 4658,
+      "source": "Democracy Club",
+      "fetched_at": "2026-05-10T22:36:45Z",
+      "census": {
+        "matched": false,
+        "note": "no Census ward found by name"
+      }
+    }
+  ],
+  "n_wards_attempted": 20,
+  "n_wards_with_results": 18,
+  "n_wards_no_results": 2
+}

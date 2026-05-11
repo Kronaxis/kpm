@@ -1,0 +1,367 @@
+{
+  "council_slug": "oldham",
+  "source": "https://candidates.democracyclub.org.uk/api/next/",
+  "fetched_at": "2026-05-10T23:24:13Z",
+  "wards": [
+    {
+      "ward_slug": "alexandra",
+      "ward_name": "Alexandra",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.oldham.alexandra.2024-05-02",
+      "prior_winning_party": "Independent",
+      "prior_party_shares": {
+        "Independent": 55.78,
+        "Labour": 30.51,
+        "Liberal Democrat": 4.56,
+        "Northern Heart": 3.18,
+        "Green": 3.14,
+        "Conservative": 2.84
+      },
+      "prior_party_seats_won": {
+        "Independent": 1
+      },
+      "prior_total_votes": 2960,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "chadderton-central",
+      "ward_name": "Chadderton Central",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.oldham.chadderton-central.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 33.63,
+        "Conservative": 32.96,
+        "Independent": 23.86,
+        "Green": 5.82,
+        "Liberal Democrat": 2.86,
+        "Northern Heart": 0.88
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2837,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "chadderton-north",
+      "ward_name": "Chadderton North",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.oldham.chadderton-north.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 48.94,
+        "Conservative": 29.16,
+        "Liberal Democrat": 14.19,
+        "Independent": 7.71
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2826,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "chadderton-south",
+      "ward_name": "Chadderton South",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.oldham.chadderton-south.2023-05-04",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 66.19,
+        "Independent": 9.62,
+        "Conservative": 16.86,
+        "Liberal Democrat": 7.33
+      },
+      "prior_party_seats_won": {
+        "Labour": 3
+      },
+      "prior_total_votes": 5498,
+      "prior_winner_count": 3
+    },
+    {
+      "ward_slug": "coldhurst",
+      "ward_name": "Coldhurst",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.oldham.coldhurst.2024-05-02",
+      "prior_winning_party": "Independent",
+      "prior_party_shares": {
+        "Independent": 57.97,
+        "Labour": 31.54,
+        "Liberal Democrat": 4.58,
+        "Green": 3.23,
+        "Conservative": 2.68
+      },
+      "prior_party_seats_won": {
+        "Independent": 1
+      },
+      "prior_total_votes": 4214,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "crompton",
+      "ward_name": "Crompton",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.oldham.crompton.2024-05-02",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 44.05,
+        "Independent": 33.41,
+        "Labour": 16.09,
+        "Conservative": 6.46
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "prior_total_votes": 2679,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "failsworth-east",
+      "ward_name": "Failsworth East",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.oldham.failsworth-east.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 33.09,
+        "Failsworth Independent Party": 32.23,
+        "Independent": 28.07,
+        "Conservative": 4.71,
+        "Liberal Democrat": 1.9
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2209,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "failsworth-west",
+      "ward_name": "Failsworth West",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.oldham.failsworth-west.2024-05-02",
+      "prior_winning_party": "Independent",
+      "prior_party_shares": {
+        "Independent": 49.05,
+        "Labour": 33.59,
+        "Failsworth Independent Party": 12.72,
+        "Conservative": 3.04,
+        "Liberal Democrat": 1.61
+      },
+      "prior_party_seats_won": {
+        "Independent": 1
+      },
+      "prior_total_votes": 2304,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "hollinwood",
+      "ward_name": "Hollinwood",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.oldham.hollinwood.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 33.4,
+        "Independent": 43.31,
+        "National Housing Party United Kingdom": 6.83,
+        "Conservative": 6.79,
+        "Green": 5.21,
+        "Liberal Democrat": 4.46
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2533,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "medlock-vale",
+      "ward_name": "Medlock Vale",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.oldham.medlock-vale.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 44.92,
+        "Independent": 39.65,
+        "Liberal Democrat": 9.81,
+        "Conservative": 5.62
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 3059,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "royton-south",
+      "ward_name": "Royton South",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.oldham.royton-south.2024-05-02",
+      "prior_winning_party": "Independent",
+      "prior_party_shares": {
+        "Independent": 50.36,
+        "Labour": 36.8,
+        "Liberal Democrat": 6.5,
+        "Green": 6.34
+      },
+      "prior_party_seats_won": {
+        "Independent": 1
+      },
+      "prior_total_votes": 2383,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "saddleworth-north",
+      "ward_name": "Saddleworth North",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.oldham.saddleworth-north.2024-05-02",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 41.74,
+        "Labour": 25.42,
+        "Conservative": 20.56,
+        "Independent": 12.27
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "prior_total_votes": 3064,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "saddleworth-south",
+      "ward_name": "Saddleworth South",
+      "prior_year": 2023,
+      "prior_ballot_id": "local.oldham.saddleworth-south.2023-05-04",
+      "prior_winning_party": "Conservative",
+      "prior_party_shares": {
+        "Conservative": 41.11,
+        "Liberal Democrat": 33.11,
+        "Labour": 18.25,
+        "Independent": 7.53
+      },
+      "prior_party_seats_won": {
+        "Conservative": 2,
+        "Liberal Democrat": 1
+      },
+      "prior_total_votes": 8810,
+      "prior_winner_count": 3
+    },
+    {
+      "ward_slug": "saddleworth-west-lees",
+      "ward_name": "Saddleworth West & Lees",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.oldham.saddleworth-west-lees.2024-05-02",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 55.52,
+        "Independent": 23.38,
+        "Labour": 16.21,
+        "Conservative": 4.88
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "prior_total_votes": 2887,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "shaw",
+      "ward_name": "Shaw",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.oldham.shaw.2024-05-02",
+      "prior_winning_party": "Independent",
+      "prior_party_shares": {
+        "Independent": 42.05,
+        "Liberal Democrat": 39.98,
+        "Labour": 14.81,
+        "Conservative": 3.16
+      },
+      "prior_party_seats_won": {
+        "Independent": 1
+      },
+      "prior_total_votes": 2404,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "st-james",
+      "ward_name": "St James'",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.oldham.st-james.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 36.25,
+        "Conservative": 30.08,
+        "Independent": 26.53,
+        "Liberal Democrat": 7.14
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2088,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "st-marys",
+      "ward_name": "St Mary's",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.oldham.st-marys.2024-05-02",
+      "prior_winning_party": "Independent",
+      "prior_party_shares": {
+        "Independent": 63.51,
+        "Labour": 31.35,
+        "Liberal Democrat": 2.75,
+        "Conservative": 2.39
+      },
+      "prior_party_seats_won": {
+        "Independent": 1
+      },
+      "prior_total_votes": 4360,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "waterhead",
+      "ward_name": "Waterhead",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.oldham.waterhead.2024-05-02",
+      "prior_winning_party": "Independent",
+      "prior_party_shares": {
+        "Independent": 45.33,
+        "Labour": 27.92,
+        "Liberal Democrat": 9.5,
+        "Reform UK": 8.93,
+        "Conservative": 5.36,
+        "Northern Heart": 2.96
+      },
+      "prior_party_seats_won": {
+        "Independent": 1
+      },
+      "prior_total_votes": 3137,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "werneth",
+      "ward_name": "Werneth",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.oldham.werneth.2024-05-02",
+      "prior_winning_party": "Independent",
+      "prior_party_shares": {
+        "Independent": 90.51,
+        "Liberal Democrat": 5.36,
+        "Conservative": 4.13
+      },
+      "prior_party_seats_won": {
+        "Independent": 1
+      },
+      "prior_total_votes": 4235,
+      "prior_winner_count": 1
+    }
+  ],
+  "n_wards_attempted": 19,
+  "n_wards_with_history": 19,
+  "n_wards_no_history": 0,
+  "prior_year_distribution": {
+    "2024": 17,
+    "2023": 2
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "council_slug": "knowsley",
+  "source": "https://candidates.democracyclub.org.uk/api/next/",
+  "fetched_at": "2026-05-10T23:44:49Z",
+  "wards": [
+    {
+      "ward_slug": "cherryfield",
+      "ward_name": "Cherryfield",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.knowsley.cherryfield.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 84.1,
+        "Green": 15.9
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1491,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "northwood",
+      "ward_name": "Northwood",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.knowsley.northwood.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 73.07,
+        "TUSC": 16.3,
+        "Green": 10.63
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1374,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "page-moss",
+      "ward_name": "Page Moss",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.knowsley.page-moss.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 67.02,
+        "Green": 27.8,
+        "Conservative": 5.18
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1507,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "prescot-north",
+      "ward_name": "Prescot North",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.knowsley.prescot-north.2024-05-02",
+      "prior_winning_party": "Liberal Democrat",
+      "prior_party_shares": {
+        "Liberal Democrat": 49.72,
+        "Labour": 45.62,
+        "Conservative": 4.66
+      },
+      "prior_party_seats_won": {
+        "Liberal Democrat": 1
+      },
+      "prior_total_votes": 1953,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "prescot-south",
+      "ward_name": "Prescot South",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.knowsley.prescot-south.2024-05-02",
+      "prior_winning_party": "Green",
+      "prior_party_shares": {
+        "Green": 60.0,
+        "Labour": 40.0
+      },
+      "prior_party_seats_won": {
+        "Green": 1
+      },
+      "prior_total_votes": 1715,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "roby",
+      "ward_name": "Roby",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.knowsley.roby.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 59.2,
+        "Green": 40.8
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 2336,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "shevington",
+      "ward_name": "Shevington",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.knowsley.shevington.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 80.36,
+        "Green": 19.64
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1431,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "st-gabriels",
+      "ward_name": "St Gabriels",
+      "prior_year": 2022,
+      "prior_ballot_id": "local.knowsley.st-gabriels.2022-05-05",
+      "prior_winning_party": "Green",
+      "prior_party_shares": {
+        "Green": 52.49,
+        "Labour": 47.51
+      },
+      "prior_party_seats_won": {
+        "Green": 1
+      },
+      "prior_total_votes": 1968,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "st-michaels",
+      "ward_name": "St Michaels",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.knowsley.st-michaels.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 83.38,
+        "Green": 16.62
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1384,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "stockbridge",
+      "ward_name": "Stockbridge",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.knowsley.stockbridge.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 83.09,
+        "Green": 16.91
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1307,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "swanside",
+      "ward_name": "Swanside",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.knowsley.swanside.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 82.34,
+        "Green": 13.37,
+        "Conservative": 4.28
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1937,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "whiston-cronton",
+      "ward_name": "Whiston & Cronton",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.knowsley.whiston-cronton.2024-05-02",
+      "prior_winning_party": "Labour",
+      "prior_party_shares": {
+        "Labour": 51.92,
+        "Green": 38.51,
+        "Reform UK": 5.87,
+        "Conservative": 3.69
+      },
+      "prior_party_seats_won": {
+        "Labour": 1
+      },
+      "prior_total_votes": 1976,
+      "prior_winner_count": 1
+    },
+    {
+      "ward_slug": "whitefield",
+      "ward_name": "Whitefield",
+      "prior_year": 2024,
+      "prior_ballot_id": "local.knowsley.whitefield.2024-05-02",
+      "prior_winning_party": "Independent",
+      "prior_party_shares": {
+        "Independent": 55.29,
+        "Labour": 44.71
+      },
+      "prior_party_seats_won": {
+        "Independent": 1
+      },
+      "prior_total_votes": 1863,
+      "prior_winner_count": 1
+    }
+  ],
+  "n_wards_attempted": 15,
+  "n_wards_with_history": 13,
+  "n_wards_no_history": 2,
+  "prior_year_distribution": {
+    "2024": 12,
+    "2022": 1
+  }
+}
