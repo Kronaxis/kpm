@@ -362,10 +362,10 @@ Manchester Lab→Green wave (Ancoats & Beswick, Ardwick, Burnage area)
 happened in wards with Lab 50%+ priors and Green 0-10%. Pure UNS scaling
 cannot predict these without demographic conditioning.
 
-## 5.4 Sensitivity analysis: is the 93.3% a knife-edge result?
+## 5.4 Sensitivity analysis on the n=15 sample (historical)
 
 We re-ran v17.6 with the council Reform-emerging threshold varying from
-0% to 20% (production = 5%):
+0% to 20% (production = 5%) on the n=15 sample:
 
 | Threshold | Hits/n=15 | Pct | Overrides fired | Override hit-rate |
 |---|---|---|---|---|
@@ -377,56 +377,129 @@ We re-ran v17.6 with the council Reform-emerging threshold varying from
 | 15% | 12/15 | 80.0% | 0 | = v17.5 |
 | 20% | 12/15 | 80.0% | 0 | = v17.5 |
 
-**Interpretation**:
-1. The 93.3% holds across thresholds 3-5% (a natural plateau).
-2. At 7% the override fires only on Sandwell (the most clearly Reform-
-   emerging council with mean prior 8.2%); Barnsley (5.8%) drops below
-   threshold.
-3. At ≥10% no overrides fire (only Hartlepool would qualify and v17.5
-   already correctly calls Hartlepool NOC without override).
-4. **At 0% the override is catastrophically over-aggressive** — fires on
-   8 councils, only 2 correct. This is the proof that the threshold
-   matters: the override is a sharp tool that needs careful aiming.
+**Interpretation on the n=15 sample**:
+1. The 93.3% holds across thresholds 3-5% (a natural plateau within the small sample).
+2. At ≥10% no overrides fire.
+3. **At 0% the override is catastrophically over-aggressive** — fires on
+   8 councils, only 2 correct. The threshold matters; the override is a
+   sharp tool that needs careful aiming.
 
-The 93.3% is NOT a knife-edge result tuned to a specific threshold. It
-is a stable plateau at 3-5%. The threshold itself was chosen empirically
-(5% = mean prior Reform "noticeably above noise but below the
-Hartlepool-class clear signal").
+**Critical update on the larger n=40 sample**: the apparent 93.3% knife-edge robustness
+documented above was itself an n=15 sampling artefact. On the full n=40 evaluation set,
+v17.10 (the ensemble that wraps v17.9 which wraps v17.6) ties v15.1 at 72.5%. The
+Reform-emerging override's threshold sensitivity is still real but contributes only ~2
+correct predictions to v17.10's total — not enough to differentiate the methodology from
+v15.1's baseline at the larger sample size. The override is a real signal; its leverage
+at small samples was artificially amplified by sampling. See Section 4.1 for the n=40
+result and Section 5.5 for the cross-cycle attempt.
+
+## 5.5 Cross-cycle 2024 backtest — infeasible at scale
+
+We attempted a true held-out cross-cycle validation: use 2022/2023 ward priors to predict
+2024 metropolitan borough actuals (different cycle, different priors, methodology never
+saw 2024 data during tuning).
+
+**Result: empirically infeasible**. Of 26 metropolitan boroughs attempted (all known to
+have had May 2024 elections), **21 (81%) had ward boundary review between 2022 and 2024**.
+Democracy Club's API uses ballot IDs of the form `local.{council_slug}.{ward_slug}.{date}`,
+and when wards are renamed, merged, or split, the 2022/2023 ballot IDs no longer match
+the 2024 ward names. This is not a DC API failure — it reflects the underlying UK local
+government boundary review process, which runs continuously across English metropolitan
+boroughs.
+
+| Coverage | Count | Councils |
+|---|---|---|
+| 100% (stable boundaries) | 3 | Barnsley, Bolton, Sheffield |
+| 25-50% (partial) | 2 | Oldham (47%), Bradford (27%) |
+| <25% (boundary review) | 21 | Bury, Calderdale, Coventry, Gateshead, Hartlepool, Kirklees, Knowsley, Leeds, Manchester, Newcastle-upon-Tyne, Rochdale, Salford, Sandwell, Sefton, Stockport, Sunderland, Tameside, Trafford, Wakefield, Wigan, Wolverhampton |
+
+Every Reform-relevant council in our dataset (Wakefield, Wigan, Wolverhampton, Sunderland,
+Sandwell, Calderdale, Hartlepool, Newcastle) had boundary review, so the Reform-emerging
+override path specifically cannot be tested on 2024.
+
+On the 5 councils where partial backtest was possible, both v17.10 and v15.1-proxy hit
+3/5 = 60% — uninformative for discrimination (2024 was a Labour landslide; non-discriminating
+for Reform-target methods). Full breakdown in `FINDING_2024_backtest_data_limit.md`.
+
+**Implication for the paper**: the n=40 in-sample plateau at 72.5% cannot be cross-cycle
+validated against 2024. Validation requires either (a) the 2027 May local cycle when more
+boundary-stable councils elect, or (b) manual cross-cycle ward boundary mapping for ~30
+councils × 30 wards = 900+ mappings (significant work, not yet done).
+
+**Pre-registration for 2027/2028 cycles** (see `PREREG_v17_10_2027_2028.md`, SHA-256
+`aa3c9814bac8015f9e87861d49629ebee6948aad7429759d299243fd308c8423`) locks the v17.10
+methodology hash now so the future test is genuinely held-out.
 
 ## 6. Caveats
 
-1. **n=15 doesn't generalise.** v15.1's published track record is 59.2%
-   on n=130, not 60% on this n=15. v17.6's 93.3% needs cross-validation
-   on the full 130-council set.
-2. **Sample is biased toward Reform-target councils.** Selected
-   deliberately to test Reform-detection mechanisms. Random 15 might
-   show smaller v17.6 lift.
-3. **v17.6's outcome override is OPINIONATED.** Could over-fire on
-   councils with rising Reform that ultimately stays sub-threshold.
-   Documented in `risk` field of methodology hash.
-4. **Multi-member ward seat splitting.** v17 assigns all seats in a
-   multi-member ward to single winner. Real ward elections often split
-   (e.g., 1 Lab + 1 Green from a 2-seat ward).
+1. **The n=15 lift didn't generalise.** v17.6's 93.3% at n=15 compressed to 72.5%
+   at n=40, indistinguishable from v15.1's 72.5% on the same sample (bootstrap
+   95% CI on diff: [-17.5, +17.5]pp, cannot reject H0). The structural per-party
+   tradeoff (v17.10 catches Reform UK, v15.1 catches Labour holds, neither catches
+   Conservative/Green wins) survives the null.
+
+2. **Cross-cycle 2024 backtest was data-limited.** 81% of attempted metropolitan
+   boroughs had ward boundary review 2022→2024, preventing ward-level retrospective
+   validation. See Section 5.5.
+
+3. **Sample is biased toward Reform-target councils for the n=15 historical work
+   and toward ward-data-available councils for the n=40 evaluation.** v15.1's
+   published track record at 59.2% on n=130 is the cleanest baseline for
+   methodology comparison; v17.10 has not yet been run on the full 130-council
+   set because the required prior-history data does not exist for all 130 councils.
+
+4. **v17.6's outcome override is OPINIONATED.** Brexit-fires-with-low-prior-Reform
+   produces 3 confirmed false positives on the n=40 sample (Wigan, Wolverhampton,
+   Dudley). Documented in `risk` field of methodology hash.
+
+5. **Multi-member ward seat splitting.** v17 assigns all seats in a multi-member
+   ward to single winner. Real ward elections often split (e.g., 1 Lab + 1 Green
+   from a 2-seat ward). Affects per-ward accuracy but not council-level winner.
+
+6. **Conservative + Green council blind spots.** Both methodologies have 0% recall
+   for Con and Green council wins on the n=130 sample (9 Con + 5 Green = 14 of 130
+   cases). v17's per-ward UNS inherits v15.1's fragmentation-rule blind spot.
+   Addressing this requires a successor methodology with separate Con-retention
+   and Green-breakthrough models.
 
 ## 7. Reproducibility
 
 All numbers in this paper are reproducible via:
 
 ```bash
+# v15.1 baseline (59.2% on n=130)
+python3 -m tests.test_backtest
+
+# v17.10 production (29/40 = 72.5%, ties v15.1 on same sample)
+python3 -m tests.test_v17_10_backtest
+
+# Full v17 stack comparison table
 python3 -m scripts.ward_data.build_comparison_table
 ```
 
-Methodology hashes:
+Both reproducibility tests run as a daily CI workflow at 02:00 UTC; any drift
+from the published numbers fails CI and is visible in the public action log.
+
+Methodology hashes (frozen, machine-enforced via CI):
 - v17.0: `e38adc8efdd564f8…`
 - v17.1: `6da92625051696de…`
 - v17.2: `67d25b3414272b4a…`
 - v17.3: `467c29426306194d…`
 - v17.4 (REJECTED): `51a12fba4e894bcc…`
 - v17.5: `d5d5d3dd46ce1db2…`
-- v17.6 (PRODUCTION): `141c405a9c9861e0…`
+- v17.6: `141c405a9c9861e0…`
+- v17.7-io: see `methodology_v17_7_indep_only.py`
+- v17.8 (Brexit): see `methodology_v17_8_brexit.py`
+- v17.9 (combined): `0df615a23ef16b2d…`
+- **v17.10 (PRODUCTION)**: `2ea86b8d1e25ee68ebf66c6f59496e2480a43dba2a81ff17012ce0094531f018`
 
 Each methodology Python file contains a `METHODOLOGY_RULES` dict that
-hashes to the above. Any change to the rules changes the hash.
+hashes to the above. Any change to the rules changes the hash and a new
+methodology row enters the scorecard — no in-place modification of
+existing methodologies allowed.
+
+Pre-registration document SHA-256: `aa3c9814bac8015f9e87861d49629ebee6948aad7429759d299243fd308c8423`
+(file integrity also verified in CI; any modification fails the build).
 
 ## 8. Acknowledgements
 
