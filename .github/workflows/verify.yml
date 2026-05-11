@@ -1,4 +1,4 @@
-name: Verify methodology hash and reproduce headline numbers
+name: Verify methodology hashes and reproduce headline numbers
 
 on:
   push:
@@ -10,12 +10,46 @@ on:
     - cron: '0 2 * * *'
 
 jobs:
-  verify:
+  verify-v151:
+    name: KPM-2.2 v15.1 (59.2% on n=130)
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Run reproducibility test
+      - name: Run v15.1 reproducibility test
         run: python3 -m tests.test_backtest
+
+  verify-v17-10:
+    name: KPM-v17.10 ensemble (72.5% on n=40)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Run v17.10 reproducibility test
+        run: python3 -m tests.test_v17_10_backtest
+
+  verify-prereg-hash:
+    name: Pre-registration document integrity
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check PREREG file SHA-256 matches committed hash
+        run: |
+          EXPECTED="aa3c9814bac8015f9e87861d49629ebee6948aad7429759d299243fd308c8423"
+          ACTUAL=$(sha256sum scripts/ward_data/PREREG_v17_10_2027_2028.md | awk '{print $1}')
+          if [ "$ACTUAL" != "$EXPECTED" ]; then
+            echo "PRE-REGISTRATION FILE HAS BEEN MODIFIED!"
+            echo "Expected SHA-256: $EXPECTED"
+            echo "Actual SHA-256:   $ACTUAL"
+            echo ""
+            echo "This is a falsifiability-breaking event. Pre-registration documents must not"
+            echo "be modified after they're committed. If you genuinely need to update the"
+            echo "document (typo, broken link), do so as a new pre-registration with its own"
+            echo "hash — do not modify in place."
+            exit 1
+          fi
+          echo "✓ Pre-registration file SHA-256 verified: $EXPECTED"
