@@ -1,8 +1,22 @@
 # KPM — Kronaxis Polling Method
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20273978.svg)](https://doi.org/10.5281/zenodo.20273978)
+[![Licence: BSL 1.1](https://img.shields.io/badge/code--licence-BSL--1.1-blue.svg)](LICENSE)
+[![Methodology: CC BY 4.0](https://img.shields.io/badge/methodology--licence-CC--BY--4.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 **Public, falsifiable UK election forecasting with cryptographic pre-registration.**
 
 This repository contains the code, methodology, hashes, and full audit trail behind every Kronaxis election prediction. Each prediction is committed to git with a SHA-256 hash *before* the event happens, so anyone can verify after results land that nothing was retroactively adjusted.
+
+## Citation
+
+The KPM v17.10 methodology paper is published on Zenodo with DOI **[10.5281/zenodo.20273978](https://doi.org/10.5281/zenodo.20273978)** (CC BY 4.0, 23pp preprint, 2026-05-18). Cite as:
+
+> Duke, J. (2026). *The Kronaxis Polling Method: A Pre-Registered, Hash-Anchored, Ward-Level Methodology for English Local Council Election Forecasting*. Zenodo. https://doi.org/10.5281/zenodo.20273978
+
+The underlying DYNAMICS-8 persona framework is published separately on Zenodo with DOI **[10.5281/zenodo.19361059](https://doi.org/10.5281/zenodo.19361059)** (CC BY 4.0).
+
+A BibTeX entry is in [`CITATION.cff`](CITATION.cff) — GitHub renders this as a "Cite this repository" button.
 
 The companion public scorecard at <https://kronaxis.co.uk/scorecard> displays every prediction alongside its actual outcome — hits and misses with equal prominence.
 
@@ -125,4 +139,4 @@ Data and methodology: CC BY 4.0.
 - Project lead: Jason Duke <jason@kronaxis.co.uk>
 - Issues: <https://github.com/Kronaxis/kpm/issues>
 - Public scorecard: <https://kronaxis.co.uk/scorecard>
-- Methodology paper: KPM-2 Methodology document forthcoming
+- Methodology paper: <https://doi.org/10.5281/zenodo.20273978> (CC BY 4.0, published 2026-05-18)

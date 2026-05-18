@@ -1,0 +1,54 @@
+cff-version: 1.2.0
+message: "If you use the Kronaxis Polling Method (KPM) in your research, please cite both the published methodology paper and (where relevant) the underlying DYNAMICS-8 framework."
+type: software
+title: "KPM — Kronaxis Polling Method"
+abstract: >-
+  Public, falsifiable UK election forecasting with cryptographic
+  pre-registration. KPM-v17.10 is a ward-level methodology that combines
+  per-ward Uniform National Swing projection with Reform-target detection
+  from ONS Census 2021 demographics and Hanretty 2016 Brexit Leave
+  estimates, falling back to the hand-crafted KPM-2.2 v15.1 fragmentation
+  rule in mid-confidence cases. Every prediction is hashed and committed
+  to git before the corresponding election takes place; results are
+  auto-scored against actuals; negative findings are reported with the
+  same prominence as positive ones.
+authors:
+  - family-names: "Duke"
+    given-names: "Jason"
+    affiliation: "Kronaxis Limited"
+    email: "jason@kronaxis.co.uk"
+license: BSL-1.1
+license-url: "https://github.com/Kronaxis/kpm/blob/main/LICENSE"
+repository-code: "https://github.com/Kronaxis/kpm"
+url: "https://kronaxis.co.uk/scorecard"
+keywords:
+  - "election forecasting"
+  - "local government elections"
+  - "pre-registration"
+  - "hash-anchored prediction"
+  - "reproducibility"
+  - "United Kingdom"
+  - "council elections"
+  - "synthetic personas"
+  - "DYNAMICS-8"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.20273978"
+    description: "The KPM v17.10 methodology paper (preferred citation)."
+  - type: doi
+    value: "10.5281/zenodo.19361059"
+    description: "The underlying DYNAMICS-8 persona framework preprint (separately citable)."
+preferred-citation:
+  type: article
+  title: "The Kronaxis Polling Method: A Pre-Registered, Hash-Anchored, Ward-Level Methodology for English Local Council Election Forecasting"
+  authors:
+    - family-names: "Duke"
+      given-names: "Jason"
+      affiliation: "Kronaxis Limited"
+  year: 2026
+  month: 5
+  publisher:
+    name: "Zenodo"
+  doi: "10.5281/zenodo.20273978"
+  url: "https://doi.org/10.5281/zenodo.20273978"
+  license: "CC-BY-4.0"
